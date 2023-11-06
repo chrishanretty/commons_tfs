@@ -1,5 +1,6 @@
 library(tidyverse)
 library(here)
+library(mlr3measures)
 
 here::i_am("R/101_evaluate_distilbert_performance.R")
 
@@ -14,4 +15,9 @@ dat$pr_max <- apply(dat[,paste0("pr", 0:2)],1, which.max) - 1
 
 mean(dat$pr_max == dat$Label)
 
-### 
+### brier score
+names(pr) <- c("0", "1", "2")
+mbrier(factor(dat$Label), as.matrix(pr))
+
+## What's the null performance measure?
+
