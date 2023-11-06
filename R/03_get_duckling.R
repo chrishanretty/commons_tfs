@@ -47,11 +47,16 @@ handle_file <- function(f) {
     if (file.exists(outfile)) {
         return(TRUE)
     }
-    
-    ref_date <- gsub("[^0-9]", "", f)
+
+    ref_date <- sub(".*debates", "", f)
+    ref_date <- gsub("[^0-9]", "", ref_date)
     ref_datetime <- paste0(ref_date, " 11:59")
     ref_datetime <- as.POSIXct(ref_datetime,
                                format = "%Y%m%d %H:%M")
+    if (is.na(ref_datetime)) {
+        stop("No valid reference date supplied")
+    }
+    
     dat <- readRDS(f)
     dat <- dat |>
         mutate(json = map_chr(sents, duckling, ref_datetime)) |>
