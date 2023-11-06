@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/debates/debates2022-10-27b.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.381.0" newgid="uk.org.publicwhip/debate/2022-10-27c.381.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.381.1" newgid="uk.org.publicwhip/debate/2022-10-27c.381.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.381.2" newgid="uk.org.publicwhip/debate/2022-10-27c.381.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.381.3" newgid="uk.org.publicwhip/debate/2022-10-27c.381.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.381.4" newgid="uk.org.publicwhip/debate/2022-10-27c.381.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.381.5" newgid="uk.org.publicwhip/debate/2022-10-27c.381.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.381.6" newgid="uk.org.publicwhip/debate/2022-10-27c.381.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.381.7" newgid="uk.org.publicwhip/debate/2022-10-27c.381.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.381.8" newgid="uk.org.publicwhip/debate/2022-10-27c.381.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.381.9" newgid="uk.org.publicwhip/debate/2022-10-27c.381.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.381.10" newgid="uk.org.publicwhip/debate/2022-10-27c.381.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.382.0" newgid="uk.org.publicwhip/debate/2022-10-27c.382.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.382.1" newgid="uk.org.publicwhip/debate/2022-10-27c.382.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.382.2" newgid="uk.org.publicwhip/debate/2022-10-27c.382.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.382.3" newgid="uk.org.publicwhip/debate/2022-10-27c.382.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.382.4" newgid="uk.org.publicwhip/debate/2022-10-27c.382.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.382.5" newgid="uk.org.publicwhip/debate/2022-10-27c.382.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.383.0" newgid="uk.org.publicwhip/debate/2022-10-27c.383.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.383.1" newgid="uk.org.publicwhip/debate/2022-10-27c.383.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.383.2" newgid="uk.org.publicwhip/debate/2022-10-27c.383.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.383.3" newgid="uk.org.publicwhip/debate/2022-10-27c.383.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.383.4" newgid="uk.org.publicwhip/debate/2022-10-27c.383.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.383.5" newgid="uk.org.publicwhip/debate/2022-10-27c.383.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.383.6" newgid="uk.org.publicwhip/debate/2022-10-27c.383.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.383.7" newgid="uk.org.publicwhip/debate/2022-10-27c.383.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.384.0" newgid="uk.org.publicwhip/debate/2022-10-27c.384.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.384.1" newgid="uk.org.publicwhip/debate/2022-10-27c.384.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.384.2" newgid="uk.org.publicwhip/debate/2022-10-27c.384.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.384.3" newgid="uk.org.publicwhip/debate/2022-10-27c.384.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.384.4" newgid="uk.org.publicwhip/debate/2022-10-27c.384.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.385.0" newgid="uk.org.publicwhip/debate/2022-10-27c.385.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.385.1" newgid="uk.org.publicwhip/debate/2022-10-27c.385.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.385.2" newgid="uk.org.publicwhip/debate/2022-10-27c.385.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.385.3" newgid="uk.org.publicwhip/debate/2022-10-27c.385.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.385.4" newgid="uk.org.publicwhip/debate/2022-10-27c.385.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.385.5" newgid="uk.org.publicwhip/debate/2022-10-27c.385.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.385.6" newgid="uk.org.publicwhip/debate/2022-10-27c.385.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.385.7" newgid="uk.org.publicwhip/debate/2022-10-27c.385.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.385.8" newgid="uk.org.publicwhip/debate/2022-10-27c.385.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.385.9" newgid="uk.org.publicwhip/debate/2022-10-27c.385.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.386.0" newgid="uk.org.publicwhip/debate/2022-10-27c.386.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.386.1" newgid="uk.org.publicwhip/debate/2022-10-27c.386.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.386.2" newgid="uk.org.publicwhip/debate/2022-10-27c.386.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.386.3" newgid="uk.org.publicwhip/debate/2022-10-27c.386.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.386.4" newgid="uk.org.publicwhip/debate/2022-10-27c.386.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.386.5" newgid="uk.org.publicwhip/debate/2022-10-27c.386.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.386.6" newgid="uk.org.publicwhip/debate/2022-10-27c.386.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.386.7" newgid="uk.org.publicwhip/debate/2022-10-27c.386.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.386.8" newgid="uk.org.publicwhip/debate/2022-10-27c.386.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.387.0" newgid="uk.org.publicwhip/debate/2022-10-27c.387.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.387.1" newgid="uk.org.publicwhip/debate/2022-10-27c.387.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.387.2" newgid="uk.org.publicwhip/debate/2022-10-27c.387.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.387.3" newgid="uk.org.publicwhip/debate/2022-10-27c.387.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.387.4" newgid="uk.org.publicwhip/debate/2022-10-27c.387.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.387.5" newgid="uk.org.publicwhip/debate/2022-10-27c.387.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.387.6" newgid="uk.org.publicwhip/debate/2022-10-27c.387.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.387.7" newgid="uk.org.publicwhip/debate/2022-10-27c.387.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.388.0" newgid="uk.org.publicwhip/debate/2022-10-27c.388.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.388.1" newgid="uk.org.publicwhip/debate/2022-10-27c.388.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.388.2" newgid="uk.org.publicwhip/debate/2022-10-27c.388.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.388.3" newgid="uk.org.publicwhip/debate/2022-10-27c.388.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.388.4" newgid="uk.org.publicwhip/debate/2022-10-27c.388.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.388.5" newgid="uk.org.publicwhip/debate/2022-10-27c.388.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.388.6" newgid="uk.org.publicwhip/debate/2022-10-27c.388.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.388.7" newgid="uk.org.publicwhip/debate/2022-10-27c.388.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.388.8" newgid="uk.org.publicwhip/debate/2022-10-27c.388.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.389.0" newgid="uk.org.publicwhip/debate/2022-10-27c.389.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.389.1" newgid="uk.org.publicwhip/debate/2022-10-27c.389.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.389.2" newgid="uk.org.publicwhip/debate/2022-10-27c.389.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.389.3" newgid="uk.org.publicwhip/debate/2022-10-27c.389.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.389.4" newgid="uk.org.publicwhip/debate/2022-10-27c.389.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.389.5" newgid="uk.org.publicwhip/debate/2022-10-27c.389.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.389.7" newgid="uk.org.publicwhip/debate/2022-10-27c.389.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.389.8" newgid="uk.org.publicwhip/debate/2022-10-27c.389.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.390.0" newgid="uk.org.publicwhip/debate/2022-10-27c.390.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.390.1" newgid="uk.org.publicwhip/debate/2022-10-27c.390.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.390.2" newgid="uk.org.publicwhip/debate/2022-10-27c.390.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.390.3" newgid="uk.org.publicwhip/debate/2022-10-27c.390.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.390.4" newgid="uk.org.publicwhip/debate/2022-10-27c.390.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.390.5" newgid="uk.org.publicwhip/debate/2022-10-27c.390.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.390.6" newgid="uk.org.publicwhip/debate/2022-10-27c.390.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.391.0" newgid="uk.org.publicwhip/debate/2022-10-27c.391.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.391.1" newgid="uk.org.publicwhip/debate/2022-10-27c.391.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.391.2" newgid="uk.org.publicwhip/debate/2022-10-27c.391.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.391.3" newgid="uk.org.publicwhip/debate/2022-10-27c.391.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.391.4" newgid="uk.org.publicwhip/debate/2022-10-27c.391.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.391.5" newgid="uk.org.publicwhip/debate/2022-10-27c.391.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.391.6" newgid="uk.org.publicwhip/debate/2022-10-27c.391.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.391.7" newgid="uk.org.publicwhip/debate/2022-10-27c.391.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.392.0" newgid="uk.org.publicwhip/debate/2022-10-27c.392.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.392.1" newgid="uk.org.publicwhip/debate/2022-10-27c.392.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.392.2" newgid="uk.org.publicwhip/debate/2022-10-27c.392.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.392.3" newgid="uk.org.publicwhip/debate/2022-10-27c.392.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.392.4" newgid="uk.org.publicwhip/debate/2022-10-27c.392.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.393.0" newgid="uk.org.publicwhip/debate/2022-10-27c.393.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.393.1" newgid="uk.org.publicwhip/debate/2022-10-27c.393.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.393.2" newgid="uk.org.publicwhip/debate/2022-10-27c.393.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.393.3" newgid="uk.org.publicwhip/debate/2022-10-27c.393.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.393.4" newgid="uk.org.publicwhip/debate/2022-10-27c.393.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.393.5" newgid="uk.org.publicwhip/debate/2022-10-27c.393.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.393.6" newgid="uk.org.publicwhip/debate/2022-10-27c.393.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.393.7" newgid="uk.org.publicwhip/debate/2022-10-27c.393.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.394.0" newgid="uk.org.publicwhip/debate/2022-10-27c.394.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.394.1" newgid="uk.org.publicwhip/debate/2022-10-27c.394.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.394.2" newgid="uk.org.publicwhip/debate/2022-10-27c.394.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.394.3" newgid="uk.org.publicwhip/debate/2022-10-27c.394.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.394.4" newgid="uk.org.publicwhip/debate/2022-10-27c.394.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.394.5" newgid="uk.org.publicwhip/debate/2022-10-27c.394.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.394.6" newgid="uk.org.publicwhip/debate/2022-10-27c.394.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.394.7" newgid="uk.org.publicwhip/debate/2022-10-27c.394.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.395.0" newgid="uk.org.publicwhip/debate/2022-10-27c.395.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.395.1" newgid="uk.org.publicwhip/debate/2022-10-27c.395.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.395.2" newgid="uk.org.publicwhip/debate/2022-10-27c.395.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.395.3" newgid="uk.org.publicwhip/debate/2022-10-27c.395.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.395.4" newgid="uk.org.publicwhip/debate/2022-10-27c.395.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.395.5" newgid="uk.org.publicwhip/debate/2022-10-27c.395.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.395.6" newgid="uk.org.publicwhip/debate/2022-10-27c.395.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.395.7" newgid="uk.org.publicwhip/debate/2022-10-27c.395.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.395.8" newgid="uk.org.publicwhip/debate/2022-10-27c.395.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.396.0" newgid="uk.org.publicwhip/debate/2022-10-27c.396.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.396.1" newgid="uk.org.publicwhip/debate/2022-10-27c.396.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.396.2" newgid="uk.org.publicwhip/debate/2022-10-27c.396.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.396.3" newgid="uk.org.publicwhip/debate/2022-10-27c.396.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.396.4" newgid="uk.org.publicwhip/debate/2022-10-27c.396.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.397.0" newgid="uk.org.publicwhip/debate/2022-10-27c.397.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.397.1" newgid="uk.org.publicwhip/debate/2022-10-27c.397.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.397.2" newgid="uk.org.publicwhip/debate/2022-10-27c.397.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.397.3" newgid="uk.org.publicwhip/debate/2022-10-27c.397.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.397.4" newgid="uk.org.publicwhip/debate/2022-10-27c.397.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.397.5" newgid="uk.org.publicwhip/debate/2022-10-27c.397.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.397.6" newgid="uk.org.publicwhip/debate/2022-10-27c.397.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.397.7" newgid="uk.org.publicwhip/debate/2022-10-27c.397.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.398.0" newgid="uk.org.publicwhip/debate/2022-10-27c.398.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.398.1" newgid="uk.org.publicwhip/debate/2022-10-27c.398.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.398.2" newgid="uk.org.publicwhip/debate/2022-10-27c.398.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.398.3" newgid="uk.org.publicwhip/debate/2022-10-27c.398.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.398.4" newgid="uk.org.publicwhip/debate/2022-10-27c.398.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.398.5" newgid="uk.org.publicwhip/debate/2022-10-27c.398.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.398.6" newgid="uk.org.publicwhip/debate/2022-10-27c.398.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.398.7" newgid="uk.org.publicwhip/debate/2022-10-27c.398.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.399.0" newgid="uk.org.publicwhip/debate/2022-10-27c.399.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.399.1" newgid="uk.org.publicwhip/debate/2022-10-27c.399.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.399.2" newgid="uk.org.publicwhip/debate/2022-10-27c.399.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.399.3" newgid="uk.org.publicwhip/debate/2022-10-27c.399.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.400.0" newgid="uk.org.publicwhip/debate/2022-10-27c.400.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.400.1" newgid="uk.org.publicwhip/debate/2022-10-27c.400.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.400.2" newgid="uk.org.publicwhip/debate/2022-10-27c.400.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.400.3" newgid="uk.org.publicwhip/debate/2022-10-27c.400.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.400.4" newgid="uk.org.publicwhip/debate/2022-10-27c.400.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.401.0" newgid="uk.org.publicwhip/debate/2022-10-27c.401.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.401.1" newgid="uk.org.publicwhip/debate/2022-10-27c.401.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.401.2" newgid="uk.org.publicwhip/debate/2022-10-27c.401.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.401.3" newgid="uk.org.publicwhip/debate/2022-10-27c.401.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.401.4" newgid="uk.org.publicwhip/debate/2022-10-27c.401.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.401.5" newgid="uk.org.publicwhip/debate/2022-10-27c.401.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.401.6" newgid="uk.org.publicwhip/debate/2022-10-27c.401.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.401.7" newgid="uk.org.publicwhip/debate/2022-10-27c.401.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.401.8" newgid="uk.org.publicwhip/debate/2022-10-27c.401.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.401.9" newgid="uk.org.publicwhip/debate/2022-10-27c.401.9" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-10-27b.401.9" speakername="Robert Jenrick" type="Start Statement" person_id="uk.org.publicwhip/person/25227" colnum="401" time="10:32:00" url="">
+    <p pid="b401.9/1">The continued rise in dangerous small boat crossings is placing an unprecedented strain on our asylum system. The Manston processing centre is a single, secure environment that is used to deliver the crucial first stage of the asylum assessment process in a more integrated manner than was possible in the past. It is resourced and equipped to process migrants securely while efforts are made to provide alternative accommodation as soon as possible. The basic needs of arrivals are provided for at the site, including hot food, fresh clothing, toilet facilities, sanitary packs and medical care. There is 24/7 medical provision, and a GP began work on the site on Monday. Families and vulnerable adults are prioritised for separate hotel accommodation. Full border security checks are carried out before anyone leaves the Manston site, and whenever possible those seeking asylum in the UK are also interviewed and their asylum claims registered before they leave.</p>
+    <p pid="b401.9/2">As of 8 am today, there were 2,636 arrivals at Manston. We have more than 900 people working there, including trained Home Office staff, contractors and military personnel, with support from security staff. More than 170 people left the site for onward accommodation yesterday alone, and that continues today, with 15 having moved on already. This requires us to source appropriate onward accommodation to house asylum seekers for a longer period. We do not want to place them in accommodation that may leave them more vulnerable and without access to appropriate services.</p>
+    <p pid="b401.9/3">Lieutenant General Stuart Skeates was seconded to the Home Office on <phrase class="date" code="2022-10-12">12 October</phrase>. He will bring a wealth of experience and is now putting in place the necessary command and control structure as we move forward and ensure that the site operates in the manner that we would all expect.</p>
+    <p pid="b401.9/4">As always, we urge all who are thinking about leaving a safe country and putting their lives and those of their children and loved ones in the hands of vile people smugglers to seriously reconsider. This Government will deliver a fair and effective immigration system that works in the interests of the British people.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.402.0" newgid="uk.org.publicwhip/debate/2022-10-27c.402.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.402.1" newgid="uk.org.publicwhip/debate/2022-10-27c.402.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.403.0" newgid="uk.org.publicwhip/debate/2022-10-27c.403.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.404.0" newgid="uk.org.publicwhip/debate/2022-10-27c.404.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.404.1" newgid="uk.org.publicwhip/debate/2022-10-27c.404.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.404.2" newgid="uk.org.publicwhip/debate/2022-10-27c.404.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.405.0" newgid="uk.org.publicwhip/debate/2022-10-27c.405.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.405.1" newgid="uk.org.publicwhip/debate/2022-10-27c.405.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.405.2" newgid="uk.org.publicwhip/debate/2022-10-27c.405.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.406.0" newgid="uk.org.publicwhip/debate/2022-10-27c.406.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.406.1" newgid="uk.org.publicwhip/debate/2022-10-27c.406.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.406.2" newgid="uk.org.publicwhip/debate/2022-10-27c.406.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.406.3" newgid="uk.org.publicwhip/debate/2022-10-27c.406.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.407.0" newgid="uk.org.publicwhip/debate/2022-10-27c.407.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.407.1" newgid="uk.org.publicwhip/debate/2022-10-27c.407.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.407.2" newgid="uk.org.publicwhip/debate/2022-10-27c.407.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.407.3" newgid="uk.org.publicwhip/debate/2022-10-27c.407.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.407.4" newgid="uk.org.publicwhip/debate/2022-10-27c.407.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.408.0" newgid="uk.org.publicwhip/debate/2022-10-27c.408.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.408.1" newgid="uk.org.publicwhip/debate/2022-10-27c.408.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.408.2" newgid="uk.org.publicwhip/debate/2022-10-27c.408.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.408.3" newgid="uk.org.publicwhip/debate/2022-10-27c.408.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.408.4" newgid="uk.org.publicwhip/debate/2022-10-27c.408.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.408.5" newgid="uk.org.publicwhip/debate/2022-10-27c.408.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.408.6" newgid="uk.org.publicwhip/debate/2022-10-27c.408.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.409.0" newgid="uk.org.publicwhip/debate/2022-10-27c.409.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.409.1" newgid="uk.org.publicwhip/debate/2022-10-27c.409.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.409.2" newgid="uk.org.publicwhip/debate/2022-10-27c.409.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.409.3" newgid="uk.org.publicwhip/debate/2022-10-27c.409.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.409.4" newgid="uk.org.publicwhip/debate/2022-10-27c.409.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.409.5" newgid="uk.org.publicwhip/debate/2022-10-27c.409.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.409.6" newgid="uk.org.publicwhip/debate/2022-10-27c.409.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.409.7" newgid="uk.org.publicwhip/debate/2022-10-27c.409.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.410.0" newgid="uk.org.publicwhip/debate/2022-10-27c.410.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.410.1" newgid="uk.org.publicwhip/debate/2022-10-27c.410.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.410.2" newgid="uk.org.publicwhip/debate/2022-10-27c.410.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.410.3" newgid="uk.org.publicwhip/debate/2022-10-27c.410.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.411.0" newgid="uk.org.publicwhip/debate/2022-10-27c.411.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.411.1" newgid="uk.org.publicwhip/debate/2022-10-27c.411.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.411.2" newgid="uk.org.publicwhip/debate/2022-10-27c.411.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.411.3" newgid="uk.org.publicwhip/debate/2022-10-27c.411.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.412.0" newgid="uk.org.publicwhip/debate/2022-10-27c.412.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.412.1" newgid="uk.org.publicwhip/debate/2022-10-27c.412.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.412.2" newgid="uk.org.publicwhip/debate/2022-10-27c.412.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.413.0" newgid="uk.org.publicwhip/debate/2022-10-27c.413.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.413.1" newgid="uk.org.publicwhip/debate/2022-10-27c.413.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.413.2" newgid="uk.org.publicwhip/debate/2022-10-27c.413.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-10-27b.413.2" speakername="Penny Mordaunt" type="Start Statement" person_id="uk.org.publicwhip/person/24938" colnum="413" time="12:00:00" url="">
+    <p pid="b413.2/1">The business for the week commencing <phrase class="date" code="2022-10-31">31 October</phrase> will include:</p>
+    <p pid="b413.2/2">Monday <phrase class="date" code="2022-10-31">31 October</phrase>—Remaining stages of the Genetic Technology (Precision Breeding) Bill, followed by consideration of Lords amendments to the Product Security and Telecommunications Infrastructure Bill, followed by a motion to approve a money resolution relating to the Protection from Redundancy (Pregnancy and Family Leave) Bill.</p>
+    <p pid="b413.2/3">Tuesday <phrase class="date" code="2022-11-01">1 November</phrase>—Second Reading of the UK Infrastructure Bank Bill [Lords].</p>
+    <p pid="b413.2/4">Wednesday <phrase class="date" code="2022-11-02">2 November</phrase>—Opposition day (6th allotted day). Debate on a motion in the name of the Scottish National party. Subject to be announced.</p>
+    <p pid="b413.2/5">Thursday <phrase class="date" code="2022-11-03">3 November</phrase>—Debate on a motion on the independent review of Smokefree 2030 policies, followed by a general debate on the Government’s White Paper “A Fairer Private Rented Sector”. The subjects for these debates were determined by the Backbench Business Committee.</p>
+    <p pid="b413.2/6">Friday <phrase class="date" code="2022-11-04">4 November</phrase>—The House will not be sitting.</p>
+    <p pid="b413.2/7">The provisional business for the week commencing <phrase class="date" code="2022-11-07">7 November</phrase> includes:</p>
+    <p pid="b413.2/8">Monday <phrase class="date" code="2022-11-07">7 November</phrase>—Second Reading of the Social Housing (Regulation) Bill [Lords].</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.413.3" newgid="uk.org.publicwhip/debate/2022-10-27c.413.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-10-27b.413.3" speakername="Thangam Debbonaire" type="Start SupplementaryQuestion" person_id="uk.org.publicwhip/person/25402" colnum="413" time="12:00:00" url="">
+    <p pid="b413.3/1">I thank the Leader of the House for giving us the forthcoming business. May I congratulate her on being reappointed? There were suggestions that it may not have been the job she was hoping for but we both know that, as Parliament’s representative in Government and the Government’s representative in Parliament, she has an incredibly important role. I know that she takes her responsibilities seriously, and I look forward to continued work with her to ensure that Members can properly hold the Government to account. In that vein, I repeat my regular plea, on behalf of our constituents, for prompt responses from Ministers to MPs.</p>
+    <p pid="b413.3/2">The Prime Minister’s promise to restore “integrity” and “accountability” lasted barely a few hours. The Home Secretary was reappointed to the job from which she was sacked just six days earlier for breaching the ministerial code and putting our national security at risk. We now hear that there were</p>
+    <p pid="b413.3/3" class="indent" pwmotiontext="yes">“multiple breaches of the ministerial code”,</p>
+    <p pid="b413.3/4">which even involved “documents relating to cybersecurity”. The first duty of any Government is to keep this country safe. This is exceptionally serious. Does the Leader of the House agree that there must be an urgent investigation?</p>
+    <p pid="b413.3/5">The Home Secretary said she that “rapidly reported” her mistake</p>
+    <p pid="b413.3/6" class="indent" pwmotiontext="yes">“on official channels, and informed the Cabinet Secretary”,</p>
+    <p pid="b413.3/7">but we now hear that the evidence was put to her rather than the other way round. Despite that, the Prime Minister said yesterday at the Dispatch Box that the Home Secretary</p>
+    <p pid="b413.3/8" class="indent" pwmotiontext="yes">“raised the matter and…accepted her mistake.”—[Official Report, <phrase class="date" code="2022-10-26">26 October</phrase> 2022; Vol. 721, c. 289.]</p>
+    <p pid="b413.3/9">This is really important. The shadow Home Secretary, my right hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/10131" name="Yvette Cooper">the Member for Normanton, Pontefract and Castleford (Yvette Cooper)</phrase> has raised two points of order, asked two urgent questions and sent a letter to the Cabinet Secretary, but we still have no clarity. It is imperative that the Prime Minister sets out a clear timeline of who reported what to whom and when. If he has misled the House on this serious national security matter, will he come to the Chamber, apologise and correct the record?</p>
+    <p pid="b413.3/10">This is yet another example of why a Government ethics adviser is so badly needed. After months of calling for one, I welcomed yesterday’s announcement that an appointment would be “done shortly”, but it is obvious that one is needed urgently. Can the Leader of the House give us a timeframe?</p>
+    <p pid="b413.3/11">The new Prime Minister claims a mandate from the 2019 general election, but that was three Prime Ministers and several national crises ago. Meanwhile, the Government are pulling legislation left, right and centre. Which sofa has all the Government’s missing legislation has fallen down the back of? Where is the Energy Bill? Where is the Animal Welfare (Kept Animals) Bill? Where is the Online Safety Bill, which was first mooted a decade ago? We have been waiting four years for it. Has the Prime Minister been forced to pull it to appease his new International Trade Secretary?</p>
+    <p pid="b413.3/12">Since the Conservatives first announced their intention to regulate, seven other jurisdictions have introduced online safety laws. In that time, in the UK, online crime has exploded, child sexual abuse online has become rife and scams have proliferated. Every day that goes by without the Bill, this suffering continues. We hear it has been delayed and not pulled so, yet again, I offer Labour’s willingness to work with the Government to get this Bill over the line as soon as possible. Will the Government accept our offer, and can the Leader of the House tell us when the Bill is coming back?</p>
+    <p pid="b413.3/13">The Government are dragging their feet on the climate and nature emergency. The Environment Act 2021 legally requires the Secretary of State for Environment, Food and Rural Affairs to set long-term targets for air quality, water, biodiversity, resource efficiency and waste reduction by <phrase class="date" code="2022-10-31">31 October</phrase>, so she has three days left. Will the Leader of the House please wake up the new Environment Secretary from the nightmare of the past few weeks and ask her to get on with the job?</p>
+    <p pid="b413.3/14">We have a Prime Minister nobody elected and with no mandate, and he is letting down the British people. It is time the Government accepted that the British people deserve a choice between the failed Tory trickle-down economics of the past and a green, clean, sustainable future with a Labour Government.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.414.0" newgid="uk.org.publicwhip/debate/2022-10-27c.414.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.415.0" newgid="uk.org.publicwhip/debate/2022-10-27c.415.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.415.1" newgid="uk.org.publicwhip/debate/2022-10-27c.415.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-10-27b.415.1" speakername="Peter Bottomley" type="Start SupplementaryQuestion" person_id="uk.org.publicwhip/person/10057" colnum="415" time="12:00:00" url="">
+    <p pid="b415.1/1">Thank you, Madam Deputy Speaker. The Opposition spokesperson, <phrase class="honfriend" person_id="uk.org.publicwhip/person/25402" name="Thangam Debbonaire">the hon. Member for Bristol West (Thangam Debbonaire)</phrase> rightly described the importance and significance of the role of the Leader of the House. My right hon. Friend knows I am glad she is doing it, partly because it is good for the House and partly because it is bad for the Labour party.</p>
+    <p pid="b415.1/2">After Prime Minister’s questions, this session is one of the more interesting parts of the parliamentary week. I pay tribute to the Labour spokesperson for giving a review of the week, but may we turn to what should be considered in this House?</p>
+    <p pid="b415.1/3">I ask the Leader of the House whether we may have the Government’s statement, as soon as possible, on changing the fees for park home residents from using the retail price index to using the consumer prices index, which is long overdue. We need to deal with the issue of the 10% commission whenever anyone changes their home.</p>
+    <p pid="b415.1/4">On residential leasehold, we need to have the Law Commission’s proposals brought to the House and enacted.</p>
+    <p pid="b415.1/5">Lastly, on <phrase class="date" code="2022-07-06">6 July</phrase> and <phrase class="date" code="2022-09-07">7 September</phrase>, I put questions to the then Prime Ministers about environmental problems, where inspectors can come and overrule a borough, district or unitary authority’s plans for their area. We must no longer have expensive barristers arguing in a small room over something that local voters have voted on—this happens in areas represented by parties on both sides of the House—in order to avoid having green areas that were not intended to be built on being built over by developers who have more money, persistence and expertise than the planners, whose job is to do the planning not to be a judicial committee of lawyers. May we please get this changed? We should be building on brownfield sites, not greenfield, and we should let local authorities make their own decisions.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.416.0" newgid="uk.org.publicwhip/debate/2022-10-27c.416.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.416.1" newgid="uk.org.publicwhip/debate/2022-10-27c.416.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.416.2" newgid="uk.org.publicwhip/debate/2022-10-27c.416.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.417.0" newgid="uk.org.publicwhip/debate/2022-10-27c.417.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.417.1" newgid="uk.org.publicwhip/debate/2022-10-27c.417.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.417.2" newgid="uk.org.publicwhip/debate/2022-10-27c.417.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.417.3" newgid="uk.org.publicwhip/debate/2022-10-27c.417.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.417.4" newgid="uk.org.publicwhip/debate/2022-10-27c.417.4" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-10-27b.417.4" speakername="Ian Mearns" type="Start SupplementaryQuestion" person_id="uk.org.publicwhip/person/24919" colnum="417" time="12:00:00" url="">
+    <p pid="b417.4/1">I welcome the Leader of the House back to her place and thank her for announcing the Backbench Business debates for Thursday <phrase class="date" code="2022-11-03">3 November</phrase>, a week from today. I am sorry that she could not be with us at 11.10 am. Although she may have been unavoidably engaged in other duties, it means  that the time for Backbench Business debates this afternoon has been reduced by almost an hour. I say that on behalf of the Members who have put in to speak in those debates.</p>
+    <p pid="b417.4/2">As the House is not due to be sitting on Thursday <phrase class="date" code="2022-11-10">10 November</phrase> and the autumn statement is now scheduled for Thursday <phrase class="date" code="2022-11-17">17 November</phrase>, may I ask the Leader of the House whether other time will be made available in those weeks, notwithstanding the planned rail strikes on both 7 and <phrase class="date" code="2022-11-09">9 November</phrase>?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.418.0" newgid="uk.org.publicwhip/debate/2022-10-27c.418.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.418.1" newgid="uk.org.publicwhip/debate/2022-10-27c.418.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.418.2" newgid="uk.org.publicwhip/debate/2022-10-27c.418.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.418.3" newgid="uk.org.publicwhip/debate/2022-10-27c.418.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.418.4" newgid="uk.org.publicwhip/debate/2022-10-27c.418.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.419.0" newgid="uk.org.publicwhip/debate/2022-10-27c.419.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.419.1" newgid="uk.org.publicwhip/debate/2022-10-27c.419.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.419.2" newgid="uk.org.publicwhip/debate/2022-10-27c.419.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.419.3" newgid="uk.org.publicwhip/debate/2022-10-27c.419.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.419.4" newgid="uk.org.publicwhip/debate/2022-10-27c.419.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.419.5" newgid="uk.org.publicwhip/debate/2022-10-27c.419.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.419.6" newgid="uk.org.publicwhip/debate/2022-10-27c.419.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.420.0" newgid="uk.org.publicwhip/debate/2022-10-27c.420.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.420.1" newgid="uk.org.publicwhip/debate/2022-10-27c.420.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.420.2" newgid="uk.org.publicwhip/debate/2022-10-27c.420.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.420.3" newgid="uk.org.publicwhip/debate/2022-10-27c.420.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.420.4" newgid="uk.org.publicwhip/debate/2022-10-27c.420.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.420.5" newgid="uk.org.publicwhip/debate/2022-10-27c.420.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.420.6" newgid="uk.org.publicwhip/debate/2022-10-27c.420.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.421.0" newgid="uk.org.publicwhip/debate/2022-10-27c.421.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.421.1" newgid="uk.org.publicwhip/debate/2022-10-27c.421.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.421.2" newgid="uk.org.publicwhip/debate/2022-10-27c.421.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.421.3" newgid="uk.org.publicwhip/debate/2022-10-27c.421.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.421.4" newgid="uk.org.publicwhip/debate/2022-10-27c.421.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.421.5" newgid="uk.org.publicwhip/debate/2022-10-27c.421.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.421.6" newgid="uk.org.publicwhip/debate/2022-10-27c.421.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.422.0" newgid="uk.org.publicwhip/debate/2022-10-27c.422.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.422.1" newgid="uk.org.publicwhip/debate/2022-10-27c.422.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.422.2" newgid="uk.org.publicwhip/debate/2022-10-27c.422.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.422.3" newgid="uk.org.publicwhip/debate/2022-10-27c.422.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.422.4" newgid="uk.org.publicwhip/debate/2022-10-27c.422.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.422.5" newgid="uk.org.publicwhip/debate/2022-10-27c.422.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.422.6" newgid="uk.org.publicwhip/debate/2022-10-27c.422.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.422.7" newgid="uk.org.publicwhip/debate/2022-10-27c.422.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.422.8" newgid="uk.org.publicwhip/debate/2022-10-27c.422.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.423.0" newgid="uk.org.publicwhip/debate/2022-10-27c.423.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.423.1" newgid="uk.org.publicwhip/debate/2022-10-27c.423.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.423.2" newgid="uk.org.publicwhip/debate/2022-10-27c.423.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.423.3" newgid="uk.org.publicwhip/debate/2022-10-27c.423.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.423.4" newgid="uk.org.publicwhip/debate/2022-10-27c.423.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.423.5" newgid="uk.org.publicwhip/debate/2022-10-27c.423.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.424.0" newgid="uk.org.publicwhip/debate/2022-10-27c.424.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.424.1" newgid="uk.org.publicwhip/debate/2022-10-27c.424.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.424.2" newgid="uk.org.publicwhip/debate/2022-10-27c.424.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.424.3" newgid="uk.org.publicwhip/debate/2022-10-27c.424.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.424.4" newgid="uk.org.publicwhip/debate/2022-10-27c.424.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.424.5" newgid="uk.org.publicwhip/debate/2022-10-27c.424.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.425.0" newgid="uk.org.publicwhip/debate/2022-10-27c.425.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.425.1" newgid="uk.org.publicwhip/debate/2022-10-27c.425.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.425.2" newgid="uk.org.publicwhip/debate/2022-10-27c.425.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.425.3" newgid="uk.org.publicwhip/debate/2022-10-27c.425.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.425.4" newgid="uk.org.publicwhip/debate/2022-10-27c.425.4" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-10-27b.425.4" speakername="Fleur Anderson" type="Start SupplementaryQuestion" person_id="uk.org.publicwhip/person/25813" colnum="425" time="12:00:00" url="">
+    <p pid="b425.4/1">Given all the changes of Ministers recently, can the Leader of the House confirm that we can still expect timely answers to letters and to written and oral questions from recent weeks? Specifically, on <phrase class="date" code="2022-10-14">14 October</phrase> I raised concerns about the very noisy early-morning night flights to Heathrow, which regularly wake up my constituents from 4.30 am. The former Transport Minister, <phrase class="honfriend" person_id="uk.org.publicwhip/person/25338" name="Kevin Foster">the hon. Member for Torbay (Kevin Foster)</phrase>, answered reassuringly that he would investigate. Can the Leader of the House assure me that that pledge by a Transport Minister will be honoured?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.425.5" newgid="uk.org.publicwhip/debate/2022-10-27c.425.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.426.0" newgid="uk.org.publicwhip/debate/2022-10-27c.426.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.426.1" newgid="uk.org.publicwhip/debate/2022-10-27c.426.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.426.2" newgid="uk.org.publicwhip/debate/2022-10-27c.426.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.426.3" newgid="uk.org.publicwhip/debate/2022-10-27c.426.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.427.0" newgid="uk.org.publicwhip/debate/2022-10-27c.427.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.427.1" newgid="uk.org.publicwhip/debate/2022-10-27c.427.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.427.2" newgid="uk.org.publicwhip/debate/2022-10-27c.427.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.427.3" newgid="uk.org.publicwhip/debate/2022-10-27c.427.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.427.4" newgid="uk.org.publicwhip/debate/2022-10-27c.427.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.427.5" newgid="uk.org.publicwhip/debate/2022-10-27c.427.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.427.6" newgid="uk.org.publicwhip/debate/2022-10-27c.427.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.428.0" newgid="uk.org.publicwhip/debate/2022-10-27c.428.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.428.1" newgid="uk.org.publicwhip/debate/2022-10-27c.428.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.428.2" newgid="uk.org.publicwhip/debate/2022-10-27c.428.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.428.3" newgid="uk.org.publicwhip/debate/2022-10-27c.428.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.428.4" newgid="uk.org.publicwhip/debate/2022-10-27c.428.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.428.5" newgid="uk.org.publicwhip/debate/2022-10-27c.428.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.428.6" newgid="uk.org.publicwhip/debate/2022-10-27c.428.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.429.0" newgid="uk.org.publicwhip/debate/2022-10-27c.429.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.429.1" newgid="uk.org.publicwhip/debate/2022-10-27c.429.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.429.2" newgid="uk.org.publicwhip/debate/2022-10-27c.429.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.429.3" newgid="uk.org.publicwhip/debate/2022-10-27c.429.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.429.4" newgid="uk.org.publicwhip/debate/2022-10-27c.429.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.431.0" newgid="uk.org.publicwhip/debate/2022-10-27c.431.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.431.1" newgid="uk.org.publicwhip/debate/2022-10-27c.431.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.432.0" newgid="uk.org.publicwhip/debate/2022-10-27c.432.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.432.1" newgid="uk.org.publicwhip/debate/2022-10-27c.432.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.432.2" newgid="uk.org.publicwhip/debate/2022-10-27c.432.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-10-27b.432.2" speakername="Bob Blackman" type="Start SupplementaryQuestion" person_id="uk.org.publicwhip/person/24945" colnum="432" time="12:56:00" url="">
+    <p pid="b432.2/1">I congratulate the Chairman of the Select Committee on presenting our report, which I agree with every single word of, and thank him for promoting my private Member’s Bill, which will have its Second Reading in this place on Friday <phrase class="date" code="2022-11-18">18 November</phrase>. I trust that, with Government support, that Bill will include all the report’s recommendations or as many of them as we can shoehorn into it. We will have a Members’ briefing on Wednesday <phrase class="date" code="2022-11-02">2 November</phrase> at 2.15 pm in Room W1, and I trust that we can get all-party support for the Bill and correct the wrongs.</p>
+    <p pid="b432.2/2">Does the hon. Gentleman agree that one of the key issues is ensuring that local authorities can determine which homes are set up in their local area, which they  know best, rather than having to deal with the consequences of one of these homes being set up and then try to close it down?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.433.0" newgid="uk.org.publicwhip/debate/2022-10-27c.433.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.433.1" newgid="uk.org.publicwhip/debate/2022-10-27c.433.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.433.2" newgid="uk.org.publicwhip/debate/2022-10-27c.433.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.433.3" newgid="uk.org.publicwhip/debate/2022-10-27c.433.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.434.0" newgid="uk.org.publicwhip/debate/2022-10-27c.434.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.434.1" newgid="uk.org.publicwhip/debate/2022-10-27c.434.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.434.2" newgid="uk.org.publicwhip/debate/2022-10-27c.434.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.434.3" newgid="uk.org.publicwhip/debate/2022-10-27c.434.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.435.0" newgid="uk.org.publicwhip/debate/2022-10-27c.435.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.435.1" newgid="uk.org.publicwhip/debate/2022-10-27c.435.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.435.2" newgid="uk.org.publicwhip/debate/2022-10-27c.435.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.435.3" newgid="uk.org.publicwhip/debate/2022-10-27c.435.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.436.0" newgid="uk.org.publicwhip/debate/2022-10-27c.436.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.436.1" newgid="uk.org.publicwhip/debate/2022-10-27c.436.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.436.2" newgid="uk.org.publicwhip/debate/2022-10-27c.436.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.436.3" newgid="uk.org.publicwhip/debate/2022-10-27c.436.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.437.0" newgid="uk.org.publicwhip/debate/2022-10-27c.437.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.438.0" newgid="uk.org.publicwhip/debate/2022-10-27c.438.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.438.1" newgid="uk.org.publicwhip/debate/2022-10-27c.438.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.438.2" newgid="uk.org.publicwhip/debate/2022-10-27c.438.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-10-27b.438.2" speakername="Esther McVey" type="Continuation Speech" person_id="uk.org.publicwhip/person/24882" colnum="438" time="13:19:00" url="">
+    <p pid="b438.2/1">I thank the hon. Member for joining in and adding that pertinent point.</p>
+    <p pid="b438.2/2">We could not have this debate without talking about the high energy prices at the moment, with an increase of 400%, and what is happening to farms having to cope with those increased costs. For APS, this has resulted in reduced production of UK tomatoes and other foods, because the costs of production are not recovered through higher prices. Farmers must be mindful of passing on higher prices to customers—if they can, as the supermarkets and shops the food goes to will not accept them—so we must be mindful of how we support farmers.</p>
+    <p pid="b438.2/3">That company has even developed a combined heat and power plant, which supplies 3 MW of power to Alderley Edge, and it uses the waste heat and the carbon dioxide from that to grow their crop. I wonder whether it can get some recognition that it uses carbon dioxide from power generation to produce food, because that would help it to offset the huge increases in energy cost. I know the Department for Business, Energy and Industrial Strategy is reviewing the move from the  European Union energy trading scheme to the ETS UK equivalent post Brexit, but can the Minister liaise with his ministerial colleague at BEIS and give me the latest news on that?</p>
+    <p pid="b438.2/4">Food production is essential for the delivery of the environmental benefits on which the Government plan to centre in their agricultural support policy, but unless we recognise the dual role of farmers as food producers and conservationists, we risk turning farmers into environmental contractors with little incentive to continue farming. That would do enormous damage to the jobs and communities that depend on farming, as well as weaken our food security. The strategy needs to be clearer in linking food production to action against climate change and enhancing the natural environment.</p>
+    <p pid="b438.2/5">My final plea is for greater clarity on food labelling, so that the high standards of British food are known and recognised—so a shopper knows the quality of the produce and where it is from. Buying British and locally, for me that means buying from Cheshire, is important not just because of the high husbandry standards of UK food but the low transport mileage to get from field to fork. That low transport mileage is particularly important if we are concerned about the environment. As my beef and sheep farmers say, it is better to have high-quality beef and lamb from Cheshire than chickpeas from halfway around the world. [Interruption.] I thank Members for the cheers for that.</p>
+    <p pid="b438.2/6">On food standards, it is important when the Government are negotiating and implementing free trade agreements to avoid undermining the domestic sector for farmers and growers and reducing standards. In its report on the UK-Australia free trade agreement issued on Friday <phrase class="date" code="2022-06-17">17 June</phrase> 2022, the Environment, Food and Rural Affairs Committee concluded:</p>
+    <p pid="b438.2/7" class="indent" pwmotiontext="yes">“In practice it appears unlikely that food produced to lower animal welfare standards will enter the UK as a result of this deal.”</p>
+    <p pid="b438.2/8">That is positive news, but my farmers are calling for greater transparency on food labelling. Like me, they believe in choice, but we only have choice when we have knowledge of what we are choosing and what we are choosing from.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.439.0" newgid="uk.org.publicwhip/debate/2022-10-27c.439.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.439.1" newgid="uk.org.publicwhip/debate/2022-10-27c.439.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.440.0" newgid="uk.org.publicwhip/debate/2022-10-27c.440.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.440.1" newgid="uk.org.publicwhip/debate/2022-10-27c.440.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.440.2" newgid="uk.org.publicwhip/debate/2022-10-27c.440.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.441.0" newgid="uk.org.publicwhip/debate/2022-10-27c.441.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.441.1" newgid="uk.org.publicwhip/debate/2022-10-27c.441.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-10-27b.441.1" speakername="Kerry McCarthy" type="Continuation Speech" person_id="uk.org.publicwhip/person/11455" colnum="441" time="13:34:00" url="">
+    <p pid="b441.1/1">I thank my hon. Friend for that intervention. As I understand it, next week she will introduce a Bill, which I very much support and I hope that the Government will, too.</p>
+    <p pid="b441.1/2">I do not have much time to talk about the importance of healthy diets, but does the Minister know what has happened to the health inequalities White Paper? Will we see that soon?</p>
+    <p pid="b441.1/3">The national food strategy approach on junk food is quite straightforward: it is about restricting advertising and promotions, and targeting ingredients. Some people I know are concerned that that will mean increased costs for consumers, who can ill-afford to feed their families as it is. However, the suggestion is not to tax food in the shops but, for example, to tax sugar in the huge quantities bought by the food manufacturers, so it would be in their interests to reformulate their products to avoid that tax. We saw that happen with the soft drinks levy. I would be interested to know what the Minister thinks about that.</p>
+    <p pid="b441.1/4">There is all this concern about the nanny state and not wanting to dictate to people what they do and do not eat. However, we accept that action on smoking is important for public health reasons and that action on alcohol abuse is important. When we look at the cost to the NHS of diet-related diseases and ill health, it seems a no-brainer to me to take an interventionist approach on this, too. It is not about telling people what they can and cannot eat; it is about helping them to make the right choices for themselves and their families, making sure that the education is out there and giving financial incentives such as the Healthy Start scheme.</p>
+    <p pid="b441.1/5">In terms of other levers that could be used, public procurement could make a huge difference. The DEFRA consultation on public sector food and catering closed on <phrase class="date" code="2022-09-04">4 September</phrase>. Could the Minister tell us when we will hear the results from that?</p>
+    <p pid="b441.1/6">This may be going back to chickpeas, but the Mayor of New York, Eric Adams, who describes himself as an imperfect vegan—I suppose that is better than nothing—has introduced a scheme whereby the default option for catering in New York hospitals is plant-based. That does not mean that people cannot choose meat-based options or things that are not plant-based, but apparently it is proving to be really popular and there is good take-up. Again, that is a way of encouraging people down the path of taking a healthier option. I hope the Minister agrees that much of the food served in our hospitals—regardless of whether it is of animal origin—is not the sort of food we should be serving people we are trying to make healthier and better.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.442.0" newgid="uk.org.publicwhip/debate/2022-10-27c.442.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.442.1" newgid="uk.org.publicwhip/debate/2022-10-27c.442.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.443.0" newgid="uk.org.publicwhip/debate/2022-10-27c.443.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.443.1" newgid="uk.org.publicwhip/debate/2022-10-27c.443.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.443.2" newgid="uk.org.publicwhip/debate/2022-10-27c.443.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.443.3" newgid="uk.org.publicwhip/debate/2022-10-27c.443.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.443.4" newgid="uk.org.publicwhip/debate/2022-10-27c.443.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.443.5" newgid="uk.org.publicwhip/debate/2022-10-27c.443.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.443.6" newgid="uk.org.publicwhip/debate/2022-10-27c.443.6" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-10-27b.443.6" speakername="Jo Gideon" type="Start Speech" person_id="uk.org.publicwhip/person/25882" colnum="443" time="13:47:00" url="">
+    <p pid="b443.6/1">It is a particular pleasure to follow <phrase class="honfriend" person_id="uk.org.publicwhip/person/11455" name="Kerry McCarthy">the hon. Member for Bristol East (Kerry McCarthy)</phrase>, with whom I sat on the all-party parliamentary group on the national food strategy, which has been disbanded. She covered a comprehensive range of issues that needed to be spoken about, so I will try not to cover some of them.</p>
+    <p pid="b443.6/2">I have consistently highlighted the need for a robust food system to ensure that every one of our constituents has access to nutritious, affordable food. In achieving that, we must safeguard our countryside and restore the balance of nature. We need to reduce the health problems that result from poor diets, and we can accomplish that  only by working together—both across all Government Departments and more widely in society—from field to fork.</p>
+    <p pid="b443.6/3">The food system underpins our economy and security, and the health of our planet. Without restoring equilibrium to our food system, we will continue to have food production that depletes nature and makes us unwell. As the world faces ever more environmental and social challenges, ensuring a well-functioning and equitable food system becomes a matter of strategic importance. Food security depends on global peace, stability, and a healthy planet and population. We have been facing a threat to all three of those.</p>
+    <p pid="b443.6/4">The war in Ukraine has seen millions across the world put at risk of starvation. Ukraine is commonly referred to as the breadbasket of the world. It boasts some of the most fertile land on Earth, with rich black soil—chernozem—perfectly suited to growing grains and producing and exporting vast amounts of barley, corn, rye and wheat. Ukraine ranks first in the world in global sunflower production and export. Even after the war is over, it is likely that up to 50% of the land will have been rendered unproductive by landmines, which will take many years to clear.</p>
+    <p pid="b443.6/5">As buyers have looked to find alternative supplies, international commodity markets have faced turbulence and prices have risen. That affects the price of basic foods in shopping baskets in our local supermarkets.</p>
+    <p pid="b443.6/6">Russia is one of the biggest exporters of fertilisers. Farmers in the UK have concerns about input costs—particularly about fertilisers and animal feed—as well as energy costs. Indeed, agricultural commodity prices have always been strongly correlated to the price of energy. We forget that energy prices were increasing before the war in Ukraine, and as a net importer, the UK is exposed to the increasing volatility in gas prices. Energy inputs for farms increased by 34% between January and April 2022, and farm motor fuel costs increased by 30% over the same period. That comes at a period of significant economic turmoil following the effects of a global pandemic, when the food supply chain has had to respond to a surge in demand due to panic buying. A cluster of hot, dry summers has led to crop failure and nature loss, making our land less productive. We will all notice the impact on familiar products. I read recently that there is a challenge with tomato ketchup, which is a key ingredient of Staffordshire oatcakes. It may become a rarer commodity as climate change threatens to halve the harvest in the coming years.</p>
+    <p pid="b443.6/7">Fear of food shortages from multiple fronts has changed our attitude towards food. Increasingly, purchasing decisions are based on affordability and choosing the healthy option is more difficult than before. Lack of money means cold food and cold water. Some 71% of households who experienced food insecurity in the past month said they have cooked less, eaten food cold, turned off fridges and washed dishes in cold water.</p>
+    <p pid="b443.6/8">When families are being faced with the question of whether to eat or heat, it is more important than ever that we should have a national food strategy in place, aligning the nation’s hunger and health with UK climate goals and UK farm sustainability. Access to good food is essential to improving life chances and health must be a focus of our food production. Whatever the cause, we must recognise that the challenges around access to a healthy diet are major indicators of inequality. As I  think the hon. Member for Bristol East mentioned, 18% of all households experienced food insecurity last month, compared with 54% for households on universal credit, so any Government policy developed needs to address that disproportionate impact.</p>
+    <p pid="b443.6/9">Foods that are bad for our health should not be the cheapest foods on the market, yet people are having to compromise the quality of their diets to cut food costs. The Food Foundation suggests that of those experiencing food insecurity, 58% said they were buying less fruit and 48% said they were buying fewer vegetables. One young person from Bite Back 2030 said:</p>
+    <p pid="b443.6/10" class="indent" pwmotiontext="yes">“There’s two chicken shops about a one-minute walk from my school that sells two wings and chips for £1. A school dinner is £2.40.”</p>
+    <p pid="b443.6/11">This is a serious issue. People are being forced to choose the cheapest calories, which are typically the least healthy. Families with lower incomes are not going to be driven by whether labels say food is high in calories, fat, sugar and salt. We should probably check those things, but we do not because the driver is money and that is what is affordable and within budget. Good food policy needs to reduce and rebalance the bombardment of unhealthy food and use the revenue raised to make more affordable, accessible, easy and appealing food for those on low incomes.</p>
+    <p pid="b443.6/12">We see the need to work closely with the food and drink industry to ensure that our whole population can afford good food, but tackling obesity is also central to our commitment to levelling up. We need to support healthier options and behaviours by addressing social factors that lead to obesity and making them more conducive to healthy living. Underpinning any economic levelling up must be a levelling up of diet-related life choices.</p>
+    <p pid="b443.6/13">Because I care passionately about the importance of fixing our food system from the triple challenges of climate change, biodiversity loss and diet-related ill health, I am hosting a food summit at Staffordshire University in Stoke-on-Trent on <phrase class="date" code="2022-11-04">4 November</phrase>. I am delighted that the author of the national food strategy report, Henry Dimbleby, will be opening the summit. We will have a big conversation about food, and about inspiring new thinking and embracing new expectations of our food system, celebrating innovators and shining a light on the great work already under way. I think my right hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24882" name="Esther McVey">the Member for Tatton (Esther McVey)</phrase> mentioned some of that work on innovation already.</p>
+    <p pid="b443.6/14">Under the current food system, the amount of food being produced from a given area of land has increased and the amount of other life occupying that same area of land has decreased. Data from the Department for Environment, Food and Rural Affairs shows that wheat yields in the UK have doubled from 1970 to today. Yet through that time, we have also seen the number of farmland birds decrease by 54%. We have touched on land use, so I will skip over it, but it is very important that we have a clear understanding of how we should use land.</p>
+    <p pid="b443.6/15">We need to recognise the dual role of farmers as food producers and conservationists, but we have to be careful not to turn farmers into environmental contractors with little incentive to continue food farming. Therefore, the food strategy could be clearer in linking food production to action against climate change and action to enhance the natural environment. Without such action, climate change further threatens to cause crop failures and  nature loss, which makes our land less productive. Our priority must be looking at how we can reduce the environmental impact of the foods we consume, while making it easier and cheaper for people to consume healthier and more nutritious food. To build national resilience to food insecurity, we need to grow—quite literally—our local food production and enable smaller food businesses to thrive.</p>
+    <p pid="b443.6/16">The strategy is right to recognise that promoting local food and drink can also increase cultural identity and community pride. That, in turn, makes an area a more attractive tourist offer, while also ensuring the resilience of the local food supply and supporting farmers and small producers. Growing community involvement in the redistribution of food will help us to minimise food waste and ensure that food surplus from the supply chain is not wasted.</p>
+    <p pid="b443.6/17">I welcomed the emphasis that the Prime Minister placed on delivering the 2019 manifesto commitments. The manifesto has high aspirations for agriculture, food standards, children’s dietary health and levelling up opportunities, which are impacted directly by access to good food. Research has already been conducted on health disparities, and this could be considered within the compassionate framework that the Prime Minister has committed to, so the motion has my full support.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.446.0" newgid="uk.org.publicwhip/debate/2022-10-27c.446.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.446.1" newgid="uk.org.publicwhip/debate/2022-10-27c.446.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.446.2" newgid="uk.org.publicwhip/debate/2022-10-27c.446.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.448.0" newgid="uk.org.publicwhip/debate/2022-10-27c.448.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.449.0" newgid="uk.org.publicwhip/debate/2022-10-27c.449.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.451.0" newgid="uk.org.publicwhip/debate/2022-10-27c.451.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.453.0" newgid="uk.org.publicwhip/debate/2022-10-27c.453.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.453.1" newgid="uk.org.publicwhip/debate/2022-10-27c.453.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.454.0" newgid="uk.org.publicwhip/debate/2022-10-27c.454.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.455.0" newgid="uk.org.publicwhip/debate/2022-10-27c.455.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.456.0" newgid="uk.org.publicwhip/debate/2022-10-27c.456.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.456.1" newgid="uk.org.publicwhip/debate/2022-10-27c.456.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-10-27b.456.1" speakername="Munira Wilson" type="Start Speech" person_id="uk.org.publicwhip/person/25820" colnum="456" time="14:37:00" url="">
+    <p pid="b456.1/1">Given all the chat about chickpeas, I feel compelled to join in and recommend my mother’s chickpea curry or my very own Moroccan-spiced lamb shank with chickpeas. Hon. Members who want the recipes may get in touch later.</p>
+    <p pid="b456.1/2">I congratulate <phrase class="honfriend" person_id="uk.org.publicwhip/person/24882" name="Esther McVey">the right hon. Member for Tatton (Esther McVey)</phrase> and <phrase class="honfriend" person_id="uk.org.publicwhip/person/11455" name="Kerry McCarthy">the hon. Member for Bristol East (Kerry McCarthy)</phrase> on securing this important debate. The motion before the House notes the impact of the cost of living crisis and calls for the urgent publication of the national food strategy White Paper. I presume the White Paper will build on the Government’s food strategy, which was published back in June but was, as the hon. Member for Bristol East noted, fairly disappointing and vague in its commitments, rather than a detailed response to the Dimbleby review, which spanned two volumes and more than 400 pages.</p>
+    <p pid="b456.1/3">The most glaring omission from the Government’s food strategy is how they plan to feed hungry children. That is even more glaring given that the very first recommendation in part 1 of the Dimbleby national food strategy was to extend free school meals to all households on universal credit. As that report states:</p>
+    <p pid="b456.1/4" class="indent" pwmotiontext="yes">“A hot, freshly-cooked school lunch is, for some children, the only proper meal in the day, providing a nutritional safety net for those at greatest risk of hunger or poor diet.”</p>
+    <p pid="b456.1/5">In the majority of schools, however, only children from very low-income households—meaning an annual income of £7,400 before benefits—are eligible for free school meals after the age of seven. That threshold is much too low—I completely agree with Henry Dimbleby. That recommendation was so central to his thinking that when it became clear that the Government were not willing to make that financial commitment, he offered them the less generous alternative—in part 2 of the report—of increasing the household income threshold to £20,000, but the Government still have not moved. All we got in the Government food strategy was a vague commitment to</p>
+    <p pid="b456.1/6" class="indent" pwmotiontext="yes">“continue to keep free school meal eligibility under review”.—[Official Report, <phrase class="date" code="2022-09-08">8 September</phrase> 2022; Vol. 719, c. 486.]</p>
+    <p pid="b456.1/7">The Government’s position cannot hold much longer, because they know it is economically, morally and politically unsustainable amid this cost of living crisis. We know from the DWP’s own data, published in part 2 of the Dimbleby report, that nearly half the families living in food insecurity—those who are skipping meals or not eating when they are hungry because they cannot afford it—do not qualify for free school meals because the earnings threshold is too low.</p>
+    <p pid="b456.1/8">A few weeks ago, at one of my constituency surgeries, I met a mother who had fled an abusive partner and was skipping her mental health medication because she was trying to save the money she would have spent on her prescription to enable her daughter to have lunch at college. That is the reality of this policy.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.457.0" newgid="uk.org.publicwhip/debate/2022-10-27c.457.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.457.1" newgid="uk.org.publicwhip/debate/2022-10-27c.457.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.459.0" newgid="uk.org.publicwhip/debate/2022-10-27c.459.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.460.0" newgid="uk.org.publicwhip/debate/2022-10-27c.460.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.462.0" newgid="uk.org.publicwhip/debate/2022-10-27c.462.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.464.0" newgid="uk.org.publicwhip/debate/2022-10-27c.464.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.466.0" newgid="uk.org.publicwhip/debate/2022-10-27c.466.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-10-27b.466.0" speakername="Mark Spencer" type="Start Speech" person_id="uk.org.publicwhip/person/24909" colnum="466" time="15:14:00" url="">
+    <p pid="b466.0/1">I congratulate my right hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24882" name="Esther McVey">the Member for Tatton (Esther McVey)</phrase> and <phrase class="honfriend" person_id="uk.org.publicwhip/person/11455" name="Kerry McCarthy">the hon. Member for Bristol East (Kerry McCarthy)</phrase> on securing this important debate, and I thank the Backbench Business Committee for allowing the time for it.</p>
+    <p pid="b466.0/2">We are fortunate in the United Kingdom to have a highly resilient food supply chain that is built on strong domestic production and imports via sustainable trade routes, but it is worth acknowledging that food security has become a very hot topic politically. When I was elected in 2010, I highlighted food security as a very important topic in my maiden speech. It is not new to me; it is something I have been worrying about and concentrating on for most of my political career.</p>
+    <p pid="b466.0/3">But we can meet these challenges. Domestic production figures have been very stable for most of this century. We produce 61% of all the food we need and 74% of that which we can grow in the UK. Those figures have changed little over the past 20 years. When food products cannot be produced here, or at least not on a year-round basis, British consumers have access to them through international trade. That supplements domestic production and ensures that any disruption from risks such as adverse weather or disease does not affect the overall security of the UK’s supply chain. I acknowledge that,  as many Members have said, educating our consumers on what is seasonal and what is grown in the UK is a very healthy thing to do.</p>
+    <p pid="b466.0/4">Across the UK, 465,000 people are employed in food and non-alcoholic drink manufacturing. We are proud to have a collaborative relationship with the industry, which allows us to respond to disruption effectively, as demonstrated in the response to the unprecedented disruption to supply chains during the covid-19 pandemic. DEFRA monitors food supply and will continue to do so over the autumn and winter period. We work closely with the industry to keep abreast of supply and price trends, which will be particularly important in the run-up to Christmas.</p>
+    <p pid="b466.0/5">We recognise that rising food prices are a big challenge for household budgets. The latest figures for year-on-year food and drink prices show an annual rate of inflation of 14.6% in the year to September 2022, up from 13.1% in August 2022. While we remain confident in sectors being able to continue to deliver products to consumers, my Department continues to work to identify further options that will help businesses to reduce costs and pass on those savings to consumers.</p>
+    <p pid="b466.0/6">The Government have committed £37 billion of support to households with the cost of living. That includes an additional £500 million to help with the cost of household essentials, bringing total funding for that support to £1.5 billion. In England, this is in the form of an extension to the household support fund, running from <phrase class="date" code="2022-10-01">1 October</phrase> 2022 to <phrase class="date" code="2022-03-31">31 March</phrase> 2023.</p>
+    <p pid="b466.0/7">We must be prepared for the future. That is why we published the Government’s food strategy in June, setting out our plan to transform our food system, and I have a copy of it here. <phrase class="honfriend" person_id="uk.org.publicwhip/person/25386" name="Daniel Zeichner">The hon. Member for Cambridge (Daniel Zeichner)</phrase> said we had not given any thought to that; I hope he has had an opportunity to read the Government’s food strategy, to which the hon. Member for Bristol East referred. The strategy puts food security right at the heart of the Government’s vision for the food sector. It sets out our ambition to boost food production in key sectors and to create jobs, with a focus on skills and innovations, ensuring that those are spread across the whole country. Our aim is to broadly maintain the current level of food we produce domestically and boost production in sectors where there are the biggest opportunities. Setting this commitment demonstrates that we recognise the critical importance of domestic food production and the role it plays in our food security.</p>
+    <p pid="b466.0/8">As the Prime Minister said only this week, at the heart of this Government’s mandate is our manifesto, which includes our commitment to protect the environment. The Government are introducing three environmental land management schemes that reward environmental benefits: the sustainable farming incentive, local nature recovery and landscape recovery.</p>
+    <p pid="b466.0/9">Our farming reforms are designed to support farmers to produce food sustainably and productively, and to deliver the environmental improvements from which we will all benefit. I assure the House that boosting food production and strengthening resilience go hand in hand with sustainability—we can do all those things. We can make sure that we increase biodiversity, we can improve the environment and we can continue to keep ourselves well fed in the UK.</p>
+    <p pid="b466.0/10">Although our food supply chains remain strong, some specific commodities have been affected by the invasion of Ukraine, especially sunflower oil. The Government are supporting industry to manage those challenges. For example, DEFRA worked closely with the Food Standards Agency to adopt a pragmatic approach to the enforcement of labelling rules, so that certain alternative oils could be used in place of sunflower oil without requiring changes to the labels. DEFRA will continue to engage with the seafood sector, including the fish and chip shop industry, to monitor the impacts and to encourage the adoption of alternative sources of supply, which will be of great importance to <phrase class="honfriend" person_id="uk.org.publicwhip/person/10785" name="Alistair Carmichael">the right hon. Member for Orkney and Shetland (Mr Carmichael)</phrase>.</p>
+    <p pid="b466.0/11">The food strategy announced our intention to publish the land use framework, to which several hon. Members referred. We will set out our land use change principles to ensure that food security is balanced alongside climate, environment and infrastructure outcomes. We are seeking to deliver as much as we can with our limited supply of land to meet the full range of Government commitments through multifunctional landscapes.</p>
+    <p pid="b466.0/12">We also need to recognise that the production of food and the support of our farmers have an impact on those landscapes. It is no coincidence that the beautiful stone walls in North Yorkshire, which tourists enjoy going to see, are there to keep sheep in. If we remove the sheep—</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.468.0" newgid="uk.org.publicwhip/debate/2022-10-27c.468.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.468.1" newgid="uk.org.publicwhip/debate/2022-10-27c.468.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.468.2" newgid="uk.org.publicwhip/debate/2022-10-27c.468.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.468.3" newgid="uk.org.publicwhip/debate/2022-10-27c.468.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.469.0" newgid="uk.org.publicwhip/debate/2022-10-27c.469.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.469.1" newgid="uk.org.publicwhip/debate/2022-10-27c.469.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-10-27b.469.1" speakername="Esther McVey" type="Start Speech" person_id="uk.org.publicwhip/person/24882" colnum="469" time="15:24:00" url="">
+    <p pid="b469.1/1">I want to thank all Members in the House for coming here today and taking part in this debate on food security and the national food strategy. It has been wide-ranging and timely, there has been much consensus across the House and it has been highly constructive. It has only been possible because of the hard work of <phrase class="honfriend" person_id="uk.org.publicwhip/person/11455" name="Kerry McCarthy">the hon. Member for Bristol East (Kerry McCarthy)</phrase> in making sure so many people were here.</p>
+    <p pid="b469.1/2">A lot of Members, including <phrase class="honfriend" person_id="uk.org.publicwhip/person/25797" name="Claudia Webbe">the hon. Member for Swansea East and the hon. Member for Leicester East (Claudia Webbe)</phrase>, focused on food poverty, and securing food for children at school and families right across the country. <phrase class="honfriend" person_id="uk.org.publicwhip/person/24896" name="Kate Green">The hon. Member for Stretford and Urmston (Kate Green)</phrase> wanted support for her Healthy Start scheme (take-up) Bill, which is coming forward. <phrase class="honfriend" person_id="uk.org.publicwhip/person/25820" name="Munira Wilson">The hon. Member for Twickenham (Munira Wilson)</phrase> focused on free school meals and how we can help those most in need.</p>
+    <p pid="b469.1/3">Looking for solutions and moving forward, my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/10119" name="Geoffrey Clifton-Brown">the Member for Cirencester and Tewkesbury (Sir Geoffrey Clifton-Brown)</phrase> also focused on the cost of living and food price increases, but also on how we are going to grow more in this country and utilise our land more to bring prices down. <phrase class="honfriend" person_id="uk.org.publicwhip/person/13864" name="Jim Shannon">The hon. Member for Strangford (Jim Shannon)</phrase> talked about partnerships, with universities, businesses and farmers coming together to get healthier crops, again so that we can bring food prices down.</p>
+    <p pid="b469.1/4">My hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24820" name="David Rutley">the Member for Macclesfield (David Rutley)</phrase> had a close eye on food waste and what we can do there. I want to take a moment to talk about my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25882" name="Jo Gideon">the Member for Stoke-on-Trent Central (Jo Gideon)</phrase>,   who talked about affordability, healthy options and the sacrifices people are making to feed the family. Most importantly, she has a food summit coming up on <phrase class="date" code="2022-11-04">4 November</phrase>, and Henry Dimbleby will be there to open it. My hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24955" name="Matthew Offord">the Member for Hendon (Dr Offord)</phrase> focused on the future technology of food—a passion I share—as well as sustainable proteins and plant-based protein alternatives to meat. That is something this country does very well, and it is an expertise we should really push and drive forward to help our country, but also other parts of the world.</p>
+    <p pid="b469.1/5">I cannot forget <phrase class="honfriend" person_id="uk.org.publicwhip/person/10785" name="Alistair Carmichael">the right hon. Member for Orkney and Shetland (Mr Carmichael)</phrase>, who spoke so passionately about his fish farmers, and <phrase class="honfriend" person_id="uk.org.publicwhip/person/25669" name="Ben Lake">the hon. Member for Ceredigion (Ben Lake)</phrase>, who talked about exposing the geopolitical shocks that we have suffered.</p>
+    <p pid="b469.1/6">I want to thank the Minister, who is knowledgeable in this matter—he has spent his life in this area—but I want him to know that there will be constant pressure coming from all Members of this House on food security and on looking at what we need to do to make sure we have it. I again thank all Members for taking part in this debate.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.470.0" newgid="uk.org.publicwhip/debate/2022-10-27c.470.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.470.1" newgid="uk.org.publicwhip/debate/2022-10-27c.470.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.470.2" newgid="uk.org.publicwhip/debate/2022-10-27c.470.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.470.3" newgid="uk.org.publicwhip/debate/2022-10-27c.470.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.471.0" newgid="uk.org.publicwhip/debate/2022-10-27c.471.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.471.1" newgid="uk.org.publicwhip/debate/2022-10-27c.471.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-10-27b.471.1" nospeaker="true" colnum="471" time="15:24:00" url="">
+    <p pid="b471.1/1">[Relevant documents: Fourth Report of the Joint Committee on Human Rights of Session 2022-23, Protecting human rights in care settings, HC 216; Fifteenth Report of the Joint Committee on Human Rights of Session 2019-21, Care homes: Visiting restrictions during the covid-19 pandemic, HC 1375; and Correspondence between the Joint Committee on Human Rights and the Prime Minister regarding visiting restrictions in care homes, dated <phrase class="date" code="2022-03-11">11 March</phrase> 2022 and <phrase class="date" code="2022-05-09">9 May</phrase> 2022.]</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.471.2" newgid="uk.org.publicwhip/debate/2022-10-27c.471.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.473.0" newgid="uk.org.publicwhip/debate/2022-10-27c.473.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.473.1" newgid="uk.org.publicwhip/debate/2022-10-27c.473.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.475.0" newgid="uk.org.publicwhip/debate/2022-10-27c.475.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.475.1" newgid="uk.org.publicwhip/debate/2022-10-27c.475.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.478.0" newgid="uk.org.publicwhip/debate/2022-10-27c.478.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.478.1" newgid="uk.org.publicwhip/debate/2022-10-27c.478.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.481.0" newgid="uk.org.publicwhip/debate/2022-10-27c.481.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.481.1" newgid="uk.org.publicwhip/debate/2022-10-27c.481.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.481.2" newgid="uk.org.publicwhip/debate/2022-10-27c.481.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.482.0" newgid="uk.org.publicwhip/debate/2022-10-27c.482.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.483.0" newgid="uk.org.publicwhip/debate/2022-10-27c.483.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.485.0" newgid="uk.org.publicwhip/debate/2022-10-27c.485.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.485.1" newgid="uk.org.publicwhip/debate/2022-10-27c.485.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.485.2" newgid="uk.org.publicwhip/debate/2022-10-27c.485.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.487.0" newgid="uk.org.publicwhip/debate/2022-10-27c.487.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.488.0" newgid="uk.org.publicwhip/debate/2022-10-27c.488.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.490.0" newgid="uk.org.publicwhip/debate/2022-10-27c.490.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.491.0" newgid="uk.org.publicwhip/debate/2022-10-27c.491.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.491.1" newgid="uk.org.publicwhip/debate/2022-10-27c.491.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.491.2" newgid="uk.org.publicwhip/debate/2022-10-27c.491.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.493.0" newgid="uk.org.publicwhip/debate/2022-10-27c.493.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.493.1" newgid="uk.org.publicwhip/debate/2022-10-27c.493.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.494.0" newgid="uk.org.publicwhip/debate/2022-10-27c.494.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.494.1" newgid="uk.org.publicwhip/debate/2022-10-27c.494.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.494.2" newgid="uk.org.publicwhip/debate/2022-10-27c.494.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.494.3" newgid="uk.org.publicwhip/debate/2022-10-27c.494.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.494.4" newgid="uk.org.publicwhip/debate/2022-10-27c.494.4" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-10-27b.494.4" speakername="Sarah Jones" type="Start PointOfOrder" person_id="uk.org.publicwhip/person/25673" colnum="494" time="16:57:00" url="">
+    <p pid="b494.4/1">On a point of order, Mr Deputy Speaker. The shadow Home Office team has been seeking clarity on security breaches involving the Home Secretary and serious discrepancies in the information provided to Parliament. Yesterday, the Prime Minister stated in this House that the Home Secretary</p>
+    <p pid="b494.4/2" class="indent" pwmotiontext="yes">“made an error of judgment, but she recognised that, she raised the matter and she accepted her mistake.”—[Official Report, <phrase class="date" code="2022-10-26">26 October</phrase> 2022; Vol. 721, c. 289.]</p>
+    <p pid="b494.4/3">That was contradicted last night by the former Conservative party chairman, <phrase class="honfriend" person_id="uk.org.publicwhip/person/24860" name="Jake Berry">the right hon. Member for Rossendale and Darwen (Sir Jake Berry)</phrase>, who stated that the Home Secretary was presented with evidence of her breach, rather than proactively reporting it. Similarly, the Home  Secretary has claimed the breach related to a written ministerial statement on immigration, but the former Conservative party chairman claimed it related to cyber-security and other media reports state it was a set of Cabinet papers.</p>
+    <p pid="b494.4/4">The Cabinet Office has now reportedly confirmed that it will investigate neither the circumstances of the Home Secretary’s original departure nor her reappointment. These are questions of national security and are incredibly serious. The public and Parliament deserve answers. Mr Deputy Speaker, this is the latest in a series of attempts to get answers. I ask your advice on how we can compel the Home Secretary to come to this House and answer questions about the accuracy of her resignation letter and the media briefings that have followed.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.495.0" newgid="uk.org.publicwhip/debate/2022-10-27c.495.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.496.0" newgid="uk.org.publicwhip/debate/2022-10-27c.496.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.496.1" newgid="uk.org.publicwhip/debate/2022-10-27c.496.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.496.2" newgid="uk.org.publicwhip/debate/2022-10-27c.496.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.499.0" newgid="uk.org.publicwhip/debate/2022-10-27c.499.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-10-27b.499.0" speakername="Scott Mann" type="Start Speech" person_id="uk.org.publicwhip/person/25383" colnum="499" time="17:12:00" url="">
+    <p pid="b499.0/1">I thank <phrase class="honfriend" person_id="uk.org.publicwhip/person/11605" name="Meg Hillier">the hon. Member for Hackney South and Shoreditch (Dame Meg Hillier)</phrase> for securing this debate. One of my first actions in this House was supporting her as a candidate to chair the Public Accounts Committee, which she has done so eloquently for the past seven years, so it is somewhat fitting that my Dispatch Box debut is replying to her.</p>
+    <p pid="b499.0/2">We are a proud nation of animal lovers. We have a strong record of being at the forefront of standards of care and protection for our animals. Two hundred years ago, the United Kingdom was the first country in the world to pass legislation to protect animals: the Cruel Treatment of Cattle Act 1822, which was instrumental in paving the way for future animal welfare legislation.</p>
+    <p pid="b499.0/3">The Government recognise the importance of high animal welfare standards. On <phrase class="date" code="2022-05-12">12 May</phrase> last year, we published the action plan for animal welfare, laying out the breadth of animal welfare and conservation reforms that we are looking to take forward. We are already delivering several of those objectives. We passed the Animal Welfare (Sentencing) Act 2021, realising our manifesto commitment to</p>
+    <p pid="b499.0/4" class="indent" pwmotiontext="yes">“introduce tougher sentences for animal cruelty.”</p>
+    <p pid="b499.0/5">The Act’s new maximum sentence of five years’ imprisonment and an unlimited fine for the worst cases of animal cruelty is a significant step forward in protecting animal welfare. In addition, the Animal Welfare (Sentience) Act 2022 recognises the sentience of vertebrates, decapods, crustaceans such as lobsters, and cephalopod molluscs such as octopus. Our approach takes into account central Government policy decisions.</p>
+    <p pid="b499.0/6">That is not all we are doing. We have passed the Glue Traps (Offences) Act 2022, which prohibits the use of inhumane glue traps, and the Police, Crime, Sentencing and Courts Act 2022, which introduces tougher sentencing and improved powers to tackle the cruel practice of chasing hares with dogs. Under the new measures, anyone caught hare coursing will now face an unlimited fine and up to six months in prison.</p>
+    <p pid="b499.0/7">The welfare of dogs is important and close to the hearts of many people in this country. The hon. Member has spoken about the important issue of urban dog daycare centres undertaking to improve accessibility and local options for dog owners who want their pets to be cared for. I am myself a dog owner, and I know that owning and caring for a dog is wonderfully rewarding. I should like to think of my two doggos going to Hairy Hounds and having a fabulous afternoon there. I am well aware of the vital role that dog daycare centres provide in ensuring that our pets are looked after. It is hugely important for dogs— regardless of their size or location—to have their welfare needs met. From the most impressive of Great Danes to the diminutive chihuahua, every dog needs appropriate space.</p>
+    <p pid="b499.0/8">Before I deal with the key issues of the debate, let me say something about the Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018, which introduced the licensing scheme for commercial dog daycare centre providers. In 2018 we brought together and modernised the licensing of a range of activities by making those regulations under the Animal Welfare Act 2006. The regulated activities include dog and cat   boarding, dog breeding, pet sales, the hiring out of horses, and the keeping or training of animals for exhibition. The 2018 regulations apply modern animal welfare standards to those activities, and make it easier for local authorities to carry out their enforcement duties. They also enable businesses to gain earned recognition by allowing local authorities to grant longer licences to premises which meet higher welfare standards.</p>
+    <p pid="b499.0/9">The regulations were designed to specify and update the licensing of five key activities involving animals. They include a licensing scheme which ensures, at a minimum, that improved standards of welfare included in the 2006 Act are applied across the five licensable activities. They build on existing requirements, some of which had existed for more than 50 years, including dog boarding legislation from 1963. Thankfully welfare standards have developed considerably since then, and the dog boarding sector has changed significantly. The regulations enable welfare protection to be extended to novel types of dog care which were not mentioned in the Animal Boarding Establishments Act 1963; dog daycare was one of those activities.</p>
+    <p pid="b499.0/10">As the hon. Lady will know, local authorities are responsible for implementing the licensing regime. They ensure that businesses that should be licensed are licensed, and meet the licence conditions of the 2018 regulations. They also check the welfare of the animals involved in licensed activities. Local authorities carry out enforcement activity where necessary if they find that businesses are not meeting their obligations.</p>
+    <p pid="b499.0/11">The regulations are supported by statutory guidance from the Secretary of State for local authority inspectors implementing the licensing regime. The guidance is intended to clarify details of the requirements, and to assist inspectors in their interpretation and application of the licensing regime across England. That ensures consistency between local authorities and gives confidence to trained local authority licensing inspectors, many of whom will have responsibility for licensing a wide range of other business types.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.500.0" newgid="uk.org.publicwhip/debate/2022-10-27c.500.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.500.1" newgid="uk.org.publicwhip/debate/2022-10-27c.500.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-10-27b.502.0" newgid="uk.org.publicwhip/debate/2022-10-27c.502.0" matchtype="perfectmatch"/>
+</publicwhip>
+

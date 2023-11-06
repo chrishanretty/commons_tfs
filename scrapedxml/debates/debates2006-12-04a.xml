@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="a" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.1.0" newgid="uk.org.publicwhip/debate/2006-12-04b.1.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.1.1" newgid="uk.org.publicwhip/debate/2006-12-04b.1.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.1.2" newgid="uk.org.publicwhip/debate/2006-12-04b.1.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.1.3" newgid="uk.org.publicwhip/debate/2006-12-04b.1.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.1.4" newgid="uk.org.publicwhip/debate/2006-12-04b.1.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.1.5" newgid="uk.org.publicwhip/debate/2006-12-04b.1.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.1.6" newgid="uk.org.publicwhip/debate/2006-12-04b.1.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.1.7" newgid="uk.org.publicwhip/debate/2006-12-04b.1.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.1.8" newgid="uk.org.publicwhip/debate/2006-12-04b.1.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.1.9" newgid="uk.org.publicwhip/debate/2006-12-04b.1.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.1.10" newgid="uk.org.publicwhip/debate/2006-12-04b.1.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.1.11" newgid="uk.org.publicwhip/debate/2006-12-04b.1.11" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.3.0" newgid="uk.org.publicwhip/debate/2006-12-04b.3.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.3.1" newgid="uk.org.publicwhip/debate/2006-12-04b.3.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.3.2" newgid="uk.org.publicwhip/debate/2006-12-04b.3.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.3.3" newgid="uk.org.publicwhip/debate/2006-12-04b.3.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.3.4" newgid="uk.org.publicwhip/debate/2006-12-04b.3.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.3.5" newgid="uk.org.publicwhip/debate/2006-12-04b.3.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.4.0" newgid="uk.org.publicwhip/debate/2006-12-04b.4.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.4.1" newgid="uk.org.publicwhip/debate/2006-12-04b.4.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.4.2" newgid="uk.org.publicwhip/debate/2006-12-04b.4.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.4.3" newgid="uk.org.publicwhip/debate/2006-12-04b.4.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.4.4" newgid="uk.org.publicwhip/debate/2006-12-04b.4.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.4.5" newgid="uk.org.publicwhip/debate/2006-12-04b.4.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.4.6" newgid="uk.org.publicwhip/debate/2006-12-04b.4.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.5.0" newgid="uk.org.publicwhip/debate/2006-12-04b.5.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.5.1" newgid="uk.org.publicwhip/debate/2006-12-04b.5.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.5.2" newgid="uk.org.publicwhip/debate/2006-12-04b.5.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2006-12-04a.5.2" speakerid="uk.org.publicwhip/member/1812" speakername="Nicholas Clegg" colnum="5"  time="14:30:00" url="http://www.publications.parliament.uk/pa/cm200607/cmhansrd/cm061204/debtext/61204-0001.htm#0612044000420">
+	<p pid="a.5.2/1">Ten days ago, Angela Schumann was sent to prison following her attempt to commit suicide with her two-year-old daughter by throwing herself off the Humber bridge. We also know from the National Association for the Care and Resettlement of Offenders that three quarters of the schemes to move mentally ill prisoners from prison into specialised facilities are unsuccessful because of lack of beds.</p>
+	<p pid="a.5.2/2">When rebalancing the criminal justice system, will the Minister and his Home Office colleagues look at rebalancing spending priorities and perhaps at using some, if not most, of the &pound;1.5 billion allocated for building to provide yet more overcrowded prison places to expand secure and semi-secure mental health treatment at centres, which do more to cut reoffending and so cut crime?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.5.3" newgid="uk.org.publicwhip/debate/2006-12-04b.5.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2006-12-04a.5.3" speakerid="uk.org.publicwhip/member/1441" speakername="Gerry Sutcliffe" colnum="5"  time="14:30:00" url="http://www.publications.parliament.uk/pa/cm200607/cmhansrd/cm061204/debtext/61204-0001.htm#0612044000421">
+	<p pid="a.5.3/1">The hon. Gentleman makes a pertinent point about how to try to refocus some of the spend. On capacity issues and the prison population, clearly, it is right that we protect the public and find the appropriate accommodation for dangerous offenders, but as he says we need to look at the prison population, how to tackle reoffending and the mental health issues that he raised. I am prepared to look at that, including in discussions with the Minister of State, Department of Health, my right hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/1544" name="Rosie Winterton">the Member for Doncaster, Central (Ms Winterton)</phrase>, on the Mental Health Bill. Lots more work can be done. We must look at the criminal justice system in a thoughtful way. I am happy to continue discussions with the hon. Gentleman.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.5.4" newgid="uk.org.publicwhip/debate/2006-12-04b.5.4" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2006-12-04a.5.4" speakerid="uk.org.publicwhip/member/1615" speakername="Edward Garnier" colnum="5"  time="14:30:00" url="http://www.publications.parliament.uk/pa/cm200607/cmhansrd/cm061204/debtext/61204-0001.htm#0612044000422">
+	<p pid="a.5.4/1">Last Friday, Lord Ramsbotham, who has no political axe to grind, described the criminal justice system as being in meltdown after a decade of failure in crime and punishment, and he went on to say that the Government's handling of it was &quot;absurd. Broken. Chaotic&quot;. To what extent does the Minister think that he can do something about that by stopping passing legislation in a hyperactive way and by just getting on with the business of mending what his Government have broken?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.6.0" newgid="uk.org.publicwhip/debate/2006-12-04b.6.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.6.1" newgid="uk.org.publicwhip/debate/2006-12-04b.6.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.6.2" newgid="uk.org.publicwhip/debate/2006-12-04b.6.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.6.3" newgid="uk.org.publicwhip/debate/2006-12-04b.6.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.6.4" newgid="uk.org.publicwhip/debate/2006-12-04b.6.4" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2006-12-04a.6.4" speakerid="uk.org.publicwhip/member/1902" speakername="Neil Gerrard" colnum="6"  time="14:30:00" url="http://www.publications.parliament.uk/pa/cm200607/cmhansrd/cm061204/debtext/61204-0001.htm#0612044000426">
+	<p pid="a.6.4/1">I am sure that my hon. Friend will be aware&mdash;as my right hon. Friend the Home Secretary certainly will be&mdash;of the arrangements in Scotland that put statutory duties on the probation service to co-operate and work in partnership with other agencies. Why cannot we enter into such arrangements in England and Wales&mdash;I think everyone would welcome that, and it would go some way towards achieving the targets being set&mdash;rather than implement the proposals that we have, which, however they are dressed up, will mean that there are significant possibilities of the privatisation of core parts of the probation service?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.6.5" newgid="uk.org.publicwhip/debate/2006-12-04b.6.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.7.0" newgid="uk.org.publicwhip/debate/2006-12-04b.7.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.7.1" newgid="uk.org.publicwhip/debate/2006-12-04b.7.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.7.2" newgid="uk.org.publicwhip/debate/2006-12-04b.7.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.7.3" newgid="uk.org.publicwhip/debate/2006-12-04b.7.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2006-12-04a.7.3" speakerid="uk.org.publicwhip/member/1441" speakername="Gerry Sutcliffe" colnum="7"  time="14:30:00" url="http://www.publications.parliament.uk/pa/cm200607/cmhansrd/cm061204/debtext/61204-0001.htm#0612044000431">
+	<p pid="a.7.3/1">I do not know where my hon. Friend got that answer, but I have certainly met NAPO on numerous occasions and will continue to do so. It is important that the style of our operation should be that we get to the core of the issues. Clearly, NAPO has its members to protect and it is prepared to stick out to protect them in all circumstances; that is its role. Our role should be to tackle reoffending. We need to look at the best ways we can achieve that.</p>
+	<p pid="a.7.3/2">I have said to my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/1677" name="David Taylor">the Member for North-West Leicestershire (David Taylor)</phrase> that this operation is not about privatisation. My hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/1850" name="David Drew">the Member for Stroud (Mr. Drew)</phrase> knows that organisations such as the National Association for the Care and Resettlement of Offenders and Shelter have great expertise in resettlement. Surely he is not arguing against such bodies being allowed to look into resettlement and doing work that the probation service currently does. These issues are important. If we are serious about tackling reoffending, we have to ensure that we get the best possible services for the public.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.7.4" newgid="uk.org.publicwhip/debate/2006-12-04b.7.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.8.0" newgid="uk.org.publicwhip/debate/2006-12-04b.7.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.8.1" newgid="uk.org.publicwhip/debate/2006-12-04b.8.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.8.2" newgid="uk.org.publicwhip/debate/2006-12-04b.8.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.8.3" newgid="uk.org.publicwhip/debate/2006-12-04b.8.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.8.4" newgid="uk.org.publicwhip/debate/2006-12-04b.8.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.8.5" newgid="uk.org.publicwhip/debate/2006-12-04b.8.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.8.6" newgid="uk.org.publicwhip/debate/2006-12-04b.8.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.9.0" newgid="uk.org.publicwhip/debate/2006-12-04b.9.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.9.1" newgid="uk.org.publicwhip/debate/2006-12-04b.9.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.9.2" newgid="uk.org.publicwhip/debate/2006-12-04b.9.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.9.3" newgid="uk.org.publicwhip/debate/2006-12-04b.9.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.9.4" newgid="uk.org.publicwhip/debate/2006-12-04b.9.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.9.5" newgid="uk.org.publicwhip/debate/2006-12-04b.9.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.9.6" newgid="uk.org.publicwhip/debate/2006-12-04b.9.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.9.7" newgid="uk.org.publicwhip/debate/2006-12-04b.9.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.9.8" newgid="uk.org.publicwhip/debate/2006-12-04b.9.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.10.0" newgid="uk.org.publicwhip/debate/2006-12-04b.10.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.10.1" newgid="uk.org.publicwhip/debate/2006-12-04b.10.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.10.2" newgid="uk.org.publicwhip/debate/2006-12-04b.10.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.10.3" newgid="uk.org.publicwhip/debate/2006-12-04b.10.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.10.4" newgid="uk.org.publicwhip/debate/2006-12-04b.10.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.10.5" newgid="uk.org.publicwhip/debate/2006-12-04b.10.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.10.6" newgid="uk.org.publicwhip/debate/2006-12-04b.10.6" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2006-12-04a.10.6" speakerid="uk.org.publicwhip/member/1618" speakername="Tony McNulty" colnum="10"  time="14:30:00" url="http://www.publications.parliament.uk/pa/cm200607/cmhansrd/cm061204/debtext/61204-0002.htm#0612044000453">
+	<p pid="a.10.6/1">Given the fact, to which the hon. Gentleman alluded, that Lincolnshire asked for &pound;287,600, which included a range of ongoing projects to do with the whole of the east midlands, and that the Government gave the force &pound;287,600, I shall, despite his tiresome, overblown rhetoric, take that as a thank you.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.10.7" newgid="uk.org.publicwhip/debate/2006-12-04b.10.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.11.0" newgid="uk.org.publicwhip/debate/2006-12-04b.11.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.11.1" newgid="uk.org.publicwhip/debate/2006-12-04b.11.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.11.2" newgid="uk.org.publicwhip/debate/2006-12-04b.11.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.11.3" newgid="uk.org.publicwhip/debate/2006-12-04b.11.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.11.4" newgid="uk.org.publicwhip/debate/2006-12-04b.11.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.11.5" newgid="uk.org.publicwhip/debate/2006-12-04b.11.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.11.6" newgid="uk.org.publicwhip/debate/2006-12-04b.11.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.11.7" newgid="uk.org.publicwhip/debate/2006-12-04b.11.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.11.8" newgid="uk.org.publicwhip/debate/2006-12-04b.11.8" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2006-12-04a.11.8" speakerid="uk.org.publicwhip/member/1618" speakername="Tony McNulty" colnum="11"  time="14:30:00" url="http://www.publications.parliament.uk/pa/cm200607/cmhansrd/cm061204/debtext/61204-0002.htm#0612044000463">
+	<p pid="a.11.8/1">My hon. Friend may be, in the sense that in a very mature and reflective way the Government have listened to the debate and to what many police authorities and forces said.</p>
+	<p pid="a.11.8/2">Many police forces&mdash;not all, by the by, but certainly more than Lancashire and Cumbria&mdash;were in favour of merger, as my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/1920" name="Adrian Bailey">the Member for West Bromwich, West (Mr. Bailey)</phrase> suggested. However, having listened to the substantive debate, forces and others said that there were other ways to meet the protective services gaps and we are now involved in that exercise. I said clearly on the day that we stepped away from the enforced merger policy that it was seriously for police authorities, working with Her Majesty's inspectorate of constabulary and the Government, to make it clear to all communities up and down the country that they can fill the gaps in ways other than enforced mergers. If they do, all well and good; if they do not, it may be something that we revisit.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.12.0" newgid="uk.org.publicwhip/debate/2006-12-04b.12.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.12.1" newgid="uk.org.publicwhip/debate/2006-12-04b.12.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2006-12-04a.12.1" speakerid="uk.org.publicwhip/member/1618" speakername="Tony McNulty" colnum="12"  time="14:30:00" url="http://www.publications.parliament.uk/pa/cm200607/cmhansrd/cm061204/debtext/61204-0002.htm#0612044000465">
+	<p pid="a.12.1/1">On the hon. Gentleman's last point, let us be clear that, if it were left to the Conservatives, there would be minus 24,000 and no police community support officers at all. PCSOs are doing a very good job, supplementing police forces up and down the country, not least in his constituency. I do not accept the starting premise of his question&mdash;that two thirds of merger costs were not reimbursed. Two thirds of applications put in that included merger costs were not imbursed. Over 20 of the 43 forces received their reimbursement in full. We said clearly from the start that we would not allow opportunity and other costs to be thrown in for the hell of it so that forces could accrue more moneys. We have had a range of meetings since the summer and it is entirely wrong for the hon. Gentleman to suggest that much of the work done during the mergers was wasted. Forces up and down the country are making significant advances in filling in the gaps in protective services precisely because of the work that was done over the summer and before.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.12.2" newgid="uk.org.publicwhip/debate/2006-12-04b.12.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.12.3" newgid="uk.org.publicwhip/debate/2006-12-04b.12.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.12.4" newgid="uk.org.publicwhip/debate/2006-12-04b.12.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.13.0" newgid="uk.org.publicwhip/debate/2006-12-04b.13.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.13.1" newgid="uk.org.publicwhip/debate/2006-12-04b.13.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2006-12-04a.13.1" speakerid="uk.org.publicwhip/member/1593" speakername="Vernon Coaker" colnum="13"  time="14:30:00" url="http://www.publications.parliament.uk/pa/cm200607/cmhansrd/cm061204/debtext/61204-0002.htm#0612044000469">
+	<p pid="a.13.1/1">With respect to dependent drinkers, we are working closely with the Department of Health, ensuring that they get the treatment that they need. We also have an alcohol harm reduction strategy, which is about not only tackling those who are dependent on drink, but changing the culture and doing something about binge drinking. My hon. Friend will know that recently we launched an advertising campaign called &quot;Know Your Limits&quot;, which set out to do something about that. I can also tell her that we are considering introducing an alcohol interventions programme, which might include referrals from alcohol-related offences for health treatment, counselling and other such support.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.13.2" newgid="uk.org.publicwhip/debate/2006-12-04b.13.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.13.3" newgid="uk.org.publicwhip/debate/2006-12-04b.13.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.13.4" newgid="uk.org.publicwhip/debate/2006-12-04b.13.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.13.5" newgid="uk.org.publicwhip/debate/2006-12-04b.13.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.14.0" newgid="uk.org.publicwhip/debate/2006-12-04b.14.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.14.1" newgid="uk.org.publicwhip/debate/2006-12-04b.14.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.14.2" newgid="uk.org.publicwhip/debate/2006-12-04b.14.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.14.3" newgid="uk.org.publicwhip/debate/2006-12-04b.14.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.14.4" newgid="uk.org.publicwhip/debate/2006-12-04b.14.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.14.5" newgid="uk.org.publicwhip/debate/2006-12-04b.14.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.14.6" newgid="uk.org.publicwhip/debate/2006-12-04b.14.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.15.0" newgid="uk.org.publicwhip/debate/2006-12-04b.15.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.15.1" newgid="uk.org.publicwhip/debate/2006-12-04b.15.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.15.2" newgid="uk.org.publicwhip/debate/2006-12-04b.15.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.15.3" newgid="uk.org.publicwhip/debate/2006-12-04b.15.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.16.0" newgid="uk.org.publicwhip/debate/2006-12-04b.16.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.16.1" newgid="uk.org.publicwhip/debate/2006-12-04b.16.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.16.2" newgid="uk.org.publicwhip/debate/2006-12-04b.16.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.16.3" newgid="uk.org.publicwhip/debate/2006-12-04b.16.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.16.4" newgid="uk.org.publicwhip/debate/2006-12-04b.16.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.16.5" newgid="uk.org.publicwhip/debate/2006-12-04b.16.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.16.6" newgid="uk.org.publicwhip/debate/2006-12-04b.16.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.16.7" newgid="uk.org.publicwhip/debate/2006-12-04b.16.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.17.0" newgid="uk.org.publicwhip/debate/2006-12-04b.17.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.17.1" newgid="uk.org.publicwhip/debate/2006-12-04b.17.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.17.2" newgid="uk.org.publicwhip/debate/2006-12-04b.17.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.17.3" newgid="uk.org.publicwhip/debate/2006-12-04b.17.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.17.4" newgid="uk.org.publicwhip/debate/2006-12-04b.17.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.17.5" newgid="uk.org.publicwhip/debate/2006-12-04b.17.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.17.6" newgid="uk.org.publicwhip/debate/2006-12-04b.17.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.17.7" newgid="uk.org.publicwhip/debate/2006-12-04b.17.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.17.8" newgid="uk.org.publicwhip/debate/2006-12-04b.17.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.17.9" newgid="uk.org.publicwhip/debate/2006-12-04b.17.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.18.0" newgid="uk.org.publicwhip/debate/2006-12-04b.18.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.18.1" newgid="uk.org.publicwhip/debate/2006-12-04b.18.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.18.2" newgid="uk.org.publicwhip/debate/2006-12-04b.18.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.18.3" newgid="uk.org.publicwhip/debate/2006-12-04b.18.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.18.4" newgid="uk.org.publicwhip/debate/2006-12-04b.18.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.18.5" newgid="uk.org.publicwhip/debate/2006-12-04b.18.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.18.6" newgid="uk.org.publicwhip/debate/2006-12-04b.18.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.18.7" newgid="uk.org.publicwhip/debate/2006-12-04b.18.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.19.0" newgid="uk.org.publicwhip/debate/2006-12-04b.19.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.19.1" newgid="uk.org.publicwhip/debate/2006-12-04b.19.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.19.2" newgid="uk.org.publicwhip/debate/2006-12-04b.19.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.19.3" newgid="uk.org.publicwhip/debate/2006-12-04b.19.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.19.4" newgid="uk.org.publicwhip/debate/2006-12-04b.19.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.19.5" newgid="uk.org.publicwhip/debate/2006-12-04b.19.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.20.0" newgid="uk.org.publicwhip/debate/2006-12-04b.20.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.20.1" newgid="uk.org.publicwhip/debate/2006-12-04b.20.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.20.2" newgid="uk.org.publicwhip/debate/2006-12-04b.20.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.20.3" newgid="uk.org.publicwhip/debate/2006-12-04b.20.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.20.4" newgid="uk.org.publicwhip/debate/2006-12-04b.20.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.20.5" newgid="uk.org.publicwhip/debate/2006-12-04b.20.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.20.6" newgid="uk.org.publicwhip/debate/2006-12-04b.20.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.21.0" newgid="uk.org.publicwhip/debate/2006-12-04b.21.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.21.1" newgid="uk.org.publicwhip/debate/2006-12-04b.21.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2006-12-04a.21.1" speakerid="uk.org.publicwhip/member/1806" speakername="Tony Blair" speakeroffice="The Prime Minister"  colnum="21"  time="015:30:00" url="http://www.publications.parliament.uk/pa/cm200607/cmhansrd/cm061204/debtext/61204-0003.htm#0612044000518">
+	<p pid="a.21.1/1">With your permission, Mr. Speaker, I shall make a statement about the Government's decision to maintain the United Kingdom's independent nuclear deterrent.</p>
+	<p pid="a.21.1/2">There are many complex technical, financial and military issues to be debated in respect of this decision, but none of them obscures or alters the fundamental political judgment at the crux of it. Britain has had an independent nuclear deterrent for the past half century. In that time, the world has changed dramatically, not least in the collapse of the Soviet Union&mdash;the original context in which the deterrent was acquired. Given that that change has occurred, the question is whether it is wise to maintain the deterrent in the very different times of today. The whole point about the deterrent is not to create the circumstances in which it can be used but, on the contrary, to try to create circumstances in which it is never used. Necessarily, therefore, any analysis of what role it could play in any situation that is hypothetical will always be open to the most strenuous dispute.</p>
+	<p pid="a.21.1/3">Ultimately, this decision is a judgment&mdash;a judgment about possible risks to our country and its security, and the place of the deterrent in thwarting those risks. The Government's judgment on balance is that, although the cold war is over we cannot be certain in the decades ahead that a major nuclear threat to our strategic interests will not emerge; that there is also a new and potentially hazardous threat from states such as North Korea, which claims to have developed nuclear weapons already, or Iran, which is in breach of its non-proliferation duties; that there is a possible connection between some of those states and international terrorism; that it is noteworthy that no present nuclear power is, or is even considering, divesting itself of its nuclear capability unilaterally; and that in those circumstances it would be unwise and dangerous for Britain, alone of the nuclear powers, to give up its independent nuclear deterrent.</p>
+	<p pid="a.21.1/4">The House will notice that I do not say that the opposite decision is unthinkable, or that anyone who proposes it is pacifist or indifferent to our country's defence. There are perfectly respectable arguments against the judgment that we have made. I both understand them and appreciate their force. It is just that, in the final analysis, the risk of giving up something that has been one of the mainstays of our security since the war, and, moreover, doing so when the one certain thing about our world today is its uncertainty, is not a risk I feel we can responsibly take. Our independent nuclear deterrent is the ultimate insurance. It may be&mdash;indeed, hopefully, is&mdash;the case that the eventuality against which we are insuring ourselves will never come to pass, but in this era of unpredictable but rapid change, when every decade has a magnitude of difference with the last, and when the consequences of a misjudgment on this issue are potentially catastrophic, would we want to drop this insurance, not as part of a global move to do so, but on our own? I think not.</p>
+	<p pid="a.21.1/5">What will happen from today, however, will be a very full process of debate. It is our intention, at the conclusion of that process in March next year, to have a vote in the House. We will make arrangements during the process to answer as fully as possible any of the questions that arise. Of course, I am sure the Select Committee on Defence, at least, will want to examine the issue carefully. The White Paper, which we publish today, goes into not merely the reasons for the decision but a technical explanation of the various options, and it tries to cover in some detail all potential lines of dispute or inquiry. I hope, therefore, that we can focus on the decision itself, not the process. Let me now turn to some of the key questions.</p>
+	<p pid="a.21.1/6">First, the reason why this decision comes to us now is that if in 2007 we do not take the initial steps toward maintaining our deterrent, shortage of time may prevent us from being able to do so. Necessarily, we can form that view based only on estimates, but they are from the evidence given to us by our own experts, by the industry that would build the new submarines, and from the experience of other nuclear states.</p>
+	<p pid="a.21.1/7">Our deterrent is based on four submarines. At any one time, one will be in dock undergoing extensive repair and maintenance, usually for around four years. The other three will be at sea or in port for short periods. At all times at least one will be on deterrent patrol, fully armed. The submarines are equipped with Trident D5 missiles that are US manufactured but maintained with our close technical and scientific collaboration. The operation of the system is fully independent&mdash;a missile can be fired only on the instructions of the British Prime Minister.</p>
+	<p pid="a.21.1/8">The current Vanguard submarines have a service life of 25 years. The first boat should leave service in 2017. We can extend that for five years, so in 2022 that extension will be concluded, and in 2024 the second boat will also end its extended service life. By that time, we will have only two Vanguard submarines. That will be insufficient to guarantee continuous patrolling.</p>
+	<p pid="a.21.1/9">The best evidence we have is that it will take us 17 years to design, build and deploy a new submarine. Working back from 2024, therefore, that means that we have to take the decision in 2007. Of course, all these timelines are estimates, but they conform to the experience of other countries with submarine deterrents, as well as to our own.</p>
+	<p pid="a.21.1/10">Secondly, we have looked carefully at the scope of different options. The White Paper sets them out&mdash;for example, aircraft with cruise missiles, but cruise missiles travel at subsonic speeds, and building the special aircraft would be hugely expensive; or a surface ship equipped with Trident, but that is a far easier target; or a land-based system with Trident, but in a small country such as the United Kingdom that would be immensely problematic and, again, an easier target. There is no real doubt on this score: if we want an independent nuclear deterrent, for a nation such as the UK a submarine-based one is the best. It is also our only deterrent; in the 1990s we moved to Trident as our sole nuclear capability.</p>
+	<p pid="a.21.1/11">Of the other major nuclear powers, the US has submarine, air and land-based capability. Russia has all three capabilities and has the largest number of nuclear weapons. France has both submarine and air-launched capability and has a new class of submarines in development, the last of which is due to come into service in 2010. China has a smaller number of land-based strategic nuclear weapons but is working on modernising its capability, including a submarine-based nuclear ballistic missile.</p>
+	<p pid="a.21.1/12">We will continue to procure some elements of the system, particularly those relating to the missile, from the United States, but, as now, we will maintain full operational independence. The submarines, missiles, warheads and command chain are entirely under British control, and will remain so after 2024. That gives British Prime Ministers the necessary assurance that no aggressor can escalate a crisis beyond UK control.</p>
+	<p pid="a.21.1/13">A new generation of submarines will make maximum use of existing infrastructure and technology. The overall design and manufacture costs of some &pound;15 billion to &pound;20 billion are spread over three decades, are on average 3 per cent. of the defence budget, and are at their highest in the early 2020s. As before, we will ensure that the investment required will not be at the expense of the conventional capabilities that our armed forces need. It is our intention that the procurement and building will, as now, be done by British industry, with thousands of British, highly skilled jobs involved.</p>
+	<p pid="a.21.1/14">However, we will investigate whether, with a new design, we can maintain continuous patrol with a fleet of only three submarines. A decision on that will be made once we know more about the submarines' detailed design. No decisions are needed now on the warhead. We can extend the life of the D5 Trident missile to 2042. After that, there will be the opportunity for us to participate in any new missile design in collaboration with the US, which will be confirmed in an exchange of letters between myself and the President of the United States.</p>
+	<p pid="a.21.1/15">Maintaining our nuclear deterrent capability is also fully consistent with all our international obligations. We have the smallest stockpile of nuclear warheads among the recognised nuclear weapons states, and we are the only one to have reduced to a single deterrent system. Furthermore, we have decided, on expert advice, that we can reduce our stockpile of operationally available warheads to no more than 160, which represents a further 20 per cent. reduction. Compared with previous plans, we will have reduced the number of such weapons by nearly half.</p>
+	<p pid="a.21.1/16">So, inexorably, we return to the central judgment: maintain our independent nuclear deterrent, or not? It is written as a fact by many that there is no possibility of nuclear confrontation with any major nuclear power&mdash;except that it is not a fact. Like everything else germane to this judgment, it is a prediction. It is probably right&mdash;but certain? No, we cannot say that.</p>
+	<p pid="a.21.1/17">The new dimension is undoubtedly the desire by states, highly dubious in their intentions, like North Korea and Iran, to pursue nuclear weapons capability. Fortunately, Libya has given up its weapons of mass destruction ambitions and has played a positive role internationally; the notorious network of A. Q. Khan, the former Pakistani nuclear physicist, has been shut down. But proliferation remains a real problem. The notion of unstable, usually deeply repressive and anti-democratic states, in some cases profoundly inimical to our way of life, having a nuclear capability, is a distinct and novel reason for Britain not to give up its capacity to deter.</p>
+	<p pid="a.21.1/18">It is not utterly fanciful, either, to imagine states sponsoring nuclear terrorism from their soil. We know that this global terrorism seeks chemical, biological and nuclear devices. It is not impossible to contemplate a rogue Government helping such an acquisition. It is true that our deterrent would not deter or prevent terrorists, but it is bound to have an impact on Governments who might sponsor them.</p>
+	<p pid="a.21.1/19">Then there is the argument, attractive to all of us who believe in the power of countries to lead by example, as we seek to do in climate change and have done in respect of debt relief, that Britain giving up its deterrent would encourage others in the same direction. Unfortunately, there is no evidence that any major nuclear power would follow such an example&mdash;on the contrary. As for the new, would-be nuclear powers, it really would be naive to think that they would be influenced by a purely British decision&mdash;more likely, they would construe it as weakness.</p>
+	<p pid="a.21.1/20">Finally, there is one other argument: that we shelter under the nuclear deterrent of America. Our co-operation with America is rightly very close, but close as it is, the independent nature of the British deterrent is again an additional insurance against circumstances where we are threatened but America is not. Those circumstances are, I agree, also highly unlikely, but I am unwilling to say that they are non-existent.</p>
+	<p pid="a.21.1/21">In the end, therefore, we come back to the same judgment. Anyone can say that the prospect of Britain facing a threat in which our nuclear deterrent is relevant is highly improbable; no-one, however, can say that it is impossible. In the early 21st century, the world may have changed beyond recognition since the decision taken by the Attlee Government more than half a century ago. But it is precisely because we could not have recognised then the world we live in now that it would not be wise, now, to predict the unpredictable in the times to come. That is the judgment that we have come to. We have done so according to what we think is in the long-term strategic interests of our nation and its security. I commend that judgment to the House.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.24.0" newgid="uk.org.publicwhip/debate/2006-12-04b.24.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.25.0" newgid="uk.org.publicwhip/debate/2006-12-04b.25.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.26.0" newgid="uk.org.publicwhip/debate/2006-12-04b.26.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.26.1" newgid="uk.org.publicwhip/debate/2006-12-04b.26.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.26.2" newgid="uk.org.publicwhip/debate/2006-12-04b.26.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.26.3" newgid="uk.org.publicwhip/debate/2006-12-04b.26.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.27.0" newgid="uk.org.publicwhip/debate/2006-12-04b.27.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.27.1" newgid="uk.org.publicwhip/debate/2006-12-04b.27.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.27.2" newgid="uk.org.publicwhip/debate/2006-12-04b.27.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.27.3" newgid="uk.org.publicwhip/debate/2006-12-04b.27.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.28.0" newgid="uk.org.publicwhip/debate/2006-12-04b.28.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.28.1" newgid="uk.org.publicwhip/debate/2006-12-04b.28.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.28.2" newgid="uk.org.publicwhip/debate/2006-12-04b.28.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.28.3" newgid="uk.org.publicwhip/debate/2006-12-04b.28.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.28.4" newgid="uk.org.publicwhip/debate/2006-12-04b.28.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.28.5" newgid="uk.org.publicwhip/debate/2006-12-04b.28.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.29.0" newgid="uk.org.publicwhip/debate/2006-12-04b.29.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2006-12-04a.29.0" speakerid="uk.org.publicwhip/member/1753" speakername="Michael Meacher" colnum="29"  time="015:30:00" url="http://www.publications.parliament.uk/pa/cm200607/cmhansrd/cm061204/debtext/61204-0005.htm#0612044000535">
+	<p pid="a.29.0/1">Given a cost of up to &pound;75 billion&mdash;including the cost of maintenance over a lifespan of 30 years&mdash;how can this proposal be justified in an utterly different, post-cold-war environment, when it will severely restrict much more needed conventional defence expenditure? It will clearly undermine the nuclear non-proliferation treaty, especially for Iran, and it will drain off colossal sums of money from where they are most needed to deal with the real threats that confront us&mdash;terrorism, climate change and long-term energy insecurity.025</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.29.1" newgid="uk.org.publicwhip/debate/2006-12-04b.29.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.29.2" newgid="uk.org.publicwhip/debate/2006-12-04b.29.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.29.3" newgid="uk.org.publicwhip/debate/2006-12-04b.29.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.30.0" newgid="uk.org.publicwhip/debate/2006-12-04b.30.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.30.1" newgid="uk.org.publicwhip/debate/2006-12-04b.30.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.30.2" newgid="uk.org.publicwhip/debate/2006-12-04b.30.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.30.3" newgid="uk.org.publicwhip/debate/2006-12-04b.30.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.31.0" newgid="uk.org.publicwhip/debate/2006-12-04b.31.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.31.1" newgid="uk.org.publicwhip/debate/2006-12-04b.31.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.31.2" newgid="uk.org.publicwhip/debate/2006-12-04b.31.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.31.3" newgid="uk.org.publicwhip/debate/2006-12-04b.31.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.32.0" newgid="uk.org.publicwhip/debate/2006-12-04b.32.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.32.1" newgid="uk.org.publicwhip/debate/2006-12-04b.32.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.32.2" newgid="uk.org.publicwhip/debate/2006-12-04b.32.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.32.3" newgid="uk.org.publicwhip/debate/2006-12-04b.32.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.32.4" newgid="uk.org.publicwhip/debate/2006-12-04b.32.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.33.0" newgid="uk.org.publicwhip/debate/2006-12-04b.33.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.33.1" newgid="uk.org.publicwhip/debate/2006-12-04b.33.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.33.2" newgid="uk.org.publicwhip/debate/2006-12-04b.33.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.33.3" newgid="uk.org.publicwhip/debate/2006-12-04b.33.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.33.4" newgid="uk.org.publicwhip/debate/2006-12-04b.33.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.33.5" newgid="uk.org.publicwhip/debate/2006-12-04b.33.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.33.6" newgid="uk.org.publicwhip/debate/2006-12-04b.33.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.33.7" newgid="uk.org.publicwhip/debate/2006-12-04b.33.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.34.0" newgid="uk.org.publicwhip/debate/2006-12-04b.34.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.34.1" newgid="uk.org.publicwhip/debate/2006-12-04b.34.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.34.2" newgid="uk.org.publicwhip/debate/2006-12-04b.34.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.34.3" newgid="uk.org.publicwhip/debate/2006-12-04b.34.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.34.4" newgid="uk.org.publicwhip/debate/2006-12-04b.34.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.34.5" newgid="uk.org.publicwhip/debate/2006-12-04b.34.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.35.0" newgid="uk.org.publicwhip/debate/2006-12-04b.35.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.35.1" newgid="uk.org.publicwhip/debate/2006-12-04b.35.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.35.2" newgid="uk.org.publicwhip/debate/2006-12-04b.35.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.35.3" newgid="uk.org.publicwhip/debate/2006-12-04b.35.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.35.4" newgid="uk.org.publicwhip/debate/2006-12-04b.35.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.35.5" newgid="uk.org.publicwhip/debate/2006-12-04b.35.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.35.6" newgid="uk.org.publicwhip/debate/2006-12-04b.35.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.36.0" newgid="uk.org.publicwhip/debate/2006-12-04b.36.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.36.1" newgid="uk.org.publicwhip/debate/2006-12-04b.36.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.36.2" newgid="uk.org.publicwhip/debate/2006-12-04b.36.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.36.3" newgid="uk.org.publicwhip/debate/2006-12-04b.36.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.36.4" newgid="uk.org.publicwhip/debate/2006-12-04b.36.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.37.0" newgid="uk.org.publicwhip/debate/2006-12-04b.37.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.37.1" newgid="uk.org.publicwhip/debate/2006-12-04b.37.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.37.2" newgid="uk.org.publicwhip/debate/2006-12-04b.37.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2006-12-04a.37.2" speakerid="uk.org.publicwhip/member/1806" speakername="Tony Blair" colnum="37"  time="015:30:00" url="http://www.publications.parliament.uk/pa/cm200607/cmhansrd/cm061204/debtext/61204-0006.htm#0612044000580">
+	<p pid="a.37.2/1">Again, my hon. Friend is absolutely right to say that these are fine matters of judgment in difficult circumstances that we are, of necessity, predicting&mdash;they are hypothetical. I can see a situation&mdash;let us hope it never happens&mdash;in which states with their own nuclear weapons capability are sponsoring terrorism and encouraging the use of chemical, biological or nuclear weapons capability. We do not ever want to be in the position of using our deterrents, but if states had nuclear weapons capability and were threatening our country they might be less willing to do so if we had the nuclear deterrent. That is the judgment that we have to make. I repeat that the idea of the deterrent is not to use it but to try to create circumstances in which it is never used, which is why when people debate the morality of having nuclear weapons or not, it is merely another way of having the debate about whether deterrents deter. If they deter, it is sensible to have them; if they do not, obviously it is not. That is why this thing is best decided on the basis not of what we might do in a particular situation but of what might deter others in actions we wish to deter.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.37.3" newgid="uk.org.publicwhip/debate/2006-12-04b.37.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.38.0" newgid="uk.org.publicwhip/debate/2006-12-04b.38.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.38.1" newgid="uk.org.publicwhip/debate/2006-12-04b.38.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.38.2" newgid="uk.org.publicwhip/debate/2006-12-04b.38.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.39.0" newgid="uk.org.publicwhip/debate/2006-12-04b.39.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.39.1" newgid="uk.org.publicwhip/debate/2006-12-04b.39.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.39.2" newgid="uk.org.publicwhip/debate/2006-12-04b.39.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.39.3" newgid="uk.org.publicwhip/debate/2006-12-04b.39.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.39.4" newgid="uk.org.publicwhip/debate/2006-12-04b.39.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.39.5" newgid="uk.org.publicwhip/debate/2006-12-04b.39.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.39.6" newgid="uk.org.publicwhip/debate/2006-12-04b.39.6" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2006-12-04a.39.6" speakerid="uk.org.publicwhip/member/2014" speakername="Mr. Speaker" colnum="39"  time="016:33:00" url="http://www.publications.parliament.uk/pa/cm200607/cmhansrd/cm061204/debtext/61204-0006.htm#0612044000586">
+	<p pid="a.39.6/1">With this it will be convenient to discuss the following:</p>
+	<p pid="a.39.6/2">New clause 2&mdash;<i> Individual officers' liability: penalties&mdash;</i></p>
+	<p pid="a.39.6/3">'An officer of an organisation who is guilty of corporate manslaughter or corporate homicide under section [Individual officers' liability] is liable on conviction to a term of imprisonment or a fine.'.</p>
+	<p pid="a.39.6/4">New clause 4&mdash;<i> Members of senior management liable to disqualification as company directors&mdash;</i></p>
+	<p pid="a.39.6/5">'Where an offence under section 1 committed by an organisation to which that section applies is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, any member of the senior management of the organisation who is a director of a company, section 2(1) of the Company Directors Disqualification Act 1986 (c. 46) (disqualification on conviction of indictable offence) shall apply to him as if he had been convicted of an offence falling within that subsection.'.</p>
+	<p pid="a.39.6/6">New clause 6&mdash;<i> Offence by senior manager&mdash;</i></p>
+	<p pid="a.39.6/7">'(1) A senior manager of an organisation is guilty of an offence if by his acts or omissions which amounted to a gross breach of his duty he could have prevented an offence under section 1.</p>
+	<p pid="a.39.6/8">(2) For the purposes of this section a person is a &quot;senior manager&quot; of an organisation if he plays a significant role in the making of decisions about how the activities of the organisation are managed or organised and includes the chairman, managing director, chief executive, secretary or other director of the organisation.</p>
+	<p pid="a.39.6/9">(3) A person guilty of an offence under subsection (1) is liable on conviction on indictment to&mdash;</p>
+	<p pid="a.39.6/10">(a) imprisonment for a term not exceeding 6 months, or</p>
+	<p pid="a.39.6/11">(b) a fine not exceeding the statutory maximum,</p>
+	<p pid="a.39.6/12">or to both.'.</p>
+	<p pid="a.39.6/13">New clause 7&mdash;<i> Aiding and abetting&mdash;</i></p>
+	<p pid="a.39.6/14">'Any company director or senior manager who is found to have aided, abetted, counselled or procured the commission of an offence of corporate manslaughter or corporate homicide shall be liable to imprisonment for a period not exceeding seven years.'.</p>
+	<p pid="a.39.6/15">Amendment No. 40, in page 11, line 19, leave out clause 16.</p>
+	<p pid="a.39.6/16">Amendment No. 7, in line 20, leave out 'cannot' and insert 'can'.</p>
+	<p pid="a.39.6/17">Amendment No. 8, in line 22 leave out 'cannot' and insert 'can'.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.40.0" newgid="uk.org.publicwhip/debate/2006-12-04b.40.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.41.0" newgid="uk.org.publicwhip/debate/2006-12-04b.41.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.41.1" newgid="uk.org.publicwhip/debate/2006-12-04b.41.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.42.0" newgid="uk.org.publicwhip/debate/2006-12-04b.42.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.43.0" newgid="uk.org.publicwhip/debate/2006-12-04b.43.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.43.1" newgid="uk.org.publicwhip/debate/2006-12-04b.43.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.44.0" newgid="uk.org.publicwhip/debate/2006-12-04b.44.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.44.1" newgid="uk.org.publicwhip/debate/2006-12-04b.44.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.44.2" newgid="uk.org.publicwhip/debate/2006-12-04b.44.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.44.3" newgid="uk.org.publicwhip/debate/2006-12-04b.44.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.44.4" newgid="uk.org.publicwhip/debate/2006-12-04b.44.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.45.0" newgid="uk.org.publicwhip/debate/2006-12-04b.45.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.45.1" newgid="uk.org.publicwhip/debate/2006-12-04b.45.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.46.0" newgid="uk.org.publicwhip/debate/2006-12-04b.46.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.46.1" newgid="uk.org.publicwhip/debate/2006-12-04b.46.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.46.2" newgid="uk.org.publicwhip/debate/2006-12-04b.46.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.46.3" newgid="uk.org.publicwhip/debate/2006-12-04b.46.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2006-12-04a.46.3" speakerid="uk.org.publicwhip/member/1827" speakername="John Denham" colnum="46"  time="016:45:00" url="http://www.publications.parliament.uk/pa/cm200607/cmhansrd/cm061204/debtext/61204-0007.htm#0612044000603">
+	<p pid="a.46.3/1">Most right hon. and hon. Members who are taking part in this debate recently participated in an intensive programme of discussion in Committee, but I am returning to these matters after a gap. It was a year since the draft Bill was scrutinised by the Home Affairs Committee, which I chair, and the Work and Pensions Committee, so I am rusty on the finer points of law. However, my overwhelming memory is of the public's expectations that Parliament should legislate on corporate manslaughter. We took evidence from a wide range of organisations, including well-known ones such as Disaster Action, the Simon Jones memorial campaign, the Marchioness contact group and a number of trade unions, whose officers deal directly with the families of people killed in workplace accidents.</p>
+	<p pid="a.46.3/2">It was clear that the job would be only half done if we were able to hold companies to account but not the individuals whose negligence contributed to the problems that resulted in those companies being brought to court. I fear that if we do not amend the Bill as it proceeds through Parliament, we, or our successors, will have to come to the House in a few years' time to address the issue again. It is easy to anticipate circumstances in which companies that have escaped prosecution under the common law offence are successfully brought to book under the corporate manslaughter provisions that we are discussing. No individual, however, will be held to account for their part in the death, so the provision will be regarded as unsatisfactory law. It will be better than current provisions&mdash;without doubt, it will be a step forward&mdash;but it does not go as far as it could.</p>
+	<p pid="a.46.3/3">New clause 4 has a modest aim. I should make it clear that the Committees that scrutinised the Bill called for secondary prosecution under criminal law. To be fair, however, that was one of the few issues on which we divided, and the vote was split. We pointed out that several pieces of legislation, including health and safety legislation and the Terrorism Act 2000, provide a legal structure for secondary prosecution of individuals when companies are found guilty of an offence. My modest new clause aims simply to clarify the proposal that once a company is found guilty of corporate manslaughter, at the very least its directors, who share responsibility, as the new clause sets out, should be disqualified from serving as company directors.</p>
+	<p pid="a.46.3/4">As the hon. Member for Beaconsfield says, there might not be any need for that. I make two qualifications. First, if it requires a separate prosecution under health and safety legislation to achieve that outcome, that would not be satisfactory. Secondly, even at the slight risk of over-egging the pudding, there is an advantage in making it clear in the Bill that the House had an expectation at the very least that disqualification would follow. Personally, I would prefer to see a secondary prosecution, but we may not be able to achieve that as the Bill goes through Parliament.</p>
+	<p pid="a.46.3/5">The amendment suggests to the Minister some action that could be taken. He may say that every legal measure already exists, and that if corporate manslaughter becomes a criminal offence as proposed, directors will be liable for disqualification without hesitation or obstacle. That would be a satisfactory response from the Minister, but if not, the Bill should be amended here or in another place to make it clear that we can offer at least that consequence to the families whom we heard represented in front of our Joint Committee and whom we all know we will meet in the future.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.47.0" newgid="uk.org.publicwhip/debate/2006-12-04b.47.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.47.1" newgid="uk.org.publicwhip/debate/2006-12-04b.47.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.48.0" newgid="uk.org.publicwhip/debate/2006-12-04b.48.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.48.1" newgid="uk.org.publicwhip/debate/2006-12-04b.48.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.48.2" newgid="uk.org.publicwhip/debate/2006-12-04b.48.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.48.3" newgid="uk.org.publicwhip/debate/2006-12-04b.48.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.48.4" newgid="uk.org.publicwhip/debate/2006-12-04b.48.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.49.0" newgid="uk.org.publicwhip/debate/2006-12-04b.49.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.49.1" newgid="uk.org.publicwhip/debate/2006-12-04b.49.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.49.2" newgid="uk.org.publicwhip/debate/2006-12-04b.49.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.49.3" newgid="uk.org.publicwhip/debate/2006-12-04b.49.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.50.0" newgid="uk.org.publicwhip/debate/2006-12-04b.50.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.50.1" newgid="uk.org.publicwhip/debate/2006-12-04b.50.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.50.2" newgid="uk.org.publicwhip/debate/2006-12-04b.50.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.50.3" newgid="uk.org.publicwhip/debate/2006-12-04b.50.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.50.4" newgid="uk.org.publicwhip/debate/2006-12-04b.50.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.51.0" newgid="uk.org.publicwhip/debate/2006-12-04b.51.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.51.1" newgid="uk.org.publicwhip/debate/2006-12-04b.51.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2006-12-04a.51.1" speakerid="uk.org.publicwhip/member/1566" speakername="Ian Stewart" colnum="51"  time="017:15:00" url="http://www.publications.parliament.uk/pa/cm200607/cmhansrd/cm061204/debtext/61204-0008.htm#0612044000621">
+	<p pid="a.51.1/1">I am glad that the Minister agrees with me. However, I would counsel him to let me finish, or he might not get the whole story and might therefore give a partial answer, and I want to hear the full answer.</p>
+	<p pid="a.51.1/2">The difference between the hon. Member for Beaconsfield and me is about whether there should be a named director if we move to the implementation of the concept of corporate of manslaughter. I and others have argued in Committee and elsewhere that if it is appropriate under other legislation for, say, a director of finance who commits a wilful act of fraud to find him or herself sent to prison by a court, why would it not be relevant where the concept of corporate manslaughter had been enshrined in legislation to do the same where a manager, director or other significant person in a company had wilfully taken decisions on behalf of the company which created circumstances under which an avoidable death occurred?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.51.2" newgid="uk.org.publicwhip/debate/2006-12-04b.51.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.52.0" newgid="uk.org.publicwhip/debate/2006-12-04b.52.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.52.1" newgid="uk.org.publicwhip/debate/2006-12-04b.52.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.52.2" newgid="uk.org.publicwhip/debate/2006-12-04b.52.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.52.3" newgid="uk.org.publicwhip/debate/2006-12-04b.52.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.52.4" newgid="uk.org.publicwhip/debate/2006-12-04b.52.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.52.5" newgid="uk.org.publicwhip/debate/2006-12-04b.52.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.53.0" newgid="uk.org.publicwhip/debate/2006-12-04b.53.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2006-12-04a.53.0" speakerid="uk.org.publicwhip/member/1566" speakername="Ian Stewart" colnum="53"  time="017:15:00" url="http://www.publications.parliament.uk/pa/cm200607/cmhansrd/cm061204/debtext/61204-0008.htm#0612044000629">
+	<p pid="a.53.0/1">I believe that the hon. Gentleman is now trying to mirror the Minister's approach and take the words out of our mouths. He knows full well that if we are not successful&mdash;I hope that we are&mdash;and the Minister, for his own reasons, cannot move to directors' duties and penalties in this Bill, we have proposed potential changes to the Health and Safety at Work, etc. Act. In Committee, we discussed consensus over that direction.</p>
+	<p pid="a.53.0/2">We intend to push these concepts to the boundaries, and to push the Minister as far as we can to do the best that is possible in the Bill. If the Minister wishes us not to pursue the directors' duties and the spectrum of penalties that we would like to see, I hope he will give us some reassurance that he will support us in trying to open a door&mdash;whether it be the Health and Safety at Work, etc. Act or any other relevant legislation&mdash;to allow us to achieve what we seek to achieve.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.53.1" newgid="uk.org.publicwhip/debate/2006-12-04b.53.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.53.2" newgid="uk.org.publicwhip/debate/2006-12-04b.53.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.53.3" newgid="uk.org.publicwhip/debate/2006-12-04b.53.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.54.0" newgid="uk.org.publicwhip/debate/2006-12-04b.54.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.54.1" newgid="uk.org.publicwhip/debate/2006-12-04b.54.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.54.2" newgid="uk.org.publicwhip/debate/2006-12-04b.54.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.54.3" newgid="uk.org.publicwhip/debate/2006-12-04b.54.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2006-12-04a.54.3" speakerid="uk.org.publicwhip/member/1705" speakername="Tony Lloyd" colnum="54"  time="017:30:00" url="http://www.publications.parliament.uk/pa/cm200607/cmhansrd/cm061204/debtext/61204-0008.htm#0612044000636">
+	<p pid="a.54.3/1">That is an interesting concept, because I have not written it yet.</p>
+	<p pid="a.54.3/2">We want to ensure that the courts have a range of powers and penalties. More importantly, we want to ensure that not simply the prosecuting authorities but the authorities generally&mdash;the Health and Safety Commission, the Health and Safety Executive and others&mdash;have a range of powers that allow them to begin to look at the question of how to change the safety culture.</p>
+	<p pid="a.54.3/3">The reality of many of the famous disasters&mdash;the railway disasters, the Herald of Free Enterprise disaster&mdash;is that in the end no one suffered any individual penalty. In individual cases, whether the individual should be so penalised may always be an arguable point. <phrase class="honfriend" id="uk.org.publicwhip/member/1394" name="Dominic Grieve">The hon. Member for Beaconsfield (Mr. Grieve)</phrase> is right to say, and I agree wholeheartedly, that there are circumstances where gross negligence by an individual in the corporate setting would lead to the charge of manslaughter under existing common law. That is not a matter of dispute; it is right and proper that that should be the case.</p>
+	<p pid="a.54.3/4">What we are talking about here, however, is whether, as part of driving forward safety, we need to introduce not simply the Bill, but new clauses 6 and 7, and indeed new clauses 1 and 4. The profound argument is that we need exactly that change, because we have not been able to prosecute either companies or, in practice, individuals through the route of the common crime of manslaughter. The public&mdash;this is why it is not a legal issue; it is about common sense&mdash;and the families most directly affected by those tragedies demand of Parliament that we introduce something better than the current law. It is in that context that I advance my argument today.</p>
+	<p pid="a.54.3/5">The test of the prosecution case of corporate manslaughter has been very high; it has been gross neglect on the part of companies. However, it has also been necessary to prove that there has been individual gross neglect by directors to trigger the laying of the corporate manslaughter charge. That chain of causality is almost entirely the wrong way round. The hon. Member for Beaconsfield and I will disagree on that, but we will be able to prove under the Bill that corporate manslaughter took place as a corporate event. If the gross neglect is by the corporate body, that of itself should lead to that body appearing before the court to face the charge of corporate manslaughter. That is right and proper.</p>
+	<p pid="a.54.3/6">Normally for an incorporated body, we look at the sanction of a fine, although it is appropriate to look at sanctions against directors of the kind that my right hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/1827" name="John Denham">the Member for Southampton, Itchen (Mr. Denham)</phrase> mentioned. Disqualification of directors is a kind of corporate naming and shaming, although it is more specific than naming and shaming because it will prevent them from operating as directors elsewhere. It appealing because, as we know, the former head of Railtrack is facing no sanction whatever for the catastrophes that Railtrack led individuals into. He is cheerfully ensconced elsewhere making a lot of money as a senior corporate officer of another company. That does not make sense to an awful lot of ordinary people. The idea of disqualification is a sensible way forward for those who are not caught in the stronger trap of individual liability of a custodial variety.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.55.0" newgid="uk.org.publicwhip/debate/2006-12-04b.55.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.55.1" newgid="uk.org.publicwhip/debate/2006-12-04b.55.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.57.0" newgid="uk.org.publicwhip/debate/2006-12-04b.57.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.57.1" newgid="uk.org.publicwhip/debate/2006-12-04b.57.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.58.0" newgid="uk.org.publicwhip/debate/2006-12-04b.58.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2006-12-04a.58.0" speakerid="uk.org.publicwhip/member/1987" speakername="Ann McKechin" colnum="58"  time="017:45:00" url="http://www.publications.parliament.uk/pa/cm200607/cmhansrd/cm061204/debtext/61204-0009.htm#06120414000029">
+	<p pid="a.58.0/1">Like my hon. Friends the Members for Manchester, Central (Tony Lloyd) and for Eccles (Ian Stewart), I, too, support new clauses 6 and 7. Today's theme, both in this debate and in the earlier statement, is deterrence and what constitutes an effective deterrent. We are not talking about how we can put more people into jail, but about how we can prevent disasters from occurring and people from losing their lives. As we mentioned in Committee, and has been said today, we need an appropriate range of penalties available to the courts if we are effectively to address the issue of deterrence.</p>
+	<p pid="a.58.0/2">We have made much progress by introducing an offence of corporate manslaughter, or culpable homicide as it will be called in Scots law, but we need to ensure that it works on the ground. Everyone who has spoken today has referred to the complexity of many of the cases in which such incidents occur. It is in light of those complexities, the length of time that it takes to build up a prosecution case and the very difficult decisions that have to be made by prosecutors&mdash;often on a narrow point about whether they have sufficient evidence to justify a prosecution in terms of the statutory offence or common-law offences&mdash;that we begin to realise the difficulty of ensuring that we have sufficient deterrence.</p>
+	<p pid="a.58.0/3">Other hon. Members have mentioned the common-law offence of manslaughter. I shall address the Scottish legal position on the definition of culpable homicide&mdash;a common-law offence&mdash;because it is materially different, and it is more difficult in those complex cases to mount a successful individual prosecution in common law. We need to look back at the different definitions in both the English and the Scottish courts to realise how wide the chasm is.</p>
+	<p pid="a.58.0/4">In the Adomako case in 1997, the leading case in English law, the former Lord Chancellor, Lord Mackay of Clashfern&mdash;ironically, as he is an eminent member of the Scottish Bar&mdash;defined manslaughter as follows:</p>
+	<p pid="a.58.0/5" class="indent">&quot;On this basis in my opinion the ordinary principles of the law of negligence apply to ascertain whether or not the defendant has been in breach of a duty of care towards the victim who has died.&quot;</p>
+	<p pid="a.58.0/6">However, the legal definition in Scotland is radically different, as I pointed out in Committee. The leading case is that involving Transco following the Larkhall explosion, which killed a family as a result of negligence. Originally, the prosecuting authorities brought a case under the common-law offence of culpable homicide against the company. That prosecution failed and the defendants were subsequently convicted under statute. In that case, Lord Osborne commented on the common-law offence of culpable homicide:</p>
+	<p pid="a.58.0/7" class="indent">&quot;However it is quite clear to me that the two definitions are fundamentally different. The Scottish definition contains no counterpart to that...&quot;&mdash;</p>
+	<p pid="a.58.0/8">the English definition&mdash;</p>
+	<p pid="a.58.0/9" class="indent">&quot;As I would see it, there is no reliance on elements of the Scottish civil law of delict...Furthermore the Scottish formulation implies clearly, to my mind, a certain state of mind on the part of the perpetrator, that is to say, mens rea, in accordance with the basic principles of Scots criminal law.&quot;</p>
+	<p pid="a.58.0/10">The result is that a very high test of recklessness is applied in cases of culpable homicide in Scots law. It is therefore difficult to perceive when a company director in Scotland would be tried for an offence that would involve a custodial sentence. That would be much more difficult to achieve than in England, and that very point was made by my right hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/1827" name="John Denham">the Member for Southampton, Itchen (Mr. Denham)</phrase>. We need proper options for secondary liability if we are to provide adequate deterrence.</p>
+	<p pid="a.58.0/11">When my right hon. Friend's Committee scrutinised the draft Bill, their examination applied, unfortunately, only to England and Wales; there has been no such detailed examination of Scots law. There has been an inquiry, instructed by the Scottish Executive, whose report concluded that as such matters applied to corporations they were reserved and, accordingly, we are now dealing with them at Westminster. However, an unsatisfactory position has resulted in that there is a much higher test in the common-law offence than in the definition that applies in the Bill.</p>
+	<p pid="a.58.0/12">Under the Bill, there will not be equivalence in the legal position in Scotland, in terms of who perpetrates such offences&mdash;whether individuals or a corporation. I have spoken to a number of people in the Scottish Parliament and it is clear that the weight of business on their shoulders is considerable, so a change in the law of culpable homicide in Scotland is unlikely in the short to medium term. I hope that that day will come, but it is important that the Scottish Executive take time to consider the change, and I appreciate the real burden for them of legislative proposals at present. In Committee, I referred to the Sentencing Commission. It is reporting and I hope that its members will take the opportunity to consider the discrepancy that will result from the Bill.</p>
+	<p pid="a.58.0/13">My hon. Friend the Member for Manchester, Central made a good point about the controlling-mind question, which in part illustrates the distinction between the definition in new clause 6 and that which applies in the common-law offence. The statutory definition does not require a controlling mind, but in common-law cases&mdash;certainly in Scotland&mdash;not only gross recklessness but the controlling-mind principle must be established. That is a high test to achieve, which is why in practice few cases are taken at common law.</p>
+	<p pid="a.58.0/14">There is a need for an offence where the penalty is higher than simply imposing a fine, but lower than that which applies to a common-law offence. There is a place for such a distinction and new clause 6 limits the level of the custodial sentence to six months. That is a serious marker of the nature of the offence, but it does not go as far as for a common-law offence&mdash;certainly by a long mark in Scotland. The sanction that we are establishing by creating the offence of corporate homicide needs to be reflected in the secondary penalties that we hope the Government will consider imposing under the Bill.</p>
+	<p pid="a.58.0/15">We have made some progress on naming and shaming and I was pleased to hear what the Minister said today. It is important to keep a record in the companies register. Given that larger companies, in particular, are trying to attract investment and contracts, a statement of their liability and prosecution under such an offence would be a serious warning to potential investors and people who wanted to do business with them. If the circumstances of companies' operations were known, many people might prefer not to do business with them.</p>
+	<p pid="a.58.0/16">In Committee, I mentioned a company in my constituency that was successfully convicted of the manufacture of weapons of torture&mdash;electric batons that it sold in the middle east&mdash;but there was no naming and shaming in the companies register. Many major household names were clients of that company and did business with it, yet the prosecution was not noted in the register. Doing that would have a salutary effect, even more so when a company had caused death by negligence.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.60.0" newgid="uk.org.publicwhip/debate/2006-12-04b.60.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.60.1" newgid="uk.org.publicwhip/debate/2006-12-04b.60.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.61.0" newgid="uk.org.publicwhip/debate/2006-12-04b.61.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.61.1" newgid="uk.org.publicwhip/debate/2006-12-04b.61.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.62.0" newgid="uk.org.publicwhip/debate/2006-12-04b.62.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.62.1" newgid="uk.org.publicwhip/debate/2006-12-04b.62.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.63.0" newgid="uk.org.publicwhip/debate/2006-12-04b.63.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.63.1" newgid="uk.org.publicwhip/debate/2006-12-04b.63.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.63.2" newgid="uk.org.publicwhip/debate/2006-12-04b.63.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.64.0" newgid="uk.org.publicwhip/debate/2006-12-04b.64.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.64.1" newgid="uk.org.publicwhip/debate/2006-12-04b.64.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.64.2" newgid="uk.org.publicwhip/debate/2006-12-04b.64.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.64.3" newgid="uk.org.publicwhip/debate/2006-12-04b.64.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.64.4" newgid="uk.org.publicwhip/debate/2006-12-04b.64.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.66.0" newgid="uk.org.publicwhip/debate/2006-12-04b.66.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.66.1" newgid="uk.org.publicwhip/debate/2006-12-04b.66.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.66.2" newgid="uk.org.publicwhip/debate/2006-12-04b.66.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.68.0" newgid="uk.org.publicwhip/debate/2006-12-04b.68.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.69.0" newgid="uk.org.publicwhip/debate/2006-12-04b.69.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.69.1" newgid="uk.org.publicwhip/debate/2006-12-04b.69.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.69.2" newgid="uk.org.publicwhip/debate/2006-12-04b.69.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.69.3" newgid="uk.org.publicwhip/debate/2006-12-04b.69.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.69.4" newgid="uk.org.publicwhip/debate/2006-12-04b.69.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.69.5" newgid="uk.org.publicwhip/debate/2006-12-04b.69.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.70.0" newgid="uk.org.publicwhip/debate/2006-12-04b.70.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.70.1" newgid="uk.org.publicwhip/debate/2006-12-04b.70.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.70.2" newgid="uk.org.publicwhip/debate/2006-12-04b.70.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.70.3" newgid="uk.org.publicwhip/debate/2006-12-04b.70.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.70.4" newgid="uk.org.publicwhip/debate/2006-12-04b.70.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.70.5" newgid="uk.org.publicwhip/debate/2006-12-04b.70.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.71.0" newgid="uk.org.publicwhip/debate/2006-12-04b.71.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2006-12-04a.71.0" speakerid="uk.org.publicwhip/member/1441" speakername="Gerry Sutcliffe" colnum="71"  time="018:30:00" url="http://www.publications.parliament.uk/pa/cm200607/cmhansrd/cm061204/debtext/61204-0011.htm#06120422000129">
+	<p pid="a.71.0/1">I will, I hope, assist my hon. Friend towards the end of my contribution by rounding off my view on each of the new clauses and amendments by stating what we will try to do.</p>
+	<p pid="a.71.0/2">The aim of the group of amendments is to redefine the circumstances in which individuals will be guilty of an offence in the first place, or will be liable to some sanction. In our view, new clause 1 would lower the threshold for convicting a person of an offence of homicide by a very substantial degree, as has been mentioned. Under the proposal an individual could be convicted of corporate manslaughter and sent to prison for a term of up to a life sentence on the grounds of a mere contribution to the corporate offence. The new offence is intended to be set at the high threshold of gross negligence to ensure that it is positioned as a very serious offence. It would be counter to that aim if convictions were available for very low-level offending. It would be odd generally to make it possible for another person to be convicted of the same offence at such a different and lower threshold.</p>
+	<p pid="a.71.0/3">The measure would mean that a person could be guilty of manslaughter on the basis of not gross negligence&mdash;or even negligence&mdash;but any contribution made. It is hard to see how a senior manager could have failed to have contributed in some way to a serious failure in the way in which his organisation was being run. The proposal runs the risk of creating guilt by association.</p>
+	<p pid="a.71.0/4">New clause 1 would also represent a significant extension of criminal law to allow for imprisonment in such wide circumstances. The House and the other place considered at some length during the passage of the recent Road Safety Act 2006 the proposition that the law should provide for imprisonment on the basis of negligence. We considered that such a measure would be right in those circumstances, but this proposal would go substantially beyond that.</p>
+	<p pid="a.71.0/5">New clause 6 appears to anticipate that objection by providing for a threshold of gross breach and a maximum penalty of six months' imprisonment. I recognise the genuine efforts of my hon. Friend the Member for Eccles to find ways of extending the law in ways that the Government might be prepared to accept, but a person can already be convicted of manslaughter for the gross breach of their duty of care, and, again, could be liable to a penalty of life imprisonment. I am not convinced that the way in which the new clause is drafted would assist in bringing any new prosecutions.</p>
+	<p pid="a.71.0/6">New clause 4 is an attempt to tackle the problem in a different way by making provision for disqualification. This is an area in which the Government have considered the possibility of further proposals. The law already provides for a director to be disqualified when they are convicted as an individual for certain offences, including health and safety offences.</p>
+	<p pid="a.71.0/7">It is true that there have been relatively few disqualifications linked to health and safety convictions. The Health and Safety Executive has recognised that more could be done to remind courts of their disqualification powers. As I have said, revised guidance was issued to the executive's inspectors in May, stating:</p>
+	<p pid="a.71.0/8" class="indent">&quot;In all cases where an individual is prosecuted for an indictable offence, where the offence is in connection with the management of a company, the court should be reminded that it has the power to disqualify under section 2(1) of the Company Directors Disqualification Act 1986.&quot;</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.72.0" newgid="uk.org.publicwhip/debate/2006-12-04b.72.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.72.1" newgid="uk.org.publicwhip/debate/2006-12-04b.72.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.72.2" newgid="uk.org.publicwhip/debate/2006-12-04b.72.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.72.3" newgid="uk.org.publicwhip/debate/2006-12-04b.72.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.72.4" newgid="uk.org.publicwhip/debate/2006-12-04b.72.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.72.5" newgid="uk.org.publicwhip/debate/2006-12-04b.72.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.73.0" newgid="uk.org.publicwhip/debate/2006-12-04b.73.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2006-12-04a.73.0" speakerid="uk.org.publicwhip/member/1705" speakername="Tony Lloyd" colnum="73"  time="018:30:00" url="http://www.publications.parliament.uk/pa/cm200607/cmhansrd/cm061204/debtext/61204-0011.htm#06120422000136">
+	<p pid="a.73.0/1">I am trying to give my hon. Friend a cheerful hearing, but he puzzles me a little. Earlier, he very sensibly read on to the record a description of what happened in the case of the Herald of Free Enterprise. I accept that, in that case, there is the issue of extraterritoriality to consider, as my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/1628" name="Andrew Dismore">the Member for Hendon (Mr. Dismore)</phrase> said, but let us go beyond that. Under the Bill, the company would almost certainly have been brought before the courts, but there is almost no case for thinking that any individual would have been, even though the controlling minds failed to establish the health and safety regime that we wanted. Arguably, the Bill would not have been enough to enable us to say to those controlling minds, &quot;Get on with it, and make sure that a health and safety regime is put in place.&quot; That, for many of us, is really the dilemma posed in what the Minister says.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.74.0" newgid="uk.org.publicwhip/debate/2006-12-04b.74.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.74.1" newgid="uk.org.publicwhip/debate/2006-12-04b.74.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.74.2" newgid="uk.org.publicwhip/debate/2006-12-04b.74.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.75.0" newgid="uk.org.publicwhip/debate/2006-12-04b.75.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.75.1" newgid="uk.org.publicwhip/debate/2006-12-04b.75.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.75.2" newgid="uk.org.publicwhip/debate/2006-12-04b.75.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.75.3" newgid="uk.org.publicwhip/debate/2006-12-04b.75.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.75.4" newgid="uk.org.publicwhip/debate/2006-12-04b.75.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.75.5" newgid="uk.org.publicwhip/debate/2006-12-04b.75.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.76.0" newgid="uk.org.publicwhip/debate/2006-12-04b.76.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.76.1" newgid="uk.org.publicwhip/debate/2006-12-04b.76.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.76.2" newgid="uk.org.publicwhip/debate/2006-12-04b.76.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.76.3" newgid="uk.org.publicwhip/debate/2006-12-04b.76.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.76.4" newgid="uk.org.publicwhip/debate/2006-12-04b.76.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.77.0" newgid="uk.org.publicwhip/debate/2006-12-04b.77.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.77.1" newgid="uk.org.publicwhip/debate/2006-12-04b.77.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.77.2" newgid="uk.org.publicwhip/debate/2006-12-04b.77.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.77.3" newgid="uk.org.publicwhip/debate/2006-12-04b.77.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2006-12-04a.77.3" speakerid="uk.org.publicwhip/member/2017" speakername="Mr. Deputy Speaker" speakeroffice="Mr. Deputy Speaker"  colnum="77"  time="018:45:00" url="http://www.publications.parliament.uk/pa/cm200607/cmhansrd/cm061204/debtext/61204-0012.htm#06120427000064">
+	<p pid="a.77.3/1">With this it will be convenient to discuss the following:</p>
+	<p pid="a.77.3/2">New clause 5&mdash;<i> Proceedings against unincorporated bodies other than Crown bodies&mdash;</i></p>
+	<p pid="a.77.3/3">'(1) Proceedings for an offence under section 1, alleged to have been committed by any unincorporated association or body other than a Crown body, shall be brought in the name of that association or body (and not in that of any individual member or other person) and for the purposes of such proceedings any rules of court relating to the service of documents apply as if that association or body were a corporation.</p>
+	<p pid="a.77.3/4">(2) A fine imposed on an unincorporated association or body on its conviction of such an offence shall be paid out of the funds of that association or body.</p>
+	<p pid="a.77.3/5">(3) In a case in which an unincorporated association or body is charged with such an offence, section 33 of the Criminal Justice Act 1925 and Schedule 3 to the Magistrates Court Act 1980 (procedure on charge of an offence against a corporation) have effect in like manner as in the case of a corporation so charged.'.</p>
+	<p pid="a.77.3/6">Amendment No. 1, in page 1, line 11, at end insert&mdash;</p>
+	<p pid="a.77.3/7">'(d) a partnership;</p>
+	<p pid="a.77.3/8">(e) an unincorporated association.'.</p>
+	<p pid="a.77.3/9">Amendment No. 22, in line 11, at end insert&mdash;</p>
+	<p pid="a.77.3/10">'(d) a partnership (as defined in section 1 of the Partnership Act 1890 (c. 39)), where that partnership is subject to some or all of the provisions of the Health and Safety at Work etc. Act 1974;</p>
+	<p pid="a.77.3/11">(e) an unincorporated association or body, where it is subject to some or all of the provisions of the Health and Safety at Work etc. Act 1974.'.</p>
+	<p pid="a.77.3/12">Amendment No. 27, in line 11, at end insert '(d) a business association'.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.78.0" newgid="uk.org.publicwhip/debate/2006-12-04b.78.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.79.0" newgid="uk.org.publicwhip/debate/2006-12-04b.79.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.79.1" newgid="uk.org.publicwhip/debate/2006-12-04b.79.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.79.2" newgid="uk.org.publicwhip/debate/2006-12-04b.79.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.79.3" newgid="uk.org.publicwhip/debate/2006-12-04b.79.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.79.4" newgid="uk.org.publicwhip/debate/2006-12-04b.79.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.79.5" newgid="uk.org.publicwhip/debate/2006-12-04b.79.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.81.0" newgid="uk.org.publicwhip/debate/2006-12-04b.81.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.81.1" newgid="uk.org.publicwhip/debate/2006-12-04b.81.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.81.2" newgid="uk.org.publicwhip/debate/2006-12-04b.81.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.82.0" newgid="uk.org.publicwhip/debate/2006-12-04b.82.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.83.0" newgid="uk.org.publicwhip/debate/2006-12-04b.83.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.84.0" newgid="uk.org.publicwhip/debate/2006-12-04b.84.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.84.1" newgid="uk.org.publicwhip/debate/2006-12-04b.84.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.85.0" newgid="uk.org.publicwhip/debate/2006-12-04b.85.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.85.1" newgid="uk.org.publicwhip/debate/2006-12-04b.85.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.85.2" newgid="uk.org.publicwhip/debate/2006-12-04b.85.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.87.0" newgid="uk.org.publicwhip/debate/2006-12-04b.87.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.87.1" newgid="uk.org.publicwhip/debate/2006-12-04b.87.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2006-12-04a.87.1" speakerid="uk.org.publicwhip/member/1441" speakername="Gerry Sutcliffe" colnum="87"  time="019:30:00" url="http://www.publications.parliament.uk/pa/cm200607/cmhansrd/cm061204/debtext/61204-0014.htm#06120446000600">
+	<p pid="a.87.1/1">I shall respond to my hon. Friend's question in due course&mdash;[<i> Interruption.</i>] If hon. Members give me the opportunity, I shall refer to the point that he raised.</p>
+	<p pid="a.87.1/2">The potential application of the offence is sometimes considered to be more restricted than it will be. For example, NHS hospital trusts are sometimes quoted as a type of body that will not be covered because they are not incorporated, but that is not correct because NHS trusts are, by statute, corporate bodies.</p>
+	<p pid="a.87.1/3">There was also an interesting example on Second Reading, which was further considered in Committee. The hon. Member for Beaconsfield referred to an example of a potentially serious gap, suggesting that the Bill would not apply to Lloyd's Register of Shipping, which was prosecuted some years ago following the collapse of a pedestrian walkway in Ramsgate. That case involved six fatalities and Lloyd's Register, which had certified the walkway, was prosecuted along with the design and build contractor, the sub-contractor and the port of Ramsgate. We are satisfied that there would be no gap in the law in that respect, and that the offence would have applied to all four defendants in that case. Specifically, we understand that Lloyd's Register of Shipping is a registered industrial and provident society. As such, under the terms of the Industrial and Provident Societies Act 1965, it is a form of statutory corporation and is not an unincorporated body.</p>
+	<p pid="a.87.1/4">We have approached the issue from a pragmatic angle. Our focus has been on addressing the key problem in the law, which is the difficulty of prosecuting large companies and corporations under the identification principle. Information from the Health and Safety Executive suggests that only 2 per cent. of its prosecutions are against unincorporated bodies, and that they typically involve smaller businesses, such as building firms and sole traders, where individual prosecutions are likely to be possible.</p>
+	<p pid="a.87.1/5">A wholesale extension of the offence to unincorporated bodies would mean that it would apply not only to larger partnerships and similar organisations, but to smaller clubs and societies. Organisations of that nature are least likely to understand the implications of the new offence, and most likely to act risk aversely through ignorance. We would not want to put off local sports clubs and the like, although I recognise that there is a range of opinion that the offence should extend in some fashion to those bodies.</p>
+	<p pid="a.87.1/6">My hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/1628" name="Andrew Dismore">the Member for Hendon (Mr. Dismore)</phrase> asked about the offence not applying to undertakings, as was originally proposed in 2004. In May 2000, in the consultation paper, &quot;Reforming the Law on Involuntary Manslaughter&quot;, the Government canvassed the possibility of the offence applying to all undertakings. They noted in paragraph 3.2.4 that although the term is used without definition in the Health and Safety at Work, etc. Act, the Health and Safety Executive had relied on the definition in section 15 of the Local Employment Act 1960, which has since been repealed, in which it means</p>
+	<p pid="a.87.1/7" class="indent">&quot;any trade or business, or other activity providing employment&quot;.</p>
+	<p pid="a.87.1/8">An alternative definition can be found in the Information and Consultation of Employees Regulations 2004, in which &quot;undertaking&quot; means</p>
+	<p pid="a.87.1/9" class="indent">&quot;a public or private undertaking carrying out an economic activity, whether or not operating for gain&quot;.</p>
+	<p pid="a.87.1/10">Notwithstanding the circularity of the latter definition, and the fact that &quot;undertaking&quot; is frequently used without definition, we think that it is reasonably clear that the term &quot;undertaking&quot; would cover the business of a sole trader. That is apparent, for example, from section 3(2) of the Health and Safety at Work, etc. Act, which imposes a duty on</p>
+	<p pid="a.87.1/11" class="indent">&quot;every self-employed person to conduct his undertaking in such a way as to ensure&quot;</p>
+	<p pid="a.87.1/12">that he is not exposed to risks. We consider that it would be illogical and unnecessary to apply corporate liability to the business of a sole trader. The purpose of the Bill is to ensure that criminal liability exists in circumstances in which reliance on individual liability would be inadequate, hence the exclusion of corporations sole in clause 1(2). In our view, nothing would be added in terms of deterrence or the rights of victims if we were to legislate to provide that sole traders could face corporate as well as personal liability. We do not therefore consider it appropriate to apply the new offence to undertakings. To the extent that that would enable the offence to extend to unincorporated bodies, the position is covered. I explained to my hon. Friend the Member for Hendon that I was happy to discuss further details with him during the passage of the Bill.</p>
+	<p pid="a.87.1/13">I am conscious that Scottish partnerships are in a different position from other unincorporated bodies, as they have a separate legal personality. I have not acted on that with any amendments today, but I will consider the matter further, and the Government will introduce amendments in relation to unincorporated bodies in the other place.</p>
+	<p pid="a.87.1/14">I do not want to make false promises at this stage, as the answers are not straightforward. I am prepared, however, to consider the matter in more detail to see what might be done. I recognise the sincerity of hon. Members in wanting to get the provision right. I hope that I have set out how difficult that is, not only through my explanation but through that given by the Law Commission. We have had an opportunity to air the matter further, and we will consider what amendments can be tabled in the other place. With those guarantees, I hope that the hon. Member for Hornchurch will not press the matter to the vote as he threatened. I also ask my hon. Friend the Member for Hendon not to press his amendment to the vote.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.89.0" newgid="uk.org.publicwhip/debate/2006-12-04b.89.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.89.1" newgid="uk.org.publicwhip/debate/2006-12-04b.89.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.89.2" newgid="uk.org.publicwhip/debate/2006-12-04b.89.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.89.3" newgid="uk.org.publicwhip/debate/2006-12-04b.89.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.89.4" newgid="uk.org.publicwhip/debate/2006-12-04b.89.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.93.0" newgid="uk.org.publicwhip/debate/2006-12-04b.93.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.93.1" newgid="uk.org.publicwhip/debate/2006-12-04b.93.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.93.2" newgid="uk.org.publicwhip/debate/2006-12-04b.93.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.94.0" newgid="uk.org.publicwhip/debate/2006-12-04b.94.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.96.0" newgid="uk.org.publicwhip/debate/2006-12-04b.96.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.96.1" newgid="uk.org.publicwhip/debate/2006-12-04b.96.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.98.0" newgid="uk.org.publicwhip/debate/2006-12-04b.98.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.98.1" newgid="uk.org.publicwhip/debate/2006-12-04b.98.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.98.2" newgid="uk.org.publicwhip/debate/2006-12-04b.98.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.99.0" newgid="uk.org.publicwhip/debate/2006-12-04b.99.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.99.1" newgid="uk.org.publicwhip/debate/2006-12-04b.99.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.99.2" newgid="uk.org.publicwhip/debate/2006-12-04b.99.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.100.0" newgid="uk.org.publicwhip/debate/2006-12-04b.100.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.100.1" newgid="uk.org.publicwhip/debate/2006-12-04b.100.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.100.2" newgid="uk.org.publicwhip/debate/2006-12-04b.100.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.100.3" newgid="uk.org.publicwhip/debate/2006-12-04b.100.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.100.4" newgid="uk.org.publicwhip/debate/2006-12-04b.100.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.101.0" newgid="uk.org.publicwhip/debate/2006-12-04b.101.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.101.1" newgid="uk.org.publicwhip/debate/2006-12-04b.101.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.101.2" newgid="uk.org.publicwhip/debate/2006-12-04b.101.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.102.0" newgid="uk.org.publicwhip/debate/2006-12-04b.102.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.103.0" newgid="uk.org.publicwhip/debate/2006-12-04b.103.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.103.1" newgid="uk.org.publicwhip/debate/2006-12-04b.103.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.103.2" newgid="uk.org.publicwhip/debate/2006-12-04b.103.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.103.3" newgid="uk.org.publicwhip/debate/2006-12-04b.103.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.103.4" newgid="uk.org.publicwhip/debate/2006-12-04b.103.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.103.5" newgid="uk.org.publicwhip/debate/2006-12-04b.103.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.104.0" newgid="uk.org.publicwhip/debate/2006-12-04b.104.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.104.1" newgid="uk.org.publicwhip/debate/2006-12-04b.104.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.104.2" newgid="uk.org.publicwhip/debate/2006-12-04b.104.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.104.3" newgid="uk.org.publicwhip/debate/2006-12-04b.104.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.104.4" newgid="uk.org.publicwhip/debate/2006-12-04b.104.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.104.5" newgid="uk.org.publicwhip/debate/2006-12-04b.104.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.105.0" newgid="uk.org.publicwhip/debate/2006-12-04b.105.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.105.1" newgid="uk.org.publicwhip/debate/2006-12-04b.105.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.106.0" newgid="uk.org.publicwhip/debate/2006-12-04b.106.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.108.0" newgid="uk.org.publicwhip/debate/2006-12-04b.108.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.109.0" newgid="uk.org.publicwhip/debate/2006-12-04b.109.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.109.1" newgid="uk.org.publicwhip/debate/2006-12-04b.109.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.109.2" newgid="uk.org.publicwhip/debate/2006-12-04b.109.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.109.3" newgid="uk.org.publicwhip/debate/2006-12-04b.109.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.109.4" newgid="uk.org.publicwhip/debate/2006-12-04b.109.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.112.0" newgid="uk.org.publicwhip/debate/2006-12-04b.112.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.112.1" newgid="uk.org.publicwhip/debate/2006-12-04b.112.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.113.0" newgid="uk.org.publicwhip/debate/2006-12-04b.113.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.113.1" newgid="uk.org.publicwhip/debate/2006-12-04b.113.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.113.2" newgid="uk.org.publicwhip/debate/2006-12-04b.113.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.113.3" newgid="uk.org.publicwhip/debate/2006-12-04b.113.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.113.4" newgid="uk.org.publicwhip/debate/2006-12-04b.113.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.113.5" newgid="uk.org.publicwhip/debate/2006-12-04b.113.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.114.0" newgid="uk.org.publicwhip/debate/2006-12-04b.114.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.114.1" newgid="uk.org.publicwhip/debate/2006-12-04b.114.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.114.2" newgid="uk.org.publicwhip/debate/2006-12-04b.114.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.114.3" newgid="uk.org.publicwhip/debate/2006-12-04b.114.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.114.4" newgid="uk.org.publicwhip/debate/2006-12-04b.114.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.114.5" newgid="uk.org.publicwhip/debate/2006-12-04b.114.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.115.0" newgid="uk.org.publicwhip/debate/2006-12-04b.115.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.117.0" newgid="uk.org.publicwhip/debate/2006-12-04b.117.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.117.1" newgid="uk.org.publicwhip/debate/2006-12-04b.117.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.117.2" newgid="uk.org.publicwhip/debate/2006-12-04b.117.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.119.0" newgid="uk.org.publicwhip/debate/2006-12-04b.119.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.120.0" newgid="uk.org.publicwhip/debate/2006-12-04b.120.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.120.1" newgid="uk.org.publicwhip/debate/2006-12-04b.120.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.121.0" newgid="uk.org.publicwhip/debate/2006-12-04b.121.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.122.0" newgid="uk.org.publicwhip/debate/2006-12-04b.122.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.123.0" newgid="uk.org.publicwhip/debate/2006-12-04b.123.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.124.0" newgid="uk.org.publicwhip/debate/2006-12-04b.124.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.125.0" newgid="uk.org.publicwhip/debate/2006-12-04b.125.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.126.0" newgid="uk.org.publicwhip/debate/2006-12-04b.126.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.126.1" newgid="uk.org.publicwhip/debate/2006-12-04b.126.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.126.2" newgid="uk.org.publicwhip/debate/2006-12-04b.126.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.126.3" newgid="uk.org.publicwhip/debate/2006-12-04b.126.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.127.0" newgid="uk.org.publicwhip/debate/2006-12-04b.127.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.127.1" newgid="uk.org.publicwhip/debate/2006-12-04b.127.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.127.2" newgid="uk.org.publicwhip/debate/2006-12-04b.127.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.127.3" newgid="uk.org.publicwhip/debate/2006-12-04b.127.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.128.0" newgid="uk.org.publicwhip/debate/2006-12-04b.128.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.128.1" newgid="uk.org.publicwhip/debate/2006-12-04b.128.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.128.2" newgid="uk.org.publicwhip/debate/2006-12-04b.128.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.128.3" newgid="uk.org.publicwhip/debate/2006-12-04b.128.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.129.0" newgid="uk.org.publicwhip/debate/2006-12-04b.129.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.129.1" newgid="uk.org.publicwhip/debate/2006-12-04b.129.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.129.2" newgid="uk.org.publicwhip/debate/2006-12-04b.129.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.130.0" newgid="uk.org.publicwhip/debate/2006-12-04b.130.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2006-12-04a.130.0" speakerid="uk.org.publicwhip/member/1617" speakername="Phil Willis" colnum="130"  time="021:56:00" url="http://www.publications.parliament.uk/pa/cm200607/cmhansrd/cm061204/debtext/61204-0020.htm#06120454000072">
+	<p pid="a.130.0/1">The Yorkshire Film Archive meets a third, equally vital departmental objective&mdash;</p>
+	<p pid="a.130.0/2" class="indent">&quot;Economy: maximising the economic contribution and productivity of the creative industries&quot;.</p>
+	<p pid="a.130.0/3">In that regard, the film archive plays an important part in the region's creative economy.</p>
+	<p pid="a.130.0/4">ITV Yorkshire is currently working with the YFA to produce its fifth 10-part series of &quot;The Way We Were&quot;&mdash;a programme that regularly reaches 750,000 people. The BBC's &quot;Nation on Film&quot; series relies heavily on materials provided by the YFA.</p>
+	<p pid="a.130.0/5">Like most regional film archives, the YFA began life as an amateur passion. It commenced in Ripon in 1988 as a small community history project before moving in 2003 to the public access learning centre at York St. John university. However, as a regional film archive, the YFA is unique, in that is a charitable company, limited by guarantee with a board of trustees, chaired by Colin Philpot, the head of the National Museum of Photography, Film and Television. It has a small team of seven staff, led by the inspirational Sue Howard, who for the past 17 years has devoted her working life to building a regional archive of national repute.</p>
+	<p pid="a.130.0/6">Now, thanks to the generosity of the Yorkshire and Humber development agency, Yorkshire Forward, and the regional Heritage Lottery Fund&mdash;the HLF&mdash;and the foresight of the York St John university, the YFA has a superb new home at the college. Through that investment, it has the technical capability of analysing, preserving, digitising and cataloguing moving images from a variety of formats dating back to the 1890s. But what it does not have is a firm future. Indeed, it is in danger of seeing the superb archives it has developed being mothballed and its ability to serve the Yorkshire community severely limited.</p>
+	<p pid="a.130.0/7">Without the further support of Yorkshire Forward and the HLF it is difficult to see how the archive can survive. But both organisations have made it clear that their support was short term and must not be seen as core funding. I fully accept the logic of their positions and, indeed, so does the YFA. The HLF was created as an investment vehicle, not for core revenue support, and it has already invested heavily in the YFA. Yorkshire Forward has been equally generous and I pay tribute to it for its treatment of the YFA. Yorkshire Forward has invested more than &pound;1 million in the past four years because it believes the archive is a valuable social, historical and educational resource that should be available to a wider audience.</p>
+	<p pid="a.130.0/8">With the growth of the visual media as a valuable teaching and learning resource it would have been unacceptable to have left the YFA languishing in its previous state. But it is not the job of Yorkshire Forward, or any regional development agency, to take on a core funding role&mdash;that is the job of the Department. Unfortunately, it has not stepped up to the plate. There appears to be no national strategy for the regional film archives&mdash;the Minister may enlighten us this evening&mdash;and little recognition of their importance to regional communities. Either the Department is seriously under- estimating the value of the regional film archives or it is simply uninterested. I do not believe that it is the latter. Nor do I believe that for what is a relatively modest increase in core funding the Department would wish to see the demise of the YFA or indeed any of our regional archives, including the one in the north-east. I know that <phrase class="honfriend" id="uk.org.publicwhip/member/1592" name="Sharon Hodgson">the hon. Member for Gateshead, East and Washington, West (Mrs. Hodgson)</phrase>, who is in her place, is very interested in that archive, and if she wishes to intervene, I will be happy to give way. With the loss of funding from Yorkshire Forward, probably by March 2007, there is the distinct possibility of the demise of the archive.</p>
+	<p pid="a.130.0/9">At present, core funding, which amounted to &pound;260,000 in 2005-06 for all the film archives, comes direct from the UK Film Council, via regional screen agencies to regional film archives&mdash;a tortuous route, as I am sure the Minister agrees. Regional film archives receive on average less than &pound;33,000 each, and the YFA receives the princely sum of &pound;45,000 from Screen Yorkshire to meet current activity levels of &pound;280,000. The YFA raises the rest from a variety of commercial sources and donations&mdash;the largest of which comes from Yorkshire Forward.</p>
+	<p pid="a.130.0/10">I am sure that the Minister accepts that both the total resource and the method of distribution are inadequate to sustain the regional film archives. As he knows, for the past three years there have been moves to create a national strategy for the film archives sector, but negotiations, led by the British Film Institute, have stalled. I plead with him to end the talking and set a firm date for the launch of a national strategy. Better still, will he take a leaf out of the Museums, Libraries and Archives Council's London book and agree to launch an inquiry into the role of regional museums, libraries and archives in the knowledge economy, including film archives?</p>
+	<p pid="a.130.0/11">It is my strong belief that the role of film archives in supplying information and inspiration to creative professionals in film, television and advertising contributes significantly to regional economies, but that thesis needs testing. There must be a strong case for placing moving film archives in the same category as museums, libraries and archives, with core funding to preserve, catalogue, digitise and present material for public use. Only by evaluating the activity that the Government and others expect from film archives can appropriate core funding be agreed and the regional film archives sustained.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.131.0" newgid="uk.org.publicwhip/debate/2006-12-04b.131.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.132.0" newgid="uk.org.publicwhip/debate/2006-12-04b.132.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2006-12-04a.132.1" newgid="uk.org.publicwhip/debate/2006-12-04b.132.1" matchtype="perfectmatch"/>
+</publicwhip>
+

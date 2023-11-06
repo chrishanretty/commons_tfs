@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/debates/debates2023-06-06a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.661.0" newgid="uk.org.publicwhip/debate/2023-06-06b.661.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.661.1" newgid="uk.org.publicwhip/debate/2023-06-06b.661.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.661.2" newgid="uk.org.publicwhip/debate/2023-06-06b.661.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.661.3" newgid="uk.org.publicwhip/debate/2023-06-06b.661.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.661.4" newgid="uk.org.publicwhip/debate/2023-06-06b.661.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.661.5" newgid="uk.org.publicwhip/debate/2023-06-06b.661.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.661.6" newgid="uk.org.publicwhip/debate/2023-06-06b.661.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.661.7" newgid="uk.org.publicwhip/debate/2023-06-06b.661.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.661.8" newgid="uk.org.publicwhip/debate/2023-06-06b.661.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.661.9" newgid="uk.org.publicwhip/debate/2023-06-06b.661.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.661.10" newgid="uk.org.publicwhip/debate/2023-06-06b.661.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.662.0" newgid="uk.org.publicwhip/debate/2023-06-06b.662.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.662.1" newgid="uk.org.publicwhip/debate/2023-06-06b.662.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.662.2" newgid="uk.org.publicwhip/debate/2023-06-06b.662.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.662.3" newgid="uk.org.publicwhip/debate/2023-06-06b.662.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.662.4" newgid="uk.org.publicwhip/debate/2023-06-06b.662.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.662.5" newgid="uk.org.publicwhip/debate/2023-06-06b.662.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.662.6" newgid="uk.org.publicwhip/debate/2023-06-06b.662.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.662.7" newgid="uk.org.publicwhip/debate/2023-06-06b.662.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.663.0" newgid="uk.org.publicwhip/debate/2023-06-06b.663.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.663.1" newgid="uk.org.publicwhip/debate/2023-06-06b.663.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.663.2" newgid="uk.org.publicwhip/debate/2023-06-06b.663.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.663.3" newgid="uk.org.publicwhip/debate/2023-06-06b.663.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.663.4" newgid="uk.org.publicwhip/debate/2023-06-06b.663.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.663.5" newgid="uk.org.publicwhip/debate/2023-06-06b.663.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.663.6" newgid="uk.org.publicwhip/debate/2023-06-06b.663.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.663.7" newgid="uk.org.publicwhip/debate/2023-06-06b.663.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.663.8" newgid="uk.org.publicwhip/debate/2023-06-06b.663.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.663.9" newgid="uk.org.publicwhip/debate/2023-06-06b.663.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.664.0" newgid="uk.org.publicwhip/debate/2023-06-06b.664.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.664.1" newgid="uk.org.publicwhip/debate/2023-06-06b.664.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.664.2" newgid="uk.org.publicwhip/debate/2023-06-06b.664.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.664.3" newgid="uk.org.publicwhip/debate/2023-06-06b.664.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.664.4" newgid="uk.org.publicwhip/debate/2023-06-06b.664.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.664.5" newgid="uk.org.publicwhip/debate/2023-06-06b.664.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.664.6" newgid="uk.org.publicwhip/debate/2023-06-06b.664.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.664.7" newgid="uk.org.publicwhip/debate/2023-06-06b.664.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.664.8" newgid="uk.org.publicwhip/debate/2023-06-06b.664.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.664.9" newgid="uk.org.publicwhip/debate/2023-06-06b.664.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.664.10" newgid="uk.org.publicwhip/debate/2023-06-06b.664.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.665.0" newgid="uk.org.publicwhip/debate/2023-06-06b.665.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.665.1" newgid="uk.org.publicwhip/debate/2023-06-06b.665.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.665.2" newgid="uk.org.publicwhip/debate/2023-06-06b.665.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.665.3" newgid="uk.org.publicwhip/debate/2023-06-06b.665.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.665.4" newgid="uk.org.publicwhip/debate/2023-06-06b.665.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.666.0" newgid="uk.org.publicwhip/debate/2023-06-06b.666.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.666.1" newgid="uk.org.publicwhip/debate/2023-06-06b.666.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.666.2" newgid="uk.org.publicwhip/debate/2023-06-06b.666.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.666.3" newgid="uk.org.publicwhip/debate/2023-06-06b.666.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.666.4" newgid="uk.org.publicwhip/debate/2023-06-06b.666.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.666.5" newgid="uk.org.publicwhip/debate/2023-06-06b.666.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.666.6" newgid="uk.org.publicwhip/debate/2023-06-06b.666.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.667.0" newgid="uk.org.publicwhip/debate/2023-06-06b.667.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.667.1" newgid="uk.org.publicwhip/debate/2023-06-06b.667.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.667.2" newgid="uk.org.publicwhip/debate/2023-06-06b.667.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.667.3" newgid="uk.org.publicwhip/debate/2023-06-06b.667.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.667.4" newgid="uk.org.publicwhip/debate/2023-06-06b.667.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.667.5" newgid="uk.org.publicwhip/debate/2023-06-06b.667.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.667.6" newgid="uk.org.publicwhip/debate/2023-06-06b.667.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.667.7" newgid="uk.org.publicwhip/debate/2023-06-06b.667.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.667.8" newgid="uk.org.publicwhip/debate/2023-06-06b.667.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.667.9" newgid="uk.org.publicwhip/debate/2023-06-06b.667.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.668.0" newgid="uk.org.publicwhip/debate/2023-06-06b.668.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.668.1" newgid="uk.org.publicwhip/debate/2023-06-06b.668.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.668.2" newgid="uk.org.publicwhip/debate/2023-06-06b.668.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.668.3" newgid="uk.org.publicwhip/debate/2023-06-06b.668.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.668.4" newgid="uk.org.publicwhip/debate/2023-06-06b.668.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.668.5" newgid="uk.org.publicwhip/debate/2023-06-06b.668.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.668.6" newgid="uk.org.publicwhip/debate/2023-06-06b.668.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.669.0" newgid="uk.org.publicwhip/debate/2023-06-06b.669.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.669.1" newgid="uk.org.publicwhip/debate/2023-06-06b.669.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.669.2" newgid="uk.org.publicwhip/debate/2023-06-06b.669.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.669.3" newgid="uk.org.publicwhip/debate/2023-06-06b.669.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.669.4" newgid="uk.org.publicwhip/debate/2023-06-06b.669.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.669.5" newgid="uk.org.publicwhip/debate/2023-06-06b.669.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.669.6" newgid="uk.org.publicwhip/debate/2023-06-06b.669.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.669.7" newgid="uk.org.publicwhip/debate/2023-06-06b.669.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.670.0" newgid="uk.org.publicwhip/debate/2023-06-06b.670.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.670.1" newgid="uk.org.publicwhip/debate/2023-06-06b.670.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.670.2" newgid="uk.org.publicwhip/debate/2023-06-06b.670.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.670.3" newgid="uk.org.publicwhip/debate/2023-06-06b.670.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.670.4" newgid="uk.org.publicwhip/debate/2023-06-06b.670.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.670.5" newgid="uk.org.publicwhip/debate/2023-06-06b.670.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.670.6" newgid="uk.org.publicwhip/debate/2023-06-06b.670.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.670.7" newgid="uk.org.publicwhip/debate/2023-06-06b.670.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.671.0" newgid="uk.org.publicwhip/debate/2023-06-06b.671.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.671.1" newgid="uk.org.publicwhip/debate/2023-06-06b.671.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.671.2" newgid="uk.org.publicwhip/debate/2023-06-06b.671.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.671.3" newgid="uk.org.publicwhip/debate/2023-06-06b.671.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.671.4" newgid="uk.org.publicwhip/debate/2023-06-06b.671.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.671.5" newgid="uk.org.publicwhip/debate/2023-06-06b.671.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.671.6" newgid="uk.org.publicwhip/debate/2023-06-06b.671.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.672.0" newgid="uk.org.publicwhip/debate/2023-06-06b.672.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.672.1" newgid="uk.org.publicwhip/debate/2023-06-06b.672.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.672.2" newgid="uk.org.publicwhip/debate/2023-06-06b.672.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.672.3" newgid="uk.org.publicwhip/debate/2023-06-06b.672.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.672.4" newgid="uk.org.publicwhip/debate/2023-06-06b.672.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.672.5" newgid="uk.org.publicwhip/debate/2023-06-06b.672.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.672.6" newgid="uk.org.publicwhip/debate/2023-06-06b.672.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.673.0" newgid="uk.org.publicwhip/debate/2023-06-06b.673.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.673.1" newgid="uk.org.publicwhip/debate/2023-06-06b.673.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.673.2" newgid="uk.org.publicwhip/debate/2023-06-06b.673.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.673.3" newgid="uk.org.publicwhip/debate/2023-06-06b.673.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.673.4" newgid="uk.org.publicwhip/debate/2023-06-06b.673.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.673.5" newgid="uk.org.publicwhip/debate/2023-06-06b.673.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.673.6" newgid="uk.org.publicwhip/debate/2023-06-06b.673.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.673.7" newgid="uk.org.publicwhip/debate/2023-06-06b.673.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.674.0" newgid="uk.org.publicwhip/debate/2023-06-06b.674.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.674.1" newgid="uk.org.publicwhip/debate/2023-06-06b.674.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.674.2" newgid="uk.org.publicwhip/debate/2023-06-06b.674.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.674.3" newgid="uk.org.publicwhip/debate/2023-06-06b.674.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.674.4" newgid="uk.org.publicwhip/debate/2023-06-06b.674.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.674.5" newgid="uk.org.publicwhip/debate/2023-06-06b.674.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.674.6" newgid="uk.org.publicwhip/debate/2023-06-06b.674.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.674.7" newgid="uk.org.publicwhip/debate/2023-06-06b.674.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.674.8" newgid="uk.org.publicwhip/debate/2023-06-06b.674.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.674.9" newgid="uk.org.publicwhip/debate/2023-06-06b.674.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.675.0" newgid="uk.org.publicwhip/debate/2023-06-06b.675.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.675.1" newgid="uk.org.publicwhip/debate/2023-06-06b.675.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.675.2" newgid="uk.org.publicwhip/debate/2023-06-06b.675.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.675.3" newgid="uk.org.publicwhip/debate/2023-06-06b.675.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.675.4" newgid="uk.org.publicwhip/debate/2023-06-06b.675.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.675.5" newgid="uk.org.publicwhip/debate/2023-06-06b.675.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.675.6" newgid="uk.org.publicwhip/debate/2023-06-06b.675.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.675.7" newgid="uk.org.publicwhip/debate/2023-06-06b.675.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.675.8" newgid="uk.org.publicwhip/debate/2023-06-06b.675.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.675.9" newgid="uk.org.publicwhip/debate/2023-06-06b.675.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.676.0" newgid="uk.org.publicwhip/debate/2023-06-06b.676.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.676.1" newgid="uk.org.publicwhip/debate/2023-06-06b.676.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.676.2" newgid="uk.org.publicwhip/debate/2023-06-06b.676.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.676.3" newgid="uk.org.publicwhip/debate/2023-06-06b.676.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.676.4" newgid="uk.org.publicwhip/debate/2023-06-06b.676.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.676.5" newgid="uk.org.publicwhip/debate/2023-06-06b.676.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.676.6" newgid="uk.org.publicwhip/debate/2023-06-06b.676.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.676.7" newgid="uk.org.publicwhip/debate/2023-06-06b.676.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.676.8" newgid="uk.org.publicwhip/debate/2023-06-06b.676.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.677.0" newgid="uk.org.publicwhip/debate/2023-06-06b.677.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.677.1" newgid="uk.org.publicwhip/debate/2023-06-06b.677.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.677.2" newgid="uk.org.publicwhip/debate/2023-06-06b.677.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.677.3" newgid="uk.org.publicwhip/debate/2023-06-06b.677.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.677.4" newgid="uk.org.publicwhip/debate/2023-06-06b.677.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.677.5" newgid="uk.org.publicwhip/debate/2023-06-06b.677.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.677.6" newgid="uk.org.publicwhip/debate/2023-06-06b.677.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.677.7" newgid="uk.org.publicwhip/debate/2023-06-06b.677.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.677.8" newgid="uk.org.publicwhip/debate/2023-06-06b.677.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.678.0" newgid="uk.org.publicwhip/debate/2023-06-06b.678.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.678.1" newgid="uk.org.publicwhip/debate/2023-06-06b.678.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.678.2" newgid="uk.org.publicwhip/debate/2023-06-06b.678.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.678.3" newgid="uk.org.publicwhip/debate/2023-06-06b.678.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.678.4" newgid="uk.org.publicwhip/debate/2023-06-06b.678.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.678.5" newgid="uk.org.publicwhip/debate/2023-06-06b.678.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.678.6" newgid="uk.org.publicwhip/debate/2023-06-06b.678.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.679.0" newgid="uk.org.publicwhip/debate/2023-06-06b.679.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.679.1" newgid="uk.org.publicwhip/debate/2023-06-06b.679.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.679.2" newgid="uk.org.publicwhip/debate/2023-06-06b.679.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.679.3" newgid="uk.org.publicwhip/debate/2023-06-06b.679.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.679.4" newgid="uk.org.publicwhip/debate/2023-06-06b.679.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.679.5" newgid="uk.org.publicwhip/debate/2023-06-06b.679.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.679.6" newgid="uk.org.publicwhip/debate/2023-06-06b.679.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.679.7" newgid="uk.org.publicwhip/debate/2023-06-06b.679.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.680.0" newgid="uk.org.publicwhip/debate/2023-06-06b.680.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.680.1" newgid="uk.org.publicwhip/debate/2023-06-06b.680.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.680.2" newgid="uk.org.publicwhip/debate/2023-06-06b.680.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.680.3" newgid="uk.org.publicwhip/debate/2023-06-06b.680.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.680.4" newgid="uk.org.publicwhip/debate/2023-06-06b.680.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.680.5" newgid="uk.org.publicwhip/debate/2023-06-06b.680.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.681.0" newgid="uk.org.publicwhip/debate/2023-06-06b.681.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.681.1" newgid="uk.org.publicwhip/debate/2023-06-06b.681.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.681.2" newgid="uk.org.publicwhip/debate/2023-06-06b.681.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.681.3" newgid="uk.org.publicwhip/debate/2023-06-06b.681.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.681.4" newgid="uk.org.publicwhip/debate/2023-06-06b.681.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.681.5" newgid="uk.org.publicwhip/debate/2023-06-06b.681.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.681.6" newgid="uk.org.publicwhip/debate/2023-06-06b.681.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.682.0" newgid="uk.org.publicwhip/debate/2023-06-06b.682.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.682.1" newgid="uk.org.publicwhip/debate/2023-06-06b.682.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.682.2" newgid="uk.org.publicwhip/debate/2023-06-06b.682.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.682.3" newgid="uk.org.publicwhip/debate/2023-06-06b.682.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.682.4" newgid="uk.org.publicwhip/debate/2023-06-06b.682.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.682.5" newgid="uk.org.publicwhip/debate/2023-06-06b.682.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.682.6" newgid="uk.org.publicwhip/debate/2023-06-06b.682.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.683.0" newgid="uk.org.publicwhip/debate/2023-06-06b.683.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.684.0" newgid="uk.org.publicwhip/debate/2023-06-06b.684.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.685.0" newgid="uk.org.publicwhip/debate/2023-06-06b.685.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.685.1" newgid="uk.org.publicwhip/debate/2023-06-06b.685.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.685.2" newgid="uk.org.publicwhip/debate/2023-06-06b.685.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.685.3" newgid="uk.org.publicwhip/debate/2023-06-06b.685.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.685.4" newgid="uk.org.publicwhip/debate/2023-06-06b.685.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.685.5" newgid="uk.org.publicwhip/debate/2023-06-06b.685.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.686.0" newgid="uk.org.publicwhip/debate/2023-06-06b.686.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.686.1" newgid="uk.org.publicwhip/debate/2023-06-06b.686.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.686.2" newgid="uk.org.publicwhip/debate/2023-06-06b.686.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.689.0" newgid="uk.org.publicwhip/debate/2023-06-06b.689.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.689.1" newgid="uk.org.publicwhip/debate/2023-06-06b.689.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.689.2" newgid="uk.org.publicwhip/debate/2023-06-06b.689.2" matchtype="changes"/>
+<division id="uk.org.publicwhip/debate/2023-06-06a.689.2" nospeaker="true" divdate="2023-06-06" divnumber="245" colnum="689" time="12:49:00">
+    <divisioncount ayes="185" noes="40"/>
+    <mplist vote="aye">
+      <mpname person_id="uk.org.publicwhip/person/25034" vote="aye">Debbie Abrahams</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24904" vote="aye">Peter Aldous</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24958" vote="aye">Rushanara Ali</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25579" vote="aye">Rosena Allin-Khan</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25702" vote="aye">Mike Amesbury</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25634" vote="aye">Tonia Antoniazzi</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25120" vote="aye">Jon Ashworth</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25819" vote="aye">Paula Barker</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10715" vote="aye">John Baron</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25916" vote="aye">Aaron Bell</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10669" vote="aye">Hilary Benn</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10045" vote="aye">Clive Betts</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25269" vote="aye">Mhairi Black</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24945" vote="aye">Bob Blackman</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25314" vote="aye">Kirsty Blackman</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25908" vote="aye">Olivia Blake</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24943" vote="aye">Paul Blomfield</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10753" vote="aye">Kevin Brennan</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11921" vote="aye">Lyn Brown</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10069" vote="aye">Nick Brown</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10761" vote="aye">Chris Bryant</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10075" vote="aye">Karen Buck</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24843" vote="aye">Robert Buckland</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25343" vote="aye">Ruth Cadbury</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25863" vote="aye" proxy="uk.org.publicwhip/person/25370">Amy Callaghan</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10086" vote="aye">Alan Campbell</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25642" vote="aye">Dan Carden</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10785" vote="aye">Alistair Carmichael</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25872" vote="aye">Wendy Chamberlain</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25896" vote="aye" proxy="uk.org.publicwhip/person/25490">Feryal Clark</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25900" vote="aye" proxy="uk.org.publicwhip/person/24745">Theo Clarke</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25901" vote="aye">Daisy Cooper</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10131" vote="aye">Yvette Cooper</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25326" vote="aye">Neil Coyle</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24949" vote="aye">Stella Creasy</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10143" vote="aye">John Cryer</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25393" vote="aye">Judith Cummins</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25727" vote="aye">Janet Daby</mpname>
+      <mpname person_id="uk.org.publicwhip/person/26123" vote="aye">Ashley Dalton</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10842" vote="aye">Wayne David</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25292" vote="aye">James Davies</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25824" vote="aye">Alex Davies-Jones</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25815" vote="aye">Dehenna Davison</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25402" vote="aye">Thangam Debbonaire</mpname>
+      <mpname person_id="uk.org.publicwhip/person/26118" vote="aye">Samantha Dixon</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25275" vote="aye">Martin Docherty</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25618" vote="aye">Anneliese Dodds</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25796" vote="aye">Dave Doogan</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25870" vote="aye" proxy="uk.org.publicwhip/person/25370">Allan Dorans</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25166" vote="aye">Stephen Doughty</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25392" vote="aye">Flick Drummond</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10182" vote="aye">Angela Eagle</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10183" vote="aye">Maria Eagle</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10185" vote="aye">Clive Efford</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24710" vote="aye">Julie Elliott</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25490" vote="aye">Chris Elmore</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24905" vote="aye">Bill Esterson</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25835" vote="aye">Laura Farris</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11923" vote="aye">Tim Farron</mpname>
+      <mpname person_id="uk.org.publicwhip/person/13899" vote="aye">Stephen Farry</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25319" vote="aye">Colleen Fletcher</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25867" vote="aye">Stephen Flynn</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24805" vote="aye">Yvonne Fovargue</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25380" vote="aye">Vicky Foxcroft</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25833" vote="aye">Mary Foy</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25666" vote="aye">Preet Kaur Gill</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24927" vote="aye">Mary Glindon</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10241" vote="aye">Damian Green</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24774" vote="aye">Lilian Greenwood</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25349" vote="aye">Margaret Greenwood</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11692" vote="aye">Nia Griffith</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11531" vote="aye">Andrew Gwynne</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25357" vote="aye">Louise Haigh</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25373" vote="aye">Luke Hall</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25646" vote="aye">Emma Hardy</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10260" vote="aye">Harriet Harman</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25310" vote="aye">Helen Hayes</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10268" vote="aye">John Healey</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25382" vote="aye">Drew Hendry</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25648" vote="aye">Wera Hobhouse</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10281" vote="aye">Margaret Hodge</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11592" vote="aye">Sharon Hodgson</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25298" vote="aye">Kate Hollern</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10292" vote="aye">George Howarth</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25284" vote="aye">Rupa Huq</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25067" vote="aye">Dan Jarvis</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11647" vote="aye">Diana R. Johnson</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25803" vote="aye">Kim Johnson</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25924" vote="aye">David Johnston</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25637" vote="aye">Darren Jones</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25746" vote="aye">Ruth Jones</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25911" vote="aye">Simon Jupp</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11943" vote="aye">Barbara Keeley</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24816" vote="aye">Liz Kendall</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25662" vote="aye">Afzal Khan</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25297" vote="aye">Stephen Kinnock</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25418" vote="aye">Peter Kyle</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25669" vote="aye">Ben Lake</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10678" vote="aye">David Lammy</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24963" vote="aye">Ian Lavery</mpname>
+      <mpname person_id="uk.org.publicwhip/person/26040" vote="aye">Kim Leadbeater</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25791" vote="aye">Ian Levy</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25181" vote="aye">Emma Lewell-Buck</mpname>
+      <mpname person_id="uk.org.publicwhip/person/26085" vote="aye">Simon Lightwood</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25677" vote="aye">David Linden</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10367" vote="aye" proxy="uk.org.publicwhip/person/25490">Tony Lloyd</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10371" vote="aye">Tim Loughton</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24910" vote="aye">Caroline Lucas</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25434" vote="aye">Holly Lynch</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25378" vote="aye">Justin Madders</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25150" vote="aye">Seema Malhotra</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24764" vote="aye">Paul Maynard</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10377" vote="aye">Steve McCabe</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11455" vote="aye">Kerry McCarthy</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25169" vote="aye">Andy McDonald</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25322" vote="aye">Stewart McDonald</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24919" vote="aye">Ian Mearns</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11545" vote="aye">Ed Miliband</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24965" vote="aye">Nigel Mills</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25689" vote="aye">Layla Moran</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24938" vote="aye">Penny Mordaunt</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11732" vote="aye">Jessica Morden</mpname>
+      <mpname person_id="uk.org.publicwhip/person/26056" vote="aye">Helen Morgan</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24855" vote="aye">James Morris</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25883" vote="aye">Kieran Mullan</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25801" vote="aye">James Murray</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25865" vote="aye">Lia Nici</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25370" vote="aye">Brendan O'Hara</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25596" vote="aye">Sarah Olney</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24807" vote="aye">Chi Onwurah</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25846" vote="aye">Abena Oppong-Asare</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25794" vote="aye">Kate Osborne</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25915" vote="aye">Taiwo Owatemi</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25823" vote="aye">Sarah Owen</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25617" vote="aye">Stephanie Peacock</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11626" vote="aye">Mike Penning</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25379" vote="aye">Matthew Pennycook</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11924" vote="aye">John Penrose</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24845" vote="aye">Toby Perkins</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24709" vote="aye">Bridget Phillipson</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25690" vote="aye">Luke Pollard</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25429" vote="aye">Angela Rayner</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25170" vote="aye">Steve Reed</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25332" vote="aye">Christina Rees</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25681" vote="aye">Ellie Reeves</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25691" vote="aye">Matt Rodda</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25667" vote="aye">Lloyd Russell-Moyle</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25302" vote="aye">Liz Saville-Roberts</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25385" vote="aye">Naseem Shah</mpname>
+      <mpname person_id="uk.org.publicwhip/person/13934" vote="aye">Virendra Sharma</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24713" vote="aye">Chris Skidmore</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11559" vote="aye">Andrew Slaughter</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25432" vote="aye">Cat Smith</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25366" vote="aye">Jeff Smith</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24728" vote="aye">Nick Smith</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25390" vote="aye">Karin Smyth</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25680" vote="aye">Alex Sobel</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25306" vote="aye">Chris Stephens</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25304" vote="aye">Jo Stevens</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25668" vote="aye">Jamie Stone</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25320" vote="aye">Wes Streeting</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10576" vote="aye">Graham Stringer</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11267" vote="aye">Mark Tami</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25912" vote="aye">Sam Tarry</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25327" vote="aye">Alison Thewliss</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10594" vote="aye">Gareth Thomas</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11656" vote="aye">Emily Thornberry</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10596" vote="aye">Stephen Timms</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24870" vote="aye">Justin Tomlinson</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10604" vote="aye">Jon Trickett</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10610" vote="aye">Derek Twigg</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25623" vote="aye">Liz Twist</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24852" vote="aye">Valerie Vaz</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25874" vote="aye">Christian Wakeford</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24862" vote="aye">Robin Walker</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25328" vote="aye">Catherine West</mpname>
+      <mpname person_id="uk.org.publicwhip/person/26120" vote="aye">Andrew Western</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25701" vote="aye">Matt Western</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10630" vote="aye">Alan Whitehead</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10632" vote="aye">John Whittingdale</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25845" vote="aye">Nadia Whittome</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11323" vote="aye">Hywel Williams</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11333" vote="aye">Pete Wishart</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25649" vote="aye">Mohammad Yasin</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25386" vote="aye">Daniel Zeichner</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25879" vote="aye" teller="yes">Julie Marson</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25410" vote="aye" teller="yes">Steve Double</mpname>
+    </mplist>
+    <mplist vote="no">
+      <mpname person_id="uk.org.publicwhip/person/10051" vote="no">Crispin Blunt</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10057" vote="no">Peter Bottomley</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24741" vote="no">Andrew Bridgen</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25795" vote="no">Paul Bristow</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10780" vote="no">Gregory Campbell</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10095" vote="no">Bill Cash</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10103" vote="no">Christopher Chope</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25843" vote="no">Virginia Crosbie</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10162" vote="no">David Davis</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25877" vote="no">Sarah Dines</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24903" vote="no">Richard Drax</mpname>
+      <mpname person_id="uk.org.publicwhip/person/26059" vote="no">Anna Firth</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25873" vote="no">Neale Hanvey</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25902" vote="no">Sally-Ann Hart</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11661" vote="no">Philip Hollobone</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11599" vote="no">Adam Holloway</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25792" vote="no">Mark Jenkinson</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11506" vote="no">David Jones</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11817" vote="no">Daniel Kawczynski</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25913" vote="no">Danny Kruger</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10352" vote="no">Edward Leigh</mpname>
+      <mpname person_id="uk.org.publicwhip/person/14031" vote="no">Kenny MacAskill</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25437" vote="no">Craig Mackinlay</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25868" vote="no">Anthony Mangnall</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25383" vote="no">Scott Mann</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24790" vote="no">Karl McCartney</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25878" vote="no">Joy Morrissey</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11626" vote="no">Mike Penning</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24926" vote="no">Jacob Rees-Mogg</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25280" vote="no">Gavin Robinson</mpname>
+      <mpname person_id="uk.org.publicwhip/person/25925" vote="no">Greg Smith</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24802" vote="no">Henry Smith</mpname>
+      <mpname person_id="uk.org.publicwhip/person/24907" vote="no">Bob Stewart</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11406" vote="no">Graham Stuart</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10580" vote="no">Desmond Swayne</mpname>
+      <mpname person_id="uk.org.publicwhip/person/10582" vote="no">Robert Syms</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11461" vote="no">Charles Walker</mpname>
+      <mpname person_id="uk.org.publicwhip/person/11374" vote="no" teller="yes">Sammy Wilson</mpname>
+      <mpname person_id="uk.org.publicwhip/person/13864" vote="no" teller="yes">Jim Shannon</mpname>
+    </mplist>
+</division>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.689.3" newgid="uk.org.publicwhip/debate/2023-06-06b.689.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.691.0" newgid="uk.org.publicwhip/debate/2023-06-06b.691.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.691.1" newgid="uk.org.publicwhip/debate/2023-06-06b.691.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.691.2" newgid="uk.org.publicwhip/debate/2023-06-06b.691.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.691.3" newgid="uk.org.publicwhip/debate/2023-06-06b.691.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.691.4" newgid="uk.org.publicwhip/debate/2023-06-06b.691.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.691.5" newgid="uk.org.publicwhip/debate/2023-06-06b.691.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.692.0" newgid="uk.org.publicwhip/debate/2023-06-06b.692.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.692.1" newgid="uk.org.publicwhip/debate/2023-06-06b.692.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.692.2" newgid="uk.org.publicwhip/debate/2023-06-06b.692.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.692.3" newgid="uk.org.publicwhip/debate/2023-06-06b.692.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.692.4" newgid="uk.org.publicwhip/debate/2023-06-06b.692.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.692.5" newgid="uk.org.publicwhip/debate/2023-06-06b.692.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.692.6" newgid="uk.org.publicwhip/debate/2023-06-06b.692.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.692.7" newgid="uk.org.publicwhip/debate/2023-06-06b.692.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.694.0" newgid="uk.org.publicwhip/debate/2023-06-06b.694.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.694.1" newgid="uk.org.publicwhip/debate/2023-06-06b.694.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.694.2" newgid="uk.org.publicwhip/debate/2023-06-06b.694.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.694.3" newgid="uk.org.publicwhip/debate/2023-06-06b.694.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.694.4" newgid="uk.org.publicwhip/debate/2023-06-06b.694.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.694.5" newgid="uk.org.publicwhip/debate/2023-06-06b.694.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.694.6" newgid="uk.org.publicwhip/debate/2023-06-06b.694.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.695.0" newgid="uk.org.publicwhip/debate/2023-06-06b.695.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.695.1" newgid="uk.org.publicwhip/debate/2023-06-06b.695.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.696.0" newgid="uk.org.publicwhip/debate/2023-06-06b.696.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.696.1" newgid="uk.org.publicwhip/debate/2023-06-06b.696.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.696.2" newgid="uk.org.publicwhip/debate/2023-06-06b.696.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.696.3" newgid="uk.org.publicwhip/debate/2023-06-06b.696.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.697.0" newgid="uk.org.publicwhip/debate/2023-06-06b.697.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.697.1" newgid="uk.org.publicwhip/debate/2023-06-06b.697.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.699.0" newgid="uk.org.publicwhip/debate/2023-06-06b.699.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.700.0" newgid="uk.org.publicwhip/debate/2023-06-06b.700.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.700.1" newgid="uk.org.publicwhip/debate/2023-06-06b.700.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.701.0" newgid="uk.org.publicwhip/debate/2023-06-06b.701.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.701.1" newgid="uk.org.publicwhip/debate/2023-06-06b.701.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.701.2" newgid="uk.org.publicwhip/debate/2023-06-06b.701.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.701.3" newgid="uk.org.publicwhip/debate/2023-06-06b.701.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.701.4" newgid="uk.org.publicwhip/debate/2023-06-06b.701.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.701.5" newgid="uk.org.publicwhip/debate/2023-06-06b.701.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.701.6" newgid="uk.org.publicwhip/debate/2023-06-06b.701.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.702.0" newgid="uk.org.publicwhip/debate/2023-06-06b.702.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.703.0" newgid="uk.org.publicwhip/debate/2023-06-06b.703.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.703.1" newgid="uk.org.publicwhip/debate/2023-06-06b.703.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.703.2" newgid="uk.org.publicwhip/debate/2023-06-06b.703.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.703.3" newgid="uk.org.publicwhip/debate/2023-06-06b.703.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.703.4" newgid="uk.org.publicwhip/debate/2023-06-06b.703.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.703.5" newgid="uk.org.publicwhip/debate/2023-06-06b.703.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.703.6" newgid="uk.org.publicwhip/debate/2023-06-06b.703.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.703.7" newgid="uk.org.publicwhip/debate/2023-06-06b.703.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.703.8" newgid="uk.org.publicwhip/debate/2023-06-06b.703.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.703.9" newgid="uk.org.publicwhip/debate/2023-06-06b.703.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.703.10" newgid="uk.org.publicwhip/debate/2023-06-06b.703.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.704.0" newgid="uk.org.publicwhip/debate/2023-06-06b.704.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.704.1" newgid="uk.org.publicwhip/debate/2023-06-06b.704.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.704.2" newgid="uk.org.publicwhip/debate/2023-06-06b.704.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.705.0" newgid="uk.org.publicwhip/debate/2023-06-06b.705.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.705.1" newgid="uk.org.publicwhip/debate/2023-06-06b.705.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.705.2" newgid="uk.org.publicwhip/debate/2023-06-06b.705.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.705.3" newgid="uk.org.publicwhip/debate/2023-06-06b.705.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.707.0" newgid="uk.org.publicwhip/debate/2023-06-06b.707.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.708.0" newgid="uk.org.publicwhip/debate/2023-06-06b.708.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.709.0" newgid="uk.org.publicwhip/debate/2023-06-06b.709.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.709.1" newgid="uk.org.publicwhip/debate/2023-06-06b.709.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.710.0" newgid="uk.org.publicwhip/debate/2023-06-06b.710.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.710.1" newgid="uk.org.publicwhip/debate/2023-06-06b.710.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.712.0" newgid="uk.org.publicwhip/debate/2023-06-06b.712.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.712.1" newgid="uk.org.publicwhip/debate/2023-06-06b.712.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.713.0" newgid="uk.org.publicwhip/debate/2023-06-06b.713.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.713.1" newgid="uk.org.publicwhip/debate/2023-06-06b.713.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.714.0" newgid="uk.org.publicwhip/debate/2023-06-06b.714.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2023-06-06a.714.1" newgid="uk.org.publicwhip/debate/2023-06-06b.714.1" matchtype="perfectmatch"/>
+</publicwhip>
+

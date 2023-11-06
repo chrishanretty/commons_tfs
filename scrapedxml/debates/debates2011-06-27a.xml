@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="a" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.593.0" newgid="uk.org.publicwhip/debate/2011-06-27b.593.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.593.1" newgid="uk.org.publicwhip/debate/2011-06-27b.593.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.593.2" newgid="uk.org.publicwhip/debate/2011-06-27b.593.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.593.3" newgid="uk.org.publicwhip/debate/2011-06-27b.593.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.593.4" newgid="uk.org.publicwhip/debate/2011-06-27b.593.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.593.5" newgid="uk.org.publicwhip/debate/2011-06-27b.593.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.593.6" newgid="uk.org.publicwhip/debate/2011-06-27b.593.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.593.7" newgid="uk.org.publicwhip/debate/2011-06-27b.593.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.593.8" newgid="uk.org.publicwhip/debate/2011-06-27b.593.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.593.9" newgid="uk.org.publicwhip/debate/2011-06-27b.593.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.593.10" newgid="uk.org.publicwhip/debate/2011-06-27b.593.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.593.11" newgid="uk.org.publicwhip/debate/2011-06-27b.593.11" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.594.0" newgid="uk.org.publicwhip/debate/2011-06-27b.594.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.594.1" newgid="uk.org.publicwhip/debate/2011-06-27b.594.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.594.2" newgid="uk.org.publicwhip/debate/2011-06-27b.594.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.594.3" newgid="uk.org.publicwhip/debate/2011-06-27b.594.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.594.4" newgid="uk.org.publicwhip/debate/2011-06-27b.594.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.594.5" newgid="uk.org.publicwhip/debate/2011-06-27b.594.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.594.6" newgid="uk.org.publicwhip/debate/2011-06-27b.594.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.594.7" newgid="uk.org.publicwhip/debate/2011-06-27b.594.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.594.8" newgid="uk.org.publicwhip/debate/2011-06-27b.594.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.595.0" newgid="uk.org.publicwhip/debate/2011-06-27b.595.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.595.1" newgid="uk.org.publicwhip/debate/2011-06-27b.595.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.595.2" newgid="uk.org.publicwhip/debate/2011-06-27b.595.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.595.3" newgid="uk.org.publicwhip/debate/2011-06-27b.595.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.595.4" newgid="uk.org.publicwhip/debate/2011-06-27b.595.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.595.5" newgid="uk.org.publicwhip/debate/2011-06-27b.595.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.595.6" newgid="uk.org.publicwhip/debate/2011-06-27b.595.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.596.0" newgid="uk.org.publicwhip/debate/2011-06-27b.596.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.596.1" newgid="uk.org.publicwhip/debate/2011-06-27b.596.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.596.2" newgid="uk.org.publicwhip/debate/2011-06-27b.596.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.596.3" newgid="uk.org.publicwhip/debate/2011-06-27b.596.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.596.4" newgid="uk.org.publicwhip/debate/2011-06-27b.596.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.596.5" newgid="uk.org.publicwhip/debate/2011-06-27b.596.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.596.6" newgid="uk.org.publicwhip/debate/2011-06-27b.596.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.596.7" newgid="uk.org.publicwhip/debate/2011-06-27b.596.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.597.0" newgid="uk.org.publicwhip/debate/2011-06-27b.597.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.597.1" newgid="uk.org.publicwhip/debate/2011-06-27b.597.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.597.2" newgid="uk.org.publicwhip/debate/2011-06-27b.597.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.597.3" newgid="uk.org.publicwhip/debate/2011-06-27b.597.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.597.4" newgid="uk.org.publicwhip/debate/2011-06-27b.597.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.597.5" newgid="uk.org.publicwhip/debate/2011-06-27b.597.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.597.6" newgid="uk.org.publicwhip/debate/2011-06-27b.597.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.597.7" newgid="uk.org.publicwhip/debate/2011-06-27b.597.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.597.8" newgid="uk.org.publicwhip/debate/2011-06-27b.597.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.597.9" newgid="uk.org.publicwhip/debate/2011-06-27b.597.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.597.10" newgid="uk.org.publicwhip/debate/2011-06-27b.597.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.598.0" newgid="uk.org.publicwhip/debate/2011-06-27b.598.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.598.1" newgid="uk.org.publicwhip/debate/2011-06-27b.598.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.598.2" newgid="uk.org.publicwhip/debate/2011-06-27b.598.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.598.3" newgid="uk.org.publicwhip/debate/2011-06-27b.598.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.598.4" newgid="uk.org.publicwhip/debate/2011-06-27b.598.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.598.5" newgid="uk.org.publicwhip/debate/2011-06-27b.598.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.598.6" newgid="uk.org.publicwhip/debate/2011-06-27b.598.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.598.7" newgid="uk.org.publicwhip/debate/2011-06-27b.598.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.599.0" newgid="uk.org.publicwhip/debate/2011-06-27b.599.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.599.1" newgid="uk.org.publicwhip/debate/2011-06-27b.599.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.599.2" newgid="uk.org.publicwhip/debate/2011-06-27b.599.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.599.3" newgid="uk.org.publicwhip/debate/2011-06-27b.599.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.599.4" newgid="uk.org.publicwhip/debate/2011-06-27b.599.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.599.5" newgid="uk.org.publicwhip/debate/2011-06-27b.599.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.599.6" newgid="uk.org.publicwhip/debate/2011-06-27b.599.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.600.0" newgid="uk.org.publicwhip/debate/2011-06-27b.600.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.600.1" newgid="uk.org.publicwhip/debate/2011-06-27b.600.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.600.2" newgid="uk.org.publicwhip/debate/2011-06-27b.600.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.600.3" newgid="uk.org.publicwhip/debate/2011-06-27b.600.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.600.4" newgid="uk.org.publicwhip/debate/2011-06-27b.600.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.600.5" newgid="uk.org.publicwhip/debate/2011-06-27b.600.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.600.6" newgid="uk.org.publicwhip/debate/2011-06-27b.600.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.601.0" newgid="uk.org.publicwhip/debate/2011-06-27b.601.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.601.1" newgid="uk.org.publicwhip/debate/2011-06-27b.601.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.601.2" newgid="uk.org.publicwhip/debate/2011-06-27b.601.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.601.3" newgid="uk.org.publicwhip/debate/2011-06-27b.601.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.601.4" newgid="uk.org.publicwhip/debate/2011-06-27b.601.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.601.5" newgid="uk.org.publicwhip/debate/2011-06-27b.601.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.601.6" newgid="uk.org.publicwhip/debate/2011-06-27b.601.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.601.7" newgid="uk.org.publicwhip/debate/2011-06-27b.601.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.602.0" newgid="uk.org.publicwhip/debate/2011-06-27b.602.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.602.1" newgid="uk.org.publicwhip/debate/2011-06-27b.602.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.602.2" newgid="uk.org.publicwhip/debate/2011-06-27b.602.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.602.3" newgid="uk.org.publicwhip/debate/2011-06-27b.602.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.602.4" newgid="uk.org.publicwhip/debate/2011-06-27b.602.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.602.5" newgid="uk.org.publicwhip/debate/2011-06-27b.602.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.602.6" newgid="uk.org.publicwhip/debate/2011-06-27b.602.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.602.7" newgid="uk.org.publicwhip/debate/2011-06-27b.602.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.603.0" newgid="uk.org.publicwhip/debate/2011-06-27b.603.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.603.1" newgid="uk.org.publicwhip/debate/2011-06-27b.603.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.603.2" newgid="uk.org.publicwhip/debate/2011-06-27b.603.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.603.3" newgid="uk.org.publicwhip/debate/2011-06-27b.603.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.604.0" newgid="uk.org.publicwhip/debate/2011-06-27b.604.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.604.1" newgid="uk.org.publicwhip/debate/2011-06-27b.604.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.604.2" newgid="uk.org.publicwhip/debate/2011-06-27b.604.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.604.3" newgid="uk.org.publicwhip/debate/2011-06-27b.604.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.604.4" newgid="uk.org.publicwhip/debate/2011-06-27b.604.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.604.5" newgid="uk.org.publicwhip/debate/2011-06-27b.604.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.604.6" newgid="uk.org.publicwhip/debate/2011-06-27b.604.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.604.7" newgid="uk.org.publicwhip/debate/2011-06-27b.604.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.605.0" newgid="uk.org.publicwhip/debate/2011-06-27b.605.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.605.1" newgid="uk.org.publicwhip/debate/2011-06-27b.605.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.605.2" newgid="uk.org.publicwhip/debate/2011-06-27b.605.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.605.3" newgid="uk.org.publicwhip/debate/2011-06-27b.605.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.605.4" newgid="uk.org.publicwhip/debate/2011-06-27b.605.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.605.5" newgid="uk.org.publicwhip/debate/2011-06-27b.605.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.605.6" newgid="uk.org.publicwhip/debate/2011-06-27b.605.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.605.7" newgid="uk.org.publicwhip/debate/2011-06-27b.605.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.605.8" newgid="uk.org.publicwhip/debate/2011-06-27b.605.8" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2011-06-27a.605.8" speakerid="uk.org.publicwhip/member/40279" speakername="Richard Graham" colnum="605"  time="14:30:00" url="http://www.publications.parliament.uk/pa/cm201011/cmhansrd/cm110627/debtext/110627-0001.htm#1106279000616">
+	<p pid="a.605.8/1">Recent incidents of rape and sexual assault in my constituency have been linked to Gloucester&#8217;s nightlife. Although Gloucestershire constabulary, which incidentally is increasing the number of front-line officers in our city, is doing a great job to protect my constituents on the streets, many parents would like awareness to be raised among youngsters about the risk of sexual assault. Are there things that the Home Office could to, perhaps together with the Department for Education, to help in that?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.606.0" newgid="uk.org.publicwhip/debate/2011-06-27b.606.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.606.1" newgid="uk.org.publicwhip/debate/2011-06-27b.606.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.606.2" newgid="uk.org.publicwhip/debate/2011-06-27b.606.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.606.3" newgid="uk.org.publicwhip/debate/2011-06-27b.606.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.606.4" newgid="uk.org.publicwhip/debate/2011-06-27b.606.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.606.5" newgid="uk.org.publicwhip/debate/2011-06-27b.606.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.606.6" newgid="uk.org.publicwhip/debate/2011-06-27b.606.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.606.7" newgid="uk.org.publicwhip/debate/2011-06-27b.606.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.606.8" newgid="uk.org.publicwhip/debate/2011-06-27b.606.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.607.0" newgid="uk.org.publicwhip/debate/2011-06-27b.607.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.607.1" newgid="uk.org.publicwhip/debate/2011-06-27b.607.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.607.2" newgid="uk.org.publicwhip/debate/2011-06-27b.607.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.607.3" newgid="uk.org.publicwhip/debate/2011-06-27b.607.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.607.4" newgid="uk.org.publicwhip/debate/2011-06-27b.607.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.607.5" newgid="uk.org.publicwhip/debate/2011-06-27b.607.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.607.6" newgid="uk.org.publicwhip/debate/2011-06-27b.607.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.607.7" newgid="uk.org.publicwhip/debate/2011-06-27b.607.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.607.8" newgid="uk.org.publicwhip/debate/2011-06-27b.607.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.607.9" newgid="uk.org.publicwhip/debate/2011-06-27b.607.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.607.10" newgid="uk.org.publicwhip/debate/2011-06-27b.607.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.608.0" newgid="uk.org.publicwhip/debate/2011-06-27b.608.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.608.1" newgid="uk.org.publicwhip/debate/2011-06-27b.608.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.608.2" newgid="uk.org.publicwhip/debate/2011-06-27b.608.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.608.3" newgid="uk.org.publicwhip/debate/2011-06-27b.608.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.608.4" newgid="uk.org.publicwhip/debate/2011-06-27b.608.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.608.5" newgid="uk.org.publicwhip/debate/2011-06-27b.608.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.609.0" newgid="uk.org.publicwhip/debate/2011-06-27b.609.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.609.1" newgid="uk.org.publicwhip/debate/2011-06-27b.609.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.609.2" newgid="uk.org.publicwhip/debate/2011-06-27b.609.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.609.3" newgid="uk.org.publicwhip/debate/2011-06-27b.609.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.609.4" newgid="uk.org.publicwhip/debate/2011-06-27b.609.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.609.5" newgid="uk.org.publicwhip/debate/2011-06-27b.609.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.609.6" newgid="uk.org.publicwhip/debate/2011-06-27b.609.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.610.0" newgid="uk.org.publicwhip/debate/2011-06-27b.610.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.610.1" newgid="uk.org.publicwhip/debate/2011-06-27b.610.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.610.2" newgid="uk.org.publicwhip/debate/2011-06-27b.610.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.610.3" newgid="uk.org.publicwhip/debate/2011-06-27b.610.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.610.4" newgid="uk.org.publicwhip/debate/2011-06-27b.610.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.610.5" newgid="uk.org.publicwhip/debate/2011-06-27b.610.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.611.0" newgid="uk.org.publicwhip/debate/2011-06-27b.611.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.611.1" newgid="uk.org.publicwhip/debate/2011-06-27b.611.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.611.2" newgid="uk.org.publicwhip/debate/2011-06-27b.611.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.611.3" newgid="uk.org.publicwhip/debate/2011-06-27b.611.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.611.4" newgid="uk.org.publicwhip/debate/2011-06-27b.611.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.611.5" newgid="uk.org.publicwhip/debate/2011-06-27b.611.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.611.6" newgid="uk.org.publicwhip/debate/2011-06-27b.611.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.611.7" newgid="uk.org.publicwhip/debate/2011-06-27b.611.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.612.0" newgid="uk.org.publicwhip/debate/2011-06-27b.612.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.612.1" newgid="uk.org.publicwhip/debate/2011-06-27b.612.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.612.2" newgid="uk.org.publicwhip/debate/2011-06-27b.612.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.612.3" newgid="uk.org.publicwhip/debate/2011-06-27b.612.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.612.4" newgid="uk.org.publicwhip/debate/2011-06-27b.612.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.612.5" newgid="uk.org.publicwhip/debate/2011-06-27b.612.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.612.6" newgid="uk.org.publicwhip/debate/2011-06-27b.612.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.612.7" newgid="uk.org.publicwhip/debate/2011-06-27b.612.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.613.0" newgid="uk.org.publicwhip/debate/2011-06-27b.613.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.613.1" newgid="uk.org.publicwhip/debate/2011-06-27b.613.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.613.2" newgid="uk.org.publicwhip/debate/2011-06-27b.613.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.614.0" newgid="uk.org.publicwhip/debate/2011-06-27b.614.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.614.1" newgid="uk.org.publicwhip/debate/2011-06-27b.614.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.614.2" newgid="uk.org.publicwhip/debate/2011-06-27b.614.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.615.0" newgid="uk.org.publicwhip/debate/2011-06-27b.615.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.615.1" newgid="uk.org.publicwhip/debate/2011-06-27b.615.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.617.0" newgid="uk.org.publicwhip/debate/2011-06-27b.617.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.619.0" newgid="uk.org.publicwhip/debate/2011-06-27b.619.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.620.0" newgid="uk.org.publicwhip/debate/2011-06-27b.620.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.620.1" newgid="uk.org.publicwhip/debate/2011-06-27b.620.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.620.2" newgid="uk.org.publicwhip/debate/2011-06-27b.620.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.620.3" newgid="uk.org.publicwhip/debate/2011-06-27b.620.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.620.4" newgid="uk.org.publicwhip/debate/2011-06-27b.620.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.620.5" newgid="uk.org.publicwhip/debate/2011-06-27b.620.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.621.0" newgid="uk.org.publicwhip/debate/2011-06-27b.621.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.621.1" newgid="uk.org.publicwhip/debate/2011-06-27b.621.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.621.2" newgid="uk.org.publicwhip/debate/2011-06-27b.621.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.621.3" newgid="uk.org.publicwhip/debate/2011-06-27b.621.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.621.4" newgid="uk.org.publicwhip/debate/2011-06-27b.621.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.621.5" newgid="uk.org.publicwhip/debate/2011-06-27b.621.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.622.0" newgid="uk.org.publicwhip/debate/2011-06-27b.622.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.622.1" newgid="uk.org.publicwhip/debate/2011-06-27b.622.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.622.2" newgid="uk.org.publicwhip/debate/2011-06-27b.622.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.622.3" newgid="uk.org.publicwhip/debate/2011-06-27b.622.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.622.4" newgid="uk.org.publicwhip/debate/2011-06-27b.622.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.623.0" newgid="uk.org.publicwhip/debate/2011-06-27b.623.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.623.1" newgid="uk.org.publicwhip/debate/2011-06-27b.623.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.623.2" newgid="uk.org.publicwhip/debate/2011-06-27b.623.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.623.3" newgid="uk.org.publicwhip/debate/2011-06-27b.623.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.623.4" newgid="uk.org.publicwhip/debate/2011-06-27b.623.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.624.0" newgid="uk.org.publicwhip/debate/2011-06-27b.624.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.624.1" newgid="uk.org.publicwhip/debate/2011-06-27b.624.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.624.2" newgid="uk.org.publicwhip/debate/2011-06-27b.624.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.624.3" newgid="uk.org.publicwhip/debate/2011-06-27b.624.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.624.4" newgid="uk.org.publicwhip/debate/2011-06-27b.624.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.624.5" newgid="uk.org.publicwhip/debate/2011-06-27b.624.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.624.6" newgid="uk.org.publicwhip/debate/2011-06-27b.624.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.625.0" newgid="uk.org.publicwhip/debate/2011-06-27b.625.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.625.1" newgid="uk.org.publicwhip/debate/2011-06-27b.625.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.625.2" newgid="uk.org.publicwhip/debate/2011-06-27b.625.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.625.3" newgid="uk.org.publicwhip/debate/2011-06-27b.625.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.625.4" newgid="uk.org.publicwhip/debate/2011-06-27b.625.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.625.5" newgid="uk.org.publicwhip/debate/2011-06-27b.625.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.626.0" newgid="uk.org.publicwhip/debate/2011-06-27b.626.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2011-06-27a.626.0" speakerid="uk.org.publicwhip/member/40665" speakername="David Cameron" colnum="626"  time="015:32:00" url="http://www.publications.parliament.uk/pa/cm201011/cmhansrd/cm110627/debtext/110627-0001.htm#1106279000714">
+	<p pid="a.626.0/1">Britain&#8217;s role is clearly set out in UN resolution 1973, which is to work with others to stop the attacks on civilians. It is not about regime change; it is for the people of Libya to decide who governs them and how they are governed. We have also always been clear that if Gaddafi declared a ceasefire and removed his troops from the towns and cities that he has invaded, that would be playing his part in resolving resolution 1973. Where I have always gone on and said that I cannot see a future for Libya where Gaddafi is still in place is for the simple reason that if one looks at what this man has done during the last 100 days, although he has had every opportunity to pull back and put in place a ceasefire, all he has done to his own citizens is more shelling, attacking, murdering and sniping. So it is inconceivable to think of a future for Libya where he is still in a position of authority.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.626.1" newgid="uk.org.publicwhip/debate/2011-06-27b.626.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.626.2" newgid="uk.org.publicwhip/debate/2011-06-27b.626.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.626.3" newgid="uk.org.publicwhip/debate/2011-06-27b.626.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.626.4" newgid="uk.org.publicwhip/debate/2011-06-27b.626.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.627.0" newgid="uk.org.publicwhip/debate/2011-06-27b.627.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.627.1" newgid="uk.org.publicwhip/debate/2011-06-27b.627.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2011-06-27a.627.1" speakerid="uk.org.publicwhip/member/40665" speakername="David Cameron" colnum="627"  time="015:32:00" url="http://www.publications.parliament.uk/pa/cm201011/cmhansrd/cm110627/debtext/110627-0001.htm#1106279000720">
+	<p pid="a.627.1/1">Let me make two points to the hon. Gentleman. First, our share of the IMF is a little over 4%, so that is out contingent liability share of what the IMF dispenses. Secondly, the point about the IMF&#8212;this might also be of some reassurance to my Back-Bench colleagues&#8212;is that it will lend money only if it is confident that it is part of a programme that a country can repay, and that is important to consider. I say to those who are sceptical about our role in the IMF that Britain, as a leading economic power in the world, has an important role to play as a shareholder and board member of the IMF, and the idea that we should somehow be seeking to reduce that is wrong.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.627.2" newgid="uk.org.publicwhip/debate/2011-06-27b.627.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.627.3" newgid="uk.org.publicwhip/debate/2011-06-27b.627.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.627.4" newgid="uk.org.publicwhip/debate/2011-06-27b.627.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.627.5" newgid="uk.org.publicwhip/debate/2011-06-27b.627.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.627.6" newgid="uk.org.publicwhip/debate/2011-06-27b.627.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.628.0" newgid="uk.org.publicwhip/debate/2011-06-27b.628.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.628.1" newgid="uk.org.publicwhip/debate/2011-06-27b.628.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.628.2" newgid="uk.org.publicwhip/debate/2011-06-27b.628.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.628.3" newgid="uk.org.publicwhip/debate/2011-06-27b.628.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.628.4" newgid="uk.org.publicwhip/debate/2011-06-27b.628.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.628.5" newgid="uk.org.publicwhip/debate/2011-06-27b.628.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.629.0" newgid="uk.org.publicwhip/debate/2011-06-27b.629.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.629.1" newgid="uk.org.publicwhip/debate/2011-06-27b.629.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.629.2" newgid="uk.org.publicwhip/debate/2011-06-27b.629.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.629.3" newgid="uk.org.publicwhip/debate/2011-06-27b.629.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.629.4" newgid="uk.org.publicwhip/debate/2011-06-27b.629.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.629.5" newgid="uk.org.publicwhip/debate/2011-06-27b.629.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.630.0" newgid="uk.org.publicwhip/debate/2011-06-27b.630.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.630.1" newgid="uk.org.publicwhip/debate/2011-06-27b.630.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.630.2" newgid="uk.org.publicwhip/debate/2011-06-27b.630.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.630.3" newgid="uk.org.publicwhip/debate/2011-06-27b.630.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.630.4" newgid="uk.org.publicwhip/debate/2011-06-27b.630.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.630.5" newgid="uk.org.publicwhip/debate/2011-06-27b.630.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.630.6" newgid="uk.org.publicwhip/debate/2011-06-27b.630.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.631.0" newgid="uk.org.publicwhip/debate/2011-06-27b.631.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.631.1" newgid="uk.org.publicwhip/debate/2011-06-27b.631.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.631.2" newgid="uk.org.publicwhip/debate/2011-06-27b.631.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.631.3" newgid="uk.org.publicwhip/debate/2011-06-27b.631.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.631.4" newgid="uk.org.publicwhip/debate/2011-06-27b.631.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.631.5" newgid="uk.org.publicwhip/debate/2011-06-27b.631.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.632.0" newgid="uk.org.publicwhip/debate/2011-06-27b.632.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.632.1" newgid="uk.org.publicwhip/debate/2011-06-27b.632.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.632.2" newgid="uk.org.publicwhip/debate/2011-06-27b.632.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.632.3" newgid="uk.org.publicwhip/debate/2011-06-27b.632.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.632.4" newgid="uk.org.publicwhip/debate/2011-06-27b.632.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.632.5" newgid="uk.org.publicwhip/debate/2011-06-27b.632.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.632.6" newgid="uk.org.publicwhip/debate/2011-06-27b.632.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.633.0" newgid="uk.org.publicwhip/debate/2011-06-27b.633.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.633.1" newgid="uk.org.publicwhip/debate/2011-06-27b.633.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.634.0" newgid="uk.org.publicwhip/debate/2011-06-27b.634.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.634.1" newgid="uk.org.publicwhip/debate/2011-06-27b.634.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.636.0" newgid="uk.org.publicwhip/debate/2011-06-27b.636.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.638.0" newgid="uk.org.publicwhip/debate/2011-06-27b.638.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.638.1" newgid="uk.org.publicwhip/debate/2011-06-27b.638.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.638.2" newgid="uk.org.publicwhip/debate/2011-06-27b.638.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.639.0" newgid="uk.org.publicwhip/debate/2011-06-27b.639.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.639.1" newgid="uk.org.publicwhip/debate/2011-06-27b.639.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.639.2" newgid="uk.org.publicwhip/debate/2011-06-27b.639.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.639.3" newgid="uk.org.publicwhip/debate/2011-06-27b.639.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.639.4" newgid="uk.org.publicwhip/debate/2011-06-27b.639.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.639.5" newgid="uk.org.publicwhip/debate/2011-06-27b.639.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.640.0" newgid="uk.org.publicwhip/debate/2011-06-27b.640.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.640.1" newgid="uk.org.publicwhip/debate/2011-06-27b.640.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.640.2" newgid="uk.org.publicwhip/debate/2011-06-27b.640.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.640.3" newgid="uk.org.publicwhip/debate/2011-06-27b.640.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.640.4" newgid="uk.org.publicwhip/debate/2011-06-27b.640.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.640.5" newgid="uk.org.publicwhip/debate/2011-06-27b.640.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.640.6" newgid="uk.org.publicwhip/debate/2011-06-27b.640.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.641.0" newgid="uk.org.publicwhip/debate/2011-06-27b.641.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.641.1" newgid="uk.org.publicwhip/debate/2011-06-27b.641.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.641.2" newgid="uk.org.publicwhip/debate/2011-06-27b.641.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.641.3" newgid="uk.org.publicwhip/debate/2011-06-27b.641.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.641.4" newgid="uk.org.publicwhip/debate/2011-06-27b.641.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.641.5" newgid="uk.org.publicwhip/debate/2011-06-27b.641.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.641.6" newgid="uk.org.publicwhip/debate/2011-06-27b.641.6" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2011-06-27a.641.6" speakerid="uk.org.publicwhip/member/40080" speakername="Gisela Stuart" colnum="641"  time="016:29:00" url="http://www.publications.parliament.uk/pa/cm201011/cmhansrd/cm110627/debtext/110627-0002.htm#1106279000784">
+	<p pid="a.641.6/1">The Secretary of State started his statement by referring to us our being in the premier league of military powers. In the view of the three chiefs of the services, we are currently not a full spectrum power. If these reforms are implemented, will we again be a full spectrum power, and if so, when?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.641.7" newgid="uk.org.publicwhip/debate/2011-06-27b.641.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.642.0" newgid="uk.org.publicwhip/debate/2011-06-27b.642.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.642.1" newgid="uk.org.publicwhip/debate/2011-06-27b.642.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.642.2" newgid="uk.org.publicwhip/debate/2011-06-27b.642.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.642.3" newgid="uk.org.publicwhip/debate/2011-06-27b.642.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.642.4" newgid="uk.org.publicwhip/debate/2011-06-27b.642.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.642.5" newgid="uk.org.publicwhip/debate/2011-06-27b.642.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.642.6" newgid="uk.org.publicwhip/debate/2011-06-27b.642.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.642.7" newgid="uk.org.publicwhip/debate/2011-06-27b.642.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.643.0" newgid="uk.org.publicwhip/debate/2011-06-27b.643.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.643.1" newgid="uk.org.publicwhip/debate/2011-06-27b.643.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.643.2" newgid="uk.org.publicwhip/debate/2011-06-27b.643.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.643.3" newgid="uk.org.publicwhip/debate/2011-06-27b.643.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.643.4" newgid="uk.org.publicwhip/debate/2011-06-27b.643.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.643.5" newgid="uk.org.publicwhip/debate/2011-06-27b.643.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.643.6" newgid="uk.org.publicwhip/debate/2011-06-27b.643.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.643.7" newgid="uk.org.publicwhip/debate/2011-06-27b.643.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.643.8" newgid="uk.org.publicwhip/debate/2011-06-27b.643.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.644.0" newgid="uk.org.publicwhip/debate/2011-06-27b.644.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.644.1" newgid="uk.org.publicwhip/debate/2011-06-27b.644.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.644.2" newgid="uk.org.publicwhip/debate/2011-06-27b.644.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.644.3" newgid="uk.org.publicwhip/debate/2011-06-27b.644.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.644.4" newgid="uk.org.publicwhip/debate/2011-06-27b.644.4" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2011-06-27a.644.4" speakerid="uk.org.publicwhip/member/40445" speakername="Liam Fox" colnum="644"  time="016:29:00" url="http://www.publications.parliament.uk/pa/cm201011/cmhansrd/cm110627/debtext/110627-0002.htm#1106279000807">
+	<p pid="a.644.4/1">The single service chiefs will, through the chiefs of staff committee, always be able to have a robust debate among themselves and with CDS ahead of the CDS reporting their views to the defence board. They also have access to me, as Secretary of State, if they have a particular grievance that they feel has not been listened to. My door is open to them at any time.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.644.5" newgid="uk.org.publicwhip/debate/2011-06-27b.644.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.644.6" newgid="uk.org.publicwhip/debate/2011-06-27b.644.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.644.7" newgid="uk.org.publicwhip/debate/2011-06-27b.644.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.645.0" newgid="uk.org.publicwhip/debate/2011-06-27b.645.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.645.1" newgid="uk.org.publicwhip/debate/2011-06-27b.645.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.645.2" newgid="uk.org.publicwhip/debate/2011-06-27b.645.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.645.3" newgid="uk.org.publicwhip/debate/2011-06-27b.645.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.645.4" newgid="uk.org.publicwhip/debate/2011-06-27b.645.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.645.5" newgid="uk.org.publicwhip/debate/2011-06-27b.645.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.646.0" newgid="uk.org.publicwhip/debate/2011-06-27b.646.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.646.1" newgid="uk.org.publicwhip/debate/2011-06-27b.646.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.646.2" newgid="uk.org.publicwhip/debate/2011-06-27b.646.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.646.3" newgid="uk.org.publicwhip/debate/2011-06-27b.646.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.646.4" newgid="uk.org.publicwhip/debate/2011-06-27b.646.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.646.5" newgid="uk.org.publicwhip/debate/2011-06-27b.646.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.647.0" newgid="uk.org.publicwhip/debate/2011-06-27b.647.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.647.1" newgid="uk.org.publicwhip/debate/2011-06-27b.647.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.647.2" newgid="uk.org.publicwhip/debate/2011-06-27b.647.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.647.3" newgid="uk.org.publicwhip/debate/2011-06-27b.647.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.647.4" newgid="uk.org.publicwhip/debate/2011-06-27b.647.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.647.5" newgid="uk.org.publicwhip/debate/2011-06-27b.647.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.648.0" newgid="uk.org.publicwhip/debate/2011-06-27b.648.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.648.1" newgid="uk.org.publicwhip/debate/2011-06-27b.648.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.648.2" newgid="uk.org.publicwhip/debate/2011-06-27b.648.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.648.3" newgid="uk.org.publicwhip/debate/2011-06-27b.648.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.648.4" newgid="uk.org.publicwhip/debate/2011-06-27b.648.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.649.0" newgid="uk.org.publicwhip/debate/2011-06-27b.649.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.649.1" newgid="uk.org.publicwhip/debate/2011-06-27b.649.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.649.2" newgid="uk.org.publicwhip/debate/2011-06-27b.649.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.649.3" newgid="uk.org.publicwhip/debate/2011-06-27b.649.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.650.0" newgid="uk.org.publicwhip/debate/2011-06-27b.650.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.650.1" newgid="uk.org.publicwhip/debate/2011-06-27b.650.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.650.2" newgid="uk.org.publicwhip/debate/2011-06-27b.650.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.650.3" newgid="uk.org.publicwhip/debate/2011-06-27b.650.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.650.4" newgid="uk.org.publicwhip/debate/2011-06-27b.650.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.650.5" newgid="uk.org.publicwhip/debate/2011-06-27b.650.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.650.6" newgid="uk.org.publicwhip/debate/2011-06-27b.650.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.651.0" newgid="uk.org.publicwhip/debate/2011-06-27b.651.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.651.1" newgid="uk.org.publicwhip/debate/2011-06-27b.651.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.651.2" newgid="uk.org.publicwhip/debate/2011-06-27b.651.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.651.3" newgid="uk.org.publicwhip/debate/2011-06-27b.651.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.651.4" newgid="uk.org.publicwhip/debate/2011-06-27b.651.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.652.0" newgid="uk.org.publicwhip/debate/2011-06-27b.652.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2011-06-27a.652.0" speakerid="uk.org.publicwhip/member/40172" speakername="Mark Field" colnum="652"  time="017:08:00" url="http://www.publications.parliament.uk/pa/cm201011/cmhansrd/cm110627/debtext/110627-0002.htm#1106279000848">
+	<p pid="a.652.0/1">I am probably in a minority on the Government Benches, but I support a democratic House of Lords. Does the right hon. Gentleman not realise, however, that the complications that he has already put in place in the 20 minutes that he has spoken so far will help opponents of reform to frustrate what he is trying to achieve, whether it be 15-year terms, a partly elected or fully elected Chamber, or a proportional representation system? It is literally seven and a half weeks since the people of this country, in a plebiscite, had a chance to say, overwhelmingly, that they did not want a PR system in our Parliament. How can he possible consider that this is the right way forward for democratising the House of Lords?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.652.1" newgid="uk.org.publicwhip/debate/2011-06-27b.652.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.652.2" newgid="uk.org.publicwhip/debate/2011-06-27b.652.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.652.3" newgid="uk.org.publicwhip/debate/2011-06-27b.652.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.653.0" newgid="uk.org.publicwhip/debate/2011-06-27b.653.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.653.1" newgid="uk.org.publicwhip/debate/2011-06-27b.653.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.653.2" newgid="uk.org.publicwhip/debate/2011-06-27b.653.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.654.0" newgid="uk.org.publicwhip/debate/2011-06-27b.654.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.654.1" newgid="uk.org.publicwhip/debate/2011-06-27b.654.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.654.2" newgid="uk.org.publicwhip/debate/2011-06-27b.654.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.654.3" newgid="uk.org.publicwhip/debate/2011-06-27b.654.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.655.0" newgid="uk.org.publicwhip/debate/2011-06-27b.655.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.655.1" newgid="uk.org.publicwhip/debate/2011-06-27b.655.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.655.2" newgid="uk.org.publicwhip/debate/2011-06-27b.655.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.655.3" newgid="uk.org.publicwhip/debate/2011-06-27b.655.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2011-06-27a.655.3" speakerid="uk.org.publicwhip/member/40610" speakername="Sadiq Khan" colnum="655"  time="017:31:00" url="http://www.publications.parliament.uk/pa/cm201011/cmhansrd/cm110627/debtext/110627-0002.htm#1106279000862">
+	<p pid="a.655.3/1">The hon. Gentleman heard the speech from the Deputy Prime Minister, who gave a number of examples whereby the other Chamber&#8212;<i>[</i> <i>Interruption.</i> <i>]</i> I will give the hon. Gentleman an example. Is it right that we have 828 Members in the other place, all of whom, except for the 92 who by good fortune of their DNA have to go through elections, are not elected? That is not acceptable in a modern democracy.</p>
+	<p pid="a.655.3/2">There are those who have, I accept, legitimate concerns that a directly elected upper Chamber might seek to assert its newly found democratic mandate by facing down the Commons, and it is critical that the Joint Committee addresses that issue. After all, the primacy of this House must remain. It currently rest on two principles, the first of which is legislative. The Parliament Acts removed the powers of the Lords over money Bills and empowered the Commons to override the Lords on non-money Bills. The second principle underpinning the primacy of the Commons is drawn from the elected nature of its Members, so if we move to a directly elected upper Chamber it is not unreasonable for some to ask whether this House faces a threat to its primacy.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.655.4" newgid="uk.org.publicwhip/debate/2011-06-27b.655.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.655.5" newgid="uk.org.publicwhip/debate/2011-06-27b.655.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.656.0" newgid="uk.org.publicwhip/debate/2011-06-27b.656.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.656.1" newgid="uk.org.publicwhip/debate/2011-06-27b.656.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.656.2" newgid="uk.org.publicwhip/debate/2011-06-27b.656.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.656.3" newgid="uk.org.publicwhip/debate/2011-06-27b.656.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.657.0" newgid="uk.org.publicwhip/debate/2011-06-27b.657.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.657.1" newgid="uk.org.publicwhip/debate/2011-06-27b.657.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.657.2" newgid="uk.org.publicwhip/debate/2011-06-27b.657.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.657.3" newgid="uk.org.publicwhip/debate/2011-06-27b.657.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.658.0" newgid="uk.org.publicwhip/debate/2011-06-27b.658.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.658.1" newgid="uk.org.publicwhip/debate/2011-06-27b.658.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.658.2" newgid="uk.org.publicwhip/debate/2011-06-27b.658.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.659.0" newgid="uk.org.publicwhip/debate/2011-06-27b.659.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.659.1" newgid="uk.org.publicwhip/debate/2011-06-27b.659.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.659.2" newgid="uk.org.publicwhip/debate/2011-06-27b.659.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.660.0" newgid="uk.org.publicwhip/debate/2011-06-27b.660.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.661.0" newgid="uk.org.publicwhip/debate/2011-06-27b.661.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.661.1" newgid="uk.org.publicwhip/debate/2011-06-27b.661.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2011-06-27a.661.1" speakerid="uk.org.publicwhip/member/40106" speakername="Conor Burns" colnum="661"  time="017:50:00" url="http://www.publications.parliament.uk/pa/cm201011/cmhansrd/cm110627/debtext/110627-0002.htm#11062728000169">
+	<p pid="a.661.1/1">And I say in response to my hon. Friend that it is at the core of Conservative beliefs that if something is working, one does not mess around with it. The other place is working, as is shown in the fact that we in this place accept more than 80% of the amendments that it sends back to us. It is playing its proper role as a revising Chamber.</p>
+	<p pid="a.661.1/2">There is one point of consensus on all sides. We want to see an effective second Chamber that works. I welcome the Deputy Prime Minister saying that he is open to ideas for reform and improvement, and as the Joint Committee embarks on its important work, I hope that it will consider ideas for improving the second Chamber from those of us who want to improve the status quo. We all want it to work in the interests of our constituents, but I am not convinced that the proposals that the Government have on the table at this point will achieve that objective.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.661.2" newgid="uk.org.publicwhip/debate/2011-06-27b.661.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2011-06-27a.661.2" speakerid="uk.org.publicwhip/member/40552" speakername="David Miliband" colnum="661"  time="017:58:00" url="http://www.publications.parliament.uk/pa/cm201011/cmhansrd/cm110627/debtext/110627-0002.htm#11062728000170">
+	<p pid="a.661.2/1">I apologise to the House for having to absent myself for a short period this evening.</p>
+	<p pid="a.661.2/2">It is nice to be able to speak in the House in full and enthusiastic support of the manifesto on which I was elected, and consistent with my previous votes in the House for 100% election and 80% election to the Lords, in 2003 and 2007. I look forward to getting the chance to vote on the matter again.</p>
+	<p pid="a.661.2/3">I wish first to dispose of three very bad arguments against proceeding towards an elected House. The first is that we need to sort out the functions of the House of Lords before doing so. The truth is that there is agreement on that point. The House of Lords is a revising Chamber not equal to the House of Commons, prevented by statute from pre-empting the supremacy of this House and established by law and by practice to persuade and restrain this House.</p>
+	<p pid="a.661.2/4">The second argument is that the public have got other things on their mind. The idea that the Government have a bad economic policy or health policy because they are distracted by House of Lords reform is frankly risible. We are elected to this place to debate the big issues of the time, and I do not believe that it is sufficient to say that this is not people&#8217;s main preoccupation.</p>
+	<p pid="a.661.2/5">The third bad argument is by far the most tempting. It is: because the Deputy Prime Minister is in favour an elected House, is sponsoring the debate and will sponsor the Bill, it must be a bad idea. That view has many supporters in both main parties, as we will discover, and one can see the force of the point. When the right hon.</p>
+	<p pid="a.661.2/6">Gentleman said before the election that he wanted to unite the nation, he could scarcely have imagined that people of all shades of opinion would come together so quickly to agree that he is not a very lovable rogue. However, although that is a tempting argument, I hope that my colleagues, especially Labour colleagues, will not fall for it. The right hon. Gentleman needs no help from either of the two so-called main parties to administer his fate, and there is a much bigger game here than the temptation to kick a man when he is down. The roadblock to reform is not, in this case, the right hon. Gentleman, but the Government&#8217;s puppetmaster, the Prime Minister. We should not be diverted by the temptation of kicking smaller fry.</p>
+	<p pid="a.661.2/7">The fundamental issue at stake is whether a stronger, more assertive, more legitimate House of Lords will be good for the governance of the country, not just in democratic theory, but in real life and practice. I believe that it would. I am a believer in strong government. I also believe that a strong Government get stronger and better when they are more accountable to a strong legislature. That is what we are debating today. That is a recipe not for gridlock but for better government.</p>
+	<p pid="a.661.2/8">Legislative strength is, in part, the way in which this House functions. Personally, I would have liked to see electoral reform of this House and the second Chamber on the same ballot paper in a single referendum, because we should debate the Parliament of the United Kingdom as a whole. The House of Commons and the House of Lords exist in relation to each other, not simply separately. However, following the alternative vote fiasco, that opportunity has been missed. None the less, it is striking that many of those who argue that reform will make no difference to the public also contend that it will mean the end of the House of Commons as the voice of the public. They cannot have it both ways.</p>
+	<p pid="a.661.2/9">Reform of the House of Lords is important to the strength and effectiveness of the legislature as a whole. That is why I argue for it.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.662.0" newgid="uk.org.publicwhip/debate/2011-06-27b.662.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.662.1" newgid="uk.org.publicwhip/debate/2011-06-27b.662.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.662.2" newgid="uk.org.publicwhip/debate/2011-06-27b.662.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.663.0" newgid="uk.org.publicwhip/debate/2011-06-27b.663.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.663.1" newgid="uk.org.publicwhip/debate/2011-06-27b.663.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.664.0" newgid="uk.org.publicwhip/debate/2011-06-27b.664.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.664.1" newgid="uk.org.publicwhip/debate/2011-06-27b.664.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.665.0" newgid="uk.org.publicwhip/debate/2011-06-27b.665.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.665.1" newgid="uk.org.publicwhip/debate/2011-06-27b.665.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.665.2" newgid="uk.org.publicwhip/debate/2011-06-27b.665.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.665.3" newgid="uk.org.publicwhip/debate/2011-06-27b.665.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.666.0" newgid="uk.org.publicwhip/debate/2011-06-27b.666.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.666.1" newgid="uk.org.publicwhip/debate/2011-06-27b.666.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.666.2" newgid="uk.org.publicwhip/debate/2011-06-27b.666.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.666.3" newgid="uk.org.publicwhip/debate/2011-06-27b.666.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.667.0" newgid="uk.org.publicwhip/debate/2011-06-27b.667.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.667.1" newgid="uk.org.publicwhip/debate/2011-06-27b.667.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.668.0" newgid="uk.org.publicwhip/debate/2011-06-27b.668.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.668.1" newgid="uk.org.publicwhip/debate/2011-06-27b.668.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.669.0" newgid="uk.org.publicwhip/debate/2011-06-27b.669.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.669.1" newgid="uk.org.publicwhip/debate/2011-06-27b.669.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.670.0" newgid="uk.org.publicwhip/debate/2011-06-27b.670.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.670.1" newgid="uk.org.publicwhip/debate/2011-06-27b.670.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.670.2" newgid="uk.org.publicwhip/debate/2011-06-27b.670.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.670.3" newgid="uk.org.publicwhip/debate/2011-06-27b.670.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.670.4" newgid="uk.org.publicwhip/debate/2011-06-27b.670.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.670.5" newgid="uk.org.publicwhip/debate/2011-06-27b.670.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.670.6" newgid="uk.org.publicwhip/debate/2011-06-27b.670.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.671.0" newgid="uk.org.publicwhip/debate/2011-06-27b.671.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.671.1" newgid="uk.org.publicwhip/debate/2011-06-27b.671.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.671.2" newgid="uk.org.publicwhip/debate/2011-06-27b.671.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.672.0" newgid="uk.org.publicwhip/debate/2011-06-27b.672.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.672.1" newgid="uk.org.publicwhip/debate/2011-06-27b.672.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.673.0" newgid="uk.org.publicwhip/debate/2011-06-27b.673.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.673.1" newgid="uk.org.publicwhip/debate/2011-06-27b.673.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.673.2" newgid="uk.org.publicwhip/debate/2011-06-27b.673.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.673.3" newgid="uk.org.publicwhip/debate/2011-06-27b.673.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.673.4" newgid="uk.org.publicwhip/debate/2011-06-27b.673.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.673.5" newgid="uk.org.publicwhip/debate/2011-06-27b.673.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.673.6" newgid="uk.org.publicwhip/debate/2011-06-27b.673.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.673.7" newgid="uk.org.publicwhip/debate/2011-06-27b.673.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.674.0" newgid="uk.org.publicwhip/debate/2011-06-27b.674.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2011-06-27a.674.0" speakerid="uk.org.publicwhip/member/40133" speakername="Andrew Griffiths" colnum="674"  time="018:38:00" url="http://www.publications.parliament.uk/pa/cm201011/cmhansrd/cm110627/debtext/110627-0003.htm#11062728000212">
+	<p pid="a.674.0/1">My hon. Friend is absolutely right. We should focus on the issues that matter to our voters. I return to the original point: we are here today to debate the future of another place. Fundamentally, we should be asking ourselves what we want it to do. What is there for? Fundamentally, it is there to improve the legislation that we put before it. It is there to polish&#8212;I remember the phrase, &#8220;You can&#8217;t polish&#8221;&#8212;<i>[</i> <i>Interruption.</i> <i>]</i> I cannot remember the end to that phrase. The House of Lords is there to improve the legislation that we send to it. It is a revising Chamber. It is there to scrutinise the work that we do.</p>
+	<p pid="a.674.0/2">Among all the people in this debate, both for and against&#8212;those in the other place, Ministers and experts&#8212;absolutely nobody has suggested that the other place does not do a good job in scrutinising the legislation that is put before it. To repeat the saying that has been used so often, &#8220;If it ain&#8217;t broke, why fix it?&#8221; One of the reasons why the other place works so well is the experts contained within it. We have heard from some people who suggest that perhaps that point is out of date, but when I look at the quality and the level of the debate that takes place in another place&#8212;</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.674.1" newgid="uk.org.publicwhip/debate/2011-06-27b.674.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.674.2" newgid="uk.org.publicwhip/debate/2011-06-27b.674.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.674.3" newgid="uk.org.publicwhip/debate/2011-06-27b.674.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.674.4" newgid="uk.org.publicwhip/debate/2011-06-27b.674.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.674.5" newgid="uk.org.publicwhip/debate/2011-06-27b.674.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.674.6" newgid="uk.org.publicwhip/debate/2011-06-27b.674.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.675.0" newgid="uk.org.publicwhip/debate/2011-06-27b.675.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.676.0" newgid="uk.org.publicwhip/debate/2011-06-27b.676.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.676.1" newgid="uk.org.publicwhip/debate/2011-06-27b.676.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.676.2" newgid="uk.org.publicwhip/debate/2011-06-27b.676.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.676.3" newgid="uk.org.publicwhip/debate/2011-06-27b.676.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.676.4" newgid="uk.org.publicwhip/debate/2011-06-27b.676.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.676.5" newgid="uk.org.publicwhip/debate/2011-06-27b.676.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.676.6" newgid="uk.org.publicwhip/debate/2011-06-27b.676.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.676.7" newgid="uk.org.publicwhip/debate/2011-06-27b.676.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.676.8" newgid="uk.org.publicwhip/debate/2011-06-27b.676.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.676.9" newgid="uk.org.publicwhip/debate/2011-06-27b.676.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.677.0" newgid="uk.org.publicwhip/debate/2011-06-27b.677.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.677.1" newgid="uk.org.publicwhip/debate/2011-06-27b.677.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.677.2" newgid="uk.org.publicwhip/debate/2011-06-27b.677.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.677.3" newgid="uk.org.publicwhip/debate/2011-06-27b.677.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.678.0" newgid="uk.org.publicwhip/debate/2011-06-27b.678.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.678.1" newgid="uk.org.publicwhip/debate/2011-06-27b.678.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.678.2" newgid="uk.org.publicwhip/debate/2011-06-27b.678.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.678.3" newgid="uk.org.publicwhip/debate/2011-06-27b.678.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.678.4" newgid="uk.org.publicwhip/debate/2011-06-27b.678.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.678.5" newgid="uk.org.publicwhip/debate/2011-06-27b.678.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.678.6" newgid="uk.org.publicwhip/debate/2011-06-27b.678.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.678.7" newgid="uk.org.publicwhip/debate/2011-06-27b.678.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.679.0" newgid="uk.org.publicwhip/debate/2011-06-27b.679.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.679.1" newgid="uk.org.publicwhip/debate/2011-06-27b.679.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.679.2" newgid="uk.org.publicwhip/debate/2011-06-27b.679.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.679.3" newgid="uk.org.publicwhip/debate/2011-06-27b.679.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.679.4" newgid="uk.org.publicwhip/debate/2011-06-27b.679.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.680.0" newgid="uk.org.publicwhip/debate/2011-06-27b.680.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.681.0" newgid="uk.org.publicwhip/debate/2011-06-27b.681.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.681.1" newgid="uk.org.publicwhip/debate/2011-06-27b.681.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.681.2" newgid="uk.org.publicwhip/debate/2011-06-27b.681.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.681.3" newgid="uk.org.publicwhip/debate/2011-06-27b.681.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2011-06-27a.681.3" speakerid="uk.org.publicwhip/member/40612" speakername="Paul Murphy" colnum="681"  time="019:07:00" url="http://www.publications.parliament.uk/pa/cm201011/cmhansrd/cm110627/debtext/110627-0003.htm#11062738000235">
+	<p pid="a.681.3/1">That is possible; obviously, such matters would have to be addressed.</p>
+	<p pid="a.681.3/2">Whatever our views about the Bill, I have to say to my Front-Bench colleague, my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/40497" name="Chris Bryant">the Member for Rhondda (Chris Bryant)</phrase>, that I entirely agree with the coalition Government on a number of points&#8212;for example, a 15-year term of election is completely dotty. I hope that will be reconsidered, because it would give Members a long time in the other place without any proper mandate. As they are to be paid and their job will therefore be a profession, most of them will, presumably, be about 51 years of age upon election now that the pension rules have been changed, so that they can retire at 65. I hope that that proposal will be jettisoned, therefore.</p>
+	<p pid="a.681.3/3">I want to conclude with a few comments about process. When this House considered the constituencies Bill, the coalition was not a bit interested in consensus. Every time contributors to the debates both here and in the other place talked about the need for major constitutional changes to have a bedrock of consensus, the coalition Government refused to take any notice, but now that they want their way on the House of Lords consensus is the order of the day. I wonder whether this is a consensus of convenience, therefore. I believe that my own Front-Bench team should be rather sceptical about a Joint Committee and about being drawn into a consensus that in my view is convenient. We should not be gulled by that, and I think this particular constitutional change needs more than a Committee; it probably needs a royal commission to</p>
+	<p pid="a.681.3/4">deal with it, rather than a Committee of politicians. Whatever sort of body it is, however, we must be very careful.</p>
+	<p pid="a.681.3/5">In all the years I have been a Member of this House, there has been a free vote on reform of the House of Lords. That should be the case whatever the manifesto commitments&#8212;and I agree with my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/40400" name="Stuart Bell">the Member for Middlesbrough (Sir Stuart Bell)</phrase> that our manifesto commitment fell when we lost the election&#8212;and whatever the policies of the parties. Over the years, there were manifesto commitments and party principles and policies, but there was always a free vote for all the parties in this House of Commons and in the other place, and I believe that there should be a free vote on this issue.</p>
+	<p pid="a.681.3/6">Finally, I wish to raise the referendum issue. Some 100 years ago when the then Liberal Government introduced their first reform of the House of Lords, there was, to all intents and purposes, a referendum in that there was a general election on a single issue: whether the House of Lords should be reformed. Therefore, it is completely logical that we, too, should have a referendum on reform of the House of Lords. We had a referendum on whether we should remain a member of what was then known as the Common Market. We had referendums on elected Assemblies in Northern Ireland, Wales and Scotland. We had a referendum only this year on whether the powers of the Welsh Assembly should be extended&#8212;they were&#8212;and we also had a referendum on the alternative vote.</p>
+	<p pid="a.681.3/7">Lord Ashdown referred in his speech in the other place and in <i>The Times </i>today to people who hold my views on the matters under discussion as war horses, and to those who agree with me on the alternative vote as dinosaurs. Whichever animals we might be, the dinosaurs won the argument with the people on the alternative vote, and the war horses have the following in common with the dinosaurs: we want the people of this country to decide the constitutional future of this country in respect of the House of Lords, so let us have a referendum on this Bill.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.682.0" newgid="uk.org.publicwhip/debate/2011-06-27b.682.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.683.0" newgid="uk.org.publicwhip/debate/2011-06-27b.683.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.684.0" newgid="uk.org.publicwhip/debate/2011-06-27b.684.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.684.1" newgid="uk.org.publicwhip/debate/2011-06-27b.684.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.686.0" newgid="uk.org.publicwhip/debate/2011-06-27b.686.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.687.0" newgid="uk.org.publicwhip/debate/2011-06-27b.687.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.687.1" newgid="uk.org.publicwhip/debate/2011-06-27b.687.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2011-06-27a.687.1" speakerid="uk.org.publicwhip/member/40266" speakername="Edward Leigh" colnum="687"  time="019:28:00" url="http://www.publications.parliament.uk/pa/cm201011/cmhansrd/cm110627/debtext/110627-0003.htm#11062738000242">
+	<p pid="a.687.1/1">That was an excellent intervention. There are many other legislatures in the world, such as the United States Congress and the United States Senate, in which one cannot be a Minister. That is why Senators in the United States are much more independent of the Executive than Members of Parliament here are. If we were to create an elected Chamber, why not have a rule that nobody up there who was elected could become a Minister? Then, perhaps, they would be free from the powers of patronage, which strongly militate against genuinely free debate in this Chamber.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.687.2" newgid="uk.org.publicwhip/debate/2011-06-27b.687.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.687.3" newgid="uk.org.publicwhip/debate/2011-06-27b.687.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.687.4" newgid="uk.org.publicwhip/debate/2011-06-27b.687.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.688.0" newgid="uk.org.publicwhip/debate/2011-06-27b.688.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.688.1" newgid="uk.org.publicwhip/debate/2011-06-27b.688.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.689.0" newgid="uk.org.publicwhip/debate/2011-06-27b.689.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.689.1" newgid="uk.org.publicwhip/debate/2011-06-27b.689.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.689.2" newgid="uk.org.publicwhip/debate/2011-06-27b.689.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.690.0" newgid="uk.org.publicwhip/debate/2011-06-27b.690.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.690.1" newgid="uk.org.publicwhip/debate/2011-06-27b.690.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.691.0" newgid="uk.org.publicwhip/debate/2011-06-27b.691.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.691.1" newgid="uk.org.publicwhip/debate/2011-06-27b.691.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.691.2" newgid="uk.org.publicwhip/debate/2011-06-27b.691.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.691.3" newgid="uk.org.publicwhip/debate/2011-06-27b.691.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.692.0" newgid="uk.org.publicwhip/debate/2011-06-27b.692.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.692.1" newgid="uk.org.publicwhip/debate/2011-06-27b.692.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.692.2" newgid="uk.org.publicwhip/debate/2011-06-27b.692.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.692.3" newgid="uk.org.publicwhip/debate/2011-06-27b.692.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.693.0" newgid="uk.org.publicwhip/debate/2011-06-27b.693.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.693.1" newgid="uk.org.publicwhip/debate/2011-06-27b.693.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.693.2" newgid="uk.org.publicwhip/debate/2011-06-27b.693.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.693.3" newgid="uk.org.publicwhip/debate/2011-06-27b.693.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.693.4" newgid="uk.org.publicwhip/debate/2011-06-27b.693.4" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2011-06-27a.693.4" speakerid="uk.org.publicwhip/member/40380" speakername="Gavin Shuker" colnum="693"  time="019:54:00" url="http://www.publications.parliament.uk/pa/cm201011/cmhansrd/cm110627/debtext/110627-0003.htm#11062738000265">
+	<p pid="a.693.4/1">The hon. Gentleman and I obviously have different opinions on the definition of that legitimacy. There is a type of legitimacy that is very important&#8212;the</p>
+	<p pid="a.693.4/2">legitimacy of being able to look people in the eye, having stood for election, and hold the mandate of being elected. Equally, there is an issue of accountability. If <phrase class="honfriend" id="uk.org.publicwhip/member/40641" name="Peter Bone">the hon. Member for Wellingborough (Mr Bone)</phrase> were here, I am sure he would stand up and say that the most accountability and legitimacy he would have would be with Mrs Bone, because he has a particular one-to-one relationship.</p>
+	<p pid="a.693.4/3" class="italic">[</p>
+	<p pid="a.693.4/4" class="italic">Interruption.</p>
+	<p pid="a.693.4/5" class="italic">]</p>
+	<p pid="a.693.4/6">Obviously, I should not speak about him when he is not here. I hold a level of legitimacy and authority with the constituents I represent&#8212;100,000 or so&#8212;and believe that that would be an unfair level of legitimacy, accountability and authority to bestow on the other place in its new and revised form. I think that that indirect accountability is probably the best way to achieve the balance between having an elected House and not threatening the rights and responsibility of Members in this House to represent their constituents. I think that a party list system would probably be the best way to achieve that. There are many arguments for and against it, and I look forward to the Joint Committee looking at that in more detail.</p>
+	<p pid="a.693.4/7">I want to discuss one other areas in relation to which I feel that a 100% elected system would be best: the selection of bishops in the House of Lords. I am a Christian. I am quite overt about that and very proud of my Christian faith. I want to see more Christians and people from other faiths coming into Parliament, but I find it very difficult to defend a system under which we choose a certain group over-represented or to always have a seat in that Chamber. I buy into the liberal idea that there is a round table around which we all get to come together and make our voices heard, and, although I do not feel that that position is always held in this Chamber or in the other place, I believe that that second Chamber could be a place where people go with their own representational legitimacy to make their case, and to make it well, without relying on the fact that they are there simply because of who they are in their own organisations or through right of birth.</p>
+	<p pid="a.693.4/8">The proper way to get more people of faith into our institutions is to encourage more people of faith to stand and make their case for election.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.694.0" newgid="uk.org.publicwhip/debate/2011-06-27b.694.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.694.1" newgid="uk.org.publicwhip/debate/2011-06-27b.694.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.695.0" newgid="uk.org.publicwhip/debate/2011-06-27b.695.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.695.1" newgid="uk.org.publicwhip/debate/2011-06-27b.695.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2011-06-27a.695.1" speakerid="uk.org.publicwhip/member/40312" speakername="Jesse Norman" colnum="695"  time="020:01:00" url="http://www.publications.parliament.uk/pa/cm201011/cmhansrd/cm110627/debtext/110627-0003.htm#11062738000269">
+	<p pid="a.695.1/1">My hon. Friend is making a powerful and interesting speech, but he is surely aware that the vast proportion of the legislatures that he describes operate under codified constitutions that explicitly prevent power leeching from one side to the other. Does he propose a codified constitution in this case? That is surely the counterpart of the undoubted change in conventions that would occur if there were an elected Lords.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.695.2" newgid="uk.org.publicwhip/debate/2011-06-27b.695.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.696.0" newgid="uk.org.publicwhip/debate/2011-06-27b.696.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.696.1" newgid="uk.org.publicwhip/debate/2011-06-27b.696.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.697.0" newgid="uk.org.publicwhip/debate/2011-06-27b.697.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.698.0" newgid="uk.org.publicwhip/debate/2011-06-27b.698.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.698.1" newgid="uk.org.publicwhip/debate/2011-06-27b.698.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.698.2" newgid="uk.org.publicwhip/debate/2011-06-27b.698.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.698.3" newgid="uk.org.publicwhip/debate/2011-06-27b.698.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.698.4" newgid="uk.org.publicwhip/debate/2011-06-27b.698.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.698.5" newgid="uk.org.publicwhip/debate/2011-06-27b.698.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.698.6" newgid="uk.org.publicwhip/debate/2011-06-27b.698.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.699.0" newgid="uk.org.publicwhip/debate/2011-06-27b.699.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.699.1" newgid="uk.org.publicwhip/debate/2011-06-27b.699.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.700.0" newgid="uk.org.publicwhip/debate/2011-06-27b.700.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.701.0" newgid="uk.org.publicwhip/debate/2011-06-27b.701.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.701.1" newgid="uk.org.publicwhip/debate/2011-06-27b.701.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.702.0" newgid="uk.org.publicwhip/debate/2011-06-27b.702.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.703.0" newgid="uk.org.publicwhip/debate/2011-06-27b.703.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.703.1" newgid="uk.org.publicwhip/debate/2011-06-27b.703.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.703.2" newgid="uk.org.publicwhip/debate/2011-06-27b.703.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.704.0" newgid="uk.org.publicwhip/debate/2011-06-27b.704.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2011-06-27a.704.0" speakerid="uk.org.publicwhip/member/40249" speakername="Eleanor Laing" colnum="704"  time="020:40:00" url="http://www.publications.parliament.uk/pa/cm201011/cmhansrd/cm110627/debtext/110627-0003.htm#11062738000290">
+	<p pid="a.704.0/1">I welcome the Government&#8217;s publication of the draft Bill. As many hon. Members have said this evening, the House of Lords needs to be reformed. Much in the White Paper is very good. We need to reduce the number of Members of the other place; to introduce mechanisms for retirement and for dealing with peers who never attend; and, for those of us who are disestablishmentarians, we need to consider the role of the bishops&#8212;it is not fair that antidisestablishmentarians get to use the longest word in the English language. I managed to use it in my speech anyway&#8212;that was my challenge.</p>
+	<p pid="a.704.0/2">The Deputy Prime Minister is right to modernise, but he is not right to destroy the House of Lords. We do not need a copy of this House, and not just because of the cost, or because normal people out there are not paying attention to what we are debating. Nobody will be paying attention if Andy Murray is still playing. The rest of the country knows what is going on at Wimbledon; only those of us in the Chamber do not have a clue because we are concentrating on the debate&#8212;[Hon. Members: &#8220;He&#8217;s through!&#8221;] That is wonderful news! A Scotsman is on his way to winning Wimbledon&#8212;<i>[</i> <i>Interruption.</i> <i>]</i> I shall correct myself. A British player is on his way to winning Wimbledon. We need something different from this House not just because people will be appalled at the creation of a few hundred more full-time politicians&#8212;that is abhorrent to the man in the street&#8212;but because the value of a bicameral system is that the two Houses should be different from one another. They should be complementary, but not a mirror image.</p>
+	<p pid="a.704.0/3">The value of the House of Lords is its cumulative wisdom and experience. Most of its Members have unique value to bring to the House and to Parliament precisely because they are not elected, and not politicians seeking votes. That is their independence and strength. Make them stand for election, and they will become politicians, when they will lose their independence and their unique value.</p>
+	<p pid="a.704.0/4">Election is not the only route to democratic legitimacy. As my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/40141" name="George Eustice">the Member for Camborne and Redruth (George Eustice)</phrase> rightly said, many people are part of our working democracy, and in their valuable, well held positions, through methods other than election. What matters is not democratic legitimacy, but democratic accountability. That does not come about because someone is elected for one long term, with no opportunity for re-election.</p>
+	<p pid="a.704.0/5">If the House of Lords is elected, the delicate balance between our two Houses will be destroyed. No amount of assurance or clauses in Bills or examination of the Parliament Act will change the reality of that. It matters not that the Deputy Prime Minister says that the balance will not be changed; we all know that it will. Changing the House of Lords changes Parliament as a whole, and we should be considering the future of Parliament as a whole.</p>
+	<p pid="a.704.0/6">In their 13 years, the previous Labour Government tinkered with the constitution for short-term political gain. I have every confidence that this coalition Government, when they consider the consequences, will not make the same mistake.</p>
+	<p pid="a.704.0/7">In his conclusion, the Deputy Prime Minister said that in a modern democracy people must choose their representatives. That is absolutely right. We in this House of Commons are those representatives. The House of Lords is not the representative of the people. The Members of the House of Lords are not the people&#8217;s representatives: they are something different, and long may they remain so.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.705.0" newgid="uk.org.publicwhip/debate/2011-06-27b.705.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.707.0" newgid="uk.org.publicwhip/debate/2011-06-27b.707.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.708.0" newgid="uk.org.publicwhip/debate/2011-06-27b.708.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.709.0" newgid="uk.org.publicwhip/debate/2011-06-27b.709.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.710.0" newgid="uk.org.publicwhip/debate/2011-06-27b.710.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.710.1" newgid="uk.org.publicwhip/debate/2011-06-27b.710.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.711.0" newgid="uk.org.publicwhip/debate/2011-06-27b.711.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.712.0" newgid="uk.org.publicwhip/debate/2011-06-27b.712.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.713.0" newgid="uk.org.publicwhip/debate/2011-06-27b.713.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.714.0" newgid="uk.org.publicwhip/debate/2011-06-27b.714.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2011-06-27a.714.0" speakerid="uk.org.publicwhip/member/40092" speakername="Paul Maynard" colnum="714"  time="021:18:00" url="http://www.publications.parliament.uk/pa/cm201011/cmhansrd/cm110627/debtext/110627-0004.htm#11062743000156">
+	<p pid="a.714.0/1">I welcome these proposals but lament the fact that they do not go quite far enough. I am one of that die-hard band of Conservatives who believe in a 100% elected upper Chamber. I joined the party not because it was the Conservative party but because I wanted to be a member of a party of change&#8212;a party in favour of changing Britain for the better, rather than keeping what was wrong as it was.</p>
+	<p pid="a.714.0/2">I have listened carefully to the debate. Some clear themes have emerged and I found some common ground with my hon. Friends the Members for Epping Forest (Mrs Laing) and for North East Somerset (Jacob Rees-Mogg). I want to draw Members&#8217; attention to two important 18<sup>(th)</sup>-century individuals, Alexander Hamilton and James Madison, who wrote the federalist papers: 85 editions of pure intellectual dynamite that played an important role in the formation of the American constitution. They had great insight into human nature, how to balance competing interests and how to ensure that a constitution worked as a whole. If one mistake is being made today, it is our trying to consider the reform of the House of Lords in isolation from wider</p>
+	<p pid="a.714.0/3">constitutional change. Ten years ago, I would have had no truck with the idea of a written constitution, which was anathema to me, but such was the tinkering of the Labour party over the past 13 years, with a bit here and a bit there, that I am afraid we are left with no choice but to go back to the drawing board&#8212;to the famous blank sheet of paper that the leader of the Labour party constantly brandishes at us&#8212;and start to redraw our constitution.</p>
+	<p pid="a.714.0/4">The other key concern that I have heard today is the importance of maintaining the parity of this House with regard to the other House. I entirely accept that, and there must be no question of our becoming a subsidiary Chamber, but my fear is that the Government&#8217;s proposals risk that very thing. My fear about using the single transferable vote to elect Members to the senate, or this other House, is that it will create the very debate about legitimacy and who has the greater mandate that we seek to avoid. However, there is a solution, which might appear perverse to many Members and will not please my Liberal Democrat colleagues. I think that the answer is to find an electoral system that is so manifestly unfair, disproportionate, unrepresentative and idiosyncratic that there could be no question whatever of any dispute about which is the pre-eminent Chamber.</p>
+	<p pid="a.714.0/5">Might I suggest that we go back to the federalist papers of Alexander and James and ask ourselves why it is that tiny Delaware has two Senators in the US Senate while mighty California also has two Senators? May I just fly a kite, as we do all the time in politics and hope not to get shot down, as I might be about to&#8212;who knows? Could we return to the counties of England, Wales, Scotland and Northern Ireland before the Local Government Act 1972? Perhaps we could have a senate with elections for the historic county of Lancashire, reuniting Barrow and bringing Liverpool and Manchester back in. Perhaps we could also recreate Rutland and have Surrey stretching into the Surrey docks as it once did. The system would be full of illogicalities, but surely that is the point, because to maintain the primacy of this Chamber and defend the principle of first past the post&#8212;which I will do to my dying day, I have now decided after that fiasco of a referendum&#8212;we have to ensure that we have an electoral system that retains the confidence of the people and starts to tie people more into their legislature. I can think of few things that would do that more than having senators for the historic counties.</p>
+	<p pid="a.714.0/6">I may be an MP, but I try not to have too big an ego, and I can cope somehow with having MEPs, county councillors, borough councillors, district councillors, parish councillors, Uncle Tom Cobleighs and all trampling over my local newspapers, talking about things that I have an interest in. I no doubt do the same to them. We can cope with having multiple elected representatives in the areas that we also represent. I think it is important that we support the Deputy Prime Minister as he re-enters the Chamber. These are bold and important proposals and we must back them.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.715.0" newgid="uk.org.publicwhip/debate/2011-06-27b.715.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.716.0" newgid="uk.org.publicwhip/debate/2011-06-27b.716.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.718.0" newgid="uk.org.publicwhip/debate/2011-06-27b.718.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.718.1" newgid="uk.org.publicwhip/debate/2011-06-27b.718.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.719.0" newgid="uk.org.publicwhip/debate/2011-06-27b.719.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.719.1" newgid="uk.org.publicwhip/debate/2011-06-27b.719.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.719.2" newgid="uk.org.publicwhip/debate/2011-06-27b.719.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.719.3" newgid="uk.org.publicwhip/debate/2011-06-27b.719.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.719.4" newgid="uk.org.publicwhip/debate/2011-06-27b.719.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.719.5" newgid="uk.org.publicwhip/debate/2011-06-27b.719.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.719.6" newgid="uk.org.publicwhip/debate/2011-06-27b.719.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.722.0" newgid="uk.org.publicwhip/debate/2011-06-27b.722.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.723.0" newgid="uk.org.publicwhip/debate/2011-06-27b.723.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.723.1" newgid="uk.org.publicwhip/debate/2011-06-27b.723.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.726.0" newgid="uk.org.publicwhip/debate/2011-06-27b.726.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.726.1" newgid="uk.org.publicwhip/debate/2011-06-27b.726.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.726.2" newgid="uk.org.publicwhip/debate/2011-06-27b.726.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.726.3" newgid="uk.org.publicwhip/debate/2011-06-27b.726.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.726.4" newgid="uk.org.publicwhip/debate/2011-06-27b.726.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.726.5" newgid="uk.org.publicwhip/debate/2011-06-27b.726.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.726.6" newgid="uk.org.publicwhip/debate/2011-06-27b.726.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.726.7" newgid="uk.org.publicwhip/debate/2011-06-27b.726.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.726.8" newgid="uk.org.publicwhip/debate/2011-06-27b.726.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.726.9" newgid="uk.org.publicwhip/debate/2011-06-27b.726.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.727.0" newgid="uk.org.publicwhip/debate/2011-06-27b.727.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.727.1" newgid="uk.org.publicwhip/debate/2011-06-27b.727.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.727.2" newgid="uk.org.publicwhip/debate/2011-06-27b.727.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.728.0" newgid="uk.org.publicwhip/debate/2011-06-27b.728.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.728.1" newgid="uk.org.publicwhip/debate/2011-06-27b.728.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2011-06-27a.729.0" newgid="uk.org.publicwhip/debate/2011-06-27b.729.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2011-06-27a.729.0" speakerid="uk.org.publicwhip/member/40545" speakername="James Paice" speakeroffice="The Minister of State, Department for Environment, Food and Rural Affairs"  colnum="729"  time="022:11:00" url="http://www.publications.parliament.uk/pa/cm201011/cmhansrd/cm110627/debtext/110627-0004.htm#11062748000047">
+	<p pid="a.729.0/1">I congratulate my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/40092" name="Paul Maynard">the Member for Blackpool North and Cleveleys (Paul Maynard)</phrase> on obtaining tonight&#8217;s debate.</p>
+	<p pid="a.729.0/2">He wisely commented on&#8212;perhaps foresaw&#8212;my initial reaction when I saw the subject of tonight&#8217;s Adjournment debate on a non-voting night. However, having done the research that it is incumbent on me to do in order to reply&#8212;although I have some knowledge as well&#8212;I think that he has chosen a subject not only about which he clearly knows a lot, but which is of much greater importance than first sight might suggest.</p>
+	<p pid="a.729.0/3">I know that my hon. Friend has a close involvement with and interest in the subject, and I know that the Grow Blackpool project includes a community orchard and received a Blackpool environmental action award in January&#8212;I believe he was present. I also understand that two schools are involved in that activity, demonstrating some of the points to which he referred. He kindly furnished me with a list of some of the issues he was going to raise, so I have been able to prepare properly, I hope, for this debate. I will try to answer some of, if not all, the points he made.</p>
+	<p pid="a.729.0/4">So many of the things that my hon. Friend described are encompassed by a phrase that will be close to his heart, as it is to mine&#8212;the big society. It is about bringing together a range of different benefits and community gains within the community. I am therefore pleased to have this opportunity to pick up his points. I am sure that he appreciates&#8212;he effectively said so&#8212; that DEFRA is committed to improving the natural environment and reconnecting people with nature and food. We also have wider responsibilities for Government policy on orchards and, as he and my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/40312" name="Jesse Norman">the Member for Hereford and South Herefordshire (Jesse Norman)</phrase> mentioned, on the cider industry. Community orchards can contribute to all those areas. Obviously, there is no formal record of community orchards but we believe that several hundred have been established throughout the country, largely due, as my hon. Friend the Member for Blackpool North and Cleveleys has rightly said, to the successful efforts of Common Ground and other organisations.</p>
+	<p pid="a.729.0/5">In the process of this research, I discovered that one of my predecessors in my office had been given a book written by Common Ground about orchards. I found the book fascinating and I thoroughly encourage my hon. Friend to read it if he has not done so. The main purpose of a community orchard is not just the production of fruit&#8212;although as my hon. Friend said, it should not be wasted&#8212;but to provide a valuable green space, a focal point for the community and the opportunity for relaxation. People of all ages and from all backgrounds are concerned about access to and the quality of local green spaces. Research has shown that they are frequently motivated to act together to develop and manage the spaces that they most care about, whether they be community orchards, parks, playgrounds, allotments or other places.</p>
+	<p pid="a.729.0/6">The recent &#8220;National Ecosystem Assessment&#8221;, which my right hon. Friend the Secretary of State published a few weeks ago, put the value of access to open space at about &#163;300 per person, which demonstrates its benefits. My hon. Friend referred to the Marmot review, which also demonstrated that there is a benefit to communities and individuals&#8212;and, perhaps in particular, the less well-off, the vulnerable and the disadvantaged, whom the Marmot review targeted&#8212;in having access to leisure opportunities such as those provided by a community orchard. The Government&#8217;s programme makes a</p>
+	<p pid="a.729.0/7">commitment to protecting green areas of particular importance to local communities, something that also featured in the natural environment White Paper. My colleagues in the Department for Communities and Local Government are taking the lead role in encouraging communities to take over the ownership or management of significant community assets, including community orchards. Under the Localism Bill, residents will be able to play a bigger role in planning, designing, managing and maintaining community green spaces for food growing and other purposes.</p>
+	<p pid="a.729.0/8">The vital importance of green spaces&#8212;both through their benefits to local communities and as part of our ecological network&#8212;is highlighted in the natural environment White Paper. The role of community orchards is recognised in that. Although we do not use the term &#8220;community orchard&#8221;&#8212;the White Paper uses the term &#8220;urban orchard&#8221;&#8212;the nomenclature is designed to cover the same types of orchard. The White Paper showcases the excellent work of Tower Hamlets Homes in providing access to green space and supporting healthy eating through resident-led community food projects, allotments and urban orchards.</p>
+	<p pid="a.729.0/9">The White Paper includes the proposal to create new nature improvement areas. We want to see such areas wherever the opportunities or benefits are greatest, driven by local partnerships. DEFRA will launch a competition for funding to contribute to the first tranche of 12 improvement areas in July. Each application will be judged by a panel of experts chaired by Professor Sir John Lawton against criteria that will be made available on the Natural England website. Among other criteria, the panel will look at areas that restore and join up priority habitats, and areas where identifiable benefits to local communities can be demonstrated. There is therefore plenty of scope for community orchards to be part of a nature improvement area and included in applications for the competition.</p>
+	<p pid="a.729.0/10">Another key feature of the White Paper is the proposal to introduce local nature partnerships. These will be inclusive partnerships working on a landscape scale, using an ecosystems approach. That, too, will give the opportunity to highly valued community orchards to be included in a partnership.</p>
+	<p pid="a.729.0/11">My hon. Friend referred to the superb work done by the People&#8217;s Trust for Endangered Species on behalf of Natural England in compiling an inventory of traditional orchards&#8212;not specifically community orchards&#8212;using aerial photographs. It will be used to target and restore sites, as he rightly said, and to monitor targets and inform local planning policies and development. The five-year project located 35,378 traditional orchards, which equates to just under 17,000 hectares of habitat. I was astonished at the scale of those figures, which demonstrate just how important community orchards are, especially as traditional orchards have declined considerably, as he said&#8212;they are believed to have declined by 63% since 1950. However, for the first time we now know their extent and location.</p>
+	<p pid="a.729.0/12">As my hon. Friend also said, traditional orchards are recognised biodiversity hot spots. It is recognised that, without proper protection and sensitive management, they can easily slip into decline. I can tell my hon. Friend that I have a community orchard in my own</p>
+	<p pid="a.729.0/13">constituency; it is privately owned, but access is given to the community and the community has the fruit from it. These orchards embody all the things that we read about and see in picture books about a traditional old English apple orchard.</p>
+	<p pid="a.729.0/14">If we were to lose this habitat, we would also face losing rare English fruit varieties&#8212;another point to which my hon. Friend rightly referred. We would also lose the traditions, customs and knowledge in addition to the genetic diversity represented by the hundreds of species that are associated with traditional orchards. They are a haven for biodiversity. As I said, not all community orchards fall within the definition of a traditional orchard&#8212;indeed, many have been planted in more recent years&#8212;but they nevertheless have a very valuable habitat and biodiversity role.</p>
+	<p pid="a.729.0/15">My hon. Friend asked about protection and referred to tree protection orders. These are a matter for the local council, but he is right to say that some fruit trees, which are not normally the subject of tree preservation orders, can be very old and ancient trees that are worthy of protection in certain cases. As I say, it is a matter for local authorities.</p>
+	<p pid="a.729.0/16">Community orchards can also have a valuable place, as my hon. Friend said, in maintaining the cultivation of heritage varieties. I am not even going to try to repeat all the ones to which he referred, but there are many more. The book to which I referred earlier lists the origins of many varieties, explaining where they were first bred and listing the individuals who bred them.</p>
+	<p pid="a.729.0/17">Both my hon. Friends the Members for Blackpool North and Cleveleys and for Hereford and South Herefordshire referred to the cider industry. It is probably true to say that relatively few community orchards grow predominantly cider varieties, but they can still have an important role in supporting small-scale, often local, cider producers. Most local cider producers will make cider from any variety of apple, not just the specific cider ones. As many of us, especially members of the all-party cider group, know, there is a growing interest in artisan or craft-scale cider making, which is attracting increasing numbers of people from all over the UK who are keen to make some cider or perry&#8212;or indeed something else&#8212;from their local fruit.</p>
+	<p pid="a.729.0/18">My hon. Friend also referred to education, and he was right to do so. Community orchards can support and enhance the curriculum by helping children to understand where their food comes from and, as my hon. Friend so aptly said, its seasonality. I am sure he is right that it is not unique to the people of his constituency not to know that fruit is seasonal. I fear that, as with much of our food production, many people are not very aware of its origins or how it comes to be. Community orchards can offer great opportunities to see food growing, for people to experience producing food for themselves and to understand the links between food and sustainability. They are also places where children can learn how food plots support biodiversity, including the important role of bees, about which the House has heard so much in recent years. Orchards have helped to revive British apple varieties, so children can learn about varieties not usually seen in the supermarket.</p>
+	<p pid="a.729.0/19">One of the other goals of Government food policy is to encourage people to eat healthily and there is some evidence showing that children involved in growing fruit and vegetables move towards more healthy eating.</p>
+	<p pid="a.729.0/20">They have a greater understanding of the dietary composition of fruit and vegetables. As I mentioned earlier, there are also benefits from being outside and gardening&#8212;well known for both mental and physical health.</p>
+	<p pid="a.729.0/21">Finally, my hon. Friend will be aware of the Government&#8217;s initiative in what we call the big tree plant, which was designed for community woodlands. To the best of my knowledge, there is no reason why it could not also be applied to growing fruit trees. We certainly do not lay down the species of trees that could be grown. There is some assistance available in that regard for communities who want to get involved.</p>
+	<p pid="a.729.0/22">Let me conclude by saying to my hon. Friend that I really congratulate him and I respect him for the amount</p>
+	<p pid="a.729.0/23">of research that he has obviously done and for the way he presented his points. I do not hold it against him that he has held us here this evening. Frankly, so many of the objectives of DEFRA&#8212;local food, fresh air, community spirit, biodiversity&#8212;are provided by community orchards. They have the lot to offer. I congratulate my hon. Friend again on allowing us to raise the profile of community orchards this evening.</p>
+	<p pid="a.729.0/24" class="italic">Question put and agreed to.</p>
+	<p pid="a.729.0/25" class="italic">House adjourned .</p>
+</speech>
+</publicwhip>
+

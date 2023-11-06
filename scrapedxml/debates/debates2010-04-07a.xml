@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="a" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.951.0" newgid="uk.org.publicwhip/debate/2010-04-07b.951.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.951.1" newgid="uk.org.publicwhip/debate/2010-04-07b.951.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.951.2" newgid="uk.org.publicwhip/debate/2010-04-07b.951.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.951.3" newgid="uk.org.publicwhip/debate/2010-04-07b.951.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.951.4" newgid="uk.org.publicwhip/debate/2010-04-07b.951.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.951.5" newgid="uk.org.publicwhip/debate/2010-04-07b.951.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.951.6" newgid="uk.org.publicwhip/debate/2010-04-07b.951.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.951.7" newgid="uk.org.publicwhip/debate/2010-04-07b.951.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.951.8" newgid="uk.org.publicwhip/debate/2010-04-07b.951.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.951.9" newgid="uk.org.publicwhip/debate/2010-04-07b.951.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.951.10" newgid="uk.org.publicwhip/debate/2010-04-07b.951.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.951.11" newgid="uk.org.publicwhip/debate/2010-04-07b.951.11" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.951.12" newgid="uk.org.publicwhip/debate/2010-04-07b.951.12" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.952.0" newgid="uk.org.publicwhip/debate/2010-04-07b.952.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.952.1" newgid="uk.org.publicwhip/debate/2010-04-07b.952.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.952.2" newgid="uk.org.publicwhip/debate/2010-04-07b.952.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.952.3" newgid="uk.org.publicwhip/debate/2010-04-07b.952.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.952.4" newgid="uk.org.publicwhip/debate/2010-04-07b.952.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.952.5" newgid="uk.org.publicwhip/debate/2010-04-07b.952.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.953.0" newgid="uk.org.publicwhip/debate/2010-04-07b.953.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.953.1" newgid="uk.org.publicwhip/debate/2010-04-07b.953.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.953.2" newgid="uk.org.publicwhip/debate/2010-04-07b.953.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.953.3" newgid="uk.org.publicwhip/debate/2010-04-07b.953.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.953.4" newgid="uk.org.publicwhip/debate/2010-04-07b.953.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.953.5" newgid="uk.org.publicwhip/debate/2010-04-07b.953.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.953.6" newgid="uk.org.publicwhip/debate/2010-04-07b.953.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.953.7" newgid="uk.org.publicwhip/debate/2010-04-07b.953.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.953.8" newgid="uk.org.publicwhip/debate/2010-04-07b.953.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.953.9" newgid="uk.org.publicwhip/debate/2010-04-07b.953.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.954.0" newgid="uk.org.publicwhip/debate/2010-04-07b.954.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.954.1" newgid="uk.org.publicwhip/debate/2010-04-07b.954.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.954.2" newgid="uk.org.publicwhip/debate/2010-04-07b.954.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.954.3" newgid="uk.org.publicwhip/debate/2010-04-07b.954.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.954.4" newgid="uk.org.publicwhip/debate/2010-04-07b.954.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.954.5" newgid="uk.org.publicwhip/debate/2010-04-07b.954.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.954.6" newgid="uk.org.publicwhip/debate/2010-04-07b.954.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.954.7" newgid="uk.org.publicwhip/debate/2010-04-07b.954.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.955.0" newgid="uk.org.publicwhip/debate/2010-04-07b.955.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.955.1" newgid="uk.org.publicwhip/debate/2010-04-07b.955.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.955.2" newgid="uk.org.publicwhip/debate/2010-04-07b.955.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.955.3" newgid="uk.org.publicwhip/debate/2010-04-07b.955.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.955.4" newgid="uk.org.publicwhip/debate/2010-04-07b.955.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.955.5" newgid="uk.org.publicwhip/debate/2010-04-07b.955.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.955.6" newgid="uk.org.publicwhip/debate/2010-04-07b.955.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.955.7" newgid="uk.org.publicwhip/debate/2010-04-07b.955.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.956.0" newgid="uk.org.publicwhip/debate/2010-04-07b.956.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.956.1" newgid="uk.org.publicwhip/debate/2010-04-07b.956.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.956.2" newgid="uk.org.publicwhip/debate/2010-04-07b.956.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.956.3" newgid="uk.org.publicwhip/debate/2010-04-07b.956.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.956.4" newgid="uk.org.publicwhip/debate/2010-04-07b.956.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.956.5" newgid="uk.org.publicwhip/debate/2010-04-07b.956.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.956.6" newgid="uk.org.publicwhip/debate/2010-04-07b.956.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.956.7" newgid="uk.org.publicwhip/debate/2010-04-07b.956.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.956.8" newgid="uk.org.publicwhip/debate/2010-04-07b.956.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.957.0" newgid="uk.org.publicwhip/debate/2010-04-07b.957.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.957.1" newgid="uk.org.publicwhip/debate/2010-04-07b.957.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.957.2" newgid="uk.org.publicwhip/debate/2010-04-07b.957.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.957.3" newgid="uk.org.publicwhip/debate/2010-04-07b.957.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.957.4" newgid="uk.org.publicwhip/debate/2010-04-07b.957.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.957.5" newgid="uk.org.publicwhip/debate/2010-04-07b.957.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.957.6" newgid="uk.org.publicwhip/debate/2010-04-07b.957.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.957.7" newgid="uk.org.publicwhip/debate/2010-04-07b.957.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.957.8" newgid="uk.org.publicwhip/debate/2010-04-07b.957.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.957.9" newgid="uk.org.publicwhip/debate/2010-04-07b.957.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.957.10" newgid="uk.org.publicwhip/debate/2010-04-07b.957.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.958.0" newgid="uk.org.publicwhip/debate/2010-04-07b.958.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.958.1" newgid="uk.org.publicwhip/debate/2010-04-07b.958.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.958.2" newgid="uk.org.publicwhip/debate/2010-04-07b.958.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.958.3" newgid="uk.org.publicwhip/debate/2010-04-07b.958.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.958.4" newgid="uk.org.publicwhip/debate/2010-04-07b.958.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.958.5" newgid="uk.org.publicwhip/debate/2010-04-07b.958.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.958.6" newgid="uk.org.publicwhip/debate/2010-04-07b.958.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.958.7" newgid="uk.org.publicwhip/debate/2010-04-07b.958.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.959.0" newgid="uk.org.publicwhip/debate/2010-04-07b.959.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.959.1" newgid="uk.org.publicwhip/debate/2010-04-07b.959.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.959.2" newgid="uk.org.publicwhip/debate/2010-04-07b.959.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.959.3" newgid="uk.org.publicwhip/debate/2010-04-07b.959.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.959.4" newgid="uk.org.publicwhip/debate/2010-04-07b.959.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.959.5" newgid="uk.org.publicwhip/debate/2010-04-07b.959.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.959.6" newgid="uk.org.publicwhip/debate/2010-04-07b.959.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.959.7" newgid="uk.org.publicwhip/debate/2010-04-07b.959.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.959.8" newgid="uk.org.publicwhip/debate/2010-04-07b.959.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.959.9" newgid="uk.org.publicwhip/debate/2010-04-07b.959.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.959.10" newgid="uk.org.publicwhip/debate/2010-04-07b.959.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.959.11" newgid="uk.org.publicwhip/debate/2010-04-07b.959.11" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.960.0" newgid="uk.org.publicwhip/debate/2010-04-07b.960.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.960.1" newgid="uk.org.publicwhip/debate/2010-04-07b.960.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.960.2" newgid="uk.org.publicwhip/debate/2010-04-07b.960.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.960.3" newgid="uk.org.publicwhip/debate/2010-04-07b.960.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.960.4" newgid="uk.org.publicwhip/debate/2010-04-07b.960.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.960.5" newgid="uk.org.publicwhip/debate/2010-04-07b.960.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.960.6" newgid="uk.org.publicwhip/debate/2010-04-07b.960.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.960.7" newgid="uk.org.publicwhip/debate/2010-04-07b.960.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.961.0" newgid="uk.org.publicwhip/debate/2010-04-07b.961.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.961.1" newgid="uk.org.publicwhip/debate/2010-04-07b.961.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.961.2" newgid="uk.org.publicwhip/debate/2010-04-07b.961.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.961.3" newgid="uk.org.publicwhip/debate/2010-04-07b.961.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.961.4" newgid="uk.org.publicwhip/debate/2010-04-07b.961.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.962.0" newgid="uk.org.publicwhip/debate/2010-04-07b.962.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.962.1" newgid="uk.org.publicwhip/debate/2010-04-07b.962.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.962.2" newgid="uk.org.publicwhip/debate/2010-04-07b.962.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.962.3" newgid="uk.org.publicwhip/debate/2010-04-07b.962.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.962.4" newgid="uk.org.publicwhip/debate/2010-04-07b.962.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.963.0" newgid="uk.org.publicwhip/debate/2010-04-07b.963.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.963.1" newgid="uk.org.publicwhip/debate/2010-04-07b.963.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.963.2" newgid="uk.org.publicwhip/debate/2010-04-07b.963.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.963.3" newgid="uk.org.publicwhip/debate/2010-04-07b.963.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2010-04-07a.963.3" speakerid="uk.org.publicwhip/member/1997" speakername="Gordon Brown" colnum="963"  time="11:30:00" url="http://www.publications.parliament.uk/pa/cm200910/cmhansrd/cm100407/debtext/100407-0003.htm#10040729001403">
+	<p pid="a.963.3/1">Once again, I have to tell the right hon. Gentleman about what happened during this recession, and what we had to do to take this country out of recession. We had to nationalise Northern Rock, and the Conservatives opposed it. We had to restructure the banks, business supported us, but they opposed it. We had to take action to secure help for the unemployed. Businesses support the future jobs fund, they opposed it. We had to take action to help home owners. Business supported it, they opposed it. We had to take action to help small business itself, and they opposed the funds that we necessary.</p>
+	<p pid="a.963.3/2">On national insurance, there is a clear choice. We can put national insurance up and therefore protect our schools, our hospitals and our policing, or we can do what the Conservatives traditionally do, and put our hospitals, our police and our health service at risk.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.963.4" newgid="uk.org.publicwhip/debate/2010-04-07b.963.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.963.5" newgid="uk.org.publicwhip/debate/2010-04-07b.963.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.964.0" newgid="uk.org.publicwhip/debate/2010-04-07b.964.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.964.1" newgid="uk.org.publicwhip/debate/2010-04-07b.964.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.964.2" newgid="uk.org.publicwhip/debate/2010-04-07b.964.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.964.3" newgid="uk.org.publicwhip/debate/2010-04-07b.964.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.964.4" newgid="uk.org.publicwhip/debate/2010-04-07b.964.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.964.5" newgid="uk.org.publicwhip/debate/2010-04-07b.964.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.965.0" newgid="uk.org.publicwhip/debate/2010-04-07b.965.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.965.1" newgid="uk.org.publicwhip/debate/2010-04-07b.965.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.965.2" newgid="uk.org.publicwhip/debate/2010-04-07b.965.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.965.3" newgid="uk.org.publicwhip/debate/2010-04-07b.965.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.965.4" newgid="uk.org.publicwhip/debate/2010-04-07b.965.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.965.5" newgid="uk.org.publicwhip/debate/2010-04-07b.965.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.965.6" newgid="uk.org.publicwhip/debate/2010-04-07b.965.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.966.0" newgid="uk.org.publicwhip/debate/2010-04-07b.966.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.966.1" newgid="uk.org.publicwhip/debate/2010-04-07b.966.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.966.2" newgid="uk.org.publicwhip/debate/2010-04-07b.966.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.966.3" newgid="uk.org.publicwhip/debate/2010-04-07b.966.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.966.4" newgid="uk.org.publicwhip/debate/2010-04-07b.966.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.966.5" newgid="uk.org.publicwhip/debate/2010-04-07b.966.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.967.0" newgid="uk.org.publicwhip/debate/2010-04-07b.967.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.967.1" newgid="uk.org.publicwhip/debate/2010-04-07b.967.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.967.2" newgid="uk.org.publicwhip/debate/2010-04-07b.967.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.967.3" newgid="uk.org.publicwhip/debate/2010-04-07b.967.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.967.4" newgid="uk.org.publicwhip/debate/2010-04-07b.967.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.967.5" newgid="uk.org.publicwhip/debate/2010-04-07b.967.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.967.6" newgid="uk.org.publicwhip/debate/2010-04-07b.967.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.968.0" newgid="uk.org.publicwhip/debate/2010-04-07b.968.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.968.1" newgid="uk.org.publicwhip/debate/2010-04-07b.968.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.968.2" newgid="uk.org.publicwhip/debate/2010-04-07b.968.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.968.3" newgid="uk.org.publicwhip/debate/2010-04-07b.968.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.968.4" newgid="uk.org.publicwhip/debate/2010-04-07b.968.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.969.0" newgid="uk.org.publicwhip/debate/2010-04-07b.969.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.969.1" newgid="uk.org.publicwhip/debate/2010-04-07b.969.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.969.2" newgid="uk.org.publicwhip/debate/2010-04-07b.969.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.970.0" newgid="uk.org.publicwhip/debate/2010-04-07b.970.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.970.1" newgid="uk.org.publicwhip/debate/2010-04-07b.970.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.970.2" newgid="uk.org.publicwhip/debate/2010-04-07b.970.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.970.3" newgid="uk.org.publicwhip/debate/2010-04-07b.970.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.970.4" newgid="uk.org.publicwhip/debate/2010-04-07b.970.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.971.0" newgid="uk.org.publicwhip/debate/2010-04-07b.971.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.971.1" newgid="uk.org.publicwhip/debate/2010-04-07b.971.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.971.2" newgid="uk.org.publicwhip/debate/2010-04-07b.971.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.975.0" newgid="uk.org.publicwhip/debate/2010-04-07b.975.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.975.1" newgid="uk.org.publicwhip/debate/2010-04-07b.975.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.975.2" newgid="uk.org.publicwhip/debate/2010-04-07b.975.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.977.0" newgid="uk.org.publicwhip/debate/2010-04-07b.977.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.977.1" newgid="uk.org.publicwhip/debate/2010-04-07b.977.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.977.2" newgid="uk.org.publicwhip/debate/2010-04-07b.977.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.977.3" newgid="uk.org.publicwhip/debate/2010-04-07b.977.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.977.4" newgid="uk.org.publicwhip/debate/2010-04-07b.977.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.977.5" newgid="uk.org.publicwhip/debate/2010-04-07b.977.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.977.6" newgid="uk.org.publicwhip/debate/2010-04-07b.977.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.978.0" newgid="uk.org.publicwhip/debate/2010-04-07b.978.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.978.1" newgid="uk.org.publicwhip/debate/2010-04-07b.978.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.978.2" newgid="uk.org.publicwhip/debate/2010-04-07b.978.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.978.3" newgid="uk.org.publicwhip/debate/2010-04-07b.978.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.978.4" newgid="uk.org.publicwhip/debate/2010-04-07b.978.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.979.0" newgid="uk.org.publicwhip/debate/2010-04-07b.979.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.979.1" newgid="uk.org.publicwhip/debate/2010-04-07b.979.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.979.2" newgid="uk.org.publicwhip/debate/2010-04-07b.979.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.979.3" newgid="uk.org.publicwhip/debate/2010-04-07b.979.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.979.4" newgid="uk.org.publicwhip/debate/2010-04-07b.979.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.979.5" newgid="uk.org.publicwhip/debate/2010-04-07b.979.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.979.6" newgid="uk.org.publicwhip/debate/2010-04-07b.979.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.980.0" newgid="uk.org.publicwhip/debate/2010-04-07b.980.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.980.1" newgid="uk.org.publicwhip/debate/2010-04-07b.980.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.980.2" newgid="uk.org.publicwhip/debate/2010-04-07b.980.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.980.3" newgid="uk.org.publicwhip/debate/2010-04-07b.980.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.980.4" newgid="uk.org.publicwhip/debate/2010-04-07b.980.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.980.5" newgid="uk.org.publicwhip/debate/2010-04-07b.980.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.980.6" newgid="uk.org.publicwhip/debate/2010-04-07b.980.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.981.0" newgid="uk.org.publicwhip/debate/2010-04-07b.981.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.981.1" newgid="uk.org.publicwhip/debate/2010-04-07b.981.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.982.0" newgid="uk.org.publicwhip/debate/2010-04-07b.982.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.982.1" newgid="uk.org.publicwhip/debate/2010-04-07b.982.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.983.0" newgid="uk.org.publicwhip/debate/2010-04-07b.983.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.983.1" newgid="uk.org.publicwhip/debate/2010-04-07b.983.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.983.2" newgid="uk.org.publicwhip/debate/2010-04-07b.983.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.984.0" newgid="uk.org.publicwhip/debate/2010-04-07b.984.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.985.0" newgid="uk.org.publicwhip/debate/2010-04-07b.985.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.985.1" newgid="uk.org.publicwhip/debate/2010-04-07b.985.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.986.0" newgid="uk.org.publicwhip/debate/2010-04-07b.986.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.986.1" newgid="uk.org.publicwhip/debate/2010-04-07b.986.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.987.0" newgid="uk.org.publicwhip/debate/2010-04-07b.987.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2010-04-07a.987.0" speakerid="uk.org.publicwhip/member/40031" speakername="Mr. Speaker" colnum="987"  time="013:11:00" url="http://www.publications.parliament.uk/pa/cm200910/cmhansrd/cm100407/debtext/100407-0006.htm#10040729001486">
+	<p pid="a.987.0/1">Order. If I were a student at a tutorial being conducted by the hon. Gentleman, I would no doubt find it very satisfying, but I am seeking to chair an orderly debate. He must resist the -temptation to dilate on matters that are well wide of the motion. I feel fairly confident--at least hopeful--that he might be drawing his remarks to a close, because I know that he will be sensitive to the wish of other people to speak in the debate. -</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.987.1" newgid="uk.org.publicwhip/debate/2010-04-07b.987.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.988.0" newgid="uk.org.publicwhip/debate/2010-04-07b.988.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2010-04-07a.988.0" speakerid="uk.org.publicwhip/member/1756" speakername="Evan Harris" colnum="988"  time="013:25:00" url="http://www.publications.parliament.uk/pa/cm200910/cmhansrd/cm100407/debtext/100407-0007.htm#10040729001488">
+	<p pid="a.988.0/1">Following on from what <phrase class="honfriend" id="uk.org.publicwhip/member/1844" name="William Cash">the hon. Member for Stone (Mr. Cash)</phrase> just said, the treatment of the Digital Economy Bill is symptomatic of what has happened to this House. It is nothing short of outrageous that, the day after its Second Reading, we will have just two hours in which to attempt to debate the remaining stages of such an important and controversial Bill.</p>
+	<p pid="a.988.0/2">It is simply not good enough for the Government to say that the Bill has been scrutinised by a bunch of unelected people at the other end of this building. That was what we were told yesterday, when Ministers said that everything was okay because there had been hours of scrutiny in the House of Lords. The last time I looked, it was this House that was elected. We are the ones who are accountable to constituents-despite the vagaries of an electoral system that means that the general election is already over in about 400 seats-yet we will have just two hours for debate. Many amendments will not be reached and many points will not be made, but the Government have the cheek to say that we should tell constituents during the election that we are doing a good job of scrutiny. It is a complete farce, as there are significant concerns-which I share-about measures in the Digital Economy Bill.</p>
+	<p pid="a.988.0/3">There has clearly been a carve-up between the Conservative and Labour parties. They are entitled to come to an arrangement like that in the elected House, but they are surely not entitled to prevent those of us who disagree with them from reaching our amendments, making our points against the contents of the Bill, and dividing the House on our arguments. The Government are determined to ram through the Bill on the penultimate day of this Parliament, in the space of two hours. It is a process that should take several weeks in Committee and at least one whole day-it should be more-on Report, when people are able to lobby.</p>
+	<p pid="a.988.0/4">How can we look our constituents in the eye and say that this is an accountable House when they do not even time to lobby in favour of amendments? They are not able to do that lobbying because the amendments cannot be tabled until the Bill has been given a Second Reading.</p>
+	<p pid="a.988.0/5">There is no doubt that this so-called Leader of the House will go down in history as the destroyer of scrutiny. Under her stewardship, far more Opposition and Back-Bench amendments and new clauses-and indeed Government amendments and new clauses-have not been reached than has been the case with any other Leader of the House in recent history. I suspect that the same would be true for the more distant past.</p>
+	<p pid="a.988.0/6">Hardly any major Bill has received adequate scrutiny. The knives have been put in place after the business that needs to be reached, rather than before. The nature of the carve-up by Labour and the Conservatives to undermine scrutiny of the Digital Economy Bill is just a typical example of that.</p>
+	<p pid="a.988.0/7">That is why the House decided to do something about the Government's approach. On certain points in the Wright Committee report, and on behalf of the Committee itself, hon. Members disagreed with the both Government and Conservative Front Benches and instead voted for two critical measures to improve scrutiny.</p>
+	<p pid="a.988.0/8">The Government keep saying, &quot;Oh, you've got your Select Committee changes.&quot; I welcome those changes, but they are not about scrutiny on the Floor of the House. The two measures that have been approved by hon. Members are, first, that a House business committee be set up in the next Parliament to enable us, as a House, to determine how much scrutiny legislation is given. That would take away from the Government the ability to ram through legislation in the way that is happening today and has happened for the past 10 years. The second measure was to set up a Back-Bench business committee. The vote in favour of the detail of that proposal went 2:1 against both of the major party Front Benches. As other Members have said, the Government are clearly defying the will of the House by not introducing those amendments. It is a tragedy that we do not have a chance to deal with them.</p>
+	<p pid="a.988.0/9">With <phrase class="honfriend" id="uk.org.publicwhip/member/1478" name="Tony Wright">the hon. Member for Cannock Chase (Dr. Wright)</phrase> and others, I was involved in tabling an amendment to give the House the opportunity to divide on whether time should be provided tomorrow, but the amendment was not selected. I am not able to question the selection, but I think I can say that if there had been any way for the voice of Back Benchers to be heard on these matters, the amendment tabled by the hon. Gentleman, who has just entered the Chamber and is not at all out of breath, would have been selected. I think that in his selection the Speaker has been bound, on a Government day, to let the Government have their business. This is toxic to democracy in the House.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.989.0" newgid="uk.org.publicwhip/debate/2010-04-07b.989.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.989.1" newgid="uk.org.publicwhip/debate/2010-04-07b.989.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.989.2" newgid="uk.org.publicwhip/debate/2010-04-07b.989.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.989.3" newgid="uk.org.publicwhip/debate/2010-04-07b.989.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.991.0" newgid="uk.org.publicwhip/debate/2010-04-07b.991.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.991.1" newgid="uk.org.publicwhip/debate/2010-04-07b.991.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.991.2" newgid="uk.org.publicwhip/debate/2010-04-07b.991.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.991.3" newgid="uk.org.publicwhip/debate/2010-04-07b.991.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.991.4" newgid="uk.org.publicwhip/debate/2010-04-07b.991.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.991.5" newgid="uk.org.publicwhip/debate/2010-04-07b.991.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.992.0" newgid="uk.org.publicwhip/debate/2010-04-07b.992.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.992.1" newgid="uk.org.publicwhip/debate/2010-04-07b.992.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.992.2" newgid="uk.org.publicwhip/debate/2010-04-07b.992.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.992.3" newgid="uk.org.publicwhip/debate/2010-04-07b.992.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.992.4" newgid="uk.org.publicwhip/debate/2010-04-07b.992.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.993.0" newgid="uk.org.publicwhip/debate/2010-04-07b.993.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2010-04-07a.993.0" speakerid="uk.org.publicwhip/member/1756" speakername="Evan Harris" colnum="993"  time="013:25:00" url="http://www.publications.parliament.uk/pa/cm200910/cmhansrd/cm100407/debtext/100407-0007.htm#10040729001504">
+	<p pid="a.993.0/1">Of course I accept what the hon. Gentleman says at face value, but I regret that his position in the negotiations was not strong enough-perhaps this was not a big enough priority. Of course, it might be that the Government's top priority was not delivering the Standing Orders under the business motion and that they were saying, &quot;No matter what, we're not doing that.&quot; I fear that that the business motion will mean that we do not get this reform, and that will be a tragedy for those who have worked hard for it and for the House. It will also be a tragedy for the Prime Minister, who will look foolish, given what he said. More than anything else, however, it is a tragedy for the scrutiny that the House should deliver for the people.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.993.1" newgid="uk.org.publicwhip/debate/2010-04-07b.993.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.994.0" newgid="uk.org.publicwhip/debate/2010-04-07b.994.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.994.1" newgid="uk.org.publicwhip/debate/2010-04-07b.994.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.994.2" newgid="uk.org.publicwhip/debate/2010-04-07b.994.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2010-04-07a.994.2" speakerid="uk.org.publicwhip/member/1502" speakername="Christopher Chope" colnum="994"  time="013:46:00" url="http://www.publications.parliament.uk/pa/cm200910/cmhansrd/cm100407/debtext/100407-0008.htm#10040729001508">
+	<p pid="a.994.2/1"><phrase class="honfriend" id="uk.org.publicwhip/member/1478" name="Tony Wright">The hon. Member for Cannock Chase (Dr. Wright)</phrase> has made a fascinating contribution. I hope that everyone will remember what he said and the atmosphere in which he said it, because he showed that there is a speciousness on the part of the Government when they say that they cannot bring the Standing Order motion above the line because amendments to it would cause the House a lot of trouble. If the motion was brought above the line, the former Chief Whip, <phrase class="honfriend" id="uk.org.publicwhip/member/1557" name="Hilary Armstrong">the right hon. Member for North-West Durham (Hilary Armstrong)</phrase>, would not be here to move her amendment, which would therefore fall, and we could go straight on to a vote on the motion. The situation demonstrates the cynical way in which the Government are operating. We must agree that there is a conspiracy on the part of the Government because the only alterative is to cast aspersions on the veracity of the Leader of the House when she said:</p>
+	<p pid="a.994.2/2" class="indent">&quot;I can assure the House that we will bring forward the Standing Orders, and there will be an opportunity for the House to endorse them before the next election.&quot;-[<phrase class="offrep" id="debates/2010-03-11.433"><i> Official Report</i>, 11 March 2010; Vol. 507, c. 433</phrase>.]</p>
+	<p pid="a.994.2/3">Did that mean anything other than what it would mean to anyone with a basic knowledge of English? It means that the Leader of the House assured us that we would be able to vote on the Standing Orders before Dissolution.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.994.3" newgid="uk.org.publicwhip/debate/2010-04-07b.994.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.994.4" newgid="uk.org.publicwhip/debate/2010-04-07b.994.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.994.5" newgid="uk.org.publicwhip/debate/2010-04-07b.994.5" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2010-04-07a.994.5" speakerid="uk.org.publicwhip/member/1502" speakername="Christopher Chope" colnum="994"  time="013:46:00" url="http://www.publications.parliament.uk/pa/cm200910/cmhansrd/cm100407/debtext/100407-0008.htm#10040729001511">
+	<p pid="a.994.5/1">I will not be tempted into attacking the character and integrity of the Leader of the House, but I agree with my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/1844" name="William Cash">the Member for Stone (Mr. Cash)</phrase> that it used to be a long-standing convention that the Leader of the House would stick up for the rights of Back Benchers, even if that made him or her unpopular with their Cabinet. However, that convention seems to have gone by the wayside. I recall that when the late John Biffen was Leader of the House, he made himself very unpopular as a member of the Government and with the then Prime Minister for sticking up and performing the traditional role of the Leader of the House, to which my hon. Friend the Member for Stone has referred. I am sorry that the current Leader of the House is no longer here.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.995.0" newgid="uk.org.publicwhip/debate/2010-04-07b.995.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.995.1" newgid="uk.org.publicwhip/debate/2010-04-07b.995.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.995.2" newgid="uk.org.publicwhip/debate/2010-04-07b.995.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.995.3" newgid="uk.org.publicwhip/debate/2010-04-07b.995.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.995.4" newgid="uk.org.publicwhip/debate/2010-04-07b.995.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.995.5" newgid="uk.org.publicwhip/debate/2010-04-07b.995.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.995.6" newgid="uk.org.publicwhip/debate/2010-04-07b.995.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.996.0" newgid="uk.org.publicwhip/debate/2010-04-07b.996.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.996.1" newgid="uk.org.publicwhip/debate/2010-04-07b.996.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.996.2" newgid="uk.org.publicwhip/debate/2010-04-07b.996.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.996.3" newgid="uk.org.publicwhip/debate/2010-04-07b.996.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.997.0" newgid="uk.org.publicwhip/debate/2010-04-07b.997.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.997.1" newgid="uk.org.publicwhip/debate/2010-04-07b.997.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.997.2" newgid="uk.org.publicwhip/debate/2010-04-07b.997.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.997.3" newgid="uk.org.publicwhip/debate/2010-04-07b.997.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.998.0" newgid="uk.org.publicwhip/debate/2010-04-07b.998.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.998.1" newgid="uk.org.publicwhip/debate/2010-04-07b.998.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.998.2" newgid="uk.org.publicwhip/debate/2010-04-07b.998.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.998.3" newgid="uk.org.publicwhip/debate/2010-04-07b.998.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.998.4" newgid="uk.org.publicwhip/debate/2010-04-07b.998.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.998.5" newgid="uk.org.publicwhip/debate/2010-04-07b.998.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1000.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1000.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1000.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1000.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1000.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1000.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1000.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1000.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1005.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1005.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1005.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1005.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1005.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1005.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1005.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1005.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1005.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1005.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1005.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1005.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1005.6" newgid="uk.org.publicwhip/debate/2010-04-07b.1005.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1005.7" newgid="uk.org.publicwhip/debate/2010-04-07b.1005.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1006.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1006.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1007.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1007.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1008.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1008.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2010-04-07a.1008.0" speakerid="uk.org.publicwhip/member/1649" speakername="Jonathan Djanogly" colnum="1008"  time="014:45:00" url="http://www.publications.parliament.uk/pa/cm200910/cmhansrd/cm100407/debtext/100407-0010.htm#10040729002183">
+	<p pid="a.1008.0/1">My comments and those of <phrase class="honfriend" id="uk.org.publicwhip/member/1473" name="David Howarth">the hon. Member for Cambridge (David Howarth)</phrase> reflect what we believe is a need for a wider debate on the role of the Attorney-General, but I must say to him that today is not the time or place for such a debate. I say to the Liberal Democrats that, just because the OECD and other states do not have an Attorney-General, or do not like the idea of having one, does not, to my mind, make the role of the Attorney-General redundant. I say to the Minister as well that, just because the Attorney-General has been there for 100 years, does not mean that the role is redundant. However, given where we are in the parliamentary timetable, we have decided not to request a Division on amendments 1 and 2, and we will be supporting the Government on amendment 7. I beg to ask leave to withdraw the amendment.</p>
+	<p pid="a.1008.0/2" class="italic"> Amendment, by leave, withdrawn.</p>
+	<p pid="a.1008.0/3"><i> Amendment made: </i>7, in page 6, line 35, leave out subsections (3) to (5) and insert-</p>
+	<p pid="a.1008.0/4">'(3) No proceedings for an offence under this Act may be instituted in England and Wales or Northern Ireland by a person-</p>
+	<p pid="a.1008.0/5">(a) who is acting-</p>
+	<p pid="a.1008.0/6">(i) under the direction or instruction of the Director of Public Prosecutions, the Director of the Serious Fraud Office or the Director of Revenue and Customs Prosecutions, or</p>
+	<p pid="a.1008.0/7">(ii) on behalf of such a Director, or</p>
+	<p pid="a.1008.0/8">(b) to whom such a function has been assigned by such a Director,</p>
+	<p pid="a.1008.0/9">except with the consent of the Director concerned to the institution of the proceedings.</p>
+	<p pid="a.1008.0/10">(4) The Director of Public Prosecutions, the Director of the Serious Fraud Office and the Director of Revenue and Customs Prosecutions must exercise personally any function under subsection (1), (2) or (3) of giving consent.</p>
+	<p pid="a.1008.0/11">(5) The only exception is if-</p>
+	<p pid="a.1008.0/12">(a) the Director concerned is unavailable, and</p>
+	<p pid="a.1008.0/13">(b) there is another person who is designated in writing by the Director acting personally as the person who is authorised to exercise any such function when the Director is unavailable.</p>
+	<p pid="a.1008.0/14">(6) In that case, the other person may exercise the function but must do so personally.</p>
+	<p pid="a.1008.0/15">(7) Subsections (4) to (6) apply instead of any other provisions which would otherwise have enabled any function of the Director of Public Prosecutions, the Director of the Serious Fraud Office or the Director of Revenue and Customs Prosecutions under subsection (1), (2) or (3) of giving consent to be exercised by a person other than the Director concerned.</p>
+	<p pid="a.1008.0/16">(8) No proceedings for an offence under this Act may be instituted in Northern Ireland by virtue of section 36 of the Justice (Northern Ireland) Act 2002 (delegation of the functions of the Director of Public Prosecutions for Northern Ireland to persons other than the Deputy Director) except with the consent of the Director of Public Prosecutions for Northern Ireland to the institution of the proceedings.</p>
+	<p pid="a.1008.0/17">(9) The Director of Public Prosecutions for Northern Ireland must exercise personally any function under subsection (2) or (8) of giving consent unless the function is exercised personally by the Deputy Director of Public Prosecutions for Northern Ireland by virtue of section 30(4) or (7) of the Act of 2002 (powers of Deputy Director to exercise functions of Director).</p>
+	<p pid="a.1008.0/18">(10) Subsection (9) applies instead of section 36 of the Act of 2002 in relation to the functions of the Director of Public Prosecutions for Northern Ireland and the Deputy Director of Public Prosecutions for Northern Ireland under, or (as the case may be) by virtue of, subsections (2) and (8) above of giving consent.'.-<i> (Claire Ward.)</i></p>
+	<p pid="a.1008.0/19" class="italic"> Third Reading</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1009.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1009.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1010.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1010.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1011.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1011.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1011.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1011.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1011.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1011.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1012.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1012.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1013.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1013.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1015.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1015.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1015.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1015.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1015.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1015.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1015.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1015.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1015.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1015.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1015.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1015.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1015.6" newgid="uk.org.publicwhip/debate/2010-04-07b.1015.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1015.7" newgid="uk.org.publicwhip/debate/2010-04-07b.1015.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1016.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1016.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1016.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1016.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1016.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1016.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1017.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1017.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1017.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1017.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1018.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1018.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1018.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1018.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1018.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1018.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1019.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1019.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1019.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1019.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1019.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1019.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1020.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1020.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1020.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1020.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1020.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1020.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1020.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1020.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1020.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1020.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1020.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1020.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1021.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1021.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1021.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1021.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1022.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1022.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1022.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1022.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1022.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1022.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1022.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1022.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1022.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1022.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1023.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1023.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1023.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1023.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1023.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1023.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1023.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1023.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1024.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1024.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1025.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1025.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1026.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1026.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2010-04-07a.1026.0" speakerid="uk.org.publicwhip/member/2019" speakername="Mr. Deputy Speaker" colnum="1026"  time="015:48:00" url="http://www.publications.parliament.uk/pa/cm200910/cmhansrd/cm100407/debtext/100407-0013.htm#10040729002220">
+	<p pid="a.1026.0/1">I now have to announce the results of Divisions deferred from a previous day. On the question relating to children and young persons, the Ayes were 259 and the Noes were 152, so the Question was agreed to.</p>
+	<p pid="a.1026.0/2">On the question relating to EU strategy on jobs and growth, the Ayes were 254 and the Noes were 158, so the Question was agreed to.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1027.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1027.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1027.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1027.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1027.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1027.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1027.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1027.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1027.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1027.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1027.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1027.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1028.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1028.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1028.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1028.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1028.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1028.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1028.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1028.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1029.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1029.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1029.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1029.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1030.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1030.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1030.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1030.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1030.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1030.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1030.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1030.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1031.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1031.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1032.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1032.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1032.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1032.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1035.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1035.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1035.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1035.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1035.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1035.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1035.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1035.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1035.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1035.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1035.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1035.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1035.6" newgid="uk.org.publicwhip/debate/2010-04-07b.1035.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1035.7" newgid="uk.org.publicwhip/debate/2010-04-07b.1035.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1035.8" newgid="uk.org.publicwhip/debate/2010-04-07b.1035.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1035.9" newgid="uk.org.publicwhip/debate/2010-04-07b.1035.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1035.10" newgid="uk.org.publicwhip/debate/2010-04-07b.1035.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1035.11" newgid="uk.org.publicwhip/debate/2010-04-07b.1035.11" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1035.12" newgid="uk.org.publicwhip/debate/2010-04-07b.1035.12" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1036.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1036.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1038.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1038.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1038.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1038.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1038.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1038.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1039.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1039.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1039.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1039.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1039.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1039.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1039.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1039.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1040.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1040.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1040.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1040.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2010-04-07a.1040.1" speakerid="uk.org.publicwhip/member/1756" speakername="Evan Harris" colnum="1040"  time="016:37:00" url="http://www.publications.parliament.uk/pa/cm200910/cmhansrd/cm100407/debtext/100407-0015.htm#10040743000335">
+	<p pid="a.1040.1/1">I have not come round to that; it was my position five years ago. If the right hon. Gentleman looked at the record, he would find that that is what I have been saying. The point is, however, that what we cannot do-I hope the right hon. Gentleman will agree-is so to bully our advisers, or threaten them with the sack if they give the &quot;wrong&quot; advice, that they provide the advice that they think Ministers want to hear. It ill behoves the Conservative spokesman, particularly in view of the BSE fiasco, not to bear in mind the very clear conclusions in the Phillips report of 2000, which said that scientific advisers should not have to go back and do it all again because the Minister is not happy with the content of the advice. We must have clear published advice, and the Government must consider it properly. I shall return to this issue again in few moments.</p>
+	<p pid="a.1040.1/2">What the ACMD usually does is consider the harms that drugs cause, and then consider the harms of illegality. It is important to be aware that there are risks and benefits both ways. There is no doubt that mephedrone is harmful. Although I am only a medical doctor, my advice to people is very clear-that they should not take this drug. I am possibly one of the few Members who can say that they have never taken an illegal drug, which may say something about my university time, as I was never offered it. I am also very clear and passionate about alcohol abuse and, indeed, nicotine abuse.</p>
+	<p pid="a.1040.1/3">It is nevertheless important to recognise that banning a drug has potential harms, and these are aspects that we would expect advisers to consider. First, the purity will be impacted by the substances with which the drug is cut by people illegally peddling it for profit. Secondly, criminal gangs can take over. Indeed, in paragraph 6.6 of its report, the ACMD points out that in Guernsey, where mephedrone was banned, criminal gangs have taken over and violence is now associated with accessing the drug, which was not the case previously. Although the ACMD listed that under &quot;Societal Harms&quot;, it is actually a harm of criminalisation.</p>
+	<p pid="a.1040.1/4">Thirdly, users-if they are not prevented from using the drug-will be driven into the hands of those who want to sell them even more addictive and more harmful substances. Alternatively, they will turn to another substance which is still legal and may be more harmful. Furthermore, a ban may cause the price to rise, and acquisitive crime is more likely to be committed by people who are addicted to the substance. That is a logical consequence. I accept that drugs ruin lives, but criminal records ruin lives as well. Criminalising people, whether they are under 18 or young adults, has a consequence for those people which we cannot discount.</p>
+	<p pid="a.1040.1/5">I have not heard a word about any of those issues in the media coverage, or from the Minister or <phrase class="honfriend" id="uk.org.publicwhip/member/1640" name="James Brokenshire">the hon. Member for Hornchurch (James Brokenshire)</phrase>. I think it wrong for Ministers, or people who want to become Ministers, not to address any of the potential downsides of the policy. I still support what the Government are doing, but at least I have considered those issues, and I question whether the ACMD had a chance to do so. I urge the media, when they see parents of young people who are upset that their child, or young adult son or daughter, is using the drug and bemoan that fact, to bear in mind that banning it will not cure the addiction.</p>
+	<p pid="a.1040.1/6">Paragraphs 5.12 to 5.17 of the ACMD report deal with deaths. The report states that</p>
+	<p pid="a.1040.1/7" class="indent">&quot;There have been at least 18 deaths in England where cathinones have been implicated&quot;</p>
+	<p pid="a.1040.1/8">and that</p>
+	<p pid="a.1040.1/9" class="indent">&quot;There have been at least seven deaths...where cathinones have been suspected.&quot;</p>
+	<p pid="a.1040.1/10">It continues:</p>
+	<p pid="a.1040.1/11" class="indent">&quot;Currently, seven of these&quot;-</p>
+	<p pid="a.1040.1/12">the 18 deaths in England-</p>
+	<p pid="a.1040.1/13" class="indent">&quot;have provided positive results for the presence of mephedrone at post mortem. To date, in one case the coroner concluded that the death was 'natural' and that an inquest was not required. The remaining cases are awaiting inquest.&quot;</p>
+	<p pid="a.1040.1/14">We know, then, that one case was a &quot;not&quot; and the others are only &quot;maybes&quot;.</p>
+	<p pid="a.1040.1/15">I shall not repeat what was said by the hon. Member for Bolton, South-East about &quot;polydrug&quot; use, but this drug is used in combination with other drugs, which may themselves be the cause of death. The same applies to the other reported deaths. I do not for a moment minimise the potential impact of the drug, but we must think carefully before stating as facts things that are not facts. We are all entitled to our opinions, but we are not entitled to our own facts.</p>
+	<p pid="a.1040.1/16">I realise that there is not much time for the Minister to respond, but I want to say a bit more about the ACMD. As the hon. Member for Hornchurch pointed out, the problem lies not with the ACMD but with the Home Secretary. However, I should like to know whether the hon. Gentleman, who seeks to be a Minister, thinks that Professor Nutt should have been sacked for the lecture that he gave at King's college, as professor of neuropsychopharmacology at Imperial college, and, if so what he should have been sacked for. I tried to ask the hon. Gentleman that, but he would not allow me to intervene, which is not a good sign. Someone who wishes to become a Minister dealing with these matters should be expected to be able to answer questions of that kind, whether they come from parents, enforcement agencies or experts.</p>
+	<p pid="a.1040.1/17">I invite the hon. Gentleman to tell us now that he agrees with the Home Secretary-and the shadow Home Secretary, who needs as much help as possible at the moment-that Professor Nutt should have been sacked, and should have been sacked earlier. If he does end up as the Minister, he will find that, on that basis, people will be unwilling to give him the advice that he seeks.</p>
+	<p pid="a.1040.1/18">I have written to Lord Drayson asking whether the Government's own principles for the treatment of scientific advice were not breached five times last week by the Government, who acted not just without considering the report-which they were bound to consider under the Government principles issued on Budget day-but before it had even been published. In fact, according to Eric Carlin, who resigned last week, when the chair of the ACMD left to brief the Home Secretary for a press conference the ACMD had not even finished the report. The Government responded to the press not only on a report that had not been considered, that had not been published and would not be published for three days, but on a report that had not yet been completed. That makes a travesty of the advisory process.</p>
+	<p pid="a.1040.1/19">If, as a result of that, this statutory instrument, if-or rather, I suspect, when-it is passed by both Houses-is challenged in the courts as being ultra vires and the Government lose the case, something which, as has been said, should have been done much earlier, will be delayed by months. The Government will find that people are unwilling to give advice if they break their own rules and pre-empt the work of the experts. The Government do not have to take that advice, but they promised to consider it properly and I do not believe that in this circumstance, they did so. Although the Liberal Democrats are happy to support the order, it is with sadness that we do so at a time when the advisory system on which we rely for proper policy is in crisis. It is not just the Government who suffer if they do not get good advice; we all suffer, because we end up with bad policy.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1043.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1043.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1044.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1044.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1044.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1044.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1044.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1044.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1044.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1044.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1044.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1044.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1044.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1044.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1045.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1045.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1045.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1045.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1045.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1045.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1045.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1045.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1046.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1046.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1046.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1046.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1046.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1046.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1046.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1046.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1046.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1046.4" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2010-04-07a.1046.4" speakerid="uk.org.publicwhip/member/1741" speakername="Sally Keeble" colnum="1046"  time="017:00:00" url="http://www.publications.parliament.uk/pa/cm200910/cmhansrd/cm100407/debtext/100407-0016.htm#10040743000348">
+	<p pid="a.1046.4/1">I shall come to that. First, I am going to go through the hon. Gentleman's comments on his amendments, because there were some contradictions in relation to amendment 3.</p>
+	<p pid="a.1046.4/2">Originally, the Bill did not create an incentive for creditors to hold on to their debts in the hope that the Act would expire, as it would have taken permanent effect immediately. That risk was one reason for the caution about including the sunset clause. However, the problem would be considerably worse if the Bill provided no option, short of new primary legislation, for the Act to take permanent effect.</p>
+	<p pid="a.1046.4/3">If Parliament is satisfied at some future point that the Act has caused, and is causing, no significant damage to the operation of financial markets, then it should be able to approve, by affirmative resolution, its taking permanent effect. That is a proper way to provide for the orderly management of these very difficult debts in heavily indebted poor countries. There has been extensive discussion of this Bill, but part of the purpose throughout has been to make sure that we use the existing procedures of the HIPC programme to provide stability and security to the countries involved.</p>
+	<p pid="a.1046.4/4">I turn now to amendment 3. The hon. Member for Gainsborough has said that he cannot understand clause 9(6), but it makes arrangements for handling the debt if the Bill is not confirmed. The result of that would be two classes of creditors: the first would be made up people who had taken action after the Bill fell and who would therefore be able to sue for the full amount, and the second would consist of people who took action for the one year that the legislation was in force. The second group would find that the value of their claims would be knocked back, because the legislation would allow them to pursue only that certain percentage of their debts that was approved by the HIPC procedure. The purpose of clause 9(6) is therefore to restore equity between the different classes of creditors.</p>
+	<p pid="a.1046.4/5">As I have said, although the Bill looks quite complex, the principles behind it are simple. One of those principles is that there should be equity between different classes of creditors. If the amendment were accepted, a mechanism for restoring that equity would disappear, with the result that creditors would have no incentive to pursue their debts in the interim period when the legislation is in force. They will think, &quot;Perhaps it won't be renewed, so we'd better not go to the courts now and just hang on instead.&quot; That would mean that the HIPC countries would still have their debts hanging over them, and also that creditors would receive less justice in the end. That would be the impact of amendment 3, and I do not think that that is what the hon. Gentleman intends. If the legislation were to fall for some reason in the next Parliament, I think that he would probably prefer to see justice restored for those creditors who had taken while it was in force.</p>
+	<p pid="a.1046.4/6">Amendment 2 would give the Act that this Bill will become equal status, in terms of parliamentary time, attention and renewal, with much more substantial pieces of legislation. It would have to keep being renewed every year, and there would be no provision to make it permanent. However, I think that the Opposition's intention was to ensure that a new Parliament could scrutinise the legislation and decide whether it was what was needed. If it was, and if it was working properly, that new Parliament could make it permanent.</p>
+	<p pid="a.1046.4/7">The impact of amendment 6 would also not be what the hon. Member for Leigh intends, as it would delete the mechanism for providing justice and equity to all classes of creditors, if a new Parliament decided not renew the legislation.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1047.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1047.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1048.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1048.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1048.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1048.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1049.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1049.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1049.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1049.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1049.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1049.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1050.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1050.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1050.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1050.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1050.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1050.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1051.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1051.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1051.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1051.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1051.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1051.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1051.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1051.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1051.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1051.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1051.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1051.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1052.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1052.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1053.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1053.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1054.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1054.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1054.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1054.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1054.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1054.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1054.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1054.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1055.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1055.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1056.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1056.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1056.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1056.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1056.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1056.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1056.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1056.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1056.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1056.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1057.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1057.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1057.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1057.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1057.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1057.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1058.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1058.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1058.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1058.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1058.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1058.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1058.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1058.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1058.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1058.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1058.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1058.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1059.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1059.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1060.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1060.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1060.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1060.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1060.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1060.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1060.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1060.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1060.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1060.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1060.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1060.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1060.6" newgid="uk.org.publicwhip/debate/2010-04-07b.1060.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1061.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1061.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1061.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1061.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1061.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1061.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2010-04-07a.1061.2" speakerid="uk.org.publicwhip/member/1563" speakername="Stephen Timms" colnum="1061"  time="017:46:00" url="http://www.publications.parliament.uk/pa/cm200910/cmhansrd/cm100407/debtext/100407-0018.htm#10040743000391">
+	<p pid="a.1061.2/1">They key benefit of the changes we are making lies in providing to Her Majesty's Revenue and Customs earlier information about the kind of schemes that people are being provided with. We are confident that if we have that information earlier, we will be able to address those schemes more effectively and so bear down on the scale of the problem.</p>
+	<p pid="a.1061.2/2">In last year's presidency of the G20, we led the global clampdown on tax havens and offshore evasion. I am pleased that since the G20 summit in London last April, more tax information exchange agreements have been signed around the world than in the whole of the previous decade. Clause 36 sets higher penalties, up to 200 per cent. of the tax due, for those who fail to declare income and gains from jurisdictions that do not exchange information automatically with the UK.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1061.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1061.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1062.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1062.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1062.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1062.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1062.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1062.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1062.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1062.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1062.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1062.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1062.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1062.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1062.6" newgid="uk.org.publicwhip/debate/2010-04-07b.1062.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1063.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1063.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1063.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1063.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1063.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1063.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1063.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1063.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1063.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1063.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1064.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1064.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1064.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1064.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2010-04-07a.1064.1" speakerid="uk.org.publicwhip/member/1582" speakername="Mark Hoban" colnum="1064"  time="018:07:00" url="http://www.publications.parliament.uk/pa/cm200910/cmhansrd/cm100407/debtext/100407-0019.htm#10040747000131">
+	<p pid="a.1064.1/1">My hon. Friend makes a helpful intervention, as he so often does on these occasions. I should say to him that it is the obligation of parties on both sides of the House, and of whoever forms the next Government, to listen to the concerns raised about the measures that we have passed, to understand where those measures are defective and to think about how they can be remedied in the future. Even when a Finance Bill receives full scrutiny, so often the Government-this is particularly true of the present Government-come back for a second bite of the cherry the following year just to tidy up the detail of the legislation in areas where perhaps proper, full consultation has not taken place. I wish to highlight some of the areas where adequate consultation has not taken place, and there are holes that the Government will need to think about carefully.</p>
+	<p pid="a.1064.1/2">This Finance Bill contains much that is controversial, much that could be improved by scrutiny and much that could be amended, but Parliament has been denied that opportunity because the Government opted for the latest possible date for a Budget, thus precluding the opportunity to have a longer debate about the Bill. The Bill tells the tale of things left out, of things that should have been included in it, and of items that need further scrutiny and consultation.</p>
+	<p pid="a.1064.1/3">Let us consider what is not in the Bill. The first things not included are the tax hikes planned by this Government for after polling day. The Prime Minister said on the steps of No. 10 Downing street yesterday:</p>
+	<p pid="a.1064.1/4" class="indent">&quot;I have fought so hard for families on middle and modest incomes.&quot;</p>
+	<p pid="a.1064.1/5">But they are the people who will have to pick up the bill for the Government's economic record after the election. My hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/1844" name="William Cash">the Member for Stone (Mr. Cash)</phrase> intervened on the Financial Secretary to ask why national insurance increases planned for April 2011 are not in this Bill. Obviously, the Financial Secretary said that that Bill would come into effect in the next Parliament, but it is a pity that the Government did not have the courage of their convictions and did not seek to table that measure now for debate, because we could then have made the argument here in this House about the need to roll back those increases to protect those on the middle and modest incomes to whom the Prime Minister referred yesterday.</p>
+	<p pid="a.1064.1/6">Let us also not forget that this is about protecting not just those people's incomes but their employment. My hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/1808" name="Michael Fallon">the Member for Sevenoaks (Mr. Fallon)</phrase> caught out the Chancellor on that last week in the Treasury Committee, when he probed the Chancellor as to whether he had taken into account the impact on unemployment. The Centre for Economics and Business Research has said that in addition to raising the tax burden on families, 57,000 people would lose their jobs as a consequence of the Government's planned national insurance increase. Is this what Alistair Darling meant when he said:</p>
+	<p pid="a.1064.1/7" class="indent">&quot;We think the impact is manageable, it will be limited&quot;?</p>
+	<p pid="a.1064.1/8">It certainly will not feel manageable or limited to the 57,000 people who will lose their jobs if the Government's plans go through.</p>
+	<p pid="a.1064.1/9">Richard Lambert, the director general of the CBI, has said the following of our plans to oppose this tax hike:</p>
+	<p pid="a.1064.1/10" class="indent">&quot;The Conservatives' plan to reduce next year's increase in employers' NICs is welcome, and will help large and small businesses alike.&quot;</p>
+	<p pid="a.1064.1/11">He continued:</p>
+	<p pid="a.1064.1/12" class="indent">&quot;NICs are a tax on jobs and increasing them is a bad idea when we want to promote job creation. We continue to call for the proposed increase to be cancelled entirely, as and when action on the public finances makes this possible.&quot;</p>
+	<p pid="a.1064.1/13">I wonder whether the Financial Secretary believes that the head of the CBI has been deceived, and whether he adopts the same line as the Prime Minister and the Secretary of State for Business, Innovation and Skills about the opposition that nearly 60 business leaders have expressed to the Government's tax on jobs. Other things have been left out, too. There is no reference in the Bill or in the Chancellor's Budget statement to the freeze on personal allowances-another stealthy tax grab by this Government.</p>
+	<p pid="a.1064.1/14">Of course, there are some things in the Bill of which we do approve. The two-year first-time buyer's stamp duty holiday is welcome, but if the Government had wanted to copy our policy properly they would not have stuck a two-year time limit on it. The reduction in bingo duty was something for which we argued in the Budget last year, and we expect to hear &quot;David's den-No. 10&quot; to be called in bingo houses across the country in celebration of the Government's climbdown.</p>
+	<p pid="a.1064.1/15">Despite those points, the Bill is not in as poor shape as it might have been. Three tax rises on families and businesses have been scrapped and the measure attacking small and new businesses has been dropped-all as a consequence of Conservative opposition. The Government have been forced into a U-turn on cider by us, and the swingeing increase in the duty on normal strength cider will be reversed on <phrase class="date" code="2010-06-30">30 June</phrase> so cider will be treated like any other drink; that will mean an 8 per cent. cut in duty rates. Again, as the Financial Secretary made very clear in the opening stages of his speech, the Government have pledged to reverse that if they are returned on <phrase class="date" code="2010-05-06">6 May</phrase>. Cider drinkers have a choice: do they back the Government's across-the-board hike in the tax on a pint of cider, or do they back our option of increasing the tax on super-strength ciders, rewarding responsible drinkers and clamping down on problem drinkers?</p>
+	<p pid="a.1064.1/16">We know how important furnished holiday cottages and flats are to the tourist trade, to rural areas and to seaside towns. That is why we forced the Government to drop their plans to increase taxes. According to the Tourism Alliance, 120,000 businesses would have been affected and 4,500 jobs lost at a cost to the UK economy of &#163;200 million. We would consult on a regime to allow holiday cottages to be treated as a trade on a fiscally neutral basis. So people have another choice: another tax increase on business under Labour, or reforms to help the tourist trade under the Conservatives.</p>
+	<p pid="a.1064.1/17">The telephone tax has also been dropped. A &#163;7 per year tax on families and businesses has been binned. That was a tax that was attacked by the industry as regressive and disruptive, a tax which ordinary families would have to pay. Virgin Media said the duty</p>
+	<p pid="a.1064.1/18" class="indent">&quot;risks distorting the market by penalising fixed line broadband and potentially disrupting existing next generation broadband investment plans&quot;.</p>
+	<p pid="a.1064.1/19">Andrew Heaney, executive director of strategy and regulation at TalkTalk, said:</p>
+	<p pid="a.1064.1/20" class="indent">&quot;The broadband tax is an unfair, regressive, and wasteful way of funding superfast broadband which would deliver less benefit than it will cost, slow superfast broadband roll-out and drive around 200,000 homes off broadband.&quot;</p>
+	<p pid="a.1064.1/21">One might think that someone from TalkTalk would say that-but the figure for the number of houses that would come off broadband was the figure given in the Government's regulatory impact assessment. Far from unlocking investment, the telephone tax would clearly hamper it, and we got it dropped. That is another choice that people will have to make: a regressive tax adding to the burdens placed by this Government on families, or no tax on families and businesses and reforms to roll out broadband under a Conservative Government.</p>
+	<p pid="a.1064.1/22">Lastly, we have also removed the proposals for security of payment of pay-as-you-earn. In the Financial Secretary's letter to the Chartered Institute of Taxation, he said that where the Government have not consulted they would explain why not. Pending that explanation on these provisions, we have taken matters into our hands and forced the Government to drop them. The problem was that a criminal offence was being created in connection with a requirement that had not been properly explained or scrutinised. The CIOT put it best when it said:</p>
+	<p pid="a.1064.1/23" class="indent">&quot;If enacted, there are concerns that the provisions could be applied to many small businesses facing cash flow problems in the current financial recession, leading to a number being put out of business at a time when the economy is starting to pick up.&quot;</p>
+	<p pid="a.1064.1/24">The Bill gives the Treasury power to make regulations to require businesses to offer security for PAYE bills, but there are no safeguards in the Bill and nothing to protect businesses from the heavy hand of HMRC. It seems wholly at odds with the Government's much-trumpeted time to pay scheme to introduce such a measure at this time.</p>
+	<p pid="a.1064.1/25">The Government's message stresses the importance of locking in the recovery, yet the Budget and the Finance Bill contain measures that will hurt small businesses and families, and we know that there are still more in the pipeline. There is concern that some of the measures that remain in the Bill have not been properly thought through and consulted on. We might not have much time in the Committee of the whole House to go through the Bill clause by clause, but I want to touch on a few of those measures now. I have chosen as examples measures that, although they are probably well-intentioned, might need to be revisited because of the lack of proper parliamentary scrutiny.</p>
+	<p pid="a.1064.1/26">There is still widespread concern about the provisions in clause 24 and the 12 pages of schedule 3 about the taxation of pension contributions by higher-rate income tax payers. In addition to the pages in the Bill, there are 74 pages of detailed technical notes. We have no argument with the Government's seeking to protect revenues by restricting tax relief for higher earners, but there are widespread concerns about the cost and complexity of the provisions.</p>
+	<p pid="a.1064.1/27">As I said in an intervention on the Financial Secretary, within two months the one-off costs of implementation have tripled. I hope that when the Exchequer Secretary winds up she will give a fuller explanation of why those costs have tripled over such a short period. Given the number of areas that the Financial Secretary has outlined in which greater clarification is needed about how the rules will work in practice, I wonder whether those costs will continue to rise. We need to make sure that the Government's chosen measure of restricting the value of tax relief is the most straightforward and least expensive option available. The Chartered Institute of Taxation has said that the measures were drafted in such a way as to put a heavy and expensive administrative burden on employers, employees and pensions provisions.</p>
+	<p pid="a.1064.1/28">The Institute of Chartered Accountants in England and Wales has said:</p>
+	<p pid="a.1064.1/29" class="indent">&quot;The proposals are highly complex and will be difficult for those affected to understand, often creating unexpected and very high tax liabilities for those at whom the proposals were not aimed.&quot;</p>
+	<p pid="a.1064.1/30">We will not oppose the measures at this stage because of the principle of protecting revenue, but we ought at this time to look very carefully at how they could be improved to make them easier for people to understand, easier to administer and cheaper to collect.</p>
+	<p pid="a.1064.1/31">In clause 31, on charities and community sports clubs, a new definition of &quot;fit and proper persons&quot;, with regard to those working with charities and sports clubs, is offered without proper debate or scrutiny. That would be monitored by HMRC rather than the Charity Commission, which is a major change.</p>
+	<p pid="a.1064.1/32">On clause 35, the CIOT has again expressed concern about some of the technical details arising from the proposed changes to the remittance arrangements and the prevention of certain capital gains tax rules from producing allowable capital losses on disposals of amounts in foreign currency bank accounts.</p>
+	<p pid="a.1064.1/33">Clause 36, on which the Financial Secretary and I had an exchange during his remarks, has been criticised by the low incomes tax reform group about the impact that it could have on unrepresented low-income taxpayers. Let me quote from its representations:</p>
+	<p pid="a.1064.1/34" class="indent">&quot;Many unrepresented taxpayers who will be caught by these new provisions actually come from overseas territories which are likely to be placed in category 2 or 3. Will a Gurkha be affected because we do not have a double taxation agreement with Nepal? Will a nurse coming from a West Indian island without the 'correct' HMRC designation be affected disproportionately? Is every mistake in relation to a source of income or gains in their home country to be penalised at one-and-a-half times or double the normal rate, simply because of where they come from?&quot;</p>
+	<p pid="a.1064.1/35">The Financial Secretary will no doubt be aware of the experiences of the Minister for Borders and Immigration and the Under-Secretary of State for Defence, <phrase class="honfriend" id="uk.org.publicwhip/member/1556" name="Kevan Jones">the hon. Member for North Durham (Mr. Jones)</phrase>, who has responsibility for veterans. They have both come off worse after locking horns with the Gurkhas. Does he want to be the Gurkhas' third scalp? We need to think carefully about how those on low incomes are going to be able to comply with them, while ensuring that proportionate action is taken with regard to others.</p>
+	<p pid="a.1064.1/36">Clause 57, which the Minister mentioned, contains controversial provisions on information that promoters and users of certain tax avoidance schemes have to disclose to HMRC, and it imposes new penalties for non-compliance. There are several options to achieve the same goal. The ICAEW has said:</p>
+	<p pid="a.1064.1/37" class="indent">&quot;The existing &#163;5,000 penalty will be replaced, it is proposed, with a daily &#163;600 penalty. This &#163;600 daily penalty was one of the two options set out in the consultation document but we preferred the option which provided for an increase in the penalty to the extent that there has been non-compliant behaviour by the promoter or user. We remain strongly of that view that this would be a better option.&quot;</p>
+	<p pid="a.1064.1/38">We have not had time to debate that clause in detail, or to explore which conclusion-the ICAEW's or the Government's-was right.</p>
+	<p pid="a.1064.1/39">Does not clause 66 say something about our tax system, in that it appears that we will have to have a special Champion's League final tax exemption hold next year's final? Will that open the floodgate for other changes? Will the Royal and Ancient push for competitors in the Open to be exempt if they are not resident in the UK? Will Lady Gaga refuse to tour the UK unless the next Finance Act is amended?</p>
+	<p pid="a.1064.1/40">The Government need to provide a much better rational for why these exemptions are in the Bill than they have done so far. Perhaps the Exchequer Secretary will be able to refer to that in her winding-up speech.</p>
+	<p pid="a.1064.1/41">There is a long shopping list of concerns about this Bill that are usually rehearsed during the Committee stage or addressed through ministerial statements or amendments. Those opportunities are not available to us today, as a result of this accelerated process.</p>
+	<p pid="a.1064.1/42">This Finance Bill is a testament to the dying days of a Labour Government. It is evidence of all that we have known about this Government. The best ideas are pinched from us, and it is a rag-bag of measures with no narrative, from a Government who have run out of steam. The fact that it is being rammed through in a matter of hours shows a brazen disregard for Parliament. In this area, as in so many, the problems of today are being left for tomorrow's Government to resolve.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1068.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1068.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1069.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1069.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1069.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1069.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1069.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1069.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1069.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1069.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1069.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1069.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1069.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1069.5" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2010-04-07a.1069.5" speakerid="uk.org.publicwhip/member/1883" speakername="Matthew Taylor" colnum="1069"  time="018:26:00" url="http://www.publications.parliament.uk/pa/cm200910/cmhansrd/cm100407/debtext/100407-0019.htm#10040747000138">
+	<p pid="a.1069.5/1">I think that we should move on from the knockabout, as it does no one any particular justice.</p>
+	<p pid="a.1069.5/2">I want to begin my remarks by concentrating on the big picture that underpins the Finance Bill, rather than on the detail of individual clauses. Massive choices have to be made about how we go forward, in the light of the credit crunch and its impacts on Government budgets. It has also impacted on the real world of people's lives, jobs and housing, and on their ability to afford homes and to provide for their families. Risks remain of a further downturn in the economy and a double-dip recession, and there are questions about the economy's real value and worth.</p>
+	<p pid="a.1069.5/3">How much of what happened in the last decade or so was real, and how much was unreal? We must never forget that we face the deficits that we face mainly because what was assumed to be real economic growth has been recast, at a stroke of a Treasury pen, as not growth at all, and therefore not real income.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1069.6" newgid="uk.org.publicwhip/debate/2010-04-07b.1069.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1070.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1070.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1070.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1070.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1070.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1070.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1070.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1070.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1070.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1070.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1071.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1071.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1071.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1071.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1071.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1071.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1071.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1071.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1071.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1071.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1071.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1071.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1071.6" newgid="uk.org.publicwhip/debate/2010-04-07b.1071.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1071.7" newgid="uk.org.publicwhip/debate/2010-04-07b.1071.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1071.8" newgid="uk.org.publicwhip/debate/2010-04-07b.1071.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1072.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1072.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2010-04-07a.1072.0" speakerid="uk.org.publicwhip/member/1883" speakername="Matthew Taylor" colnum="1072"  time="018:26:00" url="http://www.publications.parliament.uk/pa/cm200910/cmhansrd/cm100407/debtext/100407-0020.htm#10040747000154">
+	<p pid="a.1072.0/1">If I were to give way to the hon. Gentleman, I think that we would both be reminded that we are already straying a little far from the Bill.</p>
+	<p pid="a.1072.0/2">Let me reiterate that the first issue relates to timing and that the second relates to distribution and the fairness of what we do. I do not believe that what the Government are doing in that regard is good, but what is offered by the Conservative party is worse, as it rewards those who have rather than those who have not. Our approach is designed to reward hard-working people on low incomes, and we believe that the Bill should relieve the tax burden on such people. In a way that other parties have not, we have set out specific cuts that need to take place to services and things that we do not believe are necessary, and I do not step back from that.</p>
+	<p pid="a.1072.0/3">I started by saying that, clearly, this Finance Bill goes to the heart of the debates that will take place during the general election campaign. Clearly, whoever is next in government will make real decisions that will affect families all over the country. Twenty-three years ago, I came into Parliament on Budget day, after the by-election that followed the tragic death of my predecessor, David Penhaligon, who was the finance spokesman for the Liberal party, as it then was. I had been working with him on economic policy and I happened to be from Truro, so I was asked to stand in that by-election. I am leaving the House at the general election, because I do not believe it is a great place for the dad of a two-year-old and a three-year-old to be when they are at school in Cornwall and I am here. I think it is time for a change anyway, after having been here for 23 years. It may be a relief to all that I am leaving. It has been a privilege to represent the seat.</p>
+	<p pid="a.1072.0/4">My first speech was made during the debate on that Budget and my first Committee work was on that Finance Bill. I saw that through, then a general election was called and I had to do it all again, so I became familiar with Finance Bills more quickly than anybody really deserves, particularly at the age of 24. Nobody should be under any illusion that what we had then in government was a fundamentally different approach to the tax system and spending from what we have today. Nobody should be under any illusion that what we had in response to recession in the 1980s and again in the 1990s was fundamentally different from what we have seen recently-more Keynesian, positive investment to keep down unemployment and no talk of unemployment being a price worth paying. However, in my view, the balance has not been got right on fairness-we see inequality increasing, not narrowing, in this country. The balance has not been got right in terms of setting out the real detail of what needs to be done to tackle the problems.</p>
+	<p pid="a.1072.0/5">It behoves this place to be more honest with people, and it behoves the general election campaign to be more honest than it has been. I hope that the result of the leaders' debates and the challenges put down by the press and the public during the campaign will force out of everyone more detail than I dare say the manifestos will supply. That is one of the great advantages of democracy: the unexpected question from a member of the public often finds the detail that Parliament rarely does.</p>
+	<p pid="a.1072.0/6">I hope that, for my children, the election will result in a Government who are committed to investment in education and the protection of the environment. Especially because my three-year-old has been going though cancer and I have seen the real impact of the investment in the NHS at Great Ormond Street hospital, I hope that it is true-all the leaders say so-that all three parties are genuinely committed to investment in a national health service that is free for all at the levels and in the ways that people need when they need its help. To those who think that there is a lot of money sloshing around, I say that some of the facilities and staff at Great Ormond Street are undoubtedly among the best in the world, but anyone who thinks that it is overfunded needs to spend a little time there.</p>
+	<p pid="a.1072.0/7">I am delighted that the leaders of all three main parties have young children, because that keeps their feet on the ground. I am delighted-not about the reasons why-that both the Conservative and the Labour leaders understand the importance of the NHS, because they have had children who have had to be recipients of the best care in the world. Let us keep it like that.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1073.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1073.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1075.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1075.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1075.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1075.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1075.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1075.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1076.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1076.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1077.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1077.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1077.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1077.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1079.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1079.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1080.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1080.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1080.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1080.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1080.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1080.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1080.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1080.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1081.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1081.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1081.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1081.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1081.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1081.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1083.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1083.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1083.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1083.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1083.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1083.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1083.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1083.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1083.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1083.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1084.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1084.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1084.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1084.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1084.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1084.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1085.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1085.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1085.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1085.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1085.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1085.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1085.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1085.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1085.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1085.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1085.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1085.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1085.6" newgid="uk.org.publicwhip/debate/2010-04-07b.1085.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1086.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1086.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1086.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1086.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1086.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1086.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1086.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1086.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1086.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1086.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1087.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1087.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1087.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1087.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1087.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1087.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1088.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1088.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1088.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1088.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1088.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1088.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1088.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1088.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1088.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1088.4" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2010-04-07a.1088.4" speakerid="uk.org.publicwhip/member/1699" speakername="Nicholas Winterton" colnum="1088"  time="019:45:00" url="http://www.publications.parliament.uk/pa/cm200910/cmhansrd/cm100407/debtext/100407-0023.htm#10040754000161">
+	<p pid="a.1088.4/1">I am amazed that there is not a single Labour Back Bencher in the Chamber for the Second Reading of a very important Finance Bill.</p>
+	<p pid="a.1088.4/2">This country is burdened with the greatest debt in its history. I am a long serving Member of this House, and I come from a business background. In my view, the budget deficit is unsustainable. The Budget contains very few measures that will reduce it in a meaningful way that will regain the confidence of the financial markets.</p>
+	<p pid="a.1088.4/3">If the money and bond markets lose confidence in this country and downgrade our triple A credit status, what will the Government do? Would that not mean that they would have to pay a great deal more for the money that they are continuing to borrow, and would that not lead immediately to emergency tax rises, rising inflation and the inevitable increase in unemployment that would cost a great deal of money?</p>
+	<p pid="a.1088.4/4">This is a very truncated Second Reading debate, and it is most unsatisfactory to deal with a Finance Bill in only three hours. I am about to leave the House, but I am deeply concerned about the future of the country, as are most of my constituents in Macclesfield. My area has a lot of manufacturing industry, including high-technology centres and pharmaceutical development and production. I am concerned for the future of our economic growth and our economy.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1089.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1089.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1089.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1089.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1089.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1089.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2010-04-07a.1089.2" speakerid="uk.org.publicwhip/member/1633" speakername="David Gauke" colnum="1089"  time="019:49:00" url="http://www.publications.parliament.uk/pa/cm200910/cmhansrd/cm100407/debtext/100407-0023.htm#10040754000164">
+	<p pid="a.1089.2/1">It is a great pleasure to wind up this relatively brief Second Reading debate on behalf of the Opposition. I thank Members for their contributions.</p>
+	<p pid="a.1089.2/2"><phrase class="honfriend" id="uk.org.publicwhip/member/1883" name="Matthew Taylor">The hon. Member for Truro and St. Austell (Matthew Taylor)</phrase> spoke for the Liberal Democrats, standing in for his colleagues. He made the fair point that only limited time was available for the debate, although if more time had been allowed I do not know whether we would have heard more contributions from his parliamentary colleagues; perhaps not. It was his final speech in the House, and he must be one of the youngest Members to retire after 23 years. On behalf of the whole House, I wish him, and in particular his eldest son, well in the future.</p>
+	<p pid="a.1089.2/3">I thank my right hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/1934" name="John Redwood">the Member for Wokingham (Mr. Redwood)</phrase> for an excellent speech. He highlighted the need for professional advice and input for our deliberations on these highly technical matters. There have been only two working days since the publication of the Bill, so we have not had the opportunity to receive professional input as we would normally do.</p>
+	<p pid="a.1089.2/4"><phrase class="honfriend" id="uk.org.publicwhip/member/1973" name="Stewart Hosie">The hon. Member for Dundee, East (Stewart Hosie)</phrase> raised the issue of fuel duty, and made a persuasive case for our fair fuel stabiliser policy, on which we are consulting. My hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/1844" name="William Cash">the Member for Stone (Mr. Cash)</phrase> argued that nothing in the Bill would assist small businesses, and that the real debt figure is considerably higher than the Government would admit to-a point that was also made by my right hon. Friend the Member for Wokingham, and has been made in the past by my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/1443" name="Brooks Newmark">the Member for Braintree (Mr. Newmark)</phrase>. I think that my hon. Friend the Member for Stone described them as the three musketeers.</p>
+	<p pid="a.1089.2/5">No Second Reading debate on any subject is complete without a contribution from my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/1461" name="Charles Walker">the Member for Broxbourne (Mr. Walker)</phrase>-or perhaps I should call him my hon. and virile Friend, to use the terminology of our hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/1699" name="Nicholas Winterton">the Member for Macclesfield (Sir Nicholas Winterton)</phrase>. My hon. Friend the Member for Broxbourne persuasively made the case that it was not possible to scrutinise the Bill properly in the time available.</p>
+	<p pid="a.1089.2/6">Finally, I thank my hon. Friend the Member for Macclesfield. I know there is a convention in the House that Members are not supposed to make speeches or interventions before they make their maiden speech. I am grateful that no such convention applies to Members after they have made their valedictory speech. I had the great pleasure of winding up after my hon. Friend's valedictory speech during the Budget debate, and it was an equally great pleasure to hear him address the Chamber again this evening.</p>
+	<p pid="a.1089.2/7">This is, we hope, this Government's final Finance Bill. Over the past 13 years our taxation system has developed a reputation for complexity and unpredictability. It has acquired a reputation for stealth taxes and the use of tax policy as a means to lay political traps for opponents rather than as the fairest and most efficient way of raising revenue. The Bill contains elements of all those attributes.</p>
+	<p pid="a.1089.2/8">The Bill could have taken the minimalist approach and focused only on matters that needed to be addressed urgently. The Chartered Institute of Taxation made that point in a hurried but none the less professional submission, saying that</p>
+	<p pid="a.1089.2/9" class="indent">&quot;the challenge to the Government is, quite simply, why any clauses more than those necessary to provide for the continuation of income tax and setting of duty rates should be passed.&quot;</p>
+	<p pid="a.1089.2/10">It makes the point that a number of technical or practical problems might well be detected, given the limited time available to consider the Bill.</p>
+	<p pid="a.1089.2/11">My hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/1582" name="Mark Hoban">the Member for Fareham (Mr. Hoban)</phrase> highlighted several aspects of the Bill about which there could be difficulty. For example, clause 24 and its related schedule, which relate to pensions, are particularly complex. Clauses 31 to 33, which relate to charities, also contain numerous complexities, and the Chartered Institute of Taxation states:</p>
+	<p pid="a.1089.2/12" class="indent">&quot;as far as we are aware the detail of these proposals has not been consulted on.&quot;</p>
+	<p pid="a.1089.2/13">My hon. Friend also talked about clause 36, which relates to penalties in respect of offshore income, and might affect the nationals of countries with which we do not have tax information exchange agreements. He also highlighted the position of the Gurkhas who have settled here, and raised the prospect of Joanna Lumley turning her attentions to Treasury Ministers; they may or may not find that an appealing thought.</p>
+	<p pid="a.1089.2/14">Clause 56 deals with stamp duty land tax and partnerships, and the Chartered Institute of Taxation says:</p>
+	<p pid="a.1089.2/15" class="indent">&quot;the clause as drafted will catch many transactions carried out for commercial reasons.&quot;</p>
+	<p pid="a.1089.2/16">Clause 57 addresses the disclosure of tax avoidance schemes, and the institute says:</p>
+	<p pid="a.1089.2/17" class="indent">&quot;we still have concerns about the breadth of the legislation.&quot;</p>
+	<p pid="a.1089.2/18">It makes the point that given that implementation will not take place until autumn,</p>
+	<p pid="a.1089.2/19" class="indent">&quot;it seems bizarre to rush it through in the first Finance Act&quot;.</p>
+	<p pid="a.1089.2/20">The institute also raised concerns about clause 58, but we have succeeded in arguing that that should be removed from the Bill.</p>
+	<p pid="a.1089.2/21">In many ways, the Bill introduces greater complexity, yet it is clearly not receiving the scrutiny that such measures normally receive. The situation helpfully supports an argument that Conservative Members have been making for some time: we need to do much more to improve scrutiny. We argue that it is necessary to publish draft legislation at the time of pre-Budget report-in advance of the publication of the Finance Bill-to allow for proper scrutiny, including pre-legislative scrutiny by a parliamentary Committee. We would also establish an office of tax simplification that could advocate reforms to our tax law to make it less complex.</p>
+	<p pid="a.1089.2/22">We will let these clauses through. Tackling avoidance is a perfectly reasonable intention-we have no difficulty with it-but we make a commitment that we will listen to representations made by professional bodies on the technical and practical implications of the Bill, and if appropriate return to those matters. I hope that the Exchequer Secretary will make a similar commitment. Many aspects of the Bill have not received the necessary pre-legislative scrutiny, and the Bill is clearly not getting the legislative scrutiny that one would expect, so there is a fair chance that it will contain errors that would have been picked up under the normal process. I do not believe for a moment that the normal process is sufficient in itself, but I hope that the hon. Lady will make a commitment that if her Government are re-elected, and if there are representations that deserve a proper response in a second Finance Bill this year, they will, if necessary, make revisions. We are certainly prepared to consult on these technical matters and to consider them further.</p>
+	<p pid="a.1089.2/23">I have referred to the complexity and unpredictability in the tax system, but let me touch on stealth taxes. I am delighted that we will manage to remove three of those taxes from the Bill. The first is the increase in duty on cider: an increase 10 per cent. above inflation that does not focus on super-strength cider-a focus for which we have long argued-was a regrettable move and we are pleased that we have forced the Government to drop it from the Bill, or at least amend the provision. There will be a clear choice at the general election on whether it is implemented.</p>
+	<p pid="a.1089.2/24">We have raised concerns about the policy on furnished holiday lettings ever since it was announced in last year's Budget. The proposed change in taxation treatment could affect 45,000 jobs and 60,000 businesses, and have a serious impact on various rural and seaside areas.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1092.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1092.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1092.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1092.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1092.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1092.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1092.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1092.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1092.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1092.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1093.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1093.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1093.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1093.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1093.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1093.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1093.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1093.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1094.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1094.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1094.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1094.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1094.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1094.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1094.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1094.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1094.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1094.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1094.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1094.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1094.6" newgid="uk.org.publicwhip/debate/2010-04-07b.1094.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1095.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1095.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1095.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1095.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1095.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1095.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2010-04-07a.1095.2" speakerid="uk.org.publicwhip/member/1766" speakername="Sarah McCarthy-Fry" colnum="1095"  time="020:04:00" url="http://www.publications.parliament.uk/pa/cm200910/cmhansrd/cm100407/debtext/100407-0024.htm#10040760000159">
+	<p pid="a.1095.2/1">That returns me to the point that this is deliberately a limited Finance Bill, because of the wash-up situation that we face. To those who claim that there has not been time to scrutinise the Bill, I say that it is deliberately limited, but around two thirds of the measures in it have been aired for comment and been consulted on formally and informally before their introduction here.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1095.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1095.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1095.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1095.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1095.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1095.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1096.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1096.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2010-04-07a.1096.0" speakerid="uk.org.publicwhip/member/1766" speakername="Sarah McCarthy-Fry" colnum="1096"  time="020:04:00" url="http://www.publications.parliament.uk/pa/cm200910/cmhansrd/cm100407/debtext/100407-0024.htm#10040760000163">
+	<p pid="a.1096.0/1">I have had these exchanges with the hon. Gentleman before. We believe that we have set forth the right measures, and that we will be able to support the economy as it comes through to recovery and enables us to reach our target of halving the deficit over four years.</p>
+	<p pid="a.1096.0/2">I was talking about businesses, and the Finance Bill includes a number of measures to ensure that businesses continue to invest and grow, doubling both the support provided through the annual investment allowance and the lifetime limit on entrepreneurs' relief. The planned increase in corporation tax for small companies is being deferred further to support businesses through challenging times, and, as I have said, we also hope to support the low-carbon economy. We are halving company car tax for ultra-low-carbon cars, bringing in a zero rate for cars with no emissions and thereby helping to make the UK one of the best places in the world to build low-carbon vehicles.</p>
+	<p pid="a.1096.0/3">We want to reduce borrowing at a pace that does not impede the recovery or damage front-line services. Borrowing has increased as a result of the help that we have given, and we have always maintained that it must be brought down once the recovery is assured. We have been clear that, as the economy recovers, the Government will halve the level of borrowing, and we believe it right that those with the broadest shoulders take the greatest burden, so the top 1 per cent. of taxpayers alone will pay the additional 50 per cent. rate of income tax. Most people do not pay inheritance tax, and, even with the freeze in the allowance, only 4 per cent. of estates are expected to pay in 2014-15. The restriction on tax relief on pensions will affect only 2 per cent. of pension savers.</p>
+	<p pid="a.1096.0/4"><phrase class="honfriend" id="uk.org.publicwhip/member/1582" name="Mark Hoban">The hon. Member for Fareham (Mr. Hoban)</phrase> asked about the impact assessment changes to the administration costs. The original impact assessment, which was published at the pre-Budget report, was part of the industry consultation. As I have said, there was extensive consultation, in groups, seminars and by going out to talk to the industry, and the upward revision of the impact assessment costs reflects the evidence that stakeholders provided. However, we believe that the numbers in the final impact assessment are reasonable estimates, and we do not expect them to increase significantly.</p>
+	<p pid="a.1096.0/5">Many people have said that pensions tax relief is complicated, and the hon. Member for Stone read out a formula. The second formula that he read out is in schedule 5, and he asked me whether I understood it. Sadly, I am afraid that I probably did, because in my job before I became an MP I used to deal with capital allowances for businesses. However, the formula that we discussed in schedule 3-the pensions formula-is being dealt with and is understood by the pensions industry, and the pension schemes will value that benefit.</p>
+	<p pid="a.1096.0/6">We are taking a fair approach to halving the deficit, and many hon. Members-in particular, the hon. Members for Broxbourne and for Dundee, East-mentioned fuel duty. Questions were also raised about a regulator and stabiliser. There is an assumption, which the hon. Member for Dundee, East expressed, that the Government receive a tax windfall when oil prices are high. Although revenues from North sea taxes admittedly increase, that is offset by a number of factors, such as lower corporation tax receipts because high oil prices reduce company profits, higher payments on index-linked benefits because rising oil prices push up inflation and greater costs of servicing index-linked bonds. Although the VAT take from fuel increases when pump prices rise, that is offset by the fact that people who pay more for fuel tend to spend less on other goods and services, so we have not seen a VAT windfall at such times.</p>
+	<p pid="a.1096.0/7">A rise in fuel duty will play an important role in securing the public finances in the medium term, but we are sensitive to other pressures faced by families and businesses, which is why we are staging the increase in the next year.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1097.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1097.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1097.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1097.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1098.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1098.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1098.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1098.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1099.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1099.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1099.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1099.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1099.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1099.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1099.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1099.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1099.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1099.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1099.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1099.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1099.6" newgid="uk.org.publicwhip/debate/2010-04-07b.1099.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1100.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1100.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1100.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1100.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1100.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1100.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1100.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1100.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1100.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1100.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1100.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1100.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1100.6" newgid="uk.org.publicwhip/debate/2010-04-07b.1100.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1100.7" newgid="uk.org.publicwhip/debate/2010-04-07b.1100.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1101.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1101.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1101.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1101.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1101.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1101.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1102.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1102.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1102.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1102.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1102.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1102.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1102.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1102.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1102.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1102.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1102.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1102.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1103.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1103.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1103.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1103.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2010-04-07a.1103.1" speakerid="uk.org.publicwhip/member/2017" speakername="Alan Haselhurst" speakeroffice="The Chairman of Ways and Means"  colnum="1103"  time="020:30:00" url="http://www.publications.parliament.uk/pa/cm200910/cmhansrd/cm100407/debtext/100407-0025.htm#10040760000184">
+	<p pid="a.1103.1/1">Order. I should say to the Committee that we have very little time left and this debate is supposed to be about the rates of duty on cider-and nothing else.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1103.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1103.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1103.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1103.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1103.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1103.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1103.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1103.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1104.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1104.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1104.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1104.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1105.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1105.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1105.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1105.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1106.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1106.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1106.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1106.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1106.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1106.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1106.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1106.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1106.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1106.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1106.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1106.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1106.6" newgid="uk.org.publicwhip/debate/2010-04-07b.1106.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1106.7" newgid="uk.org.publicwhip/debate/2010-04-07b.1106.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1106.8" newgid="uk.org.publicwhip/debate/2010-04-07b.1106.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1106.9" newgid="uk.org.publicwhip/debate/2010-04-07b.1106.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1106.10" newgid="uk.org.publicwhip/debate/2010-04-07b.1106.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1107.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1107.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1107.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1107.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1107.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1107.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1107.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1107.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1107.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1107.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1107.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1107.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1107.6" newgid="uk.org.publicwhip/debate/2010-04-07b.1107.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1107.7" newgid="uk.org.publicwhip/debate/2010-04-07b.1107.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1108.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1108.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1109.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1109.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1109.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1109.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1109.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1109.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1109.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1109.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1109.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1109.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1109.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1109.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1109.6" newgid="uk.org.publicwhip/debate/2010-04-07b.1109.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1110.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1110.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1110.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1110.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1110.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1110.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1111.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1111.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1111.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1111.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1111.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1111.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1112.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1112.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1112.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1112.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1112.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1112.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1112.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1112.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1113.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1113.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1113.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1113.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1113.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1113.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1114.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1114.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1114.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1114.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1115.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1115.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1115.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1115.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1115.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1115.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1115.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1115.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1115.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1115.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1115.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1115.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1116.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1116.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1116.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1116.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1116.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1116.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1116.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1116.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1116.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1116.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1116.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1116.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1116.6" newgid="uk.org.publicwhip/debate/2010-04-07b.1116.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1116.7" newgid="uk.org.publicwhip/debate/2010-04-07b.1116.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1116.8" newgid="uk.org.publicwhip/debate/2010-04-07b.1116.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1117.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1117.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1117.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1117.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1117.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1117.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2010-04-07a.1117.2" speakerid="uk.org.publicwhip/member/1420" speakername="John Hemming" colnum="1117"  time="021:30:00" url="http://www.publications.parliament.uk/pa/cm200910/cmhansrd/cm100407/debtext/100407-0028.htm#10040767000222">
+	<p pid="a.1117.2/1">I start by declaring some interests. I am a member of the BPI, the Performing Right Society and the Musicians Union, and I have also run e-commerce companies for more than 10 years.</p>
+	<p pid="a.1117.2/2">The Bill is a complete mess. There is a real problem, and, to be fair, a lot of the market for music is among younger people, so although the industry overestimates the amount of money that it would gain from having a very much more restrictive approach on download, a lot of the music business is involved in selling to teenagers and perhaps even younger children at times. There is an issue here; there is no question about it. Musicians need a way of getting their return.</p>
+	<p pid="a.1117.2/3">The first problem is trying to deal with a very complex issue in the wash-up. It is a completely absurd thing to do. I accept that the industry has had to wait four years for this, but that is not a reason to do it all in one night or two nights. That is a reason to drop clauses 11 to 18 and new clause 1 from the Bill and examine the matter properly in the new Parliament.</p>
+	<p pid="a.1117.2/4">The dangers lie with sites such as WikiLeaks, which is a good example to look at. It publishes leaked Government information, on which Governments always have the copyright. A recent example is the US air force video, which it published. Copyright exists with the US Government, who under the Bill could, and would want to, apply to ban WikiLeaks from the UK. That provision is clearly in the Bill. Yesterday I gave the example of freedom of information. Most local authorities, when they send people freedom of information requests, say, &quot;By the way, we keep the copyright on this.&quot; They keep the copyright, and they could say, &quot;There are websites that report on freedom of information requests, and they can be banned as well.&quot; I know that it sounds absurd.</p>
+	<p pid="a.1117.2/5">This debate comes down to the fact that we need to review copyright, fair use and where copyright does and does not exist. On the one hand, the Government are imposing massive restrictions on copyright, whereby any situation involving any vague copyright suddenly means banning everyone in the family from the internet. On the other hand, the Government are taking from a television programme a picture of an Audi Quattro and mashing it up-and then somebody else is doing the same thing. We have that absurdity.</p>
+	<p pid="a.1117.2/6">In my previous life I did a little computer programming for my casework system, and I still do. With computer programming, a small amount of code can have a massive impact. A plane that flies on duff computer programming can actually crash, and the same applies to laws. Computer programming involves testing, and the lesson is that we should test things rigorously before letting them go live. With laws we have scrutiny, and that process should be rigorous, particularly when it involves something that is a part of so many people's daily lives.</p>
+	<p pid="a.1117.2/7">The amendments are welcome, but the Government's big mistake has been to take on this most complex issue, which has wide implications. WikiLeaks is a good example to consider, as are the websites that report on freedom of information requests, because the Bill would give the US Government the opportunity to ban people from looking at WikiLeaks. I am sure that the Government do not wish to achieve that end, but the way to deal with the issue is not to push the Bill through in two nights without any adequate scrutiny, and not to push through new clause 1 or clauses 11 to 18-although I understand that clause 18 will actually be disagreed to. The way to deal with the issue properly is to spend some time on it in the new Parliament, so that it can be examined from all angles. There is a real problem, but let us not make a real mess of it in order to deal with just one aspect.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1118.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1118.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1118.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1118.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1119.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1119.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1119.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1119.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1119.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1119.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1119.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1119.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1119.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1119.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1120.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1120.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1120.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1120.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1120.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1120.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1120.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1120.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1120.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1120.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1120.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1120.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1120.6" newgid="uk.org.publicwhip/debate/2010-04-07b.1120.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1121.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1121.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1121.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1121.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1121.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1121.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1122.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1122.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1122.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1122.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1122.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1122.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1122.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1122.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1122.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1122.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1122.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1122.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1122.6" newgid="uk.org.publicwhip/debate/2010-04-07b.1122.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1123.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1123.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1123.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1123.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1123.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1123.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1123.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1123.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1123.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1123.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1123.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1123.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1123.6" newgid="uk.org.publicwhip/debate/2010-04-07b.1123.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1124.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1124.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1124.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1124.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1124.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1124.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1124.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1124.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1124.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1124.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1124.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1124.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1125.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1125.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1125.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1125.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1126.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1126.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1126.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1126.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1126.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1126.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1126.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1126.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1127.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1127.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1127.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1127.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1127.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1127.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1127.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1127.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1127.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1127.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1128.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1128.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1129.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1129.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1129.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1129.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1129.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1129.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1130.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1130.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1130.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1130.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1131.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1131.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1131.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1131.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1131.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1131.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1131.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1131.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1131.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1131.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1132.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1132.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1132.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1132.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1132.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1132.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1133.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1133.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1133.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1133.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1133.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1133.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1133.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1133.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1134.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1134.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1134.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1134.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1134.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1134.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1134.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1134.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1134.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1134.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1134.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1134.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1134.6" newgid="uk.org.publicwhip/debate/2010-04-07b.1134.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1134.7" newgid="uk.org.publicwhip/debate/2010-04-07b.1134.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1134.8" newgid="uk.org.publicwhip/debate/2010-04-07b.1134.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1134.9" newgid="uk.org.publicwhip/debate/2010-04-07b.1134.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1134.10" newgid="uk.org.publicwhip/debate/2010-04-07b.1134.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1135.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1135.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1135.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1135.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1135.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1135.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1135.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1135.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1135.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1135.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1136.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1136.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1136.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1136.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1136.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1136.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1136.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1136.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1136.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1136.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1137.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1137.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1137.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1137.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1139.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1139.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1139.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1139.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1139.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1139.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1139.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1139.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1140.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1140.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1140.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1140.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1140.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1140.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1140.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1140.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1140.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1140.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1140.5" newgid="uk.org.publicwhip/debate/2010-04-07b.1140.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1141.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1141.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1141.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1141.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1142.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1142.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1142.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1142.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1144.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1144.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1144.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1144.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1146.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1146.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1146.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1146.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1146.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1146.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1149.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1149.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1153.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1153.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1153.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1153.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1153.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1153.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1153.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1153.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1153.4" newgid="uk.org.publicwhip/debate/2010-04-07b.1153.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1156.0" newgid="uk.org.publicwhip/debate/2010-04-07b.1156.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1156.1" newgid="uk.org.publicwhip/debate/2010-04-07b.1156.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1156.2" newgid="uk.org.publicwhip/debate/2010-04-07b.1156.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2010-04-07a.1156.3" newgid="uk.org.publicwhip/debate/2010-04-07b.1156.3" matchtype="perfectmatch"/>
+</publicwhip>
+

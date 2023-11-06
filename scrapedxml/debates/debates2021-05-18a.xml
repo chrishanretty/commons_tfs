@@ -1,0 +1,2835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/debates/debates2021-05-18a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.521.0" newgid="uk.org.publicwhip/debate/2021-05-18b.521.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.521.1" newgid="uk.org.publicwhip/debate/2021-05-18b.521.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.521.2" newgid="uk.org.publicwhip/debate/2021-05-18b.521.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.521.3" newgid="uk.org.publicwhip/debate/2021-05-18b.521.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.521.4" newgid="uk.org.publicwhip/debate/2021-05-18b.521.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.521.5" newgid="uk.org.publicwhip/debate/2021-05-18b.521.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.521.6" newgid="uk.org.publicwhip/debate/2021-05-18b.521.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.521.7" newgid="uk.org.publicwhip/debate/2021-05-18b.521.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.521.8" newgid="uk.org.publicwhip/debate/2021-05-18b.521.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.521.9" newgid="uk.org.publicwhip/debate/2021-05-18b.521.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.521.10" newgid="uk.org.publicwhip/debate/2021-05-18b.521.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.522.0" newgid="uk.org.publicwhip/debate/2021-05-18b.522.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.522.1" newgid="uk.org.publicwhip/debate/2021-05-18b.522.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.522.2" newgid="uk.org.publicwhip/debate/2021-05-18b.522.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.522.3" newgid="uk.org.publicwhip/debate/2021-05-18b.522.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.522.4" newgid="uk.org.publicwhip/debate/2021-05-18b.522.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.522.5" newgid="uk.org.publicwhip/debate/2021-05-18b.522.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.523.0" newgid="uk.org.publicwhip/debate/2021-05-18b.523.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.523.1" newgid="uk.org.publicwhip/debate/2021-05-18b.523.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.523.2" newgid="uk.org.publicwhip/debate/2021-05-18b.523.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.523.3" newgid="uk.org.publicwhip/debate/2021-05-18b.523.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.523.4" newgid="uk.org.publicwhip/debate/2021-05-18b.523.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.523.5" newgid="uk.org.publicwhip/debate/2021-05-18b.523.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.523.6" newgid="uk.org.publicwhip/debate/2021-05-18b.523.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.523.7" newgid="uk.org.publicwhip/debate/2021-05-18b.523.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.524.0" newgid="uk.org.publicwhip/debate/2021-05-18b.524.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.524.1" newgid="uk.org.publicwhip/debate/2021-05-18b.524.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.524.2" newgid="uk.org.publicwhip/debate/2021-05-18b.524.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.524.3" newgid="uk.org.publicwhip/debate/2021-05-18b.524.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.524.4" newgid="uk.org.publicwhip/debate/2021-05-18b.524.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.524.5" newgid="uk.org.publicwhip/debate/2021-05-18b.524.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.524.6" newgid="uk.org.publicwhip/debate/2021-05-18b.524.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.524.7" newgid="uk.org.publicwhip/debate/2021-05-18b.524.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.524.8" newgid="uk.org.publicwhip/debate/2021-05-18b.524.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.524.9" newgid="uk.org.publicwhip/debate/2021-05-18b.524.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.524.10" newgid="uk.org.publicwhip/debate/2021-05-18b.524.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.525.0" newgid="uk.org.publicwhip/debate/2021-05-18b.525.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.525.1" newgid="uk.org.publicwhip/debate/2021-05-18b.525.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.525.2" newgid="uk.org.publicwhip/debate/2021-05-18b.525.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.525.3" newgid="uk.org.publicwhip/debate/2021-05-18b.525.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.525.4" newgid="uk.org.publicwhip/debate/2021-05-18b.525.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.525.5" newgid="uk.org.publicwhip/debate/2021-05-18b.525.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.526.0" newgid="uk.org.publicwhip/debate/2021-05-18b.526.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.526.1" newgid="uk.org.publicwhip/debate/2021-05-18b.526.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.526.2" newgid="uk.org.publicwhip/debate/2021-05-18b.526.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.526.3" newgid="uk.org.publicwhip/debate/2021-05-18b.526.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.526.4" newgid="uk.org.publicwhip/debate/2021-05-18b.526.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.527.0" newgid="uk.org.publicwhip/debate/2021-05-18b.527.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.527.1" newgid="uk.org.publicwhip/debate/2021-05-18b.527.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.527.2" newgid="uk.org.publicwhip/debate/2021-05-18b.527.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.527.3" newgid="uk.org.publicwhip/debate/2021-05-18b.527.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.527.4" newgid="uk.org.publicwhip/debate/2021-05-18b.527.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.527.5" newgid="uk.org.publicwhip/debate/2021-05-18b.527.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.527.6" newgid="uk.org.publicwhip/debate/2021-05-18b.527.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.528.0" newgid="uk.org.publicwhip/debate/2021-05-18b.528.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.528.1" newgid="uk.org.publicwhip/debate/2021-05-18b.528.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.528.2" newgid="uk.org.publicwhip/debate/2021-05-18b.528.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.528.3" newgid="uk.org.publicwhip/debate/2021-05-18b.528.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.528.4" newgid="uk.org.publicwhip/debate/2021-05-18b.528.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.528.5" newgid="uk.org.publicwhip/debate/2021-05-18b.528.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.528.6" newgid="uk.org.publicwhip/debate/2021-05-18b.528.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.529.0" newgid="uk.org.publicwhip/debate/2021-05-18b.529.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.529.1" newgid="uk.org.publicwhip/debate/2021-05-18b.529.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.529.2" newgid="uk.org.publicwhip/debate/2021-05-18b.529.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.529.3" newgid="uk.org.publicwhip/debate/2021-05-18b.529.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.529.4" newgid="uk.org.publicwhip/debate/2021-05-18b.529.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.529.5" newgid="uk.org.publicwhip/debate/2021-05-18b.529.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.529.6" newgid="uk.org.publicwhip/debate/2021-05-18b.529.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.530.0" newgid="uk.org.publicwhip/debate/2021-05-18b.530.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.530.1" newgid="uk.org.publicwhip/debate/2021-05-18b.530.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.530.2" newgid="uk.org.publicwhip/debate/2021-05-18b.530.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.530.3" newgid="uk.org.publicwhip/debate/2021-05-18b.530.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.530.4" newgid="uk.org.publicwhip/debate/2021-05-18b.530.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.530.5" newgid="uk.org.publicwhip/debate/2021-05-18b.530.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.530.6" newgid="uk.org.publicwhip/debate/2021-05-18b.530.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.531.0" newgid="uk.org.publicwhip/debate/2021-05-18b.531.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.531.1" newgid="uk.org.publicwhip/debate/2021-05-18b.531.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.531.2" newgid="uk.org.publicwhip/debate/2021-05-18b.531.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.531.3" newgid="uk.org.publicwhip/debate/2021-05-18b.531.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.531.4" newgid="uk.org.publicwhip/debate/2021-05-18b.531.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.531.5" newgid="uk.org.publicwhip/debate/2021-05-18b.531.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.531.6" newgid="uk.org.publicwhip/debate/2021-05-18b.531.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.531.7" newgid="uk.org.publicwhip/debate/2021-05-18b.531.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.531.8" newgid="uk.org.publicwhip/debate/2021-05-18b.531.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.532.0" newgid="uk.org.publicwhip/debate/2021-05-18b.532.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.532.1" newgid="uk.org.publicwhip/debate/2021-05-18b.532.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.532.2" newgid="uk.org.publicwhip/debate/2021-05-18b.532.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.532.3" newgid="uk.org.publicwhip/debate/2021-05-18b.532.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.532.4" newgid="uk.org.publicwhip/debate/2021-05-18b.532.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.532.5" newgid="uk.org.publicwhip/debate/2021-05-18b.532.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.532.6" newgid="uk.org.publicwhip/debate/2021-05-18b.532.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.532.7" newgid="uk.org.publicwhip/debate/2021-05-18b.532.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.532.8" newgid="uk.org.publicwhip/debate/2021-05-18b.532.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.533.0" newgid="uk.org.publicwhip/debate/2021-05-18b.533.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.533.1" newgid="uk.org.publicwhip/debate/2021-05-18b.533.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.533.2" newgid="uk.org.publicwhip/debate/2021-05-18b.533.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.533.3" newgid="uk.org.publicwhip/debate/2021-05-18b.533.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.533.4" newgid="uk.org.publicwhip/debate/2021-05-18b.533.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.533.5" newgid="uk.org.publicwhip/debate/2021-05-18b.533.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.533.6" newgid="uk.org.publicwhip/debate/2021-05-18b.533.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.534.0" newgid="uk.org.publicwhip/debate/2021-05-18b.534.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.534.1" newgid="uk.org.publicwhip/debate/2021-05-18b.534.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.534.2" newgid="uk.org.publicwhip/debate/2021-05-18b.534.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.534.3" newgid="uk.org.publicwhip/debate/2021-05-18b.534.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.534.4" newgid="uk.org.publicwhip/debate/2021-05-18b.534.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.534.5" newgid="uk.org.publicwhip/debate/2021-05-18b.534.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.534.6" newgid="uk.org.publicwhip/debate/2021-05-18b.534.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.535.0" newgid="uk.org.publicwhip/debate/2021-05-18b.535.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.535.1" newgid="uk.org.publicwhip/debate/2021-05-18b.535.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.535.2" newgid="uk.org.publicwhip/debate/2021-05-18b.535.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.535.3" newgid="uk.org.publicwhip/debate/2021-05-18b.535.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.536.0" newgid="uk.org.publicwhip/debate/2021-05-18b.536.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.536.1" newgid="uk.org.publicwhip/debate/2021-05-18b.536.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.536.2" newgid="uk.org.publicwhip/debate/2021-05-18b.536.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.536.3" newgid="uk.org.publicwhip/debate/2021-05-18b.536.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.536.4" newgid="uk.org.publicwhip/debate/2021-05-18b.536.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.536.5" newgid="uk.org.publicwhip/debate/2021-05-18b.536.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.536.6" newgid="uk.org.publicwhip/debate/2021-05-18b.536.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.537.0" newgid="uk.org.publicwhip/debate/2021-05-18b.537.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.537.1" newgid="uk.org.publicwhip/debate/2021-05-18b.537.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.537.2" newgid="uk.org.publicwhip/debate/2021-05-18b.537.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.537.3" newgid="uk.org.publicwhip/debate/2021-05-18b.537.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.537.4" newgid="uk.org.publicwhip/debate/2021-05-18b.537.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.537.5" newgid="uk.org.publicwhip/debate/2021-05-18b.537.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.537.6" newgid="uk.org.publicwhip/debate/2021-05-18b.537.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.538.0" newgid="uk.org.publicwhip/debate/2021-05-18b.538.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.538.1" newgid="uk.org.publicwhip/debate/2021-05-18b.538.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.538.2" newgid="uk.org.publicwhip/debate/2021-05-18b.538.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.538.3" newgid="uk.org.publicwhip/debate/2021-05-18b.538.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.538.4" newgid="uk.org.publicwhip/debate/2021-05-18b.538.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.538.5" newgid="uk.org.publicwhip/debate/2021-05-18b.538.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.538.6" newgid="uk.org.publicwhip/debate/2021-05-18b.538.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.539.0" newgid="uk.org.publicwhip/debate/2021-05-18b.539.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.539.1" newgid="uk.org.publicwhip/debate/2021-05-18b.539.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.539.2" newgid="uk.org.publicwhip/debate/2021-05-18b.539.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.539.3" newgid="uk.org.publicwhip/debate/2021-05-18b.539.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.539.4" newgid="uk.org.publicwhip/debate/2021-05-18b.539.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.539.5" newgid="uk.org.publicwhip/debate/2021-05-18b.539.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.540.0" newgid="uk.org.publicwhip/debate/2021-05-18b.540.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.540.1" newgid="uk.org.publicwhip/debate/2021-05-18b.540.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.540.2" newgid="uk.org.publicwhip/debate/2021-05-18b.540.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.540.3" newgid="uk.org.publicwhip/debate/2021-05-18b.540.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.540.4" newgid="uk.org.publicwhip/debate/2021-05-18b.540.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.540.5" newgid="uk.org.publicwhip/debate/2021-05-18b.540.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.542.0" newgid="uk.org.publicwhip/debate/2021-05-18b.542.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.543.0" newgid="uk.org.publicwhip/debate/2021-05-18b.543.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.543.1" newgid="uk.org.publicwhip/debate/2021-05-18b.543.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.543.2" newgid="uk.org.publicwhip/debate/2021-05-18b.543.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.543.3" newgid="uk.org.publicwhip/debate/2021-05-18b.543.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.543.4" newgid="uk.org.publicwhip/debate/2021-05-18b.543.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.543.5" newgid="uk.org.publicwhip/debate/2021-05-18b.543.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.544.0" newgid="uk.org.publicwhip/debate/2021-05-18b.544.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.544.1" newgid="uk.org.publicwhip/debate/2021-05-18b.544.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.545.0" newgid="uk.org.publicwhip/debate/2021-05-18b.545.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.545.1" newgid="uk.org.publicwhip/debate/2021-05-18b.545.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.545.2" newgid="uk.org.publicwhip/debate/2021-05-18b.545.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.546.0" newgid="uk.org.publicwhip/debate/2021-05-18b.546.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.546.1" newgid="uk.org.publicwhip/debate/2021-05-18b.546.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.546.2" newgid="uk.org.publicwhip/debate/2021-05-18b.546.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.546.3" newgid="uk.org.publicwhip/debate/2021-05-18b.546.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.546.4" newgid="uk.org.publicwhip/debate/2021-05-18b.546.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.547.0" newgid="uk.org.publicwhip/debate/2021-05-18b.547.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.547.1" newgid="uk.org.publicwhip/debate/2021-05-18b.547.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.547.2" newgid="uk.org.publicwhip/debate/2021-05-18b.547.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.547.3" newgid="uk.org.publicwhip/debate/2021-05-18b.547.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.547.4" newgid="uk.org.publicwhip/debate/2021-05-18b.547.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.547.5" newgid="uk.org.publicwhip/debate/2021-05-18b.547.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.547.6" newgid="uk.org.publicwhip/debate/2021-05-18b.547.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.547.7" newgid="uk.org.publicwhip/debate/2021-05-18b.547.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.548.0" newgid="uk.org.publicwhip/debate/2021-05-18b.548.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.548.1" newgid="uk.org.publicwhip/debate/2021-05-18b.548.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.548.2" newgid="uk.org.publicwhip/debate/2021-05-18b.548.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.548.3" newgid="uk.org.publicwhip/debate/2021-05-18b.548.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.548.4" newgid="uk.org.publicwhip/debate/2021-05-18b.548.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.548.5" newgid="uk.org.publicwhip/debate/2021-05-18b.548.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.549.0" newgid="uk.org.publicwhip/debate/2021-05-18b.549.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.549.1" newgid="uk.org.publicwhip/debate/2021-05-18b.549.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.549.2" newgid="uk.org.publicwhip/debate/2021-05-18b.549.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.549.3" newgid="uk.org.publicwhip/debate/2021-05-18b.549.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.549.4" newgid="uk.org.publicwhip/debate/2021-05-18b.549.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.549.5" newgid="uk.org.publicwhip/debate/2021-05-18b.549.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.549.6" newgid="uk.org.publicwhip/debate/2021-05-18b.549.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.549.7" newgid="uk.org.publicwhip/debate/2021-05-18b.549.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.550.0" newgid="uk.org.publicwhip/debate/2021-05-18b.550.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.550.1" newgid="uk.org.publicwhip/debate/2021-05-18b.550.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.550.2" newgid="uk.org.publicwhip/debate/2021-05-18b.550.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.550.3" newgid="uk.org.publicwhip/debate/2021-05-18b.550.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.550.4" newgid="uk.org.publicwhip/debate/2021-05-18b.550.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.550.5" newgid="uk.org.publicwhip/debate/2021-05-18b.550.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.551.0" newgid="uk.org.publicwhip/debate/2021-05-18b.551.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.551.1" newgid="uk.org.publicwhip/debate/2021-05-18b.551.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.551.2" newgid="uk.org.publicwhip/debate/2021-05-18b.551.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.551.3" newgid="uk.org.publicwhip/debate/2021-05-18b.551.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.551.4" newgid="uk.org.publicwhip/debate/2021-05-18b.551.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.551.5" newgid="uk.org.publicwhip/debate/2021-05-18b.551.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.551.6" newgid="uk.org.publicwhip/debate/2021-05-18b.551.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.551.7" newgid="uk.org.publicwhip/debate/2021-05-18b.551.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.552.0" newgid="uk.org.publicwhip/debate/2021-05-18b.552.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.552.1" newgid="uk.org.publicwhip/debate/2021-05-18b.552.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.552.2" newgid="uk.org.publicwhip/debate/2021-05-18b.552.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.552.3" newgid="uk.org.publicwhip/debate/2021-05-18b.552.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.552.4" newgid="uk.org.publicwhip/debate/2021-05-18b.552.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.552.5" newgid="uk.org.publicwhip/debate/2021-05-18b.552.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.552.6" newgid="uk.org.publicwhip/debate/2021-05-18b.552.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.553.0" newgid="uk.org.publicwhip/debate/2021-05-18b.553.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.554.0" newgid="uk.org.publicwhip/debate/2021-05-18b.554.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.554.1" newgid="uk.org.publicwhip/debate/2021-05-18b.554.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.556.0" newgid="uk.org.publicwhip/debate/2021-05-18b.556.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.558.0" newgid="uk.org.publicwhip/debate/2021-05-18b.558.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.558.1" newgid="uk.org.publicwhip/debate/2021-05-18b.558.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.558.2" newgid="uk.org.publicwhip/debate/2021-05-18b.558.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.558.3" newgid="uk.org.publicwhip/debate/2021-05-18b.558.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.559.0" newgid="uk.org.publicwhip/debate/2021-05-18b.559.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.559.1" newgid="uk.org.publicwhip/debate/2021-05-18b.559.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.559.2" newgid="uk.org.publicwhip/debate/2021-05-18b.559.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.560.0" newgid="uk.org.publicwhip/debate/2021-05-18b.560.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.560.1" newgid="uk.org.publicwhip/debate/2021-05-18b.560.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.560.2" newgid="uk.org.publicwhip/debate/2021-05-18b.560.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.560.3" newgid="uk.org.publicwhip/debate/2021-05-18b.560.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.560.4" newgid="uk.org.publicwhip/debate/2021-05-18b.560.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.560.5" newgid="uk.org.publicwhip/debate/2021-05-18b.560.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.560.6" newgid="uk.org.publicwhip/debate/2021-05-18b.560.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.560.7" newgid="uk.org.publicwhip/debate/2021-05-18b.560.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.561.0" newgid="uk.org.publicwhip/debate/2021-05-18b.561.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.561.1" newgid="uk.org.publicwhip/debate/2021-05-18b.561.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.561.2" newgid="uk.org.publicwhip/debate/2021-05-18b.561.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.561.3" newgid="uk.org.publicwhip/debate/2021-05-18b.561.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.561.4" newgid="uk.org.publicwhip/debate/2021-05-18b.561.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.561.5" newgid="uk.org.publicwhip/debate/2021-05-18b.561.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.562.0" newgid="uk.org.publicwhip/debate/2021-05-18b.562.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.562.1" newgid="uk.org.publicwhip/debate/2021-05-18b.562.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.562.2" newgid="uk.org.publicwhip/debate/2021-05-18b.562.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.562.3" newgid="uk.org.publicwhip/debate/2021-05-18b.562.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.562.4" newgid="uk.org.publicwhip/debate/2021-05-18b.562.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.562.5" newgid="uk.org.publicwhip/debate/2021-05-18b.562.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.563.0" newgid="uk.org.publicwhip/debate/2021-05-18b.563.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.563.1" newgid="uk.org.publicwhip/debate/2021-05-18b.563.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.563.2" newgid="uk.org.publicwhip/debate/2021-05-18b.563.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.563.3" newgid="uk.org.publicwhip/debate/2021-05-18b.563.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.563.4" newgid="uk.org.publicwhip/debate/2021-05-18b.563.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.563.5" newgid="uk.org.publicwhip/debate/2021-05-18b.563.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.564.0" newgid="uk.org.publicwhip/debate/2021-05-18b.564.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.564.1" newgid="uk.org.publicwhip/debate/2021-05-18b.564.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.564.2" newgid="uk.org.publicwhip/debate/2021-05-18b.564.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.564.3" newgid="uk.org.publicwhip/debate/2021-05-18b.564.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.564.4" newgid="uk.org.publicwhip/debate/2021-05-18b.564.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.564.5" newgid="uk.org.publicwhip/debate/2021-05-18b.564.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.565.0" newgid="uk.org.publicwhip/debate/2021-05-18b.565.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.565.1" newgid="uk.org.publicwhip/debate/2021-05-18b.565.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.565.2" newgid="uk.org.publicwhip/debate/2021-05-18b.565.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.566.0" newgid="uk.org.publicwhip/debate/2021-05-18b.566.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.566.1" newgid="uk.org.publicwhip/debate/2021-05-18b.566.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.566.2" newgid="uk.org.publicwhip/debate/2021-05-18b.566.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.566.3" newgid="uk.org.publicwhip/debate/2021-05-18b.566.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.566.4" newgid="uk.org.publicwhip/debate/2021-05-18b.566.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.566.5" newgid="uk.org.publicwhip/debate/2021-05-18b.566.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.566.6" newgid="uk.org.publicwhip/debate/2021-05-18b.566.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.569.0" newgid="uk.org.publicwhip/debate/2021-05-18b.569.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.569.1" newgid="uk.org.publicwhip/debate/2021-05-18b.569.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.569.2" newgid="uk.org.publicwhip/debate/2021-05-18b.569.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.570.0" newgid="uk.org.publicwhip/debate/2021-05-18b.570.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.570.1" newgid="uk.org.publicwhip/debate/2021-05-18b.570.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.570.2" newgid="uk.org.publicwhip/debate/2021-05-18b.570.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.570.3" newgid="uk.org.publicwhip/debate/2021-05-18b.570.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.570.4" newgid="uk.org.publicwhip/debate/2021-05-18b.570.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.571.0" newgid="uk.org.publicwhip/debate/2021-05-18b.571.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.571.1" newgid="uk.org.publicwhip/debate/2021-05-18b.571.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.572.0" newgid="uk.org.publicwhip/debate/2021-05-18b.572.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.572.1" newgid="uk.org.publicwhip/debate/2021-05-18b.572.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.572.2" newgid="uk.org.publicwhip/debate/2021-05-18b.572.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.572.3" newgid="uk.org.publicwhip/debate/2021-05-18b.572.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.573.0" newgid="uk.org.publicwhip/debate/2021-05-18b.573.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.573.1" newgid="uk.org.publicwhip/debate/2021-05-18b.573.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.573.2" newgid="uk.org.publicwhip/debate/2021-05-18b.573.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.573.3" newgid="uk.org.publicwhip/debate/2021-05-18b.573.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.573.4" newgid="uk.org.publicwhip/debate/2021-05-18b.573.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.573.5" newgid="uk.org.publicwhip/debate/2021-05-18b.573.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.574.0" newgid="uk.org.publicwhip/debate/2021-05-18b.574.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.574.1" newgid="uk.org.publicwhip/debate/2021-05-18b.574.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.574.2" newgid="uk.org.publicwhip/debate/2021-05-18b.574.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.574.3" newgid="uk.org.publicwhip/debate/2021-05-18b.574.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.574.4" newgid="uk.org.publicwhip/debate/2021-05-18b.574.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.575.0" newgid="uk.org.publicwhip/debate/2021-05-18b.575.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.575.1" newgid="uk.org.publicwhip/debate/2021-05-18b.575.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.575.2" newgid="uk.org.publicwhip/debate/2021-05-18b.575.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.575.3" newgid="uk.org.publicwhip/debate/2021-05-18b.575.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.575.4" newgid="uk.org.publicwhip/debate/2021-05-18b.575.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.576.0" newgid="uk.org.publicwhip/debate/2021-05-18b.576.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.576.1" newgid="uk.org.publicwhip/debate/2021-05-18b.576.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.577.0" newgid="uk.org.publicwhip/debate/2021-05-18b.577.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.582.0" newgid="uk.org.publicwhip/debate/2021-05-18b.582.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.582.1" newgid="uk.org.publicwhip/debate/2021-05-18b.582.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.583.0" newgid="uk.org.publicwhip/debate/2021-05-18b.583.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.585.0" newgid="uk.org.publicwhip/debate/2021-05-18b.585.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.586.0" newgid="uk.org.publicwhip/debate/2021-05-18b.586.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.587.0" newgid="uk.org.publicwhip/debate/2021-05-18b.587.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.589.0" newgid="uk.org.publicwhip/debate/2021-05-18b.589.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.589.1" newgid="uk.org.publicwhip/debate/2021-05-18b.589.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.589.2" newgid="uk.org.publicwhip/debate/2021-05-18b.589.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.590.0" newgid="uk.org.publicwhip/debate/2021-05-18b.590.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.590.1" newgid="uk.org.publicwhip/debate/2021-05-18b.590.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.591.0" newgid="uk.org.publicwhip/debate/2021-05-18b.591.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.591.1" newgid="uk.org.publicwhip/debate/2021-05-18b.591.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.591.2" newgid="uk.org.publicwhip/debate/2021-05-18b.591.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.592.0" newgid="uk.org.publicwhip/debate/2021-05-18b.592.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.593.0" newgid="uk.org.publicwhip/debate/2021-05-18b.593.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.595.0" newgid="uk.org.publicwhip/debate/2021-05-18b.595.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.596.0" newgid="uk.org.publicwhip/debate/2021-05-18b.596.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.597.0" newgid="uk.org.publicwhip/debate/2021-05-18b.597.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.598.0" newgid="uk.org.publicwhip/debate/2021-05-18b.598.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.599.0" newgid="uk.org.publicwhip/debate/2021-05-18b.599.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.600.0" newgid="uk.org.publicwhip/debate/2021-05-18b.600.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.600.1" newgid="uk.org.publicwhip/debate/2021-05-18b.600.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.601.0" newgid="uk.org.publicwhip/debate/2021-05-18b.601.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.602.0" newgid="uk.org.publicwhip/debate/2021-05-18b.602.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.604.0" newgid="uk.org.publicwhip/debate/2021-05-18b.604.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.605.0" newgid="uk.org.publicwhip/debate/2021-05-18b.605.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.605.1" newgid="uk.org.publicwhip/debate/2021-05-18b.605.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.607.0" newgid="uk.org.publicwhip/debate/2021-05-18b.607.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.608.0" newgid="uk.org.publicwhip/debate/2021-05-18b.608.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.608.1" newgid="uk.org.publicwhip/debate/2021-05-18b.608.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.608.2" newgid="uk.org.publicwhip/debate/2021-05-18b.608.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.609.0" newgid="uk.org.publicwhip/debate/2021-05-18b.609.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.610.0" newgid="uk.org.publicwhip/debate/2021-05-18b.610.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.611.0" newgid="uk.org.publicwhip/debate/2021-05-18b.611.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.612.0" newgid="uk.org.publicwhip/debate/2021-05-18b.612.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.613.0" newgid="uk.org.publicwhip/debate/2021-05-18b.613.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.614.0" newgid="uk.org.publicwhip/debate/2021-05-18b.614.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2021-05-18a.614.0" speakername="Stewart McDonald" type="Start Speech" person_id="uk.org.publicwhip/person/25322" colnum="614" time="16:59:00" url="">
+    <p pid="a614.0/1">We see each other again, Madam Deputy Speaker.</p>
+    <p pid="a614.0/2">There cannot be a more positive note on which to start my remarks than to welcome my hon. Friend <phrase class="honfriend" person_id="unknown" name="None">the Member for Airdrie and Shotts (Anum Qaisar-Javed)</phrase> to her place in the Chamber. She fought a hard campaign and I know she will make her mark in the House on behalf of her constituents.</p>
+    <p pid="a614.0/3">In trying to stay positive for as long as possible on the issue of the Gracious Speech, let me first acknowledge the work the Government are doing to prepare for COP26, which comes to the city of Glasgow later this year. There is a good positive working relationship between the Governments and the authorities in the city to get the event ready as we welcome the world to the finest city on these islands. All of us want to see it succeed, because the challenge we face is the biggest of our time.</p>
+    <p pid="a614.0/4">That, I am afraid, is where the consensus ends. The speech, gracious though it was in its delivery, is deeply egregious in its content—not just what is in it, but what is not in it. Let me start with the Government’s proposals to require voters to have some form of photographic identification to vote, chasing a phantom fraud that all of us, including Government Members, know does not  exist. A levelling-up agenda that seeks to disenfranchise people who will probably not vote for the governing party is a fraud in and of itself, and should be fought tooth and nail by every Member of this House. Indeed, Conservative Members will note that the right hon. Ruth Davidson, who will be joining the other place, has also called out the Government’s proposals for what they are.</p>
+    <p pid="a614.0/5">Let me deal with two issues that are not directly related to housing, but which, if the Government do not get them right, will result in their housing policy lying in pieces: work and good, sustainable work. Members will know that I brought forward a Bill in the 2017-19 Parliament to outlaw unpaid work trials. Unfortunately, it was talked out by the Government, but the practice still continues. People are still being abused by loopholes and the Government’s action to clamp down on them has so far been so weak that it has all the performative muscle of a new-born kitten. That is why we are seeing young people in particular being exploited in the way that they are, and it is costing the Treasury up to £3 billion each and every single year. How can Conservative Members of Parliament not see that it is in our collective interests to clamp down on that kind of egregious practice? If people are not getting paid for work, they ain’t paying their mortgage or their rent.</p>
+    <p pid="a614.0/6">That leads me to a case I want to quickly draw to the attention of the Minister—I know it is not his portfolio, but I know him to be a versatile type—relating to workers in Glasgow who work for Blue Dog and AdLib. Next month marks a year from when they still have not received any full furlough payments from their employer. HMRC confirmed to me recently that those furlough payments have been paid out, but they are still not in the bank accounts of staff members. They are people whose rent, mortgages and bills have not been getting paid. My appeal to the Minister—the Paymaster General, <phrase class="honfriend" person_id="uk.org.publicwhip/person/24938" name="Penny Mordaunt">the right hon. Member for Portsmouth North (Penny Mordaunt)</phrase> is aware of the case—is to please take up this case and come back to me in some form in future.</p>
+    <p pid="a614.0/7">We will have many fights over the course of the Government’s programme in the days to come.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.615.0" newgid="uk.org.publicwhip/debate/2021-05-18b.615.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.616.0" newgid="uk.org.publicwhip/debate/2021-05-18b.616.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.616.1" newgid="uk.org.publicwhip/debate/2021-05-18b.616.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.617.0" newgid="uk.org.publicwhip/debate/2021-05-18b.617.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.618.0" newgid="uk.org.publicwhip/debate/2021-05-18b.618.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.619.0" newgid="uk.org.publicwhip/debate/2021-05-18b.619.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.620.0" newgid="uk.org.publicwhip/debate/2021-05-18b.620.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.620.1" newgid="uk.org.publicwhip/debate/2021-05-18b.620.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.621.0" newgid="uk.org.publicwhip/debate/2021-05-18b.621.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.622.0" newgid="uk.org.publicwhip/debate/2021-05-18b.622.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.623.0" newgid="uk.org.publicwhip/debate/2021-05-18b.623.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.624.0" newgid="uk.org.publicwhip/debate/2021-05-18b.624.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.625.0" newgid="uk.org.publicwhip/debate/2021-05-18b.625.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.626.0" newgid="uk.org.publicwhip/debate/2021-05-18b.626.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.626.1" newgid="uk.org.publicwhip/debate/2021-05-18b.626.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.627.0" newgid="uk.org.publicwhip/debate/2021-05-18b.627.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.627.1" newgid="uk.org.publicwhip/debate/2021-05-18b.627.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.628.0" newgid="uk.org.publicwhip/debate/2021-05-18b.628.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.629.0" newgid="uk.org.publicwhip/debate/2021-05-18b.629.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.630.0" newgid="uk.org.publicwhip/debate/2021-05-18b.630.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.630.1" newgid="uk.org.publicwhip/debate/2021-05-18b.630.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.631.0" newgid="uk.org.publicwhip/debate/2021-05-18b.631.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.632.0" newgid="uk.org.publicwhip/debate/2021-05-18b.632.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.633.0" newgid="uk.org.publicwhip/debate/2021-05-18b.633.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.634.0" newgid="uk.org.publicwhip/debate/2021-05-18b.634.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.635.0" newgid="uk.org.publicwhip/debate/2021-05-18b.635.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.636.0" newgid="uk.org.publicwhip/debate/2021-05-18b.636.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.637.0" newgid="uk.org.publicwhip/debate/2021-05-18b.637.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.638.0" newgid="uk.org.publicwhip/debate/2021-05-18b.638.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.638.1" newgid="uk.org.publicwhip/debate/2021-05-18b.638.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.639.0" newgid="uk.org.publicwhip/debate/2021-05-18b.639.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.640.0" newgid="uk.org.publicwhip/debate/2021-05-18b.640.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.641.0" newgid="uk.org.publicwhip/debate/2021-05-18b.641.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.642.0" newgid="uk.org.publicwhip/debate/2021-05-18b.642.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.643.0" newgid="uk.org.publicwhip/debate/2021-05-18b.643.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.645.0" newgid="uk.org.publicwhip/debate/2021-05-18b.645.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.647.0" newgid="uk.org.publicwhip/debate/2021-05-18b.647.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.647.1" newgid="uk.org.publicwhip/debate/2021-05-18b.647.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.652.0" newgid="uk.org.publicwhip/debate/2021-05-18b.652.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.652.1" newgid="uk.org.publicwhip/debate/2021-05-18b.652.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.652.2" newgid="uk.org.publicwhip/debate/2021-05-18b.652.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.652.3" newgid="uk.org.publicwhip/debate/2021-05-18b.652.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.652.4" newgid="uk.org.publicwhip/debate/2021-05-18b.652.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.652.5" newgid="uk.org.publicwhip/debate/2021-05-18b.652.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.652.6" newgid="uk.org.publicwhip/debate/2021-05-18b.652.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.652.7" newgid="uk.org.publicwhip/debate/2021-05-18b.652.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.652.8" newgid="uk.org.publicwhip/debate/2021-05-18b.652.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.652.9" newgid="uk.org.publicwhip/debate/2021-05-18b.652.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.652.10" newgid="uk.org.publicwhip/debate/2021-05-18b.652.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.652.11" newgid="uk.org.publicwhip/debate/2021-05-18b.652.11" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.652.12" newgid="uk.org.publicwhip/debate/2021-05-18b.652.12" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.652.13" newgid="uk.org.publicwhip/debate/2021-05-18b.652.13" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.652.14" newgid="uk.org.publicwhip/debate/2021-05-18b.652.14" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.652.15" newgid="uk.org.publicwhip/debate/2021-05-18b.652.15" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.652.16" newgid="uk.org.publicwhip/debate/2021-05-18b.652.16" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.653.0" newgid="uk.org.publicwhip/debate/2021-05-18b.653.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.653.1" newgid="uk.org.publicwhip/debate/2021-05-18b.653.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.653.2" newgid="uk.org.publicwhip/debate/2021-05-18b.653.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.653.3" newgid="uk.org.publicwhip/debate/2021-05-18b.653.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.653.4" newgid="uk.org.publicwhip/debate/2021-05-18b.653.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.653.5" newgid="uk.org.publicwhip/debate/2021-05-18b.653.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.653.6" newgid="uk.org.publicwhip/debate/2021-05-18b.653.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.654.0" newgid="uk.org.publicwhip/debate/2021-05-18b.654.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.654.1" newgid="uk.org.publicwhip/debate/2021-05-18b.654.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.654.2" newgid="uk.org.publicwhip/debate/2021-05-18b.654.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.657.0" newgid="uk.org.publicwhip/debate/2021-05-18b.657.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.661.0" newgid="uk.org.publicwhip/debate/2021-05-18b.661.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2021-05-18a.661.1" newgid="uk.org.publicwhip/debate/2021-05-18b.661.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2021-05-18a.661.1" nospeaker="true" colnum="661" time="19:33:00" url="">
+    <p pid="a661.1/1">The following is the list of Members currently certified as eligible for a proxy vote, and of the Members nominated as their proxy:</p>
+    <table>
+      <tbody>
+        <tr pid="a661.1/3">
+          <td>Ms Diane Abbott (Hackney North and Stoke Newington) (Lab)</td>
+          <td>Bell Ribeiro-Addy</td>
+        </tr>
+        <tr pid="a661.1/4">
+          <td>Debbie Abrahams (Oldham East and Saddleworth) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/5">
+          <td>Nigel Adams (Selby and Ainsty) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/6">
+          <td>Bim Afolami (Hitchin and Harpenden) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/7">
+          <td>Adam Afriyie (Windsor) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/8">
+          <td>Imran Ahmad Khan (Wakefield) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/9">
+          <td>Nickie Aiken (Cities of London and Westminster) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/10">
+          <td>Rushanara Ali (Bethnal Green and Bow) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/11">
+          <td>Tahir Ali (Birmingham, Hall Green) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/12">
+          <td>Lucy Allan (Telford) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/13">
+          <td>Dr Rosena Allin-Khan (Tooting) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/14">
+          <td>Mike Amesbury (Weaver Vale) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/15">
+          <td>Sir David Amess (Southend West) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/16">
+          <td>Fleur Anderson (Putney) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/17">
+          <td>Lee Anderson (Ashfield) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/18">
+          <td>Stuart Anderson (Wolverhampton South West) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/19">
+          <td>Caroline Ansell (Eastbourne) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/20">
+          <td>Tonia Antoniazzi (Gower) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/21">
+          <td>Edward Argar (Charnwood) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/22">
+          <td>Jonathan Ashworth (Leicester South) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/23">
+          <td>Sarah Atherton (Wrexham) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/24">
+          <td>Victoria Atkins (Louth and Horncastle) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/25">
+          <td>Gareth Bacon (Orpington) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/26">
+          <td>Mr Richard Bacon (South Norfolk) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/27">
+          <td>Kemi Badenoch (Saffron Walden) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/28">
+          <td>Siobhan Baillie (Stroud) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/29">
+          <td>Duncan Baker (North Norfolk) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/30">
+          <td>Harriett Baldwin (West Worcestershire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/31">
+          <td>Steve Barclay (North East Cambridgeshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/32">
+          <td>Hannah Bardell (Livingston) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/33">
+          <td>Paula Barker (Liverpool, Wavertree) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/34">
+          <td>Mr John Baron (Basildon and Billericay) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/35">
+          <td>Simon Baynes (Clwyd South) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/36">
+          <td>Margaret Beckett (Derby South) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/37">
+          <td>Apsana Begum (Poplar and Limehouse) (Lab)</td>
+          <td>Bell Ribeiro-Addy</td>
+        </tr>
+        <tr pid="a661.1/38">
+          <td>Aaron Bell (Newcastle-under-Lyme) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/39">
+          <td>Hilary Benn (Leeds Central) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/40">
+          <td>Scott Benton (Blackpool South) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/41">
+          <td>Sir Paul Beresford (Mole Valley) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/42">
+          <td>Jake Berry (Rossendale and Darwen) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/43">
+          <td>Clive Betts (Sheffield South East) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/44">
+          <td>Saqib Bhatti (Meriden) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/45">
+          <td>Mhairi Black (Paisley and Renfrewshire South) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/46">
+          <td>Ian Blackford (Ross, Skye and Lochaber) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/47">
+          <td>Bob Blackman (Harrow East) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/48">
+          <td>Kirsty Blackman (Aberdeen North) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/49">
+          <td>Olivia Blake (Sheffield, Hallam) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/50">
+          <td>Paul Blomfield (Sheffield Central) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/51">
+          <td>Crispin Blunt (Reigate) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/52">
+          <td>Peter Bone (Wellingborough) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/53">
+          <td>Steven Bonnar (Coatbridge, Chryston and Bellshill) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/54">
+          <td>Andrew Bowie (West Aberdeenshire and Kincardine) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/55">
+          <td>Tracy Brabin (Batley and Spen) (Lab/Co-op)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/56">
+          <td>Ben Bradley (Mansfield) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/57">
+          <td>Karen Bradley (Staffordshire Moorlands) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/58">
+          <td>Ben Bradshaw (Exeter) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/59">
+          <td>Suella Braverman (Fareham) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/60">
+          <td>Kevin Brennan (Cardiff West) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/61">
+          <td>Jack Brereton (Stoke-on-Trent South) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/62">
+          <td>Andrew Bridgen (North West Leicestershire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/63">
+          <td>Steve Brine (Winchester) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/64">
+          <td>Paul Bristow (Peterborough) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/65">
+          <td>Sara Britcliffe (Hyndburn) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/66">
+          <td>Deidre Brock (Edinburgh North and Leith) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/67">
+          <td>James Brokenshire (Old Bexley and Sidcup) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/68">
+          <td>Alan Brown (Kilmarnock and Loudon) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/69">
+          <td>Ms Lyn Brown (West Ham) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/70">
+          <td>Mr Nicholas Brown (Newcastle upon Tyne East) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/71">
+          <td>Anthony Browne (South Cambridgeshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/72">
+          <td>Fiona Bruce (Congleton) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/73">
+          <td>Chris Bryant (Rhondda) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/74">
+          <td>Felicity Buchan (Kensington) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/75">
+          <td>Ms Karen Buck (Westminster North) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/76">
+          <td>Robert Buckland (South Swindon) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/77">
+          <td>Alex Burghart (Brentwood and Ongar) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/78">
+          <td>Richard Burgon (Leeds East) (Lab)</td>
+          <td>Bell Ribeiro-Addy</td>
+        </tr>
+        <tr pid="a661.1/79">
+          <td>Conor Burns (Bournemouth West) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/80">
+          <td>Dawn Butler (Brent Central) (Lab)</td>
+          <td>Bell Ribeiro-Addy</td>
+        </tr>
+        <tr pid="a661.1/81">
+          <td>Rob Butler (Aylesbury) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/82">
+          <td>Ian Byrne (Liverpool, West Derby) (Lab)</td>
+          <td>Bell Ribeiro-Addy</td>
+        </tr>
+        <tr pid="a661.1/83">
+          <td>Liam Byrne (Birmingham, Hodge Hill) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/84">
+          <td>Ruth Cadbury (Brentford and Isleworth) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/85">
+          <td>Alun Cairns (Vale of Glamorgan) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/86">
+          <td>Amy Callaghan (East Dunbartonshire) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/87">
+          <td>Dr Lisa Cameron (East Kilbride, Strathaven and Lesmahagow) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/88">
+          <td>Sir Alan Campbell (Tynemouth) (Con)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/89">
+          <td>Mr Gregory Campbell (East Londonderry) (DUP)</td>
+          <td>Sammy Wilson</td>
+        </tr>
+        <tr pid="a661.1/90">
+          <td>Dan Carden (Liverpool, Walton) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/91">
+          <td>Mr Alistair Carmichael (rt. hon.) (Orkney and Shetland) (LD)</td>
+          <td>Wendy Chamberlain</td>
+        </tr>
+        <tr pid="a661.1/92">
+          <td>Andy Carter (Warrington South) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/93">
+          <td>James Cartlidge (South Suffolk) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/94">
+          <td>Sir William Cash (Stone) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/95">
+          <td>Miriam Cates (Penistone and Stocksbridge) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/96">
+          <td>Maria Caulfield (Lewes) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/97">
+          <td>Alex Chalk (Cheltenham) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/98">
+          <td>Sarah Champion (Rotherham) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/99">
+          <td>Douglas Chapman (Dunfermline and West Fife) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/100">
+          <td>Bambos Charalambous (Enfield, Southgate) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/101">
+          <td>Joanna Cherry (Edinburgh South West) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/102">
+          <td>Rehman Chishti (Gillingham and Rainham) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/103">
+          <td>Sir Christopher Chope (Christchurch) (Con)</td>
+          <td>Mr William Wragg</td>
+        </tr>
+        <tr pid="a661.1/104">
+          <td>Jo Churchill (Bury St Edmunds) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/105">
+          <td>Feryal Clark (Enfield North) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/106">
+          <td>Mr Simon Clarke (Middlesbrough South and East Cleveland) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/107">
+          <td>Theo Clarke (Stafford) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/108">
+          <td>Brendan Clarke-Smith (Bassetlaw) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/109">
+          <td>Chris Clarkson (Heywood and Middleton) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/110">
+          <td>James Cleverly (Braintree) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/111">
+          <td>Dr Thérèse Coffey (Suffolk Coastal) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/112">
+          <td>Elliot Colburn (Carshalton and Wallington) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/113">
+          <td>Damian Collins (Folkestone and Hythe) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/114">
+          <td>Daisy Cooper (St Albans) (LD)</td>
+          <td>Wendy Chamberlain</td>
+        </tr>
+        <tr pid="a661.1/115">
+          <td>Rosie Cooper (West Lancashire) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/116">
+          <td>Yvette Cooper (Normanton, Pontefract and Castleford) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/117">
+          <td>Jeremy Corbyn (Islington North) (Ind)</td>
+          <td>Bell Ribeiro-Addy</td>
+        </tr>
+        <tr pid="a661.1/118">
+          <td>Alberto Costa (South Leicestershire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/119">
+          <td>Robert Courts (Witney) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/120">
+          <td>Claire Coutinho (East Surrey) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/121">
+          <td>Ronnie Cowan (Inverclyde) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/122">
+          <td>Sir Geoffrey Cox (Torridge and West Devon) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/123">
+          <td>Neil Coyle (Bermondsey and Old Southwark) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/124">
+          <td>Stephen Crabb (Preseli Pembrokeshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/125">
+          <td>Angela Crawley (Lanark and Hamilton East) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/126">
+          <td>Stella Creasy (Walthamstow) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/127">
+          <td>Virginia Crosbie (Ynys Môn) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/128">
+          <td>Tracey Crouch (Chatham and Aylesford) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/129">
+          <td>Jon Cruddas (Dagenham and Rainham) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/130">
+          <td>John Cryer (Leyton and Wanstead) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/131">
+          <td>Judith Cummins (Bradford South) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/132">
+          <td>Alex Cunningham (Stockton North) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/133">
+          <td>Janet Daby (Lewisham East) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/134">
+          <td>James Daly (Bury North) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/135">
+          <td>Ed Davey (Kingston and Surbiton) (LD)</td>
+          <td>Wendy Chamberlain</td>
+        </tr>
+        <tr pid="a661.1/136">
+          <td>Wayne David (Caerphilly) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/137">
+          <td>David T. C. Davies (Monmouth) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/138">
+          <td>Gareth Davies (Grantham and Stamford) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/139">
+          <td>Geraint Davies (Swansea West) (Lab/Co-op)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/140">
+          <td>Dr James Davies (Vale of Clwyd) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/141">
+          <td>Mims Davies (Mid Sussex) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/142">
+          <td>Alex Davies-Jones (Pontypridd) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/143">
+          <td>Philip Davies (Shipley) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/144">
+          <td>Mr David Davis (Haltemprice and Howden) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/145">
+          <td>Dehenna Davison (Bishop Auckland) (Con)</td>
+          <td>Ben Everitt</td>
+        </tr>
+        <tr pid="a661.1/146">
+          <td>Martyn Day (Linlithgow and East Falkirk) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/147">
+          <td>Thangam Debbonaire (Bristol West) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/148">
+          <td>Marsha De Cordova (Battersea)</td>
+          <td>Bell Ribeiro-Addy</td>
+        </tr>
+        <tr pid="a661.1/149">
+          <td>Mr Tanmanjeet Singh Dhesi (Slough) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/150">
+          <td>Caroline Dinenage (Gosport) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/151">
+          <td>Miss Sarah Dines (Derbyshire Dales) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/152">
+          <td>Mr Jonathan Djanogly (Huntingdon) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/153">
+          <td>Leo Docherty (Aldershot) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/154">
+          <td>Martin Docherty-Hughes (West Dunbartonshire) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/155">
+          <td>Anneliese Dodds (Oxford East) (Lab/Co-op)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/156">
+          <td>Michelle Donelan (Chippenham) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/157">
+          <td>Dave Doogan (Angus) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/158">
+          <td>Allan Dorans (Ayr, Carrick and Cumnock) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/159">
+          <td>Ms Nadine Dorries (Mid Bedfordshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/160">
+          <td>Steve Double (St Austell and Newquay) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/161">
+          <td>Stephen Doughty (Cardiff South and Penarth) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/162">
+          <td>Peter Dowd (Bootle) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/163">
+          <td>Oliver Dowden (Hertsmere) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/164">
+          <td>Richard Drax (South Dorset) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/165">
+          <td>Jack Dromey (Birmingham, Erdington) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/166">
+          <td>Mrs Flick Drummond (Meon Valley) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/167">
+          <td>James Duddridge (Rochford and Southend East) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/168">
+          <td>Rosie Duffield (Canterbury) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/169">
+          <td>Sir Iain Duncan Smith (Chingford and Woodford Green) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/170">
+          <td>Philip Dunne (Ludlow) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/171">
+          <td>Ms Angela Eagle (Wallasey) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/172">
+          <td>Maria Eagle (Garston and Halewood) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/173">
+          <td>Colum Eastwood (Foyle) (SDLP)</td>
+          <td>Hywel Williams</td>
+        </tr>
+        <tr pid="a661.1/174">
+          <td>Mark Eastwood (Dewsbury) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/175">
+          <td>Jonathan Edwards (Carmarthen East and Dinefwr) (Ind)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/176">
+          <td>Ruth Edwards (Rushcliffe) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/177">
+          <td>Clive Efford (Eltham) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/178">
+          <td>Julie Elliott (Sunderland Central) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/179">
+          <td>Michael Ellis (Northampton North) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/180">
+          <td>Mr Tobias Ellwood (Bournemouth East) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/181">
+          <td>Mrs Natalie Elphicke (Dover) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/182">
+          <td>Florence Eshalomi (Vauxhall) (Lab/Co-op)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/183">
+          <td>Bill Esterson (Sefton Central) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/184">
+          <td>George Eustice (Camborne and Redruth) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/185">
+          <td>Chris Evans (Islwyn) (Lab/Co-op)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/186">
+          <td>Dr Luke Evans (Bosworth) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/187">
+          <td>Sir David Evennett (Bexleyheath and Crayford) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/188">
+          <td>Michael Fabricant (Lichfield) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/189">
+          <td>Laura Farris (Newbury) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/190">
+          <td>Tim Farron (Westmorland and Lonsdale) (LD)</td>
+          <td>Wendy Chamberlain</td>
+        </tr>
+        <tr pid="a661.1/191">
+          <td>Stephen Farry (North Down) (Alliance)</td>
+          <td>Wendy Chamberlain</td>
+        </tr>
+        <tr pid="a661.1/192">
+          <td>Simon Fell (Barrow and Furness) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/193">
+          <td>Margaret Ferrier (Rutherglen and Hamilton West) (Ind)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/194">
+          <td>Katherine Fletcher (South Ribble) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/195">
+          <td>Mark Fletcher (Bolsover) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/196">
+          <td>Nick Fletcher (Don Valley) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/197">
+          <td>Stephen Flynn (Aberdeen South) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/198">
+          <td>Vicky Ford (Chelmsford) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/199">
+          <td>Kevin Foster (Torbay) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/200">
+          <td>Yvonne Fovargue (Makerfield) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/201">
+          <td>Dr Liam Fox (North Somerset) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/202">
+          <td>Vicky Foxcroft (Lewisham, Deptford) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/203">
+          <td>Mary Kelly Foy (City of Durham) (Lab)</td>
+          <td>Bell Ribeiro-Addy</td>
+        </tr>
+        <tr pid="a661.1/204">
+          <td>Mr Mark Francois (Rayleigh and Wickford) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/205">
+          <td>Lucy Frazer (South East Cambridgeshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/206">
+          <td>George Freeman (Mid Norfolk) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/207">
+          <td>Mike Freer (Finchley and Golders Green) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/208">
+          <td>Richard Fuller (North East Bedfordshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/209">
+          <td>Marcus Fysh (Yeovil) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/210">
+          <td>Sir Roger Gale (North Thanet) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/211">
+          <td>Barry Gardiner (Brent North) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/212">
+          <td>Mark Garnier (Wyre Forest) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/213">
+          <td>Ms Nusrat Ghani (Wealden) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/214">
+          <td>Nick Gibb (Bognor Regis and Littlehampton) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/215">
+          <td>Patricia Gibson (North Ayrshire and Arran) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/216">
+          <td>Peter Gibson (Darlington) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/217">
+          <td>Jo Gideon (Stoke-on-Trent Central) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/218">
+          <td>Preet Kaur Gill (Birmingham, Edgbaston) (Lab/Co-op)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/219">
+          <td>Paul Girvan (South Antrim) (DUP)</td>
+          <td>Sammy Wilson</td>
+        </tr>
+        <tr pid="a661.1/220">
+          <td>John Glen (Salisbury) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/221">
+          <td>Mary Glindon (North Tyneside) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/222">
+          <td>Mr Robert Goodwill (Scarborough and Whitby) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/223">
+          <td>Michael Gove (Surrey Heath) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/224">
+          <td>Patrick Grady (Glasgow North) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/225">
+          <td>Richard Graham (Gloucester) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/226">
+          <td>Mrs Helen Grant (Maidstone and The Weald) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/227">
+          <td>Peter Grant (Glenrothes) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/228">
+          <td>James Gray (North Wiltshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/229">
+          <td>Chris Grayling (Epsom and Ewell) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/230">
+          <td>Damian Green (Ashford) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/231">
+          <td>Kate Green (Stretford and Urmston) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/232">
+          <td>Lilian Greenwood (Nottingham South) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/233">
+          <td>Margaret Greenwood (Wirral West) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/234">
+          <td>Andrew Griffith (Arundel and South Downs) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/235">
+          <td>Nia Griffith (Llanelli) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/236">
+          <td>Kate Griffiths (Burton) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/237">
+          <td>James Grundy (Leigh) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/238">
+          <td>Jonathan Gullis (Stoke-on-Trent North) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/239">
+          <td>Andrew Gwynne (Denton and Reddish) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/240">
+          <td>Louise Haigh (Sheffield, Heeley) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/241">
+          <td>Robert Halfon (Harlow) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/242">
+          <td>Luke Hall (Thornbury and Yate) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/243">
+          <td>Fabian Hamilton (Leeds North East) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/244">
+          <td>Stephen Hammond (Wimbledon) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/245">
+          <td>Matt Hancock (West Suffolk) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/246">
+          <td>Greg Hands (Chelsea and Fulham) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/247">
+          <td>Claire Hanna (Belfast South) (SDLP)</td>
+          <td>Hywel Williams</td>
+        </tr>
+        <tr pid="a661.1/248">
+          <td>Emma Hardy (Kingston upon Hull West and Hessle) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/249">
+          <td>Ms Harriet Harman (Camberwell and Peckham) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/250">
+          <td>Mark Harper (Forest of Dean) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/251">
+          <td>Carolyn Harris (Swansea East) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/252">
+          <td>Trudy Harrison (Copeland) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/253">
+          <td>Sally-Ann Hart (Hastings and Rye) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/254">
+          <td>Simon Hart (Carmarthen West and South Pembrokeshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/255">
+          <td>Helen Hayes (Dulwich and West Norwood) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/256">
+          <td>Sir John Hayes (South Holland and The Deepings) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/257">
+          <td>Sir Oliver Heald (North East Hertfordshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/258">
+          <td>John Healey (Wentworth and Dearne) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/259">
+          <td>James Heappey (Wells) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/260">
+          <td>Chris Heaton-Harris (Daventry) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/261">
+          <td>Gordon Henderson (Sittingbourne and Sheppey) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/262">
+          <td>Sir Mark Hendrick (Preston) (Lab/Co-op)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/263">
+          <td>Drew Hendry (Inverness, Nairn, Badenoch and Strathspey) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/264">
+          <td>Darren Henry (Broxtowe) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/265">
+          <td>Antony Higginbotham (Burnley) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/266">
+          <td>Damian Hinds (East Hampshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/267">
+          <td>Simon Hoare (North Dorset) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/268">
+          <td>Wera Hobhouse (Bath) (LD)</td>
+          <td>Wendy Chamberlain</td>
+        </tr>
+        <tr pid="a661.1/269">
+          <td>Dame Margaret Hodge (Barking) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/270">
+          <td>Mrs Sharon Hodgson (Washington and Sunderland West) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/271">
+          <td>Mr Richard Holden (North West Durham) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/272">
+          <td>Kate Hollern (Blackburn) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/273">
+          <td>Kevin Hollinrake (Thirsk and Malton) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/274">
+          <td>Adam Holloway (Gravesham) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/275">
+          <td>Paul Holmes (Eastleigh) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/276">
+          <td>Rachel Hopkins (Luton South) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/277">
+          <td>Stewart Hosie (Dundee East) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/278">
+          <td>Sir George Howarth (Knowsley) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/279">
+          <td>John Howell (Henley) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/280">
+          <td>Paul Howell (Sedgefield) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/281">
+          <td>Nigel Huddleston (Mid Worcestershire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/282">
+          <td>Dr Neil Hudson (Penrith and The Border) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/283">
+          <td>Eddie Hughes (Walsall North) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/284">
+          <td>Jane Hunt (Loughborough) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/285">
+          <td>Jeremy Hunt (South West Surrey) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/286">
+          <td>Tom Hunt (Ipswich) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/287">
+          <td>Rupa Huq (Ealing Central and Acton) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/288">
+          <td>Imran Hussain (Bradford East) (Lab)</td>
+          <td>Bell Ribeiro-Addy</td>
+        </tr>
+        <tr pid="a661.1/289">
+          <td>Mr Alister Jack (Dumfries and Galloway) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/290">
+          <td>Christine Jardine (Edinburgh West) (LD)</td>
+          <td>Wendy Chamberlain</td>
+        </tr>
+        <tr pid="a661.1/291">
+          <td>Dan Jarvis (Barnsley Central) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/292">
+          <td>Sajid Javid (Bromsgrove) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/293">
+          <td>Mr Ranil Jayawardena (North East Hampshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/294">
+          <td>Sir Bernard Jenkin (Harwich and North Essex) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/295">
+          <td>Mark Jenkinson (Workington) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/296">
+          <td>Andrea Jenkyns (Morley and Outwood) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/297">
+          <td>Robert Jenrick (Newark) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/298">
+          <td>Boris Johnson (Uxbridge and South Ruislip) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/299">
+          <td>Dr Caroline Johnson (Sleaford and North Hykeham) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/300">
+          <td>Dame Diana Johnson (Kingston upon Hull North) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/301">
+          <td>Gareth Johnson (Dartford) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/302">
+          <td>Kim Johnson (Liverpool, Riverside) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/303">
+          <td>David Johnston (Wantage) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/304">
+          <td>Darren Jones (Bristol North West) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/305">
+          <td>Mr David Jones (Clwyd West) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/306">
+          <td>Fay Jones (Brecon and Radnorshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/307">
+          <td>Gerald Jones (Merthyr Tydfil and Rhymney) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/308">
+          <td>Mr Kevan Jones (North Durham) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/309">
+          <td>Mr Marcus Jones (Nuneaton) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/310">
+          <td>Ruth Jones (Newport West) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/311">
+          <td>Sarah Jones (Croydon Central) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/312">
+          <td>Simon Jupp (East Devon) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/313">
+          <td>Mike Kane (Wythenshawe and Sale East) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/314">
+          <td>Daniel Kawczynski (Shrewsbury and Atcham) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/315">
+          <td>Alicia Kearns (Rutland and Melton) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/316">
+          <td>Gillian Keegan (Chichester) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/317">
+          <td>Barbara Keeley (Worsley and Eccles South) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/318">
+          <td>Liz Kendall (Leicester West) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/319">
+          <td>Afzal Khan (Manchester, Gorton) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/320">
+          <td>Stephen Kinnock (Aberavon) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/321">
+          <td>Sir Greg Knight (East Yorkshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/322">
+          <td>Julian Knight (Solihull) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/323">
+          <td>Danny Kruger (Devizes) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/324">
+          <td>Kwasi Kwarteng (Spelthorne) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/325">
+          <td>Peter Kyle (Hove) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/326">
+          <td>Ben Lake (Ceredigion) (PC)</td>
+          <td>Hywel Williams</td>
+        </tr>
+        <tr pid="a661.1/327">
+          <td>Mr David Lammy (Tottenham) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/328">
+          <td>John Lamont (Berwickshire, Roxburgh and Selkirk) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/329">
+          <td>Robert Largan (High Peak) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/330">
+          <td>Mrs Pauline Latham (Mid Derbyshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/331">
+          <td>Ian Lavery (Wansbeck) (Lab)</td>
+          <td>Bell Ribeiro-Addy</td>
+        </tr>
+        <tr pid="a661.1/332">
+          <td>Chris Law (Dundee West) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/333">
+          <td>Andrea Leadsom (South Northamptonshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/334">
+          <td>Sir Edward Leigh (Gainsborough) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/335">
+          <td>Ian Levy (Blyth Valley) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/336">
+          <td>Mrs Emma Lewell-Buck (South Shields) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/337">
+          <td>Andrew Lewer (Northampton South) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/338">
+          <td>Brandon Lewis (Great Yarmouth) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/339">
+          <td>Clive Lewis (Norwich South) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/340">
+          <td>Dr Julian Lewis (New Forest East) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/341">
+          <td>Mr Ian Liddell-Grainger (Bridgwater and West Somerset) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/342">
+          <td>David Linden (Glasgow East) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/343">
+          <td>Tony Lloyd (Rochdale) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/344">
+          <td>Carla Lockhart (Upper Bann) (DUP)</td>
+          <td>Sammy Wilson</td>
+        </tr>
+        <tr pid="a661.1/345">
+          <td>Mark Logan (Bolton North East) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/346">
+          <td>Rebecca Long Bailey (Salford and Eccles) (Lab)</td>
+          <td>Bell Ribeiro-Addy</td>
+        </tr>
+        <tr pid="a661.1/347">
+          <td>Marco Longhi (Dudley North) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/348">
+          <td>Julia Lopez (Hornchurch and Upminster) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/349">
+          <td>Jack Lopresti (Filton and Bradley Stoke) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/350">
+          <td>Mr Jonathan Lord (Woking) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/351">
+          <td>Tim Loughton (East Worthing and Shoreham) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/352">
+          <td>Caroline Lucas (Brighton, Pavilion) (Green)</td>
+          <td>Bell Ribeiro-Addy</td>
+        </tr>
+        <tr pid="a661.1/353">
+          <td>Holly Lynch (Halifax) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/354">
+          <td>Steve McCabe (Birmingham, Selly Oak) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/355">
+          <td>Kerry McCarthy (Bristol East) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/356">
+          <td>Karl McCartney (Lincoln) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/357">
+          <td>Siobhain McDonagh (Mitcham and Morden) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/358">
+          <td>Andy McDonald (Middlesbrough) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/359">
+          <td>Stewart Malcolm McDonald (Glasgow South) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/360">
+          <td>Stuart C. McDonald (Cumbernauld, Kilsyth and Kirkintilloch East) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/361">
+          <td>John McDonnell (Hayes and Harlington) (Lab)</td>
+          <td>Bell Ribeiro-Addy</td>
+        </tr>
+        <tr pid="a661.1/362">
+          <td>Mr Pat McFadden (Wolverhampton South East) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/363">
+          <td>Conor McGinn (St Helens North) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/364">
+          <td>Alison McGovern (Wirral South) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/365">
+          <td>Craig Mackinlay (South Thanet) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/366">
+          <td>Catherine McKinnell (Newcastle upon Tyne North) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/367">
+          <td>Cherilyn Mackrory (Truro and Falmouth) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/368">
+          <td>Anne McLaughlin (Glasgow North East) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/369">
+          <td>Rachel Maclean (Redditch) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/370">
+          <td>Jim McMahon (Oldham West and Royton) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/371">
+          <td>Anna McMorrin (Cardiff North) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/372">
+          <td>John Mc Nally (Falkirk) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/373">
+          <td>Angus Brendan MacNeil (Na h-Eileanan an Iar) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/374">
+          <td>Stephen McPartland (Stevenage) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/375">
+          <td>Esther McVey (Tatton) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/376">
+          <td>Justin Madders (Ellesmere Port and Neston) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/377">
+          <td>Khalid Mahmood (Birmingham, Perry Barr) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/378">
+          <td>Shabana Mahmood (Birmingham, Ladywood) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/379">
+          <td>Alan Mak (Havant) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/380">
+          <td>Seema Malhotra (Feltham and Heston) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/381">
+          <td>Kit Malthouse (North West Hampshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/382">
+          <td>Julie Marson (Hertford and Stortford) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/383">
+          <td>Rachael Maskell (York Central) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/384">
+          <td>Christian Matheson (City of Chester) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/385">
+          <td>Mrs Theresa May (Maidenhead) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/386">
+          <td>Jerome Mayhew (Broadland) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/387">
+          <td>Paul Maynard (Blackpool North and Cleveleys) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/388">
+          <td>Ian Mearns (Gateshead) (Lab)</td>
+          <td>Bell Ribeiro-Addy</td>
+        </tr>
+        <tr pid="a661.1/389">
+          <td>Mark Menzies (Fylde) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/390">
+          <td>Huw Merriman (Bexhill and Battle) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/391">
+          <td>Stephen Metcalfe (South Basildon and East Thurrock) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/392">
+          <td>Edward Miliband (Doncaster North) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/393">
+          <td>Robin Millar (Aberconwy) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/394">
+          <td>Mrs Maria Miller (Basingstoke) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/395">
+          <td>Amanda Milling (Cannock Chase) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/396">
+          <td>Nigel Mills (Amber Valley) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/397">
+          <td>Navendu Mishra (Stockport) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/398">
+          <td>Mr Andrew Mitchell (Sutton Coldfield) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/399">
+          <td>Gagan Mohindra (South West Hertfordshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/400">
+          <td>Carol Monaghan (Glasgow North West)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/401">
+          <td>Damien Moore (Southport) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/402">
+          <td>Robbie Moore (Keighley) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/403">
+          <td>Layla Moran (Oxford West and Abingdon) (LD)</td>
+          <td>Wendy Chamberlain</td>
+        </tr>
+        <tr pid="a661.1/404">
+          <td>Penny Mordaunt (Portsmouth North) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/405">
+          <td>Jessica Morden (Newport East) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/406">
+          <td>Stephen Morgan (Portsmouth South) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/407">
+          <td>Anne Marie Morris (Newton Abbot) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/408">
+          <td>David Morris (Morecambe and Lunesdale) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/409">
+          <td>Grahame Morris (Easington) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/410">
+          <td>Joy Morrissey (Beaconsfield) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/411">
+          <td>Jill Mortimer (Hartlepool) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/412">
+          <td>Wendy Morton (Aldridge-Brownhills) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/413">
+          <td>Dr Kieran Mullan (Crewe and Nantwich) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/414">
+          <td>Holly Mumby-Croft (Scunthorpe) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/415">
+          <td>David Mundell (Dumfriesshire, Clydesdale and Tweeddale) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/416">
+          <td>Ian Murray (Edinburgh South) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/417">
+          <td>James Murray (Ealing North) (Lab/Co-op)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/418">
+          <td>Mrs Sheryll Murray (South East Cornwall) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/419">
+          <td>Andrew Murrison (South West Wiltshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/420">
+          <td>Lisa Nandy (Wigan) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/421">
+          <td>Sir Robert Neill (Bromley and Chislehurst) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/422">
+          <td>Gavin Newlands (Paisley and Renfrewshire North) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/423">
+          <td>Charlotte Nichols (Warrington North) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/424">
+          <td>Lia Nici (Great Grimsby) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/425">
+          <td>John Nicolson (Ochil and South Perthshire) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/426">
+          <td>Caroline Nokes (Romsey and Southampton North) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/427">
+          <td>Jesse Norman (Hereford and South Herefordshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/428">
+          <td>Alex Norris (Nottingham North) (Lab/Co-op)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/429">
+          <td>Neil O’Brien (Harborough) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/430">
+          <td>Brendan O’Hara (Argyll and Bute) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/431">
+          <td>Dr Matthew Offord (Hendon) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/432">
+          <td>Sarah Olney (Richmond Park) (LD)</td>
+          <td>Wendy Chamberlain</td>
+        </tr>
+        <tr pid="a661.1/433">
+          <td>Chi Onwurah (Newcastle upon Tyne Central) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/434">
+          <td>Guy Opperman (Hexham) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/435">
+          <td>Abena Oppong-Asare (Erith and Thamesmead) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/436">
+          <td>Kate Osamor (Edmonton) (Lab/Co-op)</td>
+          <td>Bell Ribeiro-Addy</td>
+        </tr>
+        <tr pid="a661.1/437">
+          <td>Kate Osborne (Jarrow) (Lab)</td>
+          <td>Bell Ribeiro-Addy</td>
+        </tr>
+        <tr pid="a661.1/438">
+          <td>Kirsten Oswald (East Renfrewshire) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/439">
+          <td>Taiwo Owatemi (Coventry North West) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/440">
+          <td>Sarah Owen (Luton North) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/441">
+          <td>Ian Paisley (North Antrim) (DUP)</td>
+          <td>Sammy Wilson</td>
+        </tr>
+        <tr pid="a661.1/442">
+          <td>Neil Parish (Tiverton and Honiton) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/443">
+          <td>Priti Patel (Witham) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/444">
+          <td>Mr Owen Paterson (North Shropshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/445">
+          <td>Mark Pawsey (Rugby) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/446">
+          <td>Stephanie Peacock (Barnsley East) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/447">
+          <td>Sir Mike Penning (Hemel Hempstead) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/448">
+          <td>Matthew Pennycook (Greenwich and Woolwich) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/449">
+          <td>John Penrose (Weston-super-Mare) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/450">
+          <td>Andrew Percy (Brigg and Goole) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/451">
+          <td>Mr Toby Perkins (Chesterfield) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/452">
+          <td>Jess Phillips (Birmingham, Yardley) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/453">
+          <td>Bridget Phillipson (Houghton and Sunderland South) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/454">
+          <td>Chris Philp (Croydon South) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/455">
+          <td>Christopher Pincher (Tamworth) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/456">
+          <td>Luke Pollard (Plymouth, Sutton and Devonport) (Lab/Co-op)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/457">
+          <td>Dr Dan Poulter (Central Suffolk and North Ipswich) (Con)</td>
+          <td>Peter Aldous</td>
+        </tr>
+        <tr pid="a661.1/458">
+          <td>Rebecca Pow (Taunton Deane) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/459">
+          <td>Lucy Powell (Manchester Central) (Lab/Co-op)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/460">
+          <td>Victoria Prentis (Banbury) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/461">
+          <td>Mark Pritchard (The Wrekin) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/462">
+          <td>Jeremy Quin (Horsham) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/463">
+          <td>Will Quince (Colchester) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/464">
+          <td>Yasmin Qureshi (Bolton South East) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/465">
+          <td>Dominic Raab (Esher and Walton) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/466">
+          <td>Tom Randall (Gedling) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/467">
+          <td>Angela Rayner (Ashton-under-Lyne) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/468">
+          <td>John Redwood (Wokingham) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/469">
+          <td>Steve Reed (Croydon North) (Lab/Co-op)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/470">
+          <td>Christina Rees (Neath) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/471">
+          <td>Ellie Reeves (Lewisham West and Penge) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/472">
+          <td>Rachel Reeves (Leeds West) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/473">
+          <td>Jonathan Reynolds (Stalybridge and Hyde) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/474">
+          <td>Nicola Richards (West Bromwich East) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/475">
+          <td>Angela Richardson (Guildford) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/476">
+          <td>Ms Marie Rimmer (St Helens South and Whiston) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/477">
+          <td>Rob Roberts (Delyn) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/478">
+          <td>Mr Laurence Robertson (Tewkesbury) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/479">
+          <td>Gavin Robinson (Belfast East) (DUP)</td>
+          <td>Sammy Wilson</td>
+        </tr>
+        <tr pid="a661.1/480">
+          <td>Mary Robinson (Cheadle) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/481">
+          <td>Matt Rodda (Reading East) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/482">
+          <td>Andrew Rosindell (Romford) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/483">
+          <td>Douglas Ross (Moray) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/484">
+          <td>Lee Rowley (North East Derbyshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/485">
+          <td>Dean Russell (Watford) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/486">
+          <td>Lloyd Russell-Moyle (Brighton, Kemptown) (Lab/Co-op)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/487">
+          <td>Liz Saville Roberts (Dwyfor Meirionnydd) (PC)</td>
+          <td>Hywel Williams</td>
+        </tr>
+        <tr pid="a661.1/488">
+          <td>Selaine Saxby (North Devon) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/489">
+          <td>Paul Scully (Sutton and Cheam) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/490">
+          <td>Bob Seely (Isle of Wight) (Con)</td>
+          <td>Mark Harper</td>
+        </tr>
+        <tr pid="a661.1/491">
+          <td>Andrew Selous (South West Bedfordshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/492">
+          <td>Naz Shah (Bradford West) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/493">
+          <td>Grant Shapps (Welwyn Hatfield) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/494">
+          <td>Alok Sharma (Reading West) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/495">
+          <td>Mr Virendra Sharma (Ealing, Southall) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/496">
+          <td>Mr Barry Sheerman (Huddersfield) (Lab/Co-op)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/497">
+          <td>Alec Shelbrooke (Elmet and Rothwell) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/498">
+          <td>Tommy Sheppard (Edinburgh East) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/499">
+          <td>Tulip Siddiq (Hampstead and Kilburn) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/500">
+          <td>David Simmonds (Ruislip, Northwood and Pinner) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/501">
+          <td>Chris Skidmore (Kingswood) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/502">
+          <td>Andy Slaughter (Hammersmith) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/503">
+          <td>Alyn Smith (Stirling) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/504">
+          <td>Cat Smith (Lancaster and Fleetwood) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/505">
+          <td>Chloe Smith (Norwich North) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/506">
+          <td>Greg Smith (Buckingham) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/507">
+          <td>Henry Smith (Crawley) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/508">
+          <td>Jeff Smith (Manchester, Withington) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/509">
+          <td>Julian Smith (Skipton and Ripon) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/510">
+          <td>Nick Smith (Blaenau Gwent) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/511">
+          <td>Royston Smith (Southampton, Itchen) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/512">
+          <td>Karin Smyth (Bristol South) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/513">
+          <td>Alex Sobel (Leeds North West) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/514">
+          <td>Amanda Solloway (Derby North) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/515">
+          <td>Dr Ben Spencer (Runnymede and Weybridge) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/516">
+          <td>Alexander Stafford (Rother Valley) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/517">
+          <td>Keir Starmer (Holborn and St Pancras) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/518">
+          <td>Chris Stephens (Glasgow South West) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/519">
+          <td>Andrew Stephenson (Pendle) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/520">
+          <td>Jo Stevens (Cardiff Central) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/521">
+          <td>Jane Stevenson (Wolverhampton North East) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/522">
+          <td>John Stevenson (Carlisle) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/523">
+          <td>Bob Stewart (Beckenham) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/524">
+          <td>Iain Stewart (Milton Keynes South) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/525">
+          <td>Jamie Stone (Caithness, Sutherland and Easter Ross) (LD)</td>
+          <td>Wendy Chamberlain</td>
+        </tr>
+        <tr pid="a661.1/526">
+          <td>Sir Gary Streeter (South West Devon) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/527">
+          <td>Wes Streeting (Ilford North) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/528">
+          <td>Mel Stride (Central Devon) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/529">
+          <td>Graham Stringer (Blackley and Broughton) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/530">
+          <td>Graham Stuart (Beverley and Holderness) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/531">
+          <td>Julian Sturdy (York Outer) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/532">
+          <td>Zarah Sultana (Coventry South) (Lab)</td>
+          <td>Bell Ribeiro-Addy</td>
+        </tr>
+        <tr pid="a661.1/533">
+          <td>Rishi Sunak (Richmond (Yorks)) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/534">
+          <td>James Sunderland (Bracknell) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/535">
+          <td>Sir Desmond Swayne (New Forest West) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/536">
+          <td>Sir Robert Syms (Poole) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/537">
+          <td>Sam Tarry (Ilford South) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/538">
+          <td>Mark Tami (Alyn and Deeside) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/539">
+          <td>Alison Thewliss (Glasgow Central) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/540">
+          <td>Derek Thomas (St Ives) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/541">
+          <td>Gareth Thomas (Harrow West) (Lab/Co-op)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/542">
+          <td>Nick Thomas-Symonds (Torfaen) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/543">
+          <td>Emily Thornberry (Islington South and Finsbury) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/544">
+          <td>Stephen Timms (East Ham) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/545">
+          <td>Edward Timpson (Eddisbury) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/546">
+          <td>Kelly Tolhurst (Rochester and Strood) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/547">
+          <td>Justin Tomlinson (North Swindon) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/548">
+          <td>Craig Tracey (North Warwickshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/549">
+          <td>Anne-Marie Trevelyan (Berwick-upon-Tweed) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/550">
+          <td>Jon Trickett (Hemsworth) (Lab)</td>
+          <td>Bell Ribeiro-Addy</td>
+        </tr>
+        <tr pid="a661.1/551">
+          <td>Laura Trott (Sevenoaks) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/552">
+          <td>Elizabeth Truss (South West Norfolk) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/553">
+          <td>Tom Tugendhat (Tonbridge and Malling) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/554">
+          <td>Karl Turner (Kingston upon Hull East) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/555">
+          <td>Derek Twigg (Halton) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/556">
+          <td>Mr Shailesh Vara (North West Cambridgeshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/557">
+          <td>Martin Vickers (Cleethorpes) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/558">
+          <td>Matt Vickers (Stockton South) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/559">
+          <td>Theresa Villiers (Chipping Barnet) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/560">
+          <td>Christian Wakeford (Bury South) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/561">
+          <td>Mr Robin Walker (Worcester) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/562">
+          <td>Mr Ben Wallace (Wyre and Preston North)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/563">
+          <td>Dr Jamie Wallis (Bridgend) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/564">
+          <td>David Warburton (Somerset and Frome) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/565">
+          <td>Matt Warman (Boston and Skegness) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/566">
+          <td>Giles Watling (Clacton) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/567">
+          <td>Suzanne Webb (Stourbridge) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/568">
+          <td>Claudia Webbe (Leicester East) (Ind)</td>
+          <td>Bell Ribeiro-Addy</td>
+        </tr>
+        <tr pid="a661.1/569">
+          <td>Catherine West (Hornsey and Wood Green) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/570">
+          <td>Matt Western (Warwick and Leamington) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/571">
+          <td>Helen Whately (Faversham and Mid Kent) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/572">
+          <td>Mrs Heather Wheeler (South Derbyshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/573">
+          <td>Dr Alan Whitehead (Southampton, Test) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/574">
+          <td>Dr Philippa Whitford (Central Ayrshire) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/575">
+          <td>Mick Whitley (Birkenhead) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/576">
+          <td>Craig Whittaker (Calder Valley) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/577">
+          <td>John Whittingdale (Malden) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/578">
+          <td>Nadia Whittome (Nottingham East) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/579">
+          <td>Bill Wiggin (North Herefordshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/580">
+          <td>James Wild (North West Norfolk) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/581">
+          <td>Craig Williams (Montgomeryshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/582">
+          <td>Gavin Williamson (Montgomeryshire) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/583">
+          <td>Munira Wilson (Twickenham) (LD)</td>
+          <td>Wendy Chamberlain</td>
+        </tr>
+        <tr pid="a661.1/584">
+          <td>Beth Winter (Cynon Valley) (Lab)</td>
+          <td>Bell Ribeiro-Addy</td>
+        </tr>
+        <tr pid="a661.1/585">
+          <td>Pete Wishart (Perth and North Perthshire) (SNP)</td>
+          <td>Owen Thompson</td>
+        </tr>
+        <tr pid="a661.1/586">
+          <td>Mike Wood (Dudley South) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/587">
+          <td>Jeremy Wright (Kenilworth and Southam) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/588">
+          <td>Mohammad Yasin (Bedford) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+        <tr pid="a661.1/589">
+          <td>Jacob Young (Redcar) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/590">
+          <td>Nadhim Zahawi (Stratford-on-Avon) (Con)</td>
+          <td>Stuart Andrew</td>
+        </tr>
+        <tr pid="a661.1/591">
+          <td>Daniel Zeichner (Cambridge) (Lab)</td>
+          <td>Chris Elmore</td>
+        </tr>
+      </tbody>
+    </table>
+</speech>
+</publicwhip>
+

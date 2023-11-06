@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/debates/debates2022-11-23d.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.271.0" newgid="uk.org.publicwhip/debate/2022-11-23e.271.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.271.1" newgid="uk.org.publicwhip/debate/2022-11-23e.271.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.271.2" newgid="uk.org.publicwhip/debate/2022-11-23e.271.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.271.3" newgid="uk.org.publicwhip/debate/2022-11-23e.271.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.271.4" newgid="uk.org.publicwhip/debate/2022-11-23e.271.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.271.5" newgid="uk.org.publicwhip/debate/2022-11-23e.271.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.271.6" newgid="uk.org.publicwhip/debate/2022-11-23e.271.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.271.7" newgid="uk.org.publicwhip/debate/2022-11-23e.271.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.271.8" newgid="uk.org.publicwhip/debate/2022-11-23e.271.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.271.9" newgid="uk.org.publicwhip/debate/2022-11-23e.271.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.272.0" newgid="uk.org.publicwhip/debate/2022-11-23e.272.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.272.1" newgid="uk.org.publicwhip/debate/2022-11-23e.272.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.272.2" newgid="uk.org.publicwhip/debate/2022-11-23e.272.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.272.3" newgid="uk.org.publicwhip/debate/2022-11-23e.272.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.272.4" newgid="uk.org.publicwhip/debate/2022-11-23e.272.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.272.5" newgid="uk.org.publicwhip/debate/2022-11-23e.272.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.273.0" newgid="uk.org.publicwhip/debate/2022-11-23e.273.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.273.1" newgid="uk.org.publicwhip/debate/2022-11-23e.273.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.273.2" newgid="uk.org.publicwhip/debate/2022-11-23e.273.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.273.3" newgid="uk.org.publicwhip/debate/2022-11-23e.273.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.273.4" newgid="uk.org.publicwhip/debate/2022-11-23e.273.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.273.5" newgid="uk.org.publicwhip/debate/2022-11-23e.273.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.273.6" newgid="uk.org.publicwhip/debate/2022-11-23e.273.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.273.7" newgid="uk.org.publicwhip/debate/2022-11-23e.273.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.273.8" newgid="uk.org.publicwhip/debate/2022-11-23e.273.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.274.0" newgid="uk.org.publicwhip/debate/2022-11-23e.274.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.274.1" newgid="uk.org.publicwhip/debate/2022-11-23e.274.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.274.2" newgid="uk.org.publicwhip/debate/2022-11-23e.274.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.274.3" newgid="uk.org.publicwhip/debate/2022-11-23e.274.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.274.4" newgid="uk.org.publicwhip/debate/2022-11-23e.274.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.274.5" newgid="uk.org.publicwhip/debate/2022-11-23e.274.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.274.6" newgid="uk.org.publicwhip/debate/2022-11-23e.274.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.274.7" newgid="uk.org.publicwhip/debate/2022-11-23e.274.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.274.8" newgid="uk.org.publicwhip/debate/2022-11-23e.274.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.274.9" newgid="uk.org.publicwhip/debate/2022-11-23e.274.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.274.10" newgid="uk.org.publicwhip/debate/2022-11-23e.274.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.275.0" newgid="uk.org.publicwhip/debate/2022-11-23e.275.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.275.1" newgid="uk.org.publicwhip/debate/2022-11-23e.275.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.275.2" newgid="uk.org.publicwhip/debate/2022-11-23e.275.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.275.3" newgid="uk.org.publicwhip/debate/2022-11-23e.275.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.275.4" newgid="uk.org.publicwhip/debate/2022-11-23e.275.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.275.5" newgid="uk.org.publicwhip/debate/2022-11-23e.275.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.275.6" newgid="uk.org.publicwhip/debate/2022-11-23e.275.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.275.7" newgid="uk.org.publicwhip/debate/2022-11-23e.275.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.275.8" newgid="uk.org.publicwhip/debate/2022-11-23e.275.8" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-11-23d.275.8" speakername="Gerald Jones" type="Start SupplementaryQuestion" person_id="uk.org.publicwhip/person/25289" colnum="275" time="" url="">
+    <p pid="d275.8/1">I too welcome the Minister to his new role. He will know how important lamb exports are to Welsh farmers and the Welsh economy. Exports to the US are a drop in the  ocean compared to the damage his Government have done with the Australian and New Zealand trade deals. We know his colleague <phrase class="honfriend" person_id="uk.org.publicwhip/person/24933" name="George Eustice">the right hon. Member for Camborne and Redruth (George Eustice)</phrase> said:</p>
+    <p pid="d275.8/2" class="indent" pwmotiontext="yes">“I no longer have to put such a positive gloss on what was agreed…the Australia trade deal is not actually a very good deal…We did not need to give Australia or New Zealand full liberalisation in beef and sheep—it was not in our economic interest to do so”.—[Official Report, <phrase class="date" code="2022-11-14">14 November</phrase> 2022; Vol. 722, c. 424.]</p>
+    <p pid="d275.8/3">Will the Minister now admit his Government have sold out Welsh farmers?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.276.0" newgid="uk.org.publicwhip/debate/2022-11-23e.276.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.276.1" newgid="uk.org.publicwhip/debate/2022-11-23e.276.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.276.2" newgid="uk.org.publicwhip/debate/2022-11-23e.276.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.276.3" newgid="uk.org.publicwhip/debate/2022-11-23e.276.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.276.4" newgid="uk.org.publicwhip/debate/2022-11-23e.276.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.276.5" newgid="uk.org.publicwhip/debate/2022-11-23e.276.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.276.6" newgid="uk.org.publicwhip/debate/2022-11-23e.276.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.276.7" newgid="uk.org.publicwhip/debate/2022-11-23e.276.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.277.0" newgid="uk.org.publicwhip/debate/2022-11-23e.277.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.277.1" newgid="uk.org.publicwhip/debate/2022-11-23e.277.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.277.2" newgid="uk.org.publicwhip/debate/2022-11-23e.277.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.277.3" newgid="uk.org.publicwhip/debate/2022-11-23e.277.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.277.4" newgid="uk.org.publicwhip/debate/2022-11-23e.277.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.277.5" newgid="uk.org.publicwhip/debate/2022-11-23e.277.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.277.6" newgid="uk.org.publicwhip/debate/2022-11-23e.277.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.277.7" newgid="uk.org.publicwhip/debate/2022-11-23e.277.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.278.0" newgid="uk.org.publicwhip/debate/2022-11-23e.278.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.278.1" newgid="uk.org.publicwhip/debate/2022-11-23e.278.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.278.2" newgid="uk.org.publicwhip/debate/2022-11-23e.278.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.278.3" newgid="uk.org.publicwhip/debate/2022-11-23e.278.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.278.4" newgid="uk.org.publicwhip/debate/2022-11-23e.278.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.278.5" newgid="uk.org.publicwhip/debate/2022-11-23e.278.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.278.6" newgid="uk.org.publicwhip/debate/2022-11-23e.278.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.278.7" newgid="uk.org.publicwhip/debate/2022-11-23e.278.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.278.8" newgid="uk.org.publicwhip/debate/2022-11-23e.278.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.278.9" newgid="uk.org.publicwhip/debate/2022-11-23e.278.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.279.0" newgid="uk.org.publicwhip/debate/2022-11-23e.279.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.279.1" newgid="uk.org.publicwhip/debate/2022-11-23e.279.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.279.2" newgid="uk.org.publicwhip/debate/2022-11-23e.279.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.279.3" newgid="uk.org.publicwhip/debate/2022-11-23e.279.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.279.4" newgid="uk.org.publicwhip/debate/2022-11-23e.279.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.279.5" newgid="uk.org.publicwhip/debate/2022-11-23e.279.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.279.6" newgid="uk.org.publicwhip/debate/2022-11-23e.279.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.279.7" newgid="uk.org.publicwhip/debate/2022-11-23e.279.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.279.8" newgid="uk.org.publicwhip/debate/2022-11-23e.279.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.280.0" newgid="uk.org.publicwhip/debate/2022-11-23e.280.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.280.1" newgid="uk.org.publicwhip/debate/2022-11-23e.280.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.280.2" newgid="uk.org.publicwhip/debate/2022-11-23e.280.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.280.3" newgid="uk.org.publicwhip/debate/2022-11-23e.280.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.280.4" newgid="uk.org.publicwhip/debate/2022-11-23e.280.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.280.5" newgid="uk.org.publicwhip/debate/2022-11-23e.280.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.280.6" newgid="uk.org.publicwhip/debate/2022-11-23e.280.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.280.7" newgid="uk.org.publicwhip/debate/2022-11-23e.280.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.280.8" newgid="uk.org.publicwhip/debate/2022-11-23e.280.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.280.9" newgid="uk.org.publicwhip/debate/2022-11-23e.280.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.281.0" newgid="uk.org.publicwhip/debate/2022-11-23e.281.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.281.1" newgid="uk.org.publicwhip/debate/2022-11-23e.281.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.281.2" newgid="uk.org.publicwhip/debate/2022-11-23e.281.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.281.3" newgid="uk.org.publicwhip/debate/2022-11-23e.281.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.281.4" newgid="uk.org.publicwhip/debate/2022-11-23e.281.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.281.5" newgid="uk.org.publicwhip/debate/2022-11-23e.281.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.281.6" newgid="uk.org.publicwhip/debate/2022-11-23e.281.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.281.7" newgid="uk.org.publicwhip/debate/2022-11-23e.281.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.281.8" newgid="uk.org.publicwhip/debate/2022-11-23e.281.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.281.9" newgid="uk.org.publicwhip/debate/2022-11-23e.281.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.282.0" newgid="uk.org.publicwhip/debate/2022-11-23e.282.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.282.1" newgid="uk.org.publicwhip/debate/2022-11-23e.282.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.282.2" newgid="uk.org.publicwhip/debate/2022-11-23e.282.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.282.3" newgid="uk.org.publicwhip/debate/2022-11-23e.282.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.282.4" newgid="uk.org.publicwhip/debate/2022-11-23e.282.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.282.5" newgid="uk.org.publicwhip/debate/2022-11-23e.282.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.282.6" newgid="uk.org.publicwhip/debate/2022-11-23e.282.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.283.0" newgid="uk.org.publicwhip/debate/2022-11-23e.283.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.283.1" newgid="uk.org.publicwhip/debate/2022-11-23e.283.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.283.2" newgid="uk.org.publicwhip/debate/2022-11-23e.283.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.283.3" newgid="uk.org.publicwhip/debate/2022-11-23e.283.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.283.4" newgid="uk.org.publicwhip/debate/2022-11-23e.283.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.283.5" newgid="uk.org.publicwhip/debate/2022-11-23e.283.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.284.0" newgid="uk.org.publicwhip/debate/2022-11-23e.284.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.284.1" newgid="uk.org.publicwhip/debate/2022-11-23e.284.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.284.2" newgid="uk.org.publicwhip/debate/2022-11-23e.284.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.284.3" newgid="uk.org.publicwhip/debate/2022-11-23e.284.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.284.4" newgid="uk.org.publicwhip/debate/2022-11-23e.284.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.284.5" newgid="uk.org.publicwhip/debate/2022-11-23e.284.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.285.0" newgid="uk.org.publicwhip/debate/2022-11-23e.285.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.285.1" newgid="uk.org.publicwhip/debate/2022-11-23e.285.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.285.2" newgid="uk.org.publicwhip/debate/2022-11-23e.285.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.285.3" newgid="uk.org.publicwhip/debate/2022-11-23e.285.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.285.4" newgid="uk.org.publicwhip/debate/2022-11-23e.285.4" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-11-23d.285.4" speakername="Rishi Sunak" type="Start Answer" person_id="uk.org.publicwhip/person/25428" colnum="285" time="" url="">
+    <p pid="d285.4/1">I am deeply sorry to hear about Vanessa’s circumstances. I want her to know that the plan that the Chancellor announced last week will help families like hers up and down the country, because it is the right plan to tackle inflation, limit the increase in mortgage rates and ensure confidence in our economy. There is specific help that the Chancellor announced, offering low-interest loans to homeowners on benefits to cover interest on mortgages of up to £250,000. The Chancellor is also meeting mortgage lenders in the coming weeks. We will continue to do all we can to support those homeowners who are struggling with their payments.[Official Report, <phrase class="date" code="2022-12-01">1 December</phrase> 2022, Vol. 723, c. 10MC.]</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.286.0" newgid="uk.org.publicwhip/debate/2022-11-23e.286.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.286.1" newgid="uk.org.publicwhip/debate/2022-11-23e.286.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.286.2" newgid="uk.org.publicwhip/debate/2022-11-23e.286.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.286.3" newgid="uk.org.publicwhip/debate/2022-11-23e.286.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.286.4" newgid="uk.org.publicwhip/debate/2022-11-23e.286.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.286.5" newgid="uk.org.publicwhip/debate/2022-11-23e.286.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.287.0" newgid="uk.org.publicwhip/debate/2022-11-23e.287.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.287.1" newgid="uk.org.publicwhip/debate/2022-11-23e.287.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.287.2" newgid="uk.org.publicwhip/debate/2022-11-23e.287.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.287.3" newgid="uk.org.publicwhip/debate/2022-11-23e.287.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.287.4" newgid="uk.org.publicwhip/debate/2022-11-23e.287.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.287.5" newgid="uk.org.publicwhip/debate/2022-11-23e.287.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.288.0" newgid="uk.org.publicwhip/debate/2022-11-23e.288.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.288.1" newgid="uk.org.publicwhip/debate/2022-11-23e.288.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.288.2" newgid="uk.org.publicwhip/debate/2022-11-23e.288.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.288.3" newgid="uk.org.publicwhip/debate/2022-11-23e.288.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.288.4" newgid="uk.org.publicwhip/debate/2022-11-23e.288.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.288.5" newgid="uk.org.publicwhip/debate/2022-11-23e.288.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.289.0" newgid="uk.org.publicwhip/debate/2022-11-23e.289.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.289.1" newgid="uk.org.publicwhip/debate/2022-11-23e.289.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.289.2" newgid="uk.org.publicwhip/debate/2022-11-23e.289.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.289.3" newgid="uk.org.publicwhip/debate/2022-11-23e.289.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.289.4" newgid="uk.org.publicwhip/debate/2022-11-23e.289.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.290.0" newgid="uk.org.publicwhip/debate/2022-11-23e.290.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.290.1" newgid="uk.org.publicwhip/debate/2022-11-23e.290.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.290.2" newgid="uk.org.publicwhip/debate/2022-11-23e.290.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.290.3" newgid="uk.org.publicwhip/debate/2022-11-23e.290.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.290.4" newgid="uk.org.publicwhip/debate/2022-11-23e.290.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.291.0" newgid="uk.org.publicwhip/debate/2022-11-23e.291.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.291.1" newgid="uk.org.publicwhip/debate/2022-11-23e.291.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-11-23d.291.1" speakername="Lindsay Hoyle" person_id="uk.org.publicwhip/person/10295" colnum="291" time="12:33:00" url="">
+    <p pid="d291.1/1">On <phrase class="date" code="2022-10-20">20 October</phrase>, the Digital, Culture, Media and Sport Committee published a special report on answers given to it by <phrase class="honfriend" person_id="uk.org.publicwhip/person/11397" name="Nadine Dorries">the right hon. Member for Mid Bedfordshire (Ms Dorries)</phrase> when she was Secretary of State for Digital, Culture, Media and Sport. <phrase class="honfriend" person_id="uk.org.publicwhip/person/25281" name="John Nicolson">The hon. Member for Ochil and South Perthshire (John Nicolson)</phrase> subsequently wrote to me asking for precedence for a complaint of a breach of privilege, as was his right. I declined to do so since the bar for such a complaint is high. The House should take action only when essential in order to provide reasonable protection for the House, its Members or its officers from improper obstruction. I note that the Committee itself, of which the hon. Gentleman is a member, has said:</p>
+    <p pid="d291.1/2" class="indent" pwmotiontext="yes">“Had Ms Dorries remained Secretary of State, driving a policy of selling the channel, we may have sought a referral to the Privileges Committee but, as her claims have not inhibited the work of the Committee and she no longer has a position of power over the future of Channel 4, we are, instead, publishing this Report to enable the House, and its Members, to draw their own conclusions.”</p>
+    <p pid="d291.1/3">So I considered it appropriate to respect the Committee’s assessment of the situation.</p>
+    <p pid="d291.1/4">Correspondence on matters of privilege is private. Indeed, I go to great lengths to ensure that Members can write to me in confidence on any matter, knowing that their communication will remain private. I expect the same courtesy with my replies. The hon. Member has seen fit to give a partial and biased account of my letter on Twitter, and I await his apology. I gave the hon. Member notice that I would be raising this matter at this time, but I do stress that it is not the way we should be doing business in this House.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.291.2" newgid="uk.org.publicwhip/debate/2022-11-23e.291.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.292.0" newgid="uk.org.publicwhip/debate/2022-11-23e.292.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.292.1" newgid="uk.org.publicwhip/debate/2022-11-23e.292.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.292.2" newgid="uk.org.publicwhip/debate/2022-11-23e.292.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.293.0" newgid="uk.org.publicwhip/debate/2022-11-23e.293.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.293.1" newgid="uk.org.publicwhip/debate/2022-11-23e.293.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.293.2" newgid="uk.org.publicwhip/debate/2022-11-23e.293.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.294.0" newgid="uk.org.publicwhip/debate/2022-11-23e.294.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.294.1" newgid="uk.org.publicwhip/debate/2022-11-23e.294.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.294.2" newgid="uk.org.publicwhip/debate/2022-11-23e.294.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.295.0" newgid="uk.org.publicwhip/debate/2022-11-23e.295.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.295.1" newgid="uk.org.publicwhip/debate/2022-11-23e.295.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.295.2" newgid="uk.org.publicwhip/debate/2022-11-23e.295.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.295.3" newgid="uk.org.publicwhip/debate/2022-11-23e.295.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.296.0" newgid="uk.org.publicwhip/debate/2022-11-23e.296.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.296.1" newgid="uk.org.publicwhip/debate/2022-11-23e.296.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.296.2" newgid="uk.org.publicwhip/debate/2022-11-23e.296.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.296.3" newgid="uk.org.publicwhip/debate/2022-11-23e.296.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.296.4" newgid="uk.org.publicwhip/debate/2022-11-23e.296.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.296.5" newgid="uk.org.publicwhip/debate/2022-11-23e.296.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.296.6" newgid="uk.org.publicwhip/debate/2022-11-23e.296.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.297.0" newgid="uk.org.publicwhip/debate/2022-11-23e.297.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.297.1" newgid="uk.org.publicwhip/debate/2022-11-23e.297.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.297.2" newgid="uk.org.publicwhip/debate/2022-11-23e.297.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.297.3" newgid="uk.org.publicwhip/debate/2022-11-23e.297.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.297.4" newgid="uk.org.publicwhip/debate/2022-11-23e.297.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.297.5" newgid="uk.org.publicwhip/debate/2022-11-23e.297.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.297.6" newgid="uk.org.publicwhip/debate/2022-11-23e.297.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.297.7" newgid="uk.org.publicwhip/debate/2022-11-23e.297.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.297.8" newgid="uk.org.publicwhip/debate/2022-11-23e.297.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.297.9" newgid="uk.org.publicwhip/debate/2022-11-23e.297.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.298.0" newgid="uk.org.publicwhip/debate/2022-11-23e.298.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.298.1" newgid="uk.org.publicwhip/debate/2022-11-23e.298.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.298.2" newgid="uk.org.publicwhip/debate/2022-11-23e.298.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.298.3" newgid="uk.org.publicwhip/debate/2022-11-23e.298.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.298.4" newgid="uk.org.publicwhip/debate/2022-11-23e.298.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.298.5" newgid="uk.org.publicwhip/debate/2022-11-23e.298.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.298.6" newgid="uk.org.publicwhip/debate/2022-11-23e.298.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.298.7" newgid="uk.org.publicwhip/debate/2022-11-23e.298.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.299.0" newgid="uk.org.publicwhip/debate/2022-11-23e.299.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.299.1" newgid="uk.org.publicwhip/debate/2022-11-23e.299.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.299.2" newgid="uk.org.publicwhip/debate/2022-11-23e.299.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.299.3" newgid="uk.org.publicwhip/debate/2022-11-23e.299.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.299.4" newgid="uk.org.publicwhip/debate/2022-11-23e.299.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.299.5" newgid="uk.org.publicwhip/debate/2022-11-23e.299.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.299.6" newgid="uk.org.publicwhip/debate/2022-11-23e.299.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.299.7" newgid="uk.org.publicwhip/debate/2022-11-23e.299.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.299.8" newgid="uk.org.publicwhip/debate/2022-11-23e.299.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.299.9" newgid="uk.org.publicwhip/debate/2022-11-23e.299.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.299.10" newgid="uk.org.publicwhip/debate/2022-11-23e.299.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.300.0" newgid="uk.org.publicwhip/debate/2022-11-23e.300.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.300.1" newgid="uk.org.publicwhip/debate/2022-11-23e.300.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.300.2" newgid="uk.org.publicwhip/debate/2022-11-23e.300.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.300.3" newgid="uk.org.publicwhip/debate/2022-11-23e.300.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.300.4" newgid="uk.org.publicwhip/debate/2022-11-23e.300.4" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-11-23d.300.4" speakername="Deidre Brock" type="Start SupplementaryQuestion" person_id="uk.org.publicwhip/person/25336" colnum="300" time="12:39:00" url="">
+    <p pid="d300.4/1">Things have changed dramatically since 2014. I remind the shadow Secretary of State, <phrase class="honfriend" person_id="uk.org.publicwhip/person/24872" name="Ian Murray">the hon. Member for Edinburgh South (Ian Murray)</phrase>, that in 2019 he said:</p>
+    <p pid="d300.4/2" class="indent" pwmotiontext="yes">“a democracy fails to be a democracy if the public are not allowed to change their mind.”—[Official Report, <phrase class="date" code="2022-04-08">8 April</phrase> 2019; Vol. 658, c. 124.]</p>
+    <p pid="d300.4/3">Back in 2012, Alistair Darling said:</p>
+    <p pid="d300.4/4" class="indent" pwmotiontext="yes">“Today we are equal partners in the United Kingdom.”</p>
+    <p pid="d300.4/5">Today, our First Minister noted that this ruling confirms that the notion of the UK as a voluntary partnership is no longer—if it ever was—a reality. Why will the Secretary of State not acknowledge that the only way for Scotland to be treated as an equal is with its independence?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.300.5" newgid="uk.org.publicwhip/debate/2022-11-23e.300.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.300.6" newgid="uk.org.publicwhip/debate/2022-11-23e.300.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.300.7" newgid="uk.org.publicwhip/debate/2022-11-23e.300.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.300.8" newgid="uk.org.publicwhip/debate/2022-11-23e.300.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.301.0" newgid="uk.org.publicwhip/debate/2022-11-23e.301.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.301.1" newgid="uk.org.publicwhip/debate/2022-11-23e.301.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.301.2" newgid="uk.org.publicwhip/debate/2022-11-23e.301.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.301.3" newgid="uk.org.publicwhip/debate/2022-11-23e.301.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-11-23d.301.3" speakername="Alison Thewliss" type="Start SupplementaryQuestion" person_id="uk.org.publicwhip/person/25327" colnum="301" time="12:39:00" url="">
+    <p pid="d301.3/1">In 2014, the people of Glasgow voted for independence, and I am sure that if the question were put before them again, they would do so again. But we are not in 2014. Does the Secretary of State accept that democracy did not exist only on <phrase class="date" code="2022-09-18">18 September</phrase> 2014? Democracy is a living thing. Does he accept that the people have the right to change their mind?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.301.4" newgid="uk.org.publicwhip/debate/2022-11-23e.301.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.301.5" newgid="uk.org.publicwhip/debate/2022-11-23e.301.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.301.6" newgid="uk.org.publicwhip/debate/2022-11-23e.301.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.301.7" newgid="uk.org.publicwhip/debate/2022-11-23e.301.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.301.8" newgid="uk.org.publicwhip/debate/2022-11-23e.301.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.302.0" newgid="uk.org.publicwhip/debate/2022-11-23e.302.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.302.1" newgid="uk.org.publicwhip/debate/2022-11-23e.302.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.302.2" newgid="uk.org.publicwhip/debate/2022-11-23e.302.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.302.3" newgid="uk.org.publicwhip/debate/2022-11-23e.302.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.302.4" newgid="uk.org.publicwhip/debate/2022-11-23e.302.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.302.5" newgid="uk.org.publicwhip/debate/2022-11-23e.302.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.302.6" newgid="uk.org.publicwhip/debate/2022-11-23e.302.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.303.0" newgid="uk.org.publicwhip/debate/2022-11-23e.303.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.303.1" newgid="uk.org.publicwhip/debate/2022-11-23e.303.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.303.2" newgid="uk.org.publicwhip/debate/2022-11-23e.303.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.303.3" newgid="uk.org.publicwhip/debate/2022-11-23e.303.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.303.4" newgid="uk.org.publicwhip/debate/2022-11-23e.303.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.303.5" newgid="uk.org.publicwhip/debate/2022-11-23e.303.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.303.6" newgid="uk.org.publicwhip/debate/2022-11-23e.303.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.304.0" newgid="uk.org.publicwhip/debate/2022-11-23e.304.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.304.1" newgid="uk.org.publicwhip/debate/2022-11-23e.304.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.304.2" newgid="uk.org.publicwhip/debate/2022-11-23e.304.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.304.3" newgid="uk.org.publicwhip/debate/2022-11-23e.304.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.304.4" newgid="uk.org.publicwhip/debate/2022-11-23e.304.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.304.5" newgid="uk.org.publicwhip/debate/2022-11-23e.304.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.304.6" newgid="uk.org.publicwhip/debate/2022-11-23e.304.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.305.0" newgid="uk.org.publicwhip/debate/2022-11-23e.305.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.305.1" newgid="uk.org.publicwhip/debate/2022-11-23e.305.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.305.2" newgid="uk.org.publicwhip/debate/2022-11-23e.305.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.305.3" newgid="uk.org.publicwhip/debate/2022-11-23e.305.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-11-23d.305.3" speakername="Ronnie Cowan" type="Start SupplementaryQuestion" person_id="uk.org.publicwhip/person/25288" colnum="305" time="12:39:00" url="">
+    <p pid="d305.3/1">On <phrase class="date" code="2022-09-18">18 September</phrase> 2014, the people of Inverclyde voted to remain in the Union by 86 votes. A few short months later, they returned me as the SNP MP on an independence manifesto; they had changed their mind. They returned me in 2017 and 2019—if the Government want to go again I will go again. But what is the route for the people of Inverclyde to express their views now in a referendum?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.305.4" newgid="uk.org.publicwhip/debate/2022-11-23e.305.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.305.5" newgid="uk.org.publicwhip/debate/2022-11-23e.305.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.305.6" newgid="uk.org.publicwhip/debate/2022-11-23e.305.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.305.7" newgid="uk.org.publicwhip/debate/2022-11-23e.305.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.305.8" newgid="uk.org.publicwhip/debate/2022-11-23e.305.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.306.0" newgid="uk.org.publicwhip/debate/2022-11-23e.306.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.306.1" newgid="uk.org.publicwhip/debate/2022-11-23e.306.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.306.2" newgid="uk.org.publicwhip/debate/2022-11-23e.306.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.306.3" newgid="uk.org.publicwhip/debate/2022-11-23e.306.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.306.4" newgid="uk.org.publicwhip/debate/2022-11-23e.306.4" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-11-23d.306.4" speakername="Brendan O'Hara" type="Start SupplementaryQuestion" person_id="uk.org.publicwhip/person/25370" colnum="306" time="12:39:00" url="">
+    <p pid="d306.4/1">The Secretary of State has been struggling to answer the most basic questions from colleagues, so I have a simple question for him. On <phrase class="date" code="2022-11-13">13 November</phrase> 2017, in a debate in Westminster Hall, I asked him if he agreed with the preposterous suggestion of Michael Kelly, the former Lord Provost of Glasgow, that Scotland should not have another independence referendum until every person who voted in the 2014 referendum was dead. In reply, the Secretary of State said that</p>
+    <p pid="d306.4/2" class="indent" pwmotiontext="yes">“if I had my way, we would wait even longer.”—[Official Report, <phrase class="date" code="2022-11-13">13 November</phrase> 2017; Vol. 631, c. 24WH.]</p>
+    <p pid="d306.4/3">Is that still his position today?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.306.5" newgid="uk.org.publicwhip/debate/2022-11-23e.306.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.307.0" newgid="uk.org.publicwhip/debate/2022-11-23e.307.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.307.1" newgid="uk.org.publicwhip/debate/2022-11-23e.307.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.307.2" newgid="uk.org.publicwhip/debate/2022-11-23e.307.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.307.3" newgid="uk.org.publicwhip/debate/2022-11-23e.307.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.307.4" newgid="uk.org.publicwhip/debate/2022-11-23e.307.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.308.0" newgid="uk.org.publicwhip/debate/2022-11-23e.308.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.308.1" newgid="uk.org.publicwhip/debate/2022-11-23e.308.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.308.2" newgid="uk.org.publicwhip/debate/2022-11-23e.308.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.308.3" newgid="uk.org.publicwhip/debate/2022-11-23e.308.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.308.4" newgid="uk.org.publicwhip/debate/2022-11-23e.308.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.308.5" newgid="uk.org.publicwhip/debate/2022-11-23e.308.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.309.0" newgid="uk.org.publicwhip/debate/2022-11-23e.309.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.309.1" newgid="uk.org.publicwhip/debate/2022-11-23e.309.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.309.2" newgid="uk.org.publicwhip/debate/2022-11-23e.309.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.310.0" newgid="uk.org.publicwhip/debate/2022-11-23e.310.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.310.1" newgid="uk.org.publicwhip/debate/2022-11-23e.310.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.310.2" newgid="uk.org.publicwhip/debate/2022-11-23e.310.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.310.3" newgid="uk.org.publicwhip/debate/2022-11-23e.310.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.311.0" newgid="uk.org.publicwhip/debate/2022-11-23e.311.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.311.1" newgid="uk.org.publicwhip/debate/2022-11-23e.311.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.312.0" newgid="uk.org.publicwhip/debate/2022-11-23e.312.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.312.1" newgid="uk.org.publicwhip/debate/2022-11-23e.312.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.312.2" newgid="uk.org.publicwhip/debate/2022-11-23e.312.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.313.0" newgid="uk.org.publicwhip/debate/2022-11-23e.313.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.313.1" newgid="uk.org.publicwhip/debate/2022-11-23e.313.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.313.2" newgid="uk.org.publicwhip/debate/2022-11-23e.313.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.313.3" newgid="uk.org.publicwhip/debate/2022-11-23e.313.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.313.4" newgid="uk.org.publicwhip/debate/2022-11-23e.313.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.314.0" newgid="uk.org.publicwhip/debate/2022-11-23e.314.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.314.1" newgid="uk.org.publicwhip/debate/2022-11-23e.314.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.314.2" newgid="uk.org.publicwhip/debate/2022-11-23e.314.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.314.3" newgid="uk.org.publicwhip/debate/2022-11-23e.314.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.315.0" newgid="uk.org.publicwhip/debate/2022-11-23e.315.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.315.1" newgid="uk.org.publicwhip/debate/2022-11-23e.315.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.315.2" newgid="uk.org.publicwhip/debate/2022-11-23e.315.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-11-23d.315.2" speakername="Philip Hollobone" type="Start SupplementaryQuestion" person_id="uk.org.publicwhip/person/11661" colnum="315" time="13:31:00" url="">
+    <p pid="d315.2/1">I believe that the situation is now so bad and chaotic that the Minister should consider his position.</p>
+    <p pid="d315.2/2">On Friday, North Northampton Council, Northants police and other local agencies had an online meeting with the Home Office and Serco regarding the potential use of the 51-bed Royal hotel in Kettering, slap bang in the middle of the town centre. Serious environmental health issues, including mould and no kitchen facilities, were raised. Northants police raised serious concerns about community safety and the vulnerability of the asylum seekers. The Home Office and Serco officials agreed that the hotel would not be used until those issues were properly addressed. Yesterday, the council was advised that 41 asylum seekers had been moved into the hotel on Sunday afternoon, without any notification at all, and that could rise to 80. No biometric of previous offending history data has been shared with the local police. It is totally, 100% unacceptable.</p>
+    <p pid="d315.2/3">On <phrase class="date" code="2022-10-27">27 October</phrase>, I asked the Minister face to face for a meeting. I asked him again on the Floor of the House last Wednesday. No such meeting has been forthcoming. This is a wrong-headed decision. The local police, the local council and I have been misled, and I have no confidence at all that the Home Office, Serco or the Minister have the first clue what they are doing in relation to asylum seeker relocation.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.315.3" newgid="uk.org.publicwhip/debate/2022-11-23e.315.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.316.0" newgid="uk.org.publicwhip/debate/2022-11-23e.316.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.316.1" newgid="uk.org.publicwhip/debate/2022-11-23e.316.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.316.2" newgid="uk.org.publicwhip/debate/2022-11-23e.316.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.316.3" newgid="uk.org.publicwhip/debate/2022-11-23e.316.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.316.4" newgid="uk.org.publicwhip/debate/2022-11-23e.316.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.317.0" newgid="uk.org.publicwhip/debate/2022-11-23e.317.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.317.1" newgid="uk.org.publicwhip/debate/2022-11-23e.317.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.317.2" newgid="uk.org.publicwhip/debate/2022-11-23e.317.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.317.3" newgid="uk.org.publicwhip/debate/2022-11-23e.317.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.318.0" newgid="uk.org.publicwhip/debate/2022-11-23e.318.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.318.1" newgid="uk.org.publicwhip/debate/2022-11-23e.318.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.318.2" newgid="uk.org.publicwhip/debate/2022-11-23e.318.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.318.3" newgid="uk.org.publicwhip/debate/2022-11-23e.318.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.318.4" newgid="uk.org.publicwhip/debate/2022-11-23e.318.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.318.5" newgid="uk.org.publicwhip/debate/2022-11-23e.318.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.319.0" newgid="uk.org.publicwhip/debate/2022-11-23e.319.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.319.1" newgid="uk.org.publicwhip/debate/2022-11-23e.319.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.319.2" newgid="uk.org.publicwhip/debate/2022-11-23e.319.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.319.3" newgid="uk.org.publicwhip/debate/2022-11-23e.319.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.319.4" newgid="uk.org.publicwhip/debate/2022-11-23e.319.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.319.5" newgid="uk.org.publicwhip/debate/2022-11-23e.319.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.320.0" newgid="uk.org.publicwhip/debate/2022-11-23e.320.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.320.1" newgid="uk.org.publicwhip/debate/2022-11-23e.320.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.320.2" newgid="uk.org.publicwhip/debate/2022-11-23e.320.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.320.3" newgid="uk.org.publicwhip/debate/2022-11-23e.320.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.320.4" newgid="uk.org.publicwhip/debate/2022-11-23e.320.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.321.0" newgid="uk.org.publicwhip/debate/2022-11-23e.321.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.321.1" newgid="uk.org.publicwhip/debate/2022-11-23e.321.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.321.2" newgid="uk.org.publicwhip/debate/2022-11-23e.321.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.321.3" newgid="uk.org.publicwhip/debate/2022-11-23e.321.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.322.0" newgid="uk.org.publicwhip/debate/2022-11-23e.322.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.322.1" newgid="uk.org.publicwhip/debate/2022-11-23e.322.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.322.2" newgid="uk.org.publicwhip/debate/2022-11-23e.322.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.322.3" newgid="uk.org.publicwhip/debate/2022-11-23e.322.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.322.4" newgid="uk.org.publicwhip/debate/2022-11-23e.322.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.322.5" newgid="uk.org.publicwhip/debate/2022-11-23e.322.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.322.6" newgid="uk.org.publicwhip/debate/2022-11-23e.322.6" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-11-23d.322.6" speakername="Simon Fell" type="Start SupplementaryQuestion" person_id="uk.org.publicwhip/person/25869" colnum="322" time="13:31:00" url="">
+    <p pid="d322.6/1">My council was notified that it would be in receipt of 70 gentlemen on <phrase class="date" code="2022-12-22">22 December</phrase>—not the best time of year to muster  statutory services and get the third sector involved to give them the support they need, but none the less it stepped up and did it. I pay tribute to the Furness Multi-Cultural Community Forum for what it has done, but those 70 gentlemen have faced challenges: we have a growing far-right presence in town, they are socially isolated and they are not getting the support they need. What will move them out of hotels and get them contributing to society is getting through the backlog, which now stands at 122,000. Will the Minister please explain what the Department is doing to chow through that backlog and get people contributing to society rather than languishing in hotels in our communities?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.323.0" newgid="uk.org.publicwhip/debate/2022-11-23e.323.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.323.1" newgid="uk.org.publicwhip/debate/2022-11-23e.323.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.323.2" newgid="uk.org.publicwhip/debate/2022-11-23e.323.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.324.0" newgid="uk.org.publicwhip/debate/2022-11-23e.324.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.324.1" newgid="uk.org.publicwhip/debate/2022-11-23e.324.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.324.2" newgid="uk.org.publicwhip/debate/2022-11-23e.324.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.324.3" newgid="uk.org.publicwhip/debate/2022-11-23e.324.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.325.0" newgid="uk.org.publicwhip/debate/2022-11-23e.325.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.325.1" newgid="uk.org.publicwhip/debate/2022-11-23e.325.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.325.2" newgid="uk.org.publicwhip/debate/2022-11-23e.325.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.325.3" newgid="uk.org.publicwhip/debate/2022-11-23e.325.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.326.0" newgid="uk.org.publicwhip/debate/2022-11-23e.326.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.326.1" newgid="uk.org.publicwhip/debate/2022-11-23e.326.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.327.0" newgid="uk.org.publicwhip/debate/2022-11-23e.327.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.327.1" newgid="uk.org.publicwhip/debate/2022-11-23e.327.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.327.2" newgid="uk.org.publicwhip/debate/2022-11-23e.327.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-11-23d.327.2" speakername="Anne McLaughlin" type="Start Speech" person_id="uk.org.publicwhip/person/14146" colnum="327" time="14:28:00" url="">
+    <p pid="d327.2/1">I beg to move,</p>
+    <p pid="d327.2/2" class="indent" pwmotiontext="yes">That leave be given to bring in a Bill to require energy companies to allow a grace period before disconnecting customers with pre-payment meters who have run out of credit; to require energy companies to offer debt management support to all customers; and for connected purposes.</p>
+    <p pid="d327.2/3">I pay my gas and electricity bills by standing order, and I pay in arrears. If I stop paying those bills, I can be disconnected by my supplier, but it is very much a final step and a last resort. Not so for those who pay in advance—that is, those on prepayment meters. Should they be unable to pay for gas or electricity, disconnection is the first thing that happens to them. The minute they go over the £10 of emergency credit applied to each prepayment meter, their supply stops and they are considered to have self-disconnected. We, as well-paid MPs, could run up hundreds, perhaps thousands, of pounds’ worth of debt to energy companies before they disconnect our supply, while those on prepayment meters will be left to freeze in the dark the minute they owe just £10. It is that iniquity that my Bill seeks to address.</p>
+    <p pid="d327.2/4">There is more that I could have asked for in the Bill around the broader iniquity of the treatment of those on prepayment meters, but I decided to make it as easy and straightforward as possible. The Bill asks for one thing only: to put an end to those on prepayment meters being treated differently from those of us who enjoy the benefit of paying in arrears. My Bill asks for so-called self-disconnection to be stopped. I can think of no reason for any fair-minded person not to support that request. I am hopeful, verging on confident, that the Government will agree to it, but they need to act quickly. I cannot be standing here in a year’s time next winter talking about how we are nudging toward getting this resolved.</p>
+    <p pid="d327.2/5">Call me impatient, but I know how slowly things often move in this place. I also know that the Government can move quickly when they need to. I contend that if I have to wait even until the new year, given the winter that has been predicted, I will have waited too long. More importantly, people on prepayment meters will have waited too long. It is not melodramatic or even an exaggeration to say that, if we do not deal with this urgently, I am afraid that people will die—people who would have lived had my Bill been adopted. All this when energy companies are raking in billions and bragging that they literally do not know what to do with their profits. Why is none of them leading the charge, instead of waiting for legislation possibly to get through? I am using this 10-minute rule Bill slot to challenge publicly just one of them to step forward and announce an end to the practice.</p>
+    <p pid="d327.2/6">Let me give Members some background facts. We know that those on prepayment meters are generally on a low income. Some find it easier to budget if they can pay as they go, but most are given no choice. They struggle to pay their bills, so their energy supplier gains entry to their home and installs a prepayment meter. We  also know that they pay more per unit of energy and higher daily standing charges than the rest of us, and they pay in advance while the rest of us pay in arrears. Normally, advance payments attract discounts, but that is not so for those on prepayment meters.</p>
+    <p pid="d327.2/7">We know from the low uptake of pension credit that pensioners are often the last to reach out and ask for help. That means that many of them are existing on far less than the Government believe that they need, and many of those people are on prepayment meters. Caroline Abrahams of Age UK recently said that, for an older person, being cold</p>
+    <p pid="d327.2/8" class="indent" pwmotiontext="yes">“even for just a short amount of time can be very dangerous as it increases the risk of associated health problems and preventable deaths during the winter.”</p>
+    <p pid="d327.2/9">We simply cannot let pensioners self-disconnect this winter. They must be treated at least equally to MPs when it comes to the right to be warm. The right to be treated equally is crucial, because the only arguments that I have heard against the proposal are that people could end up in debt and that they might simply not bother to pay their bills. On the latter point, I would argue very strongly that those on prepayment meters are no more likely simply not to bother to pay their bills than those of us paying by different methods.</p>
+    <p pid="d327.2/10">It is a risk that stopping self-disconnection could lead to people being in debt, but to that I would say two things. First, if the rest of us, paying by different methods, are allowed to take the risk of ending up in debt and are trusted to find ways to resolve it without being cut off, why not those on prepayment meters? Secondly, at the end of the day, if anyone in the Chamber were asked to choose between debt or death for their constituent, who among us would not choose debt as the lesser of two evils? That may sound dramatic, but life is very dramatic and unpredictable at the moment, and our constituents’ lives will be at risk.</p>
+    <p pid="d327.2/11">I ask whichever MP will be on duty to shout “Object!” to my Bill on Second Reading to prevent it from going any further, as is common practice—unless they are planning to do it today—to be aware of the choice that they are making for their constituents on prepayment meters. We all have many such constituents. The last figures that we can access tell us that almost 4.2 million people are on prepayment meters. In Glasgow, there are almost 67,000, but even in the Prime Minister’s local authority there are more than 1,000 and in your local authority, Madam Deputy Speaker—I am sure that you know this—the figure is 16,596. Those figures were last published by the Department for Business, Energy and Industrial Strategy in 2019, so we do not have an exact number, but clearly the numbers are rising. Figures from Ofgem comparison website Uswitch recently revealed that 60,000 new prepayment meters were installed across the UK in the six months to March. Does it not seem perverse that as energy prices and energy company profits soar, poor and vulnerable people are being forced on to more expensive methods of paying for that energy?</p>
+    <p pid="d327.2/12">I recently had a meeting with the Simon Community, one of the leading homelessness organisations in Scotland. It told me that many of the people it has been supporting to get off the streets and into a tenancy have found their new-found optimism to be short lived when they face the problem of being on a prepayment meter. The warmth and comfort that has eluded them for so long is again taken away when they run out of money, as many  do because, having been homeless and having lived without an address, and for some having battled health problems, many are not yet in employment, or certainly not in well-paid employment. In no time, they are back to square one. According to the Simon Community, people have been walking the streets to keep warm. What an utterly ridiculous and cruel situation.</p>
+    <p pid="d327.2/13">Who else will have their lives put at risk if energy companies do not stop the practice? Perhaps most disturbing of all is the case of those whose life expectancy has already been curtailed. I am talking about those who are terminally ill. When the Bill appeared on the Order Paper, I was contacted by Marie Curie, which as many colleagues will know has a campaign called “Dying in poverty”. It has been telling MPs about the additional costs incurred by the use of vital medical equipment such as breathing devices. It told me that the average cost of an electricity bill can rise by 75% for someone who is terminally ill. That is bad enough, but for someone on a prepayment meter, so-called self-disconnection really becomes life threatening.</p>
+    <p pid="d327.2/14">In addition, people often find when they return home after a lengthy stay in hospital or a hospice that they have a huge bill to pay before they can access electricity because, despite not being at home, the daily standing charges have mounted up and the meter will take that money first. How can we do that to people? I ask that without apportioning blame politically, because I do not believe that anyone in this place would intend that to happen or try to justify it. I said earlier that I was feeling hopeful, verging on confident, that the Government would listen and act. I am usually very critical of the Government but I simply do not believe that they would wish this on any of our constituents. Nor do I believe that they would knowingly allow anyone, and certainly not pensioners, people who have been homeless and those who are already dying, to suffer in such a way when they and I, as well-paid MPs and Government Ministers, with no excuse to run up debts, would none the less be allowed to do so and thus keep our homes warm, simply because we pay in a different way.</p>
+    <p pid="d327.2/15">I often criticise the Government for their lack of action on equalities, but this is a very stark inequality on which I believe they will agree with me. I reiterate that my Bill asks for one thing only: for those on prepayment meters to have equal treatment to that of all other bill payers when it comes to disconnection. I want an end to so-called self-disconnection. It is cruel, dangerous and will end the lives of our constituents prematurely if we do not stop it. But we can stop it.</p>
+    <p pid="d327.2/16">Question put and agreed to.</p>
+    <p pid="d327.2/17">Ordered,</p>
+    <p pid="d327.2/18">That Anne McLaughlin, Craig Whittaker, Sally-Ann Hart, Alison Thewliss, Alan Brown, Stuart C. McDonald, Jeremy Corbyn, Liz Saville Roberts, Colum Eastwood, Kate Osborne, Bell Ribeiro-Addy and Stewart Malcolm McDonald present the Bill.</p>
+    <p pid="d327.2/19">Anne McLaughlin accordingly presented the Bill.</p>
+    <p pid="d327.2/20">Bill read the First time; to be read a Second time on Friday <phrase class="date" code="2022-12-09">9 December</phrase>, and to be printed (Bill 198).</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.330.0" newgid="uk.org.publicwhip/debate/2022-11-23e.330.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.330.1" newgid="uk.org.publicwhip/debate/2022-11-23e.330.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-11-23d.330.1" nospeaker="true" colnum="330" time="14:28:00" url="">
+    <p pid="d330.1/1">Ordered,</p>
+    <p pid="d330.1/2" class="indent">That the Order of <phrase class="date" code="2022-06-08">8 June</phrase> 2022 (Levelling-up and Regeneration Bill: Programme), as varied on <phrase class="date" code="2022-09-22">22 September</phrase> 2022 (Levelling-up and Regeneration Bill: Programme (No. 2)), be further varied as follows:</p>
+    <p pid="d330.1/3">(1) Paragraphs (4) and (5) of the Order shall be omitted.</p>
+    <p pid="d330.1/4">(2) Proceedings on Consideration and Third Reading shall be taken in two days in accordance with the following provisions of this Order.</p>
+    <p pid="d330.1/5">(3) Proceedings on Consideration—</p>
+    <p pid="d330.1/6">(a) shall be taken on each of those days in the order shown in the first column of the following Table, and</p>
+    <p pid="d330.1/7">(b) shall (so far as not previously concluded) be brought to a conclusion at the times specified in the second column of the Table.</p>
+    <table>
+      <tbody>
+        <tr pid="d330.1/9">
+          <td>First day</td>
+        </tr>
+        <tr pid="d330.1/10">
+          <td>New Clauses and new Schedules relating to Part 1, 2, 7, 8 or 9, Clauses 187 to 190 or Schedule 17; amendments to Parts 1, 2, 7, 8 and 9, Clauses 187 to 190 and Schedule 17.</td>
+          <td>The moment of interruption on the first day</td>
+        </tr>
+        <tr pid="d330.1/11">
+          <td>Second day</td>
+        </tr>
+        <tr pid="d330.1/12">
+          <td>New Clauses and new Schedules relating to Part 3, 4, 5, 6 or 11 and any other new Clauses and new Schedules; amendments to Parts 3, 4, 5, 6 and 11; remaining proceedings on Consideration.</td>
+          <td>One hour before the moment of interruption on the second day</td>
+        </tr>
+      </tbody>
+    </table>
+    <p pid="d330.1/13">(4) Proceedings on Third Reading shall be taken on the second day and shall (so far as not previously concluded) be brought to a conclusion at the moment of interruption on the second day. —(Dehenna Davison.)</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.331.0" newgid="uk.org.publicwhip/debate/2022-11-23e.331.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.331.1" newgid="uk.org.publicwhip/debate/2022-11-23e.331.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.331.2" newgid="uk.org.publicwhip/debate/2022-11-23e.331.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.331.3" newgid="uk.org.publicwhip/debate/2022-11-23e.331.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.331.4" newgid="uk.org.publicwhip/debate/2022-11-23e.331.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.332.0" newgid="uk.org.publicwhip/debate/2022-11-23e.332.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.332.1" newgid="uk.org.publicwhip/debate/2022-11-23e.332.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.338.0" newgid="uk.org.publicwhip/debate/2022-11-23e.338.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.339.0" newgid="uk.org.publicwhip/debate/2022-11-23e.339.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.339.1" newgid="uk.org.publicwhip/debate/2022-11-23e.339.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.339.2" newgid="uk.org.publicwhip/debate/2022-11-23e.339.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.339.3" newgid="uk.org.publicwhip/debate/2022-11-23e.339.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.340.0" newgid="uk.org.publicwhip/debate/2022-11-23e.340.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.340.1" newgid="uk.org.publicwhip/debate/2022-11-23e.340.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.341.0" newgid="uk.org.publicwhip/debate/2022-11-23e.341.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.341.1" newgid="uk.org.publicwhip/debate/2022-11-23e.341.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.341.2" newgid="uk.org.publicwhip/debate/2022-11-23e.341.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.341.3" newgid="uk.org.publicwhip/debate/2022-11-23e.341.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.342.0" newgid="uk.org.publicwhip/debate/2022-11-23e.342.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.342.1" newgid="uk.org.publicwhip/debate/2022-11-23e.342.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.343.0" newgid="uk.org.publicwhip/debate/2022-11-23e.343.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.343.1" newgid="uk.org.publicwhip/debate/2022-11-23e.343.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.343.2" newgid="uk.org.publicwhip/debate/2022-11-23e.343.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.344.0" newgid="uk.org.publicwhip/debate/2022-11-23e.344.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.344.1" newgid="uk.org.publicwhip/debate/2022-11-23e.344.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-11-23d.344.1" speakername="Alex Norris" type="Continuation Speech" person_id="uk.org.publicwhip/person/25687" colnum="344" time="14:45:00" url="">
+    <p pid="d344.1/1">I agree with the hon. Gentleman that, when we talk about levelling up, it should never be north versus south or London versus the rest of the UK, and that it should recognise that, across all communities, there are challenges and areas that need support. I think that is an area of consensus.</p>
+    <p pid="d344.1/2">I stress that the hon. Gentleman is talking about the previous Labour Government, not the last Labour Government. I was at secondary school for much of that period, and I am not sure that relitigating it would advance this debate. I do not see that huge progressive changes have come through in the intervening 12 years, as he sees it, and I do not see them on the horizon either. Conservative Members may disagree with me on this point, which is fine, but if the Government are so sure of their case that this Bill will be very impactful, where is the impact assessment? Its publication is long overdue, and the stream of Ministers who came through the Committee all promised to publish it. It was signed off by the Regulatory Policy Committee on <phrase class="date" code="2022-07-19">19 July</phrase>—what is that, four months ago?—but instead, it is hidden. What on earth does it say that it needs to be locked away in the Department, and what does it say about the Government that they are not brave enough to publish it?</p>
+    <p pid="d344.1/3">We recognise that progress will not always be linear, and there will be times when reports—certainly the annual reports—into the missions may show a lack of progress or a need to operate differently. That will be challenging for the Government of the day, but it is an important part of the process, because that is how we will generate change. At the moment, however, the Bill states that these reports must be published within 120 days. There will be situations where the Government are not delivering on a mission and change is badly needed, but the report will be nearly a third of a year into the next year. We think that that is too late to generate meaningful change, so we seek with amendments 12 and 13 to   reduce that to 30 days. I cannot believe that that is not sufficient. Surely, the reports are developed during the year, and a month ought to be enough to finish them off.</p>
+    <p pid="d344.1/4">This is another key point of difference, because the sad reality is that rather than learning and reacting year by year to ensure that progress is made, the Government have an alternative plan. When they fail, they will simply change the mission, the methodology or the metrics. As set out in clause 4, they want to mark their own homework. With this clause, they are saying the quiet part out loud: that they will not deliver on these aims, and when they do not, they will just change them. That will not do. This was a serious promise made to the British public, and it ought to be kept. That is why we think that, as set out in amendment 14, this entire clause should be deleted. That is mirrored in amendment 11, where we have sought to remove the Secretary of State’s ability to discontinue a levelling-up mission. This is at best a ministerial convenience, but in reality a political crutch.</p>
+    <p pid="d344.1/5">I listened carefully to the case made by the Minister—she is the Minister twice removed—for including these provisions, namely that unforeseeable events might mean that the Government of the day need such flexibility. I think that that is questionable, at best, but in the spirit of cross-party co-operation we have tabled amendment 64 as a compromise. That would mean that in genuinely unforeseen circumstances, Ministers could change the missions and their metrics, with the consent of a majority of this place and the other place. I would hope that that offers a happy medium. If the Government are not minded to accept the amendment, it tells us everything about the extent of their commitment to this agenda.</p>
+    <p pid="d344.1/6">What we want the Government to do, and what they should want to do themselves, is to build confidence in their plans and their commitment to those plans, as  set out in Amendment 8. Such Office for Budget Responsibility-style external, high-quality scrutiny would give the Government a real chance to demonstrate that their efforts are working and to help them change course where they are not. Similarly, amendment 15 would give this body the opportunity to comment on whether the levelling-up missions themselves are contributing to reducing geographical disparities. I think that that would be a real asset to the Government.</p>
+    <p pid="d344.1/7">Resources are at the heart of the matter, and we want the Government to put to one side the rather bizarre spin that we saw at Monday’s departmental questions and be honest about the resources available for levelling-up, as we have suggested in amendment 9. This matters more than ever, which brings me to new clause 41. The Government’s inflation crisis is a serious risk to levelling-up as currently constituted and funded. The successful bids for round 1 of the levelling-up fund were announced more than a year ago, and the bids were designed a significant period of time before that. Clearly, much has changed since then. The previous Secretary of State confirmed to me in his single appearance at departmental questions that these bids can be downgraded to account for extra cost, and that is a serious concern. Local communities have entered into commitments in good faith, and expectations have been built up. They should not be hindered by the damage this Government have done to our economy; that is not good enough.</p>
+    <p pid="d344.1/8">Similarly, round 2 bids were submitted before the Government drove the nation’s finances into a ditch at the mini-Budget. Either those bids will be downgraded, or fewer of them will be successful. I asked the Minister on Monday during departmental questions which it would be, but I did not get an answer. We should get that answer today, or—even better—the Government should accept new clause 41.</p>
+    <p pid="d344.1/9">Finally on part 1, we welcome new clause 84, tabled by my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25349" name="Margaret Greenwood">the Member for Wirral West (Margaret Greenwood)</phrase>. Literacy really ought to be at the heart of all we do.</p>
+    <p pid="d344.1/10">I move now to provisions, amendments and clauses relating to part 2. Part 2 establishes combined county authorities. We are supportive of structures that allow for the greater devolution of power and resources from Whitehall to town hall. We also agree that it is desirable for there to be alignment with combined authorities more generally. Our concern in Committee was that we believe that these bodies and entities should receive powers from the centre, rather than absorbing powers from councils. That is why we tabled amendment 17. In line with what the Minister has said and what was set out in Friday’s written ministerial statement, we welcome Government amendment 29, which renders ours unnecessary. We are grateful that the Government have listened and moved on this point.</p>
+    <p pid="d344.1/11">We do, however, want the establishment of CCAs to be as swift and painless as possible, and we have been told that Ministers intend to use guidance to ensure that that is the case. We think that that must happen promptly, and our amendment 18 calls for it to happen within six months. That is probably a reasonable timeframe, because we suspect that it has already been drafted. If that timeframe is not desirable, will the Minister at least say when she anticipates the production of the guidance?</p>
+    <p pid="d344.1/12">I turn now to clause 58 and our amendment 19. The clause looks quite docile but is hugely significant. We have been told throughout proceedings that the purpose of part 2 of the Bill is for CCAs to mirror combined authorities, but this provision changes the rules governing combined authorities, and we do not think it has a place in the Bill. Currently, an elected Mayor can assume the police and crime commissioner role for their combined authority area if there is coterminosity and, crucially, if there is local agreement amongst constituent authorities. The clause changes that and states that the Mayor can assume these powers unilaterally. That is a significant and wholly unnecessary change.</p>
+    <p pid="d344.1/13">In reality, virtually all combined authority Mayors either have PCC powers already, or cannot have PCC powers because of their boundaries. There is a tiny third category—indeed, I can only think of the one case in the West Midlands—where the Mayor does not have PCC powers but could do. The intention of the clause seems to be to change that. Eighteen months ago, the public voted for a Conservative Mayor and a Labour police and crime commissioner. That was their right, and their judgment must be respected. This clause allows Ministers to overreach and let the Mayor change that. That is unacceptable. I hope the Minister will reflect on that and delete the clause, which is an outlier in this Bill.</p>
+    <p pid="d344.1/14">We are supportive of new clause 71, which is in the name of <phrase class="honfriend" person_id="uk.org.publicwhip/person/24933" name="George Eustice">the right hon. Member for Camborne and Redruth (George Eustice)</phrase>. It would mean that all areas, with or without a Mayor, could access tier 3 devolution  deals. The Opposition believe that all communities should have access to the maximum devolution of power and that governance arrangements should reflect local wishes. Currently, the Government will only give maximum powers if in return communities accept a Mayor, which is the Government’s preferred model. We are proud of our country’s Mayors. A significant number—I dare say a majority—are Labour and Co-operative ones, and they are very good indeed. We believe that those structures should reflect the choice of the local community, as set out in the new clause. I hope the Minister will look kindly on it.</p>
+    <p pid="d344.1/15">Accordingly, we cannot support new clause 1, which will give the Secretary of State the unilateral right to impose a Mayor on local authorities that they deem to be failing. That would be an inversion of devolution, and we cannot support it.</p>
+    <p pid="d344.1/16">I move on to parts 7, 8 and 9, to which we offered a significant number of amendments in Committee. In general terms, we are supportive of the provisions contained in part 7 concerning compulsory purchase. We believe that they are sensible and proportionate measures that will give local authorities clearer, more efficient and more effective powers; greater confidence that they can acquire land by compulsion to support regeneration schemes; and greater certainty that land can be assembled and schemes delivered quickly through compulsory purchase.</p>
+    <p pid="d344.1/17">We also supported the Government new clause tabled in Committee concerning compensation in relation to hope value, on the grounds that it would help to expedite development in cases where a certificate of appropriate alternative development is unlikely to be awarded, and it would make many more such developments financially viable. We are grateful to have heard from the Minister in her opening remarks about where the Government might go next with that. We do not feel that there is a pressing need for the statutory review of the powers proposed in new clause 34, but we take no issue with new clause 66, which represents a sensible consolidation and modernisation of compulsory purchase law along the lines suggested by the Law Commission.</p>
+    <p pid="d344.1/18">On part 8, we are very pleased to see the Government bring forward proposals for high street rental auctions. Sites that lie vacant on our high streets pull the area down. We need to get these sites into use, and rental auctions are a good way to do so. In Committee, we felt that there were too many loopholes in this process, so we are pleased to see and support Government amendments 40 to 44, which tighten matters. In reality, we want to go much further. We want a proper community right to buy important assets, high street or otherwise. It was disappointing that the Government rejected it in Committee, but the next Labour Government will correct that. More generally, it is regrettable that the Bill does not say more about community power, and that the Government have resisted all our efforts to insert community power provisions into the Bill. We may need a general election before we can resolve that.</p>
+    <p pid="d344.1/19">On part 9, if we are to have effective use of land across all communities, we need to know who owns it so that they can be supported to use it. In extremis, we can use powers under parts 7 and 8. In Committee, we put a number of questions to Ministers that we do not think  have quite been addressed yet. We hope that they will be answered in closing, but in broad terms we support the provision.</p>
+    <p pid="d344.1/20">Finally, I turn to clause 190, relating to the Government’s proposed reintroduction of the Vagrancy Act 1824, notwithstanding Parliament’s repeal of the Act during proceedings on the Police, Crime, Sentencing and Courts Act 2022. Even by the low standards set by this Government this was a particularly shoddy affair. Putting aside the blatant disregard for this place, it shows a genuine lack of humanity and care for the most vulnerable. We are very pleased to see that efforts on both sides of the Chamber—I congratulate <phrase class="honfriend" person_id="uk.org.publicwhip/person/25817" name="Nickie Aiken">the hon. Member for Cities of London and Westminster (Nickie Aiken)</phrase> in this regard—have borne fruit and that the Government now seek to remove this provision with Government amendment 1, which of course we support. But I hope that the Secretary of State does not seek credit in having belatedly supported this amendment given that this is his own Bill—his own provision. Similarly, we debated this in Committee only five weeks ago and at that point the Minister defended its inclusion; what does that say about the Government’s judgment in this matter?</p>
+    <p pid="d344.1/21">I have one final question for the Minister. Thursday’s business statement programmed in next Monday for the second part of remaining stages on this Bill. There are not many well-kept secrets in Westminster and it is not a well-kept secret that that is not going to happen. Surely the Government are not running scared of their own Back Benchers on this; what is going on? Can we have clarity from the Minister that the Bill is coming back next week, because these are important provisions. The Minister says that if they are held up, it will affect the roll-out of devolution, which will be very bad. I hope we will get some clarity that the Government will step up and deliver on the promises they have made.</p>
+    <p pid="d344.1/22">This Bill is a missed opportunity. Today, as in Committee, we have sought to help the Government improve it. I fear once again for our prospects in this regard, but that is because this Government are interested in the politics of levelling up, not the delivery of it for all of our nations and regions. This Government will never level up, and they should get out of the way for one who will.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.348.0" newgid="uk.org.publicwhip/debate/2022-11-23e.348.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.350.0" newgid="uk.org.publicwhip/debate/2022-11-23e.350.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.351.0" newgid="uk.org.publicwhip/debate/2022-11-23e.351.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.351.1" newgid="uk.org.publicwhip/debate/2022-11-23e.351.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.352.0" newgid="uk.org.publicwhip/debate/2022-11-23e.352.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.353.0" newgid="uk.org.publicwhip/debate/2022-11-23e.353.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.355.0" newgid="uk.org.publicwhip/debate/2022-11-23e.355.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.357.0" newgid="uk.org.publicwhip/debate/2022-11-23e.357.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.357.1" newgid="uk.org.publicwhip/debate/2022-11-23e.357.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.357.2" newgid="uk.org.publicwhip/debate/2022-11-23e.357.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.358.0" newgid="uk.org.publicwhip/debate/2022-11-23e.358.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.358.1" newgid="uk.org.publicwhip/debate/2022-11-23e.358.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.358.2" newgid="uk.org.publicwhip/debate/2022-11-23e.358.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.359.0" newgid="uk.org.publicwhip/debate/2022-11-23e.359.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.360.0" newgid="uk.org.publicwhip/debate/2022-11-23e.360.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.360.1" newgid="uk.org.publicwhip/debate/2022-11-23e.360.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.363.0" newgid="uk.org.publicwhip/debate/2022-11-23e.363.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.365.0" newgid="uk.org.publicwhip/debate/2022-11-23e.365.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-11-23d.365.0" speakername="Emma Lewell-Buck" type="Start Speech" person_id="uk.org.publicwhip/person/25181" colnum="365" time="16:00:00" url="">
+    <p pid="d365.0/1">I will speak to new clause 82 and amendments 71 and 72 in my name and those of my hon. Friends. New clause 82 seeks to reinstate the standards board. Every single one of us in this place should be able to get behind that, as it is not partisan; it is about restoring the public’s faith in local politics.</p>
+    <p pid="d365.0/2">We have all seen examples of councillors acting outwith their role and their code of conduct. We also see, often, that the act that eventually leads to their demise follows an established pattern of behaviour spanning many years. Those around them may have been fearful of calling out their behaviour for many reasons. Last year, a councillor was sentenced after pleading guilty to a charge relating to the abuse of public trust in public office, yet he remains in post. In another area, two former council chiefs and a county council leader are due to appear in court after being charged in connection with a long-running police investigation into allegations of financial irregularity.</p>
+    <p pid="d365.0/3">We all know, of course, that those cases are in the minority and that the vast number of councillors work hard for their community. However, those who behave in that way are currently given a free ride, as the framework around complaints is largely kept in-house. Councils and fellow councillors should simply not be allowed to police themselves. Such an arrangement puts officers, and particularly monitoring officers, in impossible positions. Those officers, who are in contractually and politically restricted positions, somehow have to find ways to manage governance and the expectations and pressures of political groups when the sanctions available to the standards committee are very limited and its  members are political colleagues of those they are investigating. That point was noted by the Committee on Standards in Public Life, which reported:</p>
+    <p pid="d365.0/4" class="indent" pwmotiontext="yes">“We have heard of cases where Monitoring Officers have been put under undue pressure or forced to resign because of unwelcome advice or decisions”.</p>
+    <p pid="d365.0/5">A Local Government Chronicle survey finds that 60% of monitoring officers do not believe that they have sufficient tools to tackle serious misconduct among elected members.</p>
+    <p pid="d365.0/6">In this place, we have an independent and transparent complaints process. We are also under a lot of scrutiny. However, fewer residents and news reporters take an interest in the actions of local councils and councillors. In local councils, the current system for upholding standards and monitoring behaviour is simply too opaque and too open to interpretation and abuse. There are not provisions to suspend or disqualify councillors who act inappropriately and misuse public funds.</p>
+    <p pid="d365.0/7">I know all too well from my own local authority the consequences of limited checks and balances and of processes open to potential undue interference. The former leader of my council, Iain Malcolm, resigned all his posts and positions suddenly in 2020 in the wake of allegations of creating a culture of fear, bullying and control. There were scandals in which public finances were readily accessed for personal reputational defence and to silence critics, as well as a litany of other financial concerns. He left just weeks after the chief executive walked out after 10 years in post. Police and other investigations are still ongoing.</p>
+    <p pid="d365.0/8">This Government want more devolution. With that, there should come more accountability, because with devolution comes more responsibility and more money from the public purse. The Committee on Standards in Public Life’s 2019 report echoes the concerns that I am raising today:</p>
+    <p pid="d365.0/9" class="indent" pwmotiontext="yes">“Our evidence supports the view that the vast majority of councillors and officers maintain high standards of conduct. There is, however, clear evidence of misconduct by some councillors. The majority of these cases relate to bullying or harassment, or other disruptive behaviour. There is also evidence of persistent or repeated misconduct by a minority of councillors.”</p>
+    <p pid="d365.0/10">It is little wonder that respondents to the Local Government Chronicle survey called for</p>
+    <p pid="d365.0/11" class="indent" pwmotiontext="yes">“a single national code of conduct for councillors”</p>
+    <p pid="d365.0/12">and for</p>
+    <p pid="d365.0/13" class="indent" pwmotiontext="yes">“more effective sanctions, including suspension and disqualification”.</p>
+    <p pid="d365.0/14">It is clear that the current system is not working and that the handling of complaints relating to councillors who breach codes should be thoroughly independent. The Minister rejected my clause in Committee—then new clause 76—on the basis that the Government, despite clear evidence of misconduct in local councils, have not changed their mind since 2011. The Government remain stubbornly of the view that the Standards Board was</p>
+    <p pid="d365.0/15" class="indent" pwmotiontext="yes">“incompatible with the principles of localism”</p>
+    <p pid="d365.0/16">and that its abolition</p>
+    <p pid="d365.0/17" class="indent" pwmotiontext="yes">“restored power to local people.”––[Official Report, Levelling-up and Regeneration Public Bill Committee, <phrase class="date" code="2022-10-20">20 October</phrase> 2022; c. 907.]</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.366.0" newgid="uk.org.publicwhip/debate/2022-11-23e.366.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.367.0" newgid="uk.org.publicwhip/debate/2022-11-23e.367.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.367.1" newgid="uk.org.publicwhip/debate/2022-11-23e.367.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.367.2" newgid="uk.org.publicwhip/debate/2022-11-23e.367.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-11-23d.367.2" speakername="Emma Lewell-Buck" type="Continuation Speech" person_id="uk.org.publicwhip/person/25181" colnum="367" time="16:15:00" url="">
+    <p pid="d367.2/1">I thank the right hon. Member for that intervention. He will know that those measurements have not resulted in reduced levels of poverty. The amendments would strengthen the Government’s commitment to reducing it.</p>
+    <p pid="d367.2/2">There are 14.5 million people living in poverty across our country. Poverty among children and pensioners rose in the six years prior to covid, alongside a resurgence of Victorian diseases associated with malnutrition, such as scurvy and rickets. Surely the Government must have grasped that for at least five of their own missions to succeed people need access to food. Living standards, education, skills, health and wellbeing are all deeply impacted in a household impacted by hunger. The Government’s own reporting in the family resources survey, which was made possible only after years of campaigning to implement my Food Insecurity Bill, shows that households in the north-east are more likely to struggle to afford food than those anywhere else in  the country. It would be totally misguided to think that we can level up the country without addressing that issue.</p>
+    <p pid="d367.2/3">We know that the figures will increase. Already this year food insecurity has risen by almost 10%. Thanks to the Government’s economic mismanagement, the biggest fall in household incomes on record will only exacerbate those levels of hunger. The Food Foundation has found that levels of food insecure households are rising, with figures for September this year showing a prevalence in nearly 10 million adults, with 4 million children also suffering from hunger. If it were not for the over 2,500 food banks in the country, those adults and children would be without food. That should be a source of great shame for Government Members.</p>
+    <p pid="d367.2/4">Regional disparities, which the Bill supposedly aims to level out, are more stark when we look at the fact that life expectancy in my part of the world, the north-east, is two and a half years less than in the south-east. Increasing healthy life expectancy is a huge challenge. The pandemic revealed the serious underlying health inequalities in this country. Public health funding will play a crucial role in helping to achieve the mission; however, in the most recent allocation councils faced a real-terms cut. That is just another example of where the Government’s actions do not meet their levelling-up rhetoric.</p>
+    <p pid="d367.2/5">The Government commissioned a national food strategy, which found that diet is the leading cause of avoidable harm to our health; however, the Government have ignored Henry Dimbleby’s recommendation to increase free school meals eligibility. If the Government are serious about levelling up, tackling food insecurity is vital to achieving the levelling-up White Paper’s missions. As Anna Taylor, chief exec of the Food Foundation, said:</p>
+    <p pid="d367.2/6" class="indent" pwmotiontext="yes">“If the Government wants to really get to grips with the issue, a comprehensive approach to levelling-up must tackle food insecurity head on.”</p>
+    <p pid="d367.2/7">The Under-Secretary of State for Levelling Up, Housing and Communities, <phrase class="honfriend" person_id="uk.org.publicwhip/person/25815" name="Dehenna Davison">the hon. Member for Bishop Auckland (Dehenna Davison)</phrase>, claimed that the amendments in Committee were not needed as the Bill is</p>
+    <p pid="d367.2/8" class="indent" pwmotiontext="yes">“designed to establish the framework for the missions”––[Official Report, Levelling-up and Regeneration Public Bill Committee, <phrase class="date" code="2022-10-20">20 October</phrase> 2022; c. 859.]</p>
+    <p pid="d367.2/9">not the content of them. That sums up the vacuous nature behind all the missions in the Bill. By making them as opaque as possible, and lacking such content, the Government will not have to bother delivering on a single one of them.</p>
+    <p pid="d367.2/10">The Government should accept this amendment today. By doing so, they would signal that at long last they accept that people are going hungry on their watch and they are eventually prepared to do something about it. I sincerely hope that they will do this, but I expect that they will not. In any event, I look forward to the Minister’s response later on.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.368.0" newgid="uk.org.publicwhip/debate/2022-11-23e.368.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.369.0" newgid="uk.org.publicwhip/debate/2022-11-23e.369.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.369.1" newgid="uk.org.publicwhip/debate/2022-11-23e.369.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.370.0" newgid="uk.org.publicwhip/debate/2022-11-23e.370.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.372.0" newgid="uk.org.publicwhip/debate/2022-11-23e.372.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.374.0" newgid="uk.org.publicwhip/debate/2022-11-23e.374.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.376.0" newgid="uk.org.publicwhip/debate/2022-11-23e.376.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.376.1" newgid="uk.org.publicwhip/debate/2022-11-23e.376.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.376.2" newgid="uk.org.publicwhip/debate/2022-11-23e.376.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.377.0" newgid="uk.org.publicwhip/debate/2022-11-23e.377.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.377.1" newgid="uk.org.publicwhip/debate/2022-11-23e.377.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.377.2" newgid="uk.org.publicwhip/debate/2022-11-23e.377.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.377.3" newgid="uk.org.publicwhip/debate/2022-11-23e.377.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.379.0" newgid="uk.org.publicwhip/debate/2022-11-23e.379.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.379.1" newgid="uk.org.publicwhip/debate/2022-11-23e.379.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.379.2" newgid="uk.org.publicwhip/debate/2022-11-23e.379.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.382.0" newgid="uk.org.publicwhip/debate/2022-11-23e.382.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.382.1" newgid="uk.org.publicwhip/debate/2022-11-23e.382.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.385.0" newgid="uk.org.publicwhip/debate/2022-11-23e.385.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.387.0" newgid="uk.org.publicwhip/debate/2022-11-23e.387.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.387.1" newgid="uk.org.publicwhip/debate/2022-11-23e.387.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.387.2" newgid="uk.org.publicwhip/debate/2022-11-23e.387.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.387.3" newgid="uk.org.publicwhip/debate/2022-11-23e.387.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.388.0" newgid="uk.org.publicwhip/debate/2022-11-23e.388.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.388.1" newgid="uk.org.publicwhip/debate/2022-11-23e.388.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.388.2" newgid="uk.org.publicwhip/debate/2022-11-23e.388.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.388.3" newgid="uk.org.publicwhip/debate/2022-11-23e.388.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.389.0" newgid="uk.org.publicwhip/debate/2022-11-23e.389.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.389.1" newgid="uk.org.publicwhip/debate/2022-11-23e.389.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.389.2" newgid="uk.org.publicwhip/debate/2022-11-23e.389.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.389.3" newgid="uk.org.publicwhip/debate/2022-11-23e.389.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.390.0" newgid="uk.org.publicwhip/debate/2022-11-23e.390.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.390.1" newgid="uk.org.publicwhip/debate/2022-11-23e.390.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.392.0" newgid="uk.org.publicwhip/debate/2022-11-23e.392.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.392.1" newgid="uk.org.publicwhip/debate/2022-11-23e.392.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.392.2" newgid="uk.org.publicwhip/debate/2022-11-23e.392.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.392.3" newgid="uk.org.publicwhip/debate/2022-11-23e.392.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.392.4" newgid="uk.org.publicwhip/debate/2022-11-23e.392.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.392.5" newgid="uk.org.publicwhip/debate/2022-11-23e.392.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.395.0" newgid="uk.org.publicwhip/debate/2022-11-23e.395.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.395.1" newgid="uk.org.publicwhip/debate/2022-11-23e.395.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.396.0" newgid="uk.org.publicwhip/debate/2022-11-23e.396.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.396.1" newgid="uk.org.publicwhip/debate/2022-11-23e.396.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.399.0" newgid="uk.org.publicwhip/debate/2022-11-23e.399.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.399.1" newgid="uk.org.publicwhip/debate/2022-11-23e.399.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.399.2" newgid="uk.org.publicwhip/debate/2022-11-23e.399.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.399.3" newgid="uk.org.publicwhip/debate/2022-11-23e.399.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.403.0" newgid="uk.org.publicwhip/debate/2022-11-23e.403.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.403.1" newgid="uk.org.publicwhip/debate/2022-11-23e.403.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.403.2" newgid="uk.org.publicwhip/debate/2022-11-23e.403.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.403.3" newgid="uk.org.publicwhip/debate/2022-11-23e.403.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.406.0" newgid="uk.org.publicwhip/debate/2022-11-23e.406.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.406.1" newgid="uk.org.publicwhip/debate/2022-11-23e.406.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.407.0" newgid="uk.org.publicwhip/debate/2022-11-23e.407.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.407.1" newgid="uk.org.publicwhip/debate/2022-11-23e.407.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.407.2" newgid="uk.org.publicwhip/debate/2022-11-23e.407.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.407.3" newgid="uk.org.publicwhip/debate/2022-11-23e.407.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.407.4" newgid="uk.org.publicwhip/debate/2022-11-23e.407.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.407.5" newgid="uk.org.publicwhip/debate/2022-11-23e.407.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.407.6" newgid="uk.org.publicwhip/debate/2022-11-23e.407.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.407.7" newgid="uk.org.publicwhip/debate/2022-11-23e.407.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.408.0" newgid="uk.org.publicwhip/debate/2022-11-23e.408.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.408.1" newgid="uk.org.publicwhip/debate/2022-11-23e.408.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.408.2" newgid="uk.org.publicwhip/debate/2022-11-23e.408.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.408.3" newgid="uk.org.publicwhip/debate/2022-11-23e.408.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.408.4" newgid="uk.org.publicwhip/debate/2022-11-23e.408.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.408.5" newgid="uk.org.publicwhip/debate/2022-11-23e.408.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.408.6" newgid="uk.org.publicwhip/debate/2022-11-23e.408.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.408.7" newgid="uk.org.publicwhip/debate/2022-11-23e.408.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.408.8" newgid="uk.org.publicwhip/debate/2022-11-23e.408.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.408.9" newgid="uk.org.publicwhip/debate/2022-11-23e.408.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.408.10" newgid="uk.org.publicwhip/debate/2022-11-23e.408.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.408.11" newgid="uk.org.publicwhip/debate/2022-11-23e.408.11" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.408.12" newgid="uk.org.publicwhip/debate/2022-11-23e.408.12" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.408.13" newgid="uk.org.publicwhip/debate/2022-11-23e.408.13" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.408.14" newgid="uk.org.publicwhip/debate/2022-11-23e.408.14" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-11-23d.408.14" nospeaker="true" colnum="408" time="17:30:00" url="">
+    <p pid="d408.14/1" class="indent" pwmotiontext="yes">That the draft Transport and Works (Guided Transport Modes) (Amendment) Order 2022, which was laid before this House on <phrase class="date" code="2022-10-24">24 October</phrase>, be approved.—(Fay Jones.)</p>
+    <p pid="d408.14/2">Question agreed to.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.409.0" newgid="uk.org.publicwhip/debate/2022-11-23e.409.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.409.1" newgid="uk.org.publicwhip/debate/2022-11-23e.409.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.409.2" newgid="uk.org.publicwhip/debate/2022-11-23e.409.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-11-23d.409.2" speakername="Jonathan Gullis" type="Start Speech" person_id="uk.org.publicwhip/person/25898" colnum="409" time="18:41:00" url="">
+    <p pid="d409.2/1">On <phrase class="date" code="2022-06-19">19 June</phrase> 2021, the Stoke-on-Trent North, Kidsgrove and Talke community was rocked when it learned of the tragic death of six-year-old Sharlotte-Sky. Sharlotte was killed when John Owen hit her with his car on Endon Road in Norton Green on that fateful day. John Owen was twice over the drink-drive limit, had a series of drugs in his system, was using a mobile phone, had no seatbelt on, and was speeding. Sharlotte was on the pavement with her father, who was also struck. She was on the way to get some sweets for a girls’ night with her mother. This unforgivable and selfish act has taken away a precious young life, left a family broken and scarred a community. It was an event that shocked the entire city of Stoke-on-Trent, with hundreds of people lining the streets for Sharlotte’s funeral in an outpouring of profound grief.</p>
+    <p pid="d409.2/2">Since that horrific night, I have been working with Sharlotte’s brave and inspiring mother, Claire Reynolds—she is in the Public Gallery alongside Sharlotte’s grandfather —The Sentinel and her friends to get the justice they rightfully deserve. Before I speak about why I join Claire and the Stoke-on-Trent community in wanting Mr Owen’s sentence increased so that justice can rightfully be served, I want to take a moment to promote the idea of Sharlotte’s law.</p>
+    <p pid="d409.2/3">Mr Owen caused much distress by prolonging the investigation into Sharlotte’s death, to exploit, in my opinion, loopholes in our justice system. Mr Owen was in a coma when the investigation began, and the law brought about significant problems. Legally, blood samples can be taken without a suspect’s consent yet not subject to a test until consent is given. Therefore, in such situations, the investigation is delayed until consent is received. The current law addressing that is section 7A of the Road Traffic Act 1988. Subsection (4) outlines three criteria that must be met to test a blood sample, one of which is the person providing their consent.</p>
+    <p pid="d409.2/4">I understand from subsection (6) that</p>
+    <p pid="d409.2/5" class="indent" pwmotiontext="yes">“A person who…fails to give his permission for a laboratory test of a specimen of blood”</p>
+    <p pid="d409.2/6">without a reasonable excuse is, under section 7A,</p>
+    <p pid="d409.2/7" class="indent" pwmotiontext="yes">“guilty of an offence.”</p>
+    <p pid="d409.2/8">It therefore seems that consent is simply a formality. Effectively, anything other than providing permission would constitute an offence. The law protracted the investigation into Mr Owen and caused knock-on delays in moving the case forward. Claire has been so brave, sharing her struggles with not just me but the local press, too. She has been battling her own mental health problems that have no doubt been exacerbated by the delays and issues brought about by this law.</p>
+    <p pid="d409.2/9">It seems simple to me. If we are to free up police time and resources, testing blood samples should be happening regardless of consent, in order to get answers. If a suspect has nothing to fear, why would they object to testing? Claire is adamant and defiant that Sharlotte’s death and the torment her family went through will not  be for nothing. She wants to see the consent law scrapped where loss of life has occurred due to a collision with a motor vehicle.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.410.0" newgid="uk.org.publicwhip/debate/2022-11-23e.410.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.410.1" newgid="uk.org.publicwhip/debate/2022-11-23e.410.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-11-23d.410.1" speakername="Jonathan Gullis" type="Continuation Speech" person_id="uk.org.publicwhip/person/25898" colnum="410" time="18:41:00" url="">
+    <p pid="d410.1/1">I thank my hon. Friend for his intervention. I could not agree with him more and I thank him for his kind words. I have rehearsed this speech a few times, hoping not to get teary. It is quite difficult. He is right that people should not fear the law if they have not done anything wrong. A six-year-old should not have lost her life. Worst of all, she should not have had her killer sentenced to only two and a half years in prison. That is not justice.</p>
+    <p pid="d410.1/2">I have pursued this disparity in the law with parliamentary colleagues and raised it in the House multiple times. I have met officials and made a submission to the Department for Transport’s call for evidence on drug driving. I am seeking support from Ministers to implement Sharlotte’s law. Obviously, I will cheekily use this opportunity to see if the Solicitor General, my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25422" name="Michael Tomlinson">the Member for Mid Dorset and North Poole (Michael Tomlinson)</phrase>, will add his name to that call.</p>
+    <p pid="d410.1/3">The main purpose for holding this debate today is to consider the unduly lenient sentence scheme. On <phrase class="date" code="2022-10-04">4 October</phrase> 2022, John Owen was sentenced to six years and four months in prison, with the most shocking revelation being that Mr Owen would only spend two and a half years behind bars. Considering that Judge Glenn told Mr Owen that he was</p>
+    <p pid="d410.1/4" class="indent" pwmotiontext="yes">“an accident waiting to happen”,</p>
+    <p pid="d410.1/5">that rubs salt into the wounds of Sharlotte’s family. The whole north Staffordshire community, myself and most importantly Claire and Sharlotte’s family are rightly outraged at this insultingly lenient sentence, which means that John Owen will have served less time than the young life he has taken.</p>
+    <p pid="d410.1/6">With Claire’s support, I wrote to the Attorney General, who at the time was my right hon. and learned Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24866" name="Michael Ellis">the Member for Northampton North (Michael Ellis)</phrase>, to seek to have the sentence challenged as part of the unduly lenient sentence scheme. Regrettably, the initial response I received from the Solicitor General failed to answer some of the questions I raised about the insulting sentencing of John Owen. I therefore re-wrote to the now Attorney General, my right hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25420" name="Victoria Prentis">the Member for Banbury (Victoria Prentis)</phrase>, seeking clarification on several points.</p>
+    <p pid="d410.1/7">On researching sentences for deaths by dangerous driving, I uncovered that there are categories that judges use as a guideline to determine for how long an offender is sentenced. While Judge Glenn correctly placed Mr Owen in category 1, the highest and most serious category, it is incredibly disappointing that the sentence passed is at the lower end of the spectrum. Category 1 is anywhere between eight and 14 years. Judge Glenn sentenced Sharlotte’s killer to nine and a half years, before giving  a third off to Mr Owen, who had, by some cold legal definition, given a guilty plea at the “earliest opportunity”. In reality, he had exhausted scapegoating the idea he was unfit to stand trial.</p>
+    <p pid="d410.1/8">After my meeting with the Solicitor General, it became clearer that the sentence could have been higher if the following “aggravating factors” had been involved: multiple deaths; if the vehicle was stolen; if the driver had a previous history of bad driving; or if the driver fled the scene. In Sharlotte’s case, none of those applies. However, if John Owen having been drinking and on drugs does not act as a severe aggravating factor, and display a complete disregard for others’ lives and a willingness selfishly to endanger life such that a six-year-old girl was killed as she walked along the pavement in her home village of Norton Green, victims like Claire will continue to be failed by our justice system.</p>
+    <p pid="d410.1/9">It is well documented from John Owen’s friends that he was drinking earlier on in the day and chose to get in the car, with complete contempt for life. That sheer selfishness should be an aggravating factor. It demonstrates that, despite his friends’ protests, he neglected the fact that he was not fit to drive and made an active choice to get behind the wheel. The devastating fact is that he simply did not care and then went on to kill a beautiful young girl.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.411.0" newgid="uk.org.publicwhip/debate/2022-11-23e.411.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.411.1" newgid="uk.org.publicwhip/debate/2022-11-23e.411.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.413.0" newgid="uk.org.publicwhip/debate/2022-11-23e.413.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.413.1" newgid="uk.org.publicwhip/debate/2022-11-23e.413.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2022-11-23d.414.0" newgid="uk.org.publicwhip/debate/2022-11-23e.414.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2022-11-23d.414.0" speakername="Michael Tomlinson" type="Continuation Speech" person_id="uk.org.publicwhip/person/25422" colnum="414" time="19:00:00" url="">
+    <p pid="d414.0/1">My role and that of the Attorney General is to act as guardians of the public interest. In exercising our functions, we act quasi-judicially in the public interest and independently of Government. I share the desire of my hon. Friend the Member for Stoke-on-Trent North to ensure that those responsible for terrible crimes are properly punished. In the vast majority of cases, sentencing judges get it right. They deal with a huge variety of cases that vary in complexity and severity, and I commend them for their work. Thousands of cases are dealt with in the Crown court each year, and a similar number of sentences are imposed. In 2021, 151 cases were referred to the Court of Appeal under the ULS scheme, and sentences were increased in 106 cases. That is a rate of 70%.</p>
+    <p pid="d414.0/2">The ULS scheme, as my hon. Friend mentioned, is intended to promote justice, fairness and consistency. It allows sentences that are too low to be increased, and is there to correct an error when judges get it wrong. Cases can, however, be referred to the Court of Appeal only if all three of the following conditions are satisfied. First, the offence must be within the ULS scheme. Secondly, the application must be lodged within 28 days. Thirdly, it must appear to the Attorney General or I that the sentence is not just lenient but unduly lenient. Of course, not all offences come within the scheme. It is reserved for those offences that are the most serious, such as murder, rape, robbery and causing death by dangerous driving. It has been extended over recent years.</p>
+    <p pid="d414.0/3">Let me turn specifically to the offence of causing death by dangerous driving, and pick up some of the more specific points that my hon. Friend mentioned. First, he made an important point about a discount for a guilty plea. Sentencing Council guidelines rightly encourage a defendant to accept responsibility and avoid the need for a trial. If there were no reduction for a guilty plea, there would be little incentive to plead guilty, and a defendant may as well just have a trial. That would cause more anxiety to witnesses, victims and their families, and would act as a disincentive to pleading guilty. We must, however, get the balance right—hence there is a process to encourage an early guilty plea.</p>
+    <p pid="d414.0/4">As my hon. Friend said, the reduction is applied on a sliding scale from one third, with the largest discounts for cases where a defendant pleads guilty at the earliest opportunity. I heard loud and clear what my hon. Friend said, and I know that his campaign on this point  will continue, but there may be occasions where the first opportunity legally is not the very first appearance in court. It may occur later in proceedings.</p>
+    <p pid="d414.0/5">My hon. Friend asked when a case can be referred to the Court of Appeal. It is important to note that, as he rightly said, the ULS scheme applies only to sentences that are unduly lenient, not to sentences that are simply lenient. The test is a high one. Parliament intended that the Court of Appeal will grant permission to refer a sentence only in exceptional circumstances, as he said—for example, if the judge has passed a sentence that falls outside the range of sentences that a judge could properly consider appropriate, or if there has been a gross error in law.</p>
+    <p pid="d414.0/6">I must pay tribute to the invaluable work of the Sentencing Council for its development of sentencing guidelines that assist judges in deciding just and proportionate sentences. On the categorisation in those guidelines, my hon. Friend rightly said that level 1 is for the most serious offences, and encompasses driving that involves a deliberate decision to ignore, or a flagrant disregard for, the rules of the road. Level 2 is less serious and is for driving that has created a substantial risk of danger. As my hon. Friend said, for an offence committed, importantly, before <phrase class="date" code="2022-06-28">28 June</phrase> this year, the starting point for a level 1 offence is eight years in custody, with a range of seven to 14 years.</p>
+    <p pid="d414.0/7">As my hon. Friend has rightly mentioned, aggravating and mitigating factors must be considered. Once a provisional sentence is arrived at, the court is required to take into account factors that might make an offence more serious, and that is quite right—they are called aggravating features—but it must also consider factors that might reduce the seriousness of the offence or reflect personal mitigation. Those are mitigating factors. Different aggravating and mitigating factors will apply in every case and it is for the court to decide what weight to place on those sentences.</p>
+    <p pid="d414.0/8">My hon. Friend has rightly said that sentences for the very top end of the scale are reserved for particularly egregious offences and he mentioned some of the particular factors that are aggravating. According to the guidelines, they include previous convictions for motoring offences, and more than one person being killed as a result of the event. Every death on the road is a tragedy but there is a scale, and it is right that when more than one death occurs, that should be reflected in the sentence. That is an aggravating feature, as is serious injury to one or more victims. I will mention just two more: other offences being committed at the same time, such as driving without a licence; and driving off in an attempt to avoid   detection or apprehension. I am grateful to my hon. Friend for his kind words about our constructive meeting on some of these detailed points.</p>
+    <p pid="d414.0/9">In terms of recent reforms, our laws must strongly signal that causing death by dangerous driving will not be tolerated. I know that, recognising a trend of inadequate sentences for causing death by dangerous driving, my hon. Friend warmly welcomed and fully supported the Police, Crime, Sentencing and Courts Act 2022. He rightly said that it increases the maximum sentence from 14 years imprisonment to life imprisonment. Of course, that is only for offences committed after <phrase class="date" code="2022-06-28">28 June</phrase>, when the Act comes into force, and he is absolutely right to say that it cannot be applied retrospectively.</p>
+    <p pid="d414.0/10">I know that my hon. Friend is committed to tackling drivers under the influence of alcohol and drugs, and to ensuring that all such drivers are caught and punished. The Government are too. First, we have increased the maximum penalties for causing death by careless driving when under the influence of drink or drugs. Secondly, we have changed the law to increase the maximum period of imprisonment and the minimum driver disqualification period for those who commit the most serious road traffic offences, ensuring that they are kept off our roads for longer periods. I know that my hon. Friend is also aware of the Department for Transport’s call for evidence relating to drug driving, which closed in June. This combined approach of tough penalties and rigorous enforcement reinforces the social unacceptability of drink and drug driving, and reminds people of the very serious consequences.</p>
+    <p pid="d414.0/11">I am seriously grateful to my hon. Friend for bringing this debate. The ULS scheme is not shrouded in mystery, and nor should it be, but it is not often that we have the opportunity to debate the scheme in any detail and I am grateful to him for providing this opportunity. I am also grateful to his constituents, and I acknowledge their courage in allowing Sharlotte’s case to be highlighted. I know personally how difficult it is for family members to come to Parliament after such a tragic event, and I know the toll that even this debate will be taking, but as my hon. Friend continues his campaign, it may be at least some little comfort to know that Sharlotte’s tragic case will help to highlight the scourge of dangerous driving and has helped to make a difference through my hon. Friend’s campaign and the increase in sentencing in the 2022 Act. Sharlotte’s memory will continue to have a positive impact in the future.</p>
+    <p pid="d414.0/12">Question put and agreed to.</p>
+    <p pid="d414.0/13">House adjourned.</p>
+</speech>
+</publicwhip>
+

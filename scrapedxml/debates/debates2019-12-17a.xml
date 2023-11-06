@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/debates/debates2019-12-17a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.1.0" newgid="uk.org.publicwhip/debate/2019-12-17b.1.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.1.1" newgid="uk.org.publicwhip/debate/2019-12-17b.1.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.1.2" newgid="uk.org.publicwhip/debate/2019-12-17b.1.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.1.3" newgid="uk.org.publicwhip/debate/2019-12-17b.1.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.1.4" newgid="uk.org.publicwhip/debate/2019-12-17b.1.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.1.5" newgid="uk.org.publicwhip/debate/2019-12-17b.1.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.1.6" newgid="uk.org.publicwhip/debate/2019-12-17b.1.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.3.0" newgid="uk.org.publicwhip/debate/2019-12-17b.3.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.4.0" newgid="uk.org.publicwhip/debate/2019-12-17b.4.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.4.1" newgid="uk.org.publicwhip/debate/2019-12-17b.4.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.4.2" newgid="uk.org.publicwhip/debate/2019-12-17b.4.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.5.0" newgid="uk.org.publicwhip/debate/2019-12-17b.5.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.7.0" newgid="uk.org.publicwhip/debate/2019-12-17b.7.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.7.1" newgid="uk.org.publicwhip/debate/2019-12-17b.7.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.7.2" newgid="uk.org.publicwhip/debate/2019-12-17b.7.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.8.0" newgid="uk.org.publicwhip/debate/2019-12-17b.8.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.9.0" newgid="uk.org.publicwhip/debate/2019-12-17b.9.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.9.1" newgid="uk.org.publicwhip/debate/2019-12-17b.9.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.10.0" newgid="uk.org.publicwhip/debate/2019-12-17b.10.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.10.1" newgid="uk.org.publicwhip/debate/2019-12-17b.10.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.10.2" newgid="uk.org.publicwhip/debate/2019-12-17b.10.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.10.3" newgid="uk.org.publicwhip/debate/2019-12-17b.10.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.10.4" newgid="uk.org.publicwhip/debate/2019-12-17b.10.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.11.0" newgid="uk.org.publicwhip/debate/2019-12-17b.11.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.11.1" newgid="uk.org.publicwhip/debate/2019-12-17b.11.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.11.2" newgid="uk.org.publicwhip/debate/2019-12-17b.11.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2019-12-17a.11.2" speakername="Lindsay Hoyle" person_id="uk.org.publicwhip/person/10295" colnum="11" time="15:52:00" url="">
+    <p pid="a11.2/1">I should remind hon. Members that, until they take the Oath or affirm, they must not sit during any debate or vote in any Division of the House, and they will not receive any salary—a big temptation. The arrangements for swearing in are as set out in the Chamber information sheet and a guidance note is also available from the Table Office and the Vote Office.</p>
+    <p pid="a11.2/2">I propose to call first the Father of the House, then members of the Cabinet, then members of the shadow Cabinet, then all Privy Counsellors not included in those two groups, wherever they may be sitting, and then other Ministers. Thereafter, I shall call other hon. Members broadly according to the Parliament of their first entry, or, for those with broken service, that of their most recent entry. The first batch will be those who have been Members since before the 2010 election. Thereafter, I shall proceed to call Members by successive Parliaments. I do not expect to call new Members until tomorrow.</p>
+    <p pid="a11.2/3">I propose to remain in the Chair until 5.45 today and to return at 6.45, continuing until 8.45, with a later session if necessary. The House will sit again tomorrow at 11.30. I propose to be in the Chair for swearing in tomorrow from 11.30 until 1.30, to return at 2 until 4, and again from 4.30 until 5.45, with a later session if necessary. I hope that, by the end of tomorrow afternoon, we will have made sufficient progress to enable all Members to swear in who wish to do so. However, if required, we will sit for swearing in at 2 o’clock on Thursday before the opening of the debate on the Queen’s Speech.</p>
+    <p pid="a11.2/4">I remind Members that the swearing in, as a proceeding of the House, is recorded by television cameras: anything said or done by Members may appear on television or be picked up on microphones. It will assist the broadcasters if new Members state their name and constituency when they come to the Dispatch Box. Progress will depend, of course, on the number of Members wishing to swear in at any particular time. I advise Members to watch the annunciators to establish progress, and to speak to their Whips.</p>
+    <p pid="a11.2/5">The following Members took and subscribed the Oath, or made and subscribed the Affirmation required by law:</p>
+    <p pid="a11.2/6">Sir Peter James Bottomley, for Worthing West</p>
+    <p pid="a11.2/7">Right honourable Alexander Boris de Pfeffel Johnson , Uxbridge and South Ruislip</p>
+    <p pid="a11.2/8">Right honourable Priti Sushil Patel, Witham</p>
+    <p pid="a11.2/9">Right honourable Dominic Rennie Raab, Esher and Walton</p>
+    <p pid="a11.2/10">Right honourable Robert James Buckland, South Swindon</p>
+    <p pid="a11.2/11">Right honourable Jacob William Rees-Mogg, North East Somerset</p>
+    <p pid="a11.2/12">Right honourable Sajid Javid, Bromsgrove</p>
+    <p pid="a11.2/13">Right honourable Michael Andrew Gove, Surrey Heath</p>
+    <p pid="a11.2/14">Right honourable Thérèse Anne Coffey, Suffolk Coastal</p>
+    <p pid="a11.2/15">Right honourable Mark Steven Spencer, Sherwood</p>
+    <p pid="a11.2/16">Right honourable Robert Edward Jenrick, Newark</p>
+    <p pid="a11.2/17">Right honourable Robert Ben Lobban Wallace, Wyre and Preston North</p>
+    <p pid="a11.2/18">Right honourable Alok Kumar Sharma, Reading West</p>
+    <p pid="a11.2/19">Right honourable Andrea Jacqueline Leadsom, South Northamptonshire</p>
+    <p pid="a11.2/20">Right honourable Brandon Kenneth Lewis, Great Yarmouth</p>
+    <p pid="a11.2/21">Right honourable Grant Shapps, Welwyn Hatfield</p>
+    <p pid="a11.2/22">Right honourable Kwasi Alfred Addo Kwarteng, Spelthorne</p>
+    <p pid="a11.2/23">Right honourable Gavin Alexander Williamson, South Staffordshire</p>
+    <p pid="a11.2/24">Right honourable Elizabeth Mary Truss, South West Norfolk</p>
+    <p pid="a11.2/25">Right honourable Matthew John David Hancock, West Suffolk</p>
+    <p pid="a11.2/26">Right honourable Charles Geoffrey Cox, Torridge and West Devon</p>
+    <p pid="a11.2/27">Right honourable Theresa Anne Villiers, Chipping Barnet</p>
+    <p pid="a11.2/28">Right honourable Rishi Sunak, Richmond (Yorks)</p>
+    <p pid="a11.2/29">Right honourable Oliver James Dowden, Hertsmere</p>
+    <p pid="a11.2/30">Right honourable Stephen Paul Barclay, North East Cambridgeshire</p>
+    <p pid="a11.2/31">Right honourable James Spencer Cleverly, Braintree</p>
+    <p pid="a11.2/32">Right honourable Jeremy Bernard Corbyn, Islington North</p>
+    <p pid="a11.2/33">Right honourable Nicholas Hugh Brown, Newcastle upon Tyne East</p>
+    <p pid="a11.2/34">Right honourable Valerie Carol Marian Vaz, Walsall South</p>
+    <p pid="a11.2/35">Right honourable Diane Julie Abbott, Hackney North and Stoke Newington</p>
+    <p pid="a11.2/36">Jonathan Michael Graham Ashworth, Leicester South</p>
+    <p pid="a11.2/37">Right honourable Emily Thornberry, Islington South and Finsbury</p>
+    <p pid="a11.2/38">Right honourable John Healey, Wentworth and Dearne</p>
+    <p pid="a11.2/39">Dawn Petula Butler, Brent Central</p>
+    <p pid="a11.2/40">Richard Burgon, Leeds East</p>
+    <p pid="a11.2/41">Catherine Jane Smith, Lancaster and Fleetwood</p>
+    <p pid="a11.2/42">Andrew John Gwynne, Denton and Reddish</p>
+    <p pid="a11.2/43">Peter Christopher Dowd, Bootle</p>
+    <p pid="a11.2/44">Nia Rhiannon Griffith, Llanelli</p>
+    <p pid="a11.2/45">Barry Strachan Gardiner, Brent North</p>
+    <p pid="a11.2/46">Andrew Joseph McDonald, Middlesbrough</p>
+    <p pid="a11.2/47">Right honourable Robert Henry Halfon, Harlow</p>
+    <p pid="a11.2/48">Ian Lavery, Wansbeck</p>
+    <p pid="a11.2/49">Afzal Mohammed Khan, Manchester, Gorton</p>
+    <p pid="a11.2/50">Anthony Joseph Lloyd, Rochdale</p>
+    <p pid="a11.2/51">Right honourable Theresa Mary May, Maidenhead</p>
+    <p pid="a11.2/52">Right honourable Dame Cheryl Elise Kendall Gillan, Chesham and Amersham</p>
+    <p pid="a11.2/53">Right honourable Margaret Mary Beckett, Derby South</p>
+    <p pid="a11.2/54">Right honourable Sir Oliver Heald, North East Hertfordshire</p>
+    <p pid="a11.2/55">Right honourable Alexander Jesse Norman, Hereford and South Herefordshire</p>
+    <p pid="a11.2/56">Right honourable Edward Samuel Miliband, Doncaster North</p>
+    <p pid="a11.2/57">Right honourable Dame Rosalie Winterton, Doncaster Central</p>
+    <p pid="a11.2/58">Right honourable Ian Blackford, Ross, Skye and Lochaber</p>
+    <p pid="a11.2/59">Right honourable Hilary James Benn, Leeds Central</p>
+    <p pid="a11.2/60">Right honourable Sir David Anthony Evennett, Bexleyheath and Crayford</p>
+    <p pid="a11.2/61">Right honourable Mark Gino Francois, Rayleigh and Wickford</p>
+    <p pid="a11.2/62">Right honourable James Peter Brokenshire, Old Bexley and Sidcup</p>
+    <p pid="a11.2/63">Right honourable Christopher Stephen Grayling, Epsom and Ewell</p>
+    <p pid="a11.2/64">Right honourable David Michael Davis, Haltemprice and Howden</p>
+    <p pid="a11.2/65">Right honourable Sir Roger James Gale, North Thanet</p>
+    <p pid="a11.2/66">Right honourable Sir Edward Julian Egerton Leigh, Gainsborough</p>
+    <p pid="a11.2/67">Right honourable Sir Desmond Angus Swayne, New Forest West</p>
+    <p pid="a11.2/68">Right honourable Sir George Edward Howarth, Knowsley</p>
+    <p pid="a11.2/69">Right honourable Nicolas John Gibb, Bognor Regis and Littlehampton</p>
+    <p pid="a11.2/70">Barbara Mary Keeley, Worsley and Eccles South</p>
+    <p pid="a11.2/71">Right honourable Stephen Crabb, Preseli Pembrokeshire</p>
+    <p pid="a11.2/72">Right honourable and learned Jeremy Paul Wright, Kenilworth and Southam</p>
+    <p pid="a11.2/73">Right honourable Damian Howard Green, Ashford</p>
+    <p pid="a11.2/74">Right honourable Caroline Fiona Ellen Nokes, Romsey and Southampton North</p>
+    <p pid="a11.2/75">Right honourable Julian Murray Lewis, New Forest East</p>
+    <p pid="a11.2/76">Right honourable Maria Frances Lewis Miller, Basingstoke</p>
+    <p pid="a11.2/77">Right honourable David Lindon Lammy, Tottenham</p>
+    <p pid="a11.2/78">Mary Josephine Robinson, Cheadle</p>
+    <p pid="a11.2/79">Right honourable Karen Anne Bradley, Staffordshire Moorlands</p>
+    <p pid="a11.2/80">Right honourable Andrew William Murrison, South West Wiltshire</p>
+    <p pid="a11.2/81">Right honourable Mark James Harper, Forest of Dean</p>
+    <p pid="a11.2/82">Right honourable Philip Martin Dunne, Ludlow</p>
+    <p pid="a11.2/83">Right honourable David Gordon Mundell, Dumfriesshire, Clydesdale and Tweeddale</p>
+    <p pid="a11.2/84">Right honourable David Ian Jones, Clwyd West</p>
+    <p pid="a11.2/85">Right honourable Christopher James Skidmore, Kingswood</p>
+    <p pid="a11.2/86">Right honourable Esther Louise McVey, Tatton</p>
+    <p pid="a11.2/87">Right honourable Sir Edward Jonathon Davey, Kingston and Surbiton</p>
+    <p pid="a11.2/88">Right honourable Alexander Morrison Carmichael, Orkney and Shetland</p>
+    <p pid="a11.2/89">Right honourable Gregory William Hands, Chelsea and Fulham</p>
+    <p pid="a11.2/90">Right honourable Gregory David Clark, Tunbridge Wells</p>
+    <p pid="a11.2/91">Right honourable Harriet Ruth Harman, Camberwell and Peckham</p>
+    <p pid="a11.2/92">Right honourable Dame Margaret Eve Hodge, Barking</p>
+    <p pid="a11.2/93">Barry John Sheerman, Huddersfield</p>
+    <p pid="a11.2/94">Rosemary Elizabeth Cooper, West Lancashire</p>
+    <p pid="a11.2/95">Yasmin Qureshi, Bolton South East</p>
+    <p pid="a11.2/96">Virendra Kumar Sharma, Ealing, Southall</p>
+    <p pid="a11.2/97">Mohammad Yasin, Bedford</p>
+    <p pid="a11.2/98">Karen Patricia Buck, Westminster North</p>
+    <p pid="a11.2/99">Olukemi Olufunto Badenoch, Saffron Walden</p>
+    <p pid="a11.2/100">Julia Louise Lopez, Hornchurch and Upminster</p>
+    <p pid="a11.2/101">Nadine Vanessa Dorries, Mid Bedfordshire</p>
+    <p pid="a11.2/102">Right honourable Jeremy Richard Streynsham Hunt, South West Surrey</p>
+    <p pid="a11.2/103">Right honourable Liam Fox, North Somerset</p>
+    <p pid="a11.2/104">Right honourable Dame Eleanor Fulton Laing, Epping Forest</p>
+    <p pid="a11.2/105">Right honourable Mark Richard Tami, Alyn and Deeside</p>
+    <p pid="a11.2/106">Judith Mary Cummins, Bradford South</p>
+    <p pid="a11.2/107">Lyn Carol Brown, West Ham</p>
+    <p pid="a11.2/108">Jessica Elizabeth Morden, Newport East</p>
+    <p pid="a11.2/109">Shailesh Lakhman Vara, North West Cambridgeshire</p>
+    <p pid="a11.2/110">Stephen William Hammond, Wimbledon</p>
+    <p pid="a11.2/111">Right honourable Stephen Creswell Timms, East Ham</p>
+    <p pid="a11.2/112">Michael Lee Amesbury, Weaver Vale</p>
+    <p pid="a11.2/113">John Derek Twigg, Halton</p>
+    <p pid="a11.2/114">Right honourable George Iain Duncan Smith, Chingford and Woodford Green</p>
+    <p pid="a11.2/115">Iain Aitken Stewart, Milton Keynes South</p>
+    <p pid="a11.2/116">Sir Robert Andrew Raymond Syms, Poole</p>
+    <p pid="a11.2/117">Caroline Julia Dinenage, Gosport</p>
+    <p pid="a11.2/118">Justin Paul Tomlinson, North Swindon</p>
+    <p pid="a11.2/119">Right honourable Owen William Paterson, North Shropshire</p>
+    <p pid="a11.2/120">Right honourable Kevan David Jones, North Durham</p>
+    <p pid="a11.2/121">Right honourable Alan Campbell, Tynemouth</p>
+    <p pid="a11.2/122">Right honourable Penny Mary Mordaunt, Portsmouth North</p>
+    <p pid="a11.2/123">Right honourable Michael Tyrone Ellis, Northampton North</p>
+    <p pid="a11.2/124">Graham Charles Stuart, Beverley and Holderness</p>
+    <p pid="a11.2/125">Right honourable Sir John Henry Hayes, South Holland and The Deepings</p>
+    <p pid="a11.2/126">Victoria Atkins, Louth and Horncastle</p>
+    <p pid="a11.2/127">Right honourable Robert Goodwill, Scarborough and Whitby</p>
+    <p pid="a11.2/128">James McMahon, Oldham West and Royton</p>
+    <p pid="a11.2/129">Stephen James Morgan, Portsmouth South</p>
+    <p pid="a11.2/130">Mark Robert Timothy Garnier, Wyre Forest</p>
+    <p pid="a11.2/131">Andrew James Bridgen, North West Leicestershire</p>
+    <p pid="a11.2/132">Right honourable Damian Patrick George Hinds, East Hampshire</p>
+    <p pid="a11.2/133">Right honourable Alec Shelbrooke, Elmet and Rothwell</p>
+    <p pid="a11.2/134">Wendy Morton, Aldridge-Brownhills</p>
+    <p pid="a11.2/135">Kevin John Foster, Torbay</p>
+    <p pid="a11.2/136">Johanna Peta Churchill, Bury St Edmunds</p>
+    <p pid="a11.2/137">Thomas Christopher John Pursglove, Corby</p>
+    <p pid="a11.2/138">Graham Eric Stringer, Blackley and Broughton</p>
+    <p pid="a11.2/139">Pauline Elizabeth Latham, Mid Derbyshire</p>
+    <p pid="a11.2/140">Angela Eagle, Wallasey</p>
+    <p pid="a11.2/141">Alister William Jack, Dumfries and Galloway</p>
+    <p pid="a11.2/142">Samuel Wilson, East Antrim</p>
+    <p pid="a11.2/143">Conor Patrick McGinn, St Helens North</p>
+    <p pid="a11.2/144">Gavin James Robinson, Belfast East</p>
+    <p pid="a11.2/145">Edward John Comport Argar, Charnwood</p>
+    <p pid="a11.2/146">Heather Kay Wheeler, South Derbyshire</p>
+    <p pid="a11.2/147">John David Penrose, Weston-super-Mare</p>
+    <p pid="a11.2/148">Margaret Olivia Hillier, Hackney South and Shoreditch</p>
+    <p pid="a11.2/149">Marie Elizabeth Rimmer, St Helens South and Whiston</p>
+    <p pid="a11.2/150">Catherine Malloy Hollern, Blackburn</p>
+    <p pid="a11.2/151">Right honourable Sir Jeffrey Mark Donaldson, Lagan Valley</p>
+    <p pid="a11.2/152">Richard Michael John Ogilvie Graham, Gloucester</p>
+    <p pid="a11.2/153">Andrew George Stephenson, Pendle</p>
+    <p pid="a11.2/154">Margaret Ann Throup, Erewash</p>
+    <p pid="a11.2/155">Yvonne Helen Fovargue, Makerfield</p>
+    <p pid="a11.2/156">Imran Hussain, Bradford East</p>
+    <p pid="a11.2/157">John Robert Lamont, Berwickshire, Roxburgh and Selkirk</p>
+    <p pid="a11.2/158">Douglas Gordon Ross, Moray</p>
+    <p pid="a11.2/159">Right honourable Sir John Alan Redwood, Wokingham</p>
+    <p pid="a11.2/160">James Whiteside Gray, North Wiltshire</p>
+    <p pid="a11.2/161">Sir Graham Stuart Brady, Altrincham and Sale West</p>
+    <p pid="a11.2/162">Robert James MacGillivray Neill, Bromley and Chislehurst</p>
+    <p pid="a11.2/163">Right honourable John Francis Spellar, Warley</p>
+    <p pid="a11.2/164">Maria Eagle, Garston and Halewood</p>
+    <p pid="a11.2/165">Annaliese Jane Dodds, Oxford East</p>
+    <p pid="a11.2/166">Daniel Owen Jarvis, Barnsley Central</p>
+    <p pid="a11.2/167">Right honourable John Martin McDonnell, Hayes and Harlington</p>
+    <p pid="a11.2/168">Tanmanjeet Singh Dhesi, Slough</p>
+    <p pid="a11.2/169">Seema Malhotra, Feltham and Heston</p>
+    <p pid="a11.2/170">Timothy Paul Loughton, East Worthing and Shoreham</p>
+    <p pid="a11.2/171">Sir Charles Ashley Rupert Walker, Broxboume</p>
+    <p pid="a11.2/172">Shabana Mahmood, Birmingham, Ladywood</p>
+    <p pid="a11.2/173">Christina Elizabeth Rees, Neath</p>
+    <p pid="a11.2/174">Christopher John Bryant, Rhondda</p>
+    <p pid="a11.2/175">Alan Patrick Vincent Whitehead, Southampton, Test</p>
+    <p pid="a11.2/176">Christopher Philip James Elmore, Ogmore</p>
+    <p pid="a11.2/177">Carolyn Harris, Swansea East</p>
+    <p pid="a11.2/178">Gerald Jones, Merthyr Tydfil and Rhymney</p>
+    <p pid="a11.2/179">Simon James Hoare, North Dorset</p>
+    <p pid="a11.2/180">Victoria Mary Boswell Prentis, Banbury</p>
+    <p pid="a11.2/181">Robin Caspar Walker, Worcester</p>
+    <p pid="a11.2/182">Craig Whittaker, Calder Valley</p>
+    <p pid="a11.2/183">Lilian Rachel Greenwood, Nottingham South</p>
+    <p pid="a11.2/184">Preet Kaur Gill, Birmingham, Edgbaston</p>
+    <p pid="a11.2/185">Ranil Malcolm Jayawardena, North East Hampshire</p>
+    <p pid="a11.2/186">Leo Docherty, Aldershot</p>
+    <p pid="a11.2/187">Gregory Lloyd Campbell, East Londonderry</p>
+    <p pid="a11.2/188">Right honourable Christopher John Pincher, Tamworth</p>
+    <p pid="a11.2/189">Right honourable Andrew John Bower Mitchell,  Sutton Coldfield</p>
+    <p pid="a11.2/190">Catherine McKinnell, Newcastle upon Tyne North</p>
+    <p pid="a11.2/191">Anna Rhiannon McMorrin, Cardiff North</p>
+    <p pid="a11.2/192">Atta-Ur-Rehman Chishti, Gillingham and Rainham</p>
+    <p pid="a11.2/193">Catherine Elizabeth West, Hornsey and Wood Green</p>
+    <p pid="a11.2/194">Jonathan Simon Djanogly, Huntingdon</p>
+    <p pid="a11.2/195">Chinyelu Susan Onwurah, Newcastle upon Tyne Central</p>
+    <p pid="a11.2/196">Paul Stuart Scully, Sutton and Cheam</p>
+    <p pid="a11.2/197">Sir Alexander Paul Beresford, Mole Valley</p>
+    <p pid="a11.2/198">Sir Geoffrey Robert Clifton-Brown, The Cotswolds</p>
+    <p pid="a11.2/199">Right honourable John Flasby Lawrance Whittingdale, Maldon</p>
+    <p pid="a11.2/200">Royston Matthew Smith, Southampton, Itchen</p>
+    <p pid="a11.2/201">Stephen Anthony McPartland, Stevenage</p>
+    <p pid="a11.2/202">Nigel Martin Evans, Ribble Valley</p>
+    <p pid="a11.2/203">William James Quince, Colchester</p>
+    <p pid="a11.2/204">Marcus Charles Jones, Nuneaton</p>
+    <p pid="a11.2/205">Alberto Castrenze Costa, South Leicestershire</p>
+    <p pid="a11.2/206">Sheryll Murray, South East Cornwall</p>
+    <p pid="a11.2/207">Nusrat Munir Ghani, Wealden</p>
+    <p pid="a11.2/208">David Thomas Morris, Morecambe and Lunesdale</p>
+    <p pid="a11.2/209">Andrew Richard Rosindell, Romford</p>
+    <p pid="a11.2/210">Lucy Claire Frazer, South East Cambridgeshire</p>
+    <p pid="a11.2/211">Right honourable Alun Hugh Cairns, Vale of Glamorgan</p>
+    <p pid="a11.2/212">Sir David Anthony Andrew Amess, Southend West</p>
+    <p pid="a11.2/213">Alexander Cunningham, Stockton North</p>
+    <p pid="a11.2/214">Christian John Patrick Matheson, City of Chester</p>
+    <p pid="a11.2/215">Marsha Chantol De Cordova, Battersea</p>
+    <p pid="a11.2/216">Christopher Laurie Malthouse, North West Hampshire</p>
+    <p pid="a11.2/217">William David Wiggin, North Herefordshire</p>
+    <p pid="a11.2/218">Sir William Nigel Paul Cash, Stone</p>
+    <p pid="a11.2/219">Sitting suspended.</p>
+    <p pid="a11.2/220">On resuming—</p>
+    <p pid="a11.2/221">The following Members took and subscribed the Oath, or made and subscribed the Affirmation required by law:</p>
+    <p pid="a11.2/222">Nicklaus Thomas-Symonds, for Torfaen</p>
+    <p pid="a11.2/223">Joanna Meriel Stevens, Cardiff Central</p>
+    <p pid="a11.2/224">Michael Joseph Patrick Kane, Wythenshawe and Sale East</p>
+    <p pid="a11.2/225">James Morris, Halesowen and Rowley Regis</p>
+    <p pid="a11.2/226">Tracey Elizabeth Anne Crouch, Chatham and Aylesford</p>
+    <p pid="a11.2/227">Nadhim Zahawi, Stratford-on-Avon</p>
+    <p pid="a11.2/228">Matthew Robert Warman, Boston and Skegness</p>
+    <p pid="a11.2/229">Stephen Daniel Double, St Austell and Newquay</p>
+    <p pid="a11.2/230">Robert William Henry Seely, Isle of Wight</p>
+    <p pid="a11.2/231">Benjamin David Bradley, Mansfield</p>
+    <p pid="a11.2/232">Right honourable Conor Burns, Bournemouth West</p>
+    <p pid="a11.2/233">Laurence Anthony Robertson, Tewkesbury</p>
+    <p pid="a11.2/234">Robert Alexander Stewart, Beckenham</p>
+    <p pid="a11.2/235">Stewart Hosie, Dundee East</p>
+    <p pid="a11.2/236">Henry Edward Millar Smith, Crawley</p>
+    <p pid="a11.2/237">Paul Christopher Maynard, Blackpool North and Cleveleys</p>
+    <p pid="a11.2/238">Robert John Blackman, Harrow East</p>
+    <p pid="a11.2/239">John Philip Glen, Salisbury</p>
+    <p pid="a11.2/240">Richard Quentin Fuller, North East Bedfordshire</p>
+    <p pid="a11.2/241">Nigel Adams, Selby and Ainsty</p>
+    <p pid="a11.2/242">Karl McCartney, Lincoln</p>
+    <p pid="a11.2/243">Sir Gary Nicholas Streeter, South West Devon</p>
+    <p pid="a11.2/244">Adam Afriyie, Windsor</p>
+    <p pid="a11.2/245">David Thomas Charles Davies, Monmouth</p>
+    <p pid="a11.2/246">Fabian Hamilton, Leeds North East</p>
+    <p pid="a11.2/247">Gillian Furniss, Sheffield, Brightside and Hillsborough</p>
+    <p pid="a11.2/248">Colleen Margaret Fletcher, Coventry North East</p>
+    <p pid="a11.2/249">Miriam Jane Alice Davies, Mid Sussex</p>
+    <p pid="a11.2/250">Timothy James Farron, Westmorland and Lonsdale</p>
+    <p pid="a11.2/251">Christopher Heaton-Harris, Daventry</p>
+    <p pid="a11.2/252">Daniel Robert Kawczynski, Shrewsbury and Atcham</p>
+    <p pid="a11.2/253">Rebecca Faye Pow, Taunton Deane</p>
+    <p pid="a11.2/254">James Stephen Heappey, Wells</p>
+    <p pid="a11.2/255">Right honourable Sir Gregory Knight, East Yorkshire</p>
+    <p pid="a11.2/256">Peter Wishart, Perth and North Perthshire</p>
+    <p pid="a11.2/257">Patrick John Grady, Glasgow North</p>
+    <p pid="a11.2/258">Carol Frances Monaghan, Glasgow North West</p>
+    <p pid="a11.2/259">James Ian Mearns, Gateshead</p>
+    <p pid="a11.2/260">Anthony James Holland Mangnall, Totnes</p>
+    <p pid="a11.2/261">James Philip Duddridge, Rochford and Southend East</p>
+    <p pid="a11.2/262">Victoria Grace Ford, Chelmsford</p>
+    <p pid="a11.2/263">Kelly Jane Tolhurst, Rochester and Strood</p>
+    <p pid="a11.2/264">Nicholas Desmond John Smith, Blaenau Gwent</p>
+    <p pid="a11.2/265">Philip Andrew Davies, Shipley</p>
+    <p pid="a11.2/266">Right honourable Damian Howard Green, Ashford</p>
+    <p pid="a11.2/267">Angus Brendan MacNeil, Na h-Eileanan an Iar</p>
+    <p pid="a11.2/268">Martin John Docherty-Hughes, West Dunbartonshire</p>
+    <p pid="a11.2/269">Alison Emily Thewliss, Glasgow Central</p>
+    <p pid="a11.2/270">Emma Louise Lewell-Buck, South Shields</p>
+    <p pid="a11.2/271">Gordon Leonard Henderson, Sittingbourne and Sheppey</p>
+    <p pid="a11.2/272">Kevin Denis Brennan, Cardiff West</p>
+    <p pid="a11.2/273">Jeremy Mark Quin, Horsham</p>
+    <p pid="a11.2/274">Simon Richard Clarke, Middlesbrough South and East Cleveland</p>
+    <p pid="a11.2/275">Thangam Elizabeth Rachel Debbonaire, Bristol West</p>
+    <p pid="a11.2/276">Deborah Angela Elspeth Marie Abrahams, Oldham East and Saddleworth</p>
+    <p pid="a11.2/277">Maria Colette Caulfield, Lewes</p>
+    <p pid="a11.2/278">Fiona Claire Bruce, Congleton</p>
+    <p pid="a11.2/279">Karin Marguerite Smyth, Bristol South</p>
+    <p pid="a11.2/280">Crispin Jeremy Rupert Blunt, Reigate</p>
+    <p pid="a11.2/281">Michael Whitney Freer, Finchley and Golders Green</p>
+    <p pid="a11.2/282">Nigel Paul Huddleston, Mid Worcestershire</p>
+    <p pid="a11.2/283">Damien Moore, Southport</p>
+    <p pid="a11.2/284">Abimbola Afolami, Hitchin and Harpenden</p>
+    <p pid="a11.2/285">Jonathan Cruddas, Dagenham and Rainham</p>
+    <p pid="a11.2/286">Christopher James Evans, Islwyn</p>
+    <p pid="a11.2/287">Stuart James Andrew, Pudsey</p>
+    <p pid="a11.2/288">Luke Anthony Hall, Thornbury and Yate</p>
+    <p pid="a11.2/289">Christopher Lionel John Loder, West Dorset</p>
+    <p pid="a11.2/290">Neil Quentin Gordon Parish, Tiverton and Honiton</p>
+    <p pid="a11.2/291">Daniel Joseph Carden, Liverpool, Walton</p>
+    <p pid="a11.2/292">Neil Charles Gray, Airdrie and Shotts</p>
+    <p pid="a11.2/293">Andrew Hanson Jones, Harrogate and Knaresborough</p>
+    <p pid="a11.2/294">Paul Bristow, Peterborough</p>
+    <p pid="a11.2/295">Greg Smith, Buckingham</p>
+    <p pid="a11.2/296">Craig Mackinlay, South Thanet</p>
+    <p pid="a11.2/297">Holly Jamie Lynch, Halifax</p>
+    <p pid="a11.2/298">Julie Elliott, Sunderland Central</p>
+    <p pid="a11.2/299">Mark Andrew Menzies, Fylde</p>
+    <p pid="a11.2/300">Giacomo Lopresti, Filton and Bradley Stoke</p>
+    <p pid="a11.2/301">Andrea Marie Jenkyns, Morley and Outwood</p>
+    <p pid="a11.2/302">Anne-Marie Belinda Trevelyan, Berwick-upon-Tweed</p>
+    <p pid="a11.2/303">Patricia Gibson, North Ayrshire and Arran</p>
+    <p pid="a11.2/304">David James Duguid, Banff and Buchan</p>
+    <p pid="a11.2/305">Jack Edgar Brereton, Stoke-on-Trent South</p>
+    <p pid="a11.2/306">Joanna Mary Gideon, Stoke-on-Trent Central</p>
+    <p pid="a11.2/307">Marco Longhi, Dudley North</p>
+    <p pid="a11.2/308">Alexander John Gervase Chalk, Cheltenham</p>
+    <p pid="a11.2/309">Robert Alexander Courts, Witney</p>
+    <p pid="a11.2/310">Andrew Iain Lewer, Northampton South</p>
+    <p pid="a11.2/311">Craig Paul Tracey, North Warwickshire</p>
+    <p pid="a11.2/312">Paul Christopher Blomfield, Sheffield Central</p>
+    <p pid="a11.2/313">Matthew Raymond Western, Warwick and Leamington</p>
+    <p pid="a11.2/314">Katherine Anne Green, Stretford and Urmston</p>
+    <p pid="a11.2/315">Steven John Baker, Wycombe</p>
+    <p pid="a11.2/316">Jacqueline Doyle-Price, Thurrock</p>
+    <p pid="a11.2/317">Simon Anthony Hart, Carmarthen West and South Pembrokeshire</p>
+    <p pid="a11.2/318">David Henry Rutley, Macclesfield</p>
+    <p pid="a11.2/319">Stephen James McCabe, Birmingham, Selly Oak</p>
+    <p pid="a11.2/320">Michael Robert Hill, Hartlepool</p>
+    <p pid="a11.2/321">Michael Louis David Fabricant, Lichfield</p>
+    <p pid="a11.2/322">Guy Thomas Opperman, Hexham</p>
+    <p pid="a11.2/323">Daniel Stephen Zeichner, Cambridge</p>
+    <p pid="a11.2/324">Ian Murray, Edinburgh South</p>
+    <p pid="a11.2/325">Clive Stanley Efford, Eltham</p>
+    <p pid="a11.2/326">Michael James Tomlinson, Mid Dorset and North Poole</p>
+    <p pid="a11.2/327">Derek Gordon Thomas, St Ives</p>
+    <p pid="a11.2/328">Peter William Bone, Wellingborough</p>
+    <p pid="a11.2/329">Naseem Akhtar Shah, Bradford West</p>
+    <p pid="a11.2/330">Matthew Thomas Pennycook, Greenwich and Woolwich</p>
+    <p pid="a11.2/331">Amanda Jane Solloway, Derby North</p>
+    <p pid="a11.2/332">William Roffen Esterson, Sefton Central</p>
+    <p pid="a11.2/333">Stuart Campbell McDonald, Cumbernauld, Kilsyth and Kirkintilloch East</p>
+    <p pid="a11.2/334">George William Freeman, Mid Norfolk</p>
+    <p pid="a11.2/335">Helen Olivia Bicknell Whately, Faversham and Mid Kent</p>
+    <p pid="a11.2/336">Ian Richard Kyle Paisley, North Antrim</p>
+    <p pid="a11.2/337">Julian Charles Sturdy, York Outer</p>
+    <p pid="a11.2/338">Mark Ian Jenkinson, Workington</p>
+    <p pid="a11.2/339">Bridget Maeve Phillipson, Houghton and Sunderland South</p>
+    <p pid="a11.2/340">Janet Jessica Daby, Lewisham East</p>
+    <p pid="a11.2/341">Ruth Lorraine Jones, Newport West</p>
+    <p pid="a11.2/342">Steven Mark Ward Reed, Croydon North</p>
+    <p pid="a11.2/343">Kirsten Frances Oswald, East Renfrewshire</p>
+    <p pid="a11.2/344">Stella Judith Creasy, Walthamstow</p>
+    <p pid="a11.2/345">Amanda Anne Milling, Cannock Chase</p>
+    <p pid="a11.2/346">Mark Julian Francis Pawsey, Rugby</p>
+    <p pid="a11.2/347">Robin John Millar, Aberconwy</p>
+    <p pid="a11.2/348">Philip Thomas Hollobone, Kettering</p>
+    <p pid="a11.2/349">Clive James Charles Betts, Sheffield South East</p>
+    <p pid="a11.2/350">Stephen John Doughty, Cardiff South and Penarth</p>
+    <p pid="a11.2/351">Peter James Guy Aldous, Waveney</p>
+    <p pid="a11.2/352">Tahir Ali, Birmingham, Hall Green</p>
+    <p pid="a11.2/353">John Eugene Joseph Dromey, Birmingham, Erdington</p>
+    <p pid="a11.2/354">Elizabeth Louise Kendall, Leicester West</p>
+    <p pid="a11.2/355">Rachel Jane Reeves, Leeds West</p>
+    <p pid="a11.2/356">Right honourable Patrick Bosco McFadden,  Wolverhampton South East</p>
+    <p pid="a11.2/357">Kieran John Mullan, Crewe and Nantwich</p>
+    <p pid="a11.2/358">Lloyd Russell-Moyle, Brighton, Kemptown</p>
+    <p pid="a11.2/359">Thomas William Randall, Gedling</p>
+    <p pid="a11.2/360">James Nelson Grundy, Leigh</p>
+    <p pid="a11.2/361">Dean Russell, Watford</p>
+    <p pid="a11.2/362">Nicholas Anthony Fletcher, Don Valley</p>
+    <p pid="a11.2/363">Kate Ofunne Osamor, Edmonton</p>
+    <p pid="a11.2/364">Lisa Eva Nandy, Wigan</p>
+    <p pid="a11.2/365">Lucy Maria Powell, Manchester Central</p>
+    <p pid="a11.2/366">Stephen Nathan Kinnock, Aberavon</p>
+    <p pid="a11.2/367">William Paul Girvan, South Antrim</p>
+    <p pid="a11.2/368">Imran Nasir Ahmad-Khan, Wakefield</p>
+    <p pid="a11.2/369">Lisa Cameron, East Kilbride, Strathaven and Lesmahagow</p>
+    <p pid="a11.2/370">Margaret Ferrier, Rutherglen and Hamilton West</p>
+    <p pid="a11.2/371">Ronald Jack Cowan, Inverclyde</p>
+    <p pid="a11.2/372">John Joseph Mc Nally, Falkirk</p>
+    <p pid="a11.2/373">Matthew Toby Perkins, Chesterfield</p>
+    <p pid="a11.2/374">Richard James Shannon, Strangford</p>
+    <p pid="a11.2/375">Robert Largan, High Peak</p>
+    <p pid="a11.2/376">Martyn Day, Linlithgow and East Falkirk</p>
+    <p pid="a11.2/377">Chris Ian Brian Mynott Philp, Croydon South</p>
+    <p pid="a11.2/378">Ruth Margaret Cadbury, Brentford and Isleworth</p>
+    <p pid="a11.2/379">Charalambos Charalambous, Enfield, Southgate</p>
+    <p pid="a11.2/380">Karl Turner, Kingston upon Hull East</p>
+    <p pid="a11.2/381">Victoria Jane Foxcroft, Lewisham, Deptford</p>
+    <p pid="a11.2/382">Tracy Lynn Brabin, Batley and Spen</p>
+    <p pid="a11.2/383">Jacob Young, Redcar</p>
+    <p pid="a11.2/384">Jason McCartney, Colne Valley</p>
+    <p pid="a11.2/385">Luke Pollard, Plymouth, Sutton and Devonport</p>
+    <p pid="a11.2/386">Sarah Ann Jones, Croydon Central</p>
+    <p pid="a11.2/387">Right honourable Liam Dominic Byrne, Birmingham, Hodge Hill</p>
+    <p pid="a11.2/388">Antonia Louise Antoniazzi, Gower</p>
+    <p pid="a11.2/389">Chloe Rebecca Smith, Norwich North</p>
+    <p pid="a11.2/390">Peter John Kyle, Hove</p>
+    <p pid="a11.2/391">Owen George Thompson, Midlothian</p>
+    <p pid="a11.2/392">Geraint Richard Davies, Swansea West</p>
+    <p pid="a11.2/393">Gareth Andrew Bacon, Orpington</p>
+    <p pid="a11.2/394">Ben Spencer, Runnymede and Weybridge</p>
+    <p pid="a11.2/395">Mark Peter Fletcher, Bolsover</p>
+    <p pid="a11.2/396">Emma Ann Hardy, Kingston upon Hull West and Hessle</p>
+    <p pid="a11.2/397">Margaret Greenwood, Wirral West</p>
+    <p pid="a11.2/398">Rebecca Long Bailey, Salford and Eccles</p>
+    <p pid="a11.2/399">Sir Mark Phillip Hendrick, Preston</p>
+    <p pid="a11.2/400">Fay Alicia Jones, Brecon and Radnorshire</p>
+    <p pid="a11.2/401">Simon Robert Maurice Baynes, Clwyd South</p>
+    <p pid="a11.2/402">Christopher Mark Clarkson, Heywood and Middleton</p>
+    <p pid="a11.2/403">Wayne David, Caerphilly</p>
+    <p pid="a11.2/404">Christian Wakeford, Bury South</p>
+    <p pid="a11.2/405">Paul John Holmes, Eastleigh</p>
+    <p pid="a11.2/406">Jonathan Edward Gullis, Stoke-on-Trent North</p>
+    <p pid="a11.2/407">Justin Piers Richard Madders, Ellesmere Port and Neston</p>
+    <p pid="a11.2/408">Sharon Hodgson, Washington and Sunderland West</p>
+    <p pid="a11.2/409">Rachael Helen Maskell, York Central</p>
+    <p pid="a11.2/410">Clive Anthony Lewis, Norwich South</p>
+    <p pid="a11.2/411">Siobhain Ann McDonagh, Mitcham and Morden</p>
+    <p pid="a11.2/412">Mary Elizabeth Twist, Blaydon</p>
+    <p pid="a11.2/413">Sitting suspended.</p>
+    <p pid="a11.2/414">On resuming—</p>
+    <p pid="a11.2/415">The following Members took and subscribed the Oath, or made and subscribed the Affirmation required by law:</p>
+    <p pid="a11.2/416">Right honourable Elizabeth Saville Roberts, for Dwyfor Meirionnydd</p>
+    <p pid="a11.2/417">Ben Morgan Lake, Ceredigion</p>
+    <p pid="a11.2/418">David Jonathan Edwards, Carmarthen East and Dinefwr</p>
+    <p pid="a11.2/419">Hywel Williams, Arfon</p>
+    <p pid="a11.2/420">Mary Theresa Glindon, North Tyneside</p>
+    <p pid="a11.2/421">Feryal Demirci Clark, Enfield North</p>
+    <p pid="a11.2/422">Harriett Mary Morison Baldwin, West Worcestershire</p>
+    <p pid="a11.2/423">John Michael Howell, Henley</p>
+    <p pid="a11.2/424">Nicola Faye Richards, West Bromwich East</p>
+    <p pid="a11.2/425">Richard John Holden, North West Durham</p>
+    <p pid="a11.2/426">Peter Alexander Gibson, Darlington</p>
+    <p pid="a11.2/427">Jane Marion Hunt, Loughborough</p>
+    <p pid="a11.2/428">Aaron Stuart Bell, Newcastle-under-Lyme</p>
+    <p pid="a11.2/429">Dehenna Sheridan Fareham, Bishop Auckland</p>
+    <p pid="a11.2/430">Anne Marie Morris, Newton Abbot</p>
+    <p pid="a11.2/431">Paul Howell, Sedgefield</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.20.0" newgid="uk.org.publicwhip/debate/2019-12-17b.20.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2019-12-17a.20.1" newgid="uk.org.publicwhip/debate/2019-12-17b.20.1" matchtype="perfectmatch"/>
+</publicwhip>
+

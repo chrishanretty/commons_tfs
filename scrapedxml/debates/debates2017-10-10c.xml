@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/debates/debates2017-10-10c.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.143.0" newgid="uk.org.publicwhip/debate/2017-10-10d.143.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.143.1" newgid="uk.org.publicwhip/debate/2017-10-10d.143.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.143.2" newgid="uk.org.publicwhip/debate/2017-10-10d.143.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.143.3" newgid="uk.org.publicwhip/debate/2017-10-10d.143.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.143.4" newgid="uk.org.publicwhip/debate/2017-10-10d.143.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.143.5" newgid="uk.org.publicwhip/debate/2017-10-10d.143.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.143.6" newgid="uk.org.publicwhip/debate/2017-10-10d.143.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.143.7" newgid="uk.org.publicwhip/debate/2017-10-10d.143.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.143.8" newgid="uk.org.publicwhip/debate/2017-10-10d.143.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.143.9" newgid="uk.org.publicwhip/debate/2017-10-10d.143.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.143.10" newgid="uk.org.publicwhip/debate/2017-10-10d.143.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.143.11" newgid="uk.org.publicwhip/debate/2017-10-10d.143.11" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.143.12" newgid="uk.org.publicwhip/debate/2017-10-10d.143.12" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.143.13" newgid="uk.org.publicwhip/debate/2017-10-10d.143.13" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.143.14" newgid="uk.org.publicwhip/debate/2017-10-10d.143.14" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.144.0" newgid="uk.org.publicwhip/debate/2017-10-10d.144.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.144.1" newgid="uk.org.publicwhip/debate/2017-10-10d.144.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.144.2" newgid="uk.org.publicwhip/debate/2017-10-10d.144.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.144.3" newgid="uk.org.publicwhip/debate/2017-10-10d.144.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.144.4" newgid="uk.org.publicwhip/debate/2017-10-10d.144.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.144.5" newgid="uk.org.publicwhip/debate/2017-10-10d.144.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.144.6" newgid="uk.org.publicwhip/debate/2017-10-10d.144.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.145.0" newgid="uk.org.publicwhip/debate/2017-10-10d.145.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.145.1" newgid="uk.org.publicwhip/debate/2017-10-10d.145.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.145.2" newgid="uk.org.publicwhip/debate/2017-10-10d.145.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.145.3" newgid="uk.org.publicwhip/debate/2017-10-10d.145.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.145.3" speakername="Jeremy Hunt" person_id="uk.org.publicwhip/person/11859" colnum="145" time="" url="">
+    <p pid="c145.3/1">Let me tell the hon. Lady what has happened in mental health. Some 30,000 more people are working in mental health today than when her Government left office—a 5.8% increase in clinical staff.[Official Report, <phrase class="date" code="2017-10-16">16 October</phrase> 2017, Vol. 629, c. 4MC.] On top of that —she asked about money—we have committed an extra £1 billion a year by 2021 so that we can employ even more people. We are the first Government to admit that where we are now is not good enough. We want to be the best in the world; that is why we are investing to deliver that.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.145.4" newgid="uk.org.publicwhip/debate/2017-10-10d.145.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.145.5" newgid="uk.org.publicwhip/debate/2017-10-10d.145.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.145.6" newgid="uk.org.publicwhip/debate/2017-10-10d.145.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.145.7" newgid="uk.org.publicwhip/debate/2017-10-10d.145.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.146.0" newgid="uk.org.publicwhip/debate/2017-10-10d.146.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.146.1" newgid="uk.org.publicwhip/debate/2017-10-10d.146.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.146.2" newgid="uk.org.publicwhip/debate/2017-10-10d.146.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.146.3" newgid="uk.org.publicwhip/debate/2017-10-10d.146.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.146.4" newgid="uk.org.publicwhip/debate/2017-10-10d.146.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.146.5" newgid="uk.org.publicwhip/debate/2017-10-10d.146.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.146.6" newgid="uk.org.publicwhip/debate/2017-10-10d.146.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.147.0" newgid="uk.org.publicwhip/debate/2017-10-10d.147.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.147.1" newgid="uk.org.publicwhip/debate/2017-10-10d.147.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.147.2" newgid="uk.org.publicwhip/debate/2017-10-10d.147.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.147.3" newgid="uk.org.publicwhip/debate/2017-10-10d.147.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.147.4" newgid="uk.org.publicwhip/debate/2017-10-10d.147.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.147.5" newgid="uk.org.publicwhip/debate/2017-10-10d.147.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.147.6" newgid="uk.org.publicwhip/debate/2017-10-10d.147.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.147.7" newgid="uk.org.publicwhip/debate/2017-10-10d.147.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.148.0" newgid="uk.org.publicwhip/debate/2017-10-10d.148.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.148.1" newgid="uk.org.publicwhip/debate/2017-10-10d.148.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.148.2" newgid="uk.org.publicwhip/debate/2017-10-10d.148.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.148.3" newgid="uk.org.publicwhip/debate/2017-10-10d.148.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.148.4" newgid="uk.org.publicwhip/debate/2017-10-10d.148.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.148.5" newgid="uk.org.publicwhip/debate/2017-10-10d.148.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.148.6" newgid="uk.org.publicwhip/debate/2017-10-10d.148.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.148.7" newgid="uk.org.publicwhip/debate/2017-10-10d.148.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.148.8" newgid="uk.org.publicwhip/debate/2017-10-10d.148.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.149.0" newgid="uk.org.publicwhip/debate/2017-10-10d.149.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.149.1" newgid="uk.org.publicwhip/debate/2017-10-10d.149.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.149.1" speakername="Karin Smyth" person_id="uk.org.publicwhip/person/25390" colnum="149" time="" url="">
+    <p pid="c149.1/1">A constituent came to my surgery to explain how this has impacted her life. It is truly harrowing. I understand that NHS England has set up 17 regional teams to look into this. I want to be able to assure my constituent that the voice of women and how this is impacting them will be considered. I would be grateful if the Minister could respond so that we might understand what the future holds.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.149.2" newgid="uk.org.publicwhip/debate/2017-10-10d.149.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.149.3" newgid="uk.org.publicwhip/debate/2017-10-10d.149.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.149.4" newgid="uk.org.publicwhip/debate/2017-10-10d.149.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.149.5" newgid="uk.org.publicwhip/debate/2017-10-10d.149.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.149.6" newgid="uk.org.publicwhip/debate/2017-10-10d.149.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.149.7" newgid="uk.org.publicwhip/debate/2017-10-10d.149.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.150.0" newgid="uk.org.publicwhip/debate/2017-10-10d.150.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.150.1" newgid="uk.org.publicwhip/debate/2017-10-10d.150.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.150.2" newgid="uk.org.publicwhip/debate/2017-10-10d.150.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.150.3" newgid="uk.org.publicwhip/debate/2017-10-10d.150.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.150.4" newgid="uk.org.publicwhip/debate/2017-10-10d.150.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.150.5" newgid="uk.org.publicwhip/debate/2017-10-10d.150.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.150.6" newgid="uk.org.publicwhip/debate/2017-10-10d.150.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.150.7" newgid="uk.org.publicwhip/debate/2017-10-10d.150.7" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.150.7" speakername="Norman Lamb" person_id="uk.org.publicwhip/person/11032" colnum="150" time="" url="">
+    <p pid="c150.7/1">The “Five Year Forward View” suggested that the Government accepted the case for comprehensive maximum waiting time standards in mental health to match those in  physical health. Given that children throughout the country are routinely waiting for months to start their treatment, may I ask what progress the Government are making with the introduction of a maximum waiting time standard for children’s mental health?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.151.0" newgid="uk.org.publicwhip/debate/2017-10-10d.151.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.151.1" newgid="uk.org.publicwhip/debate/2017-10-10d.151.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.151.2" newgid="uk.org.publicwhip/debate/2017-10-10d.151.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.151.3" newgid="uk.org.publicwhip/debate/2017-10-10d.151.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.151.4" newgid="uk.org.publicwhip/debate/2017-10-10d.151.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.151.5" newgid="uk.org.publicwhip/debate/2017-10-10d.151.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.151.6" newgid="uk.org.publicwhip/debate/2017-10-10d.151.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.151.7" newgid="uk.org.publicwhip/debate/2017-10-10d.151.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.152.0" newgid="uk.org.publicwhip/debate/2017-10-10d.152.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.152.1" newgid="uk.org.publicwhip/debate/2017-10-10d.152.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.152.2" newgid="uk.org.publicwhip/debate/2017-10-10d.152.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.152.3" newgid="uk.org.publicwhip/debate/2017-10-10d.152.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.152.4" newgid="uk.org.publicwhip/debate/2017-10-10d.152.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.152.5" newgid="uk.org.publicwhip/debate/2017-10-10d.152.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.152.6" newgid="uk.org.publicwhip/debate/2017-10-10d.152.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.152.7" newgid="uk.org.publicwhip/debate/2017-10-10d.152.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.152.8" newgid="uk.org.publicwhip/debate/2017-10-10d.152.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.153.0" newgid="uk.org.publicwhip/debate/2017-10-10d.153.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.153.1" newgid="uk.org.publicwhip/debate/2017-10-10d.153.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.153.2" newgid="uk.org.publicwhip/debate/2017-10-10d.153.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.153.3" newgid="uk.org.publicwhip/debate/2017-10-10d.153.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.153.4" newgid="uk.org.publicwhip/debate/2017-10-10d.153.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.153.5" newgid="uk.org.publicwhip/debate/2017-10-10d.153.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.153.6" newgid="uk.org.publicwhip/debate/2017-10-10d.153.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.154.0" newgid="uk.org.publicwhip/debate/2017-10-10d.154.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.154.1" newgid="uk.org.publicwhip/debate/2017-10-10d.154.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.154.2" newgid="uk.org.publicwhip/debate/2017-10-10d.154.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.154.3" newgid="uk.org.publicwhip/debate/2017-10-10d.154.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.154.4" newgid="uk.org.publicwhip/debate/2017-10-10d.154.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.154.5" newgid="uk.org.publicwhip/debate/2017-10-10d.154.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.154.6" newgid="uk.org.publicwhip/debate/2017-10-10d.154.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.154.7" newgid="uk.org.publicwhip/debate/2017-10-10d.154.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.154.8" newgid="uk.org.publicwhip/debate/2017-10-10d.154.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.154.9" newgid="uk.org.publicwhip/debate/2017-10-10d.154.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.154.10" newgid="uk.org.publicwhip/debate/2017-10-10d.154.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.154.11" newgid="uk.org.publicwhip/debate/2017-10-10d.154.11" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.154.12" newgid="uk.org.publicwhip/debate/2017-10-10d.154.12" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.155.0" newgid="uk.org.publicwhip/debate/2017-10-10d.155.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.155.1" newgid="uk.org.publicwhip/debate/2017-10-10d.155.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.155.2" newgid="uk.org.publicwhip/debate/2017-10-10d.155.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.155.3" newgid="uk.org.publicwhip/debate/2017-10-10d.155.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.155.4" newgid="uk.org.publicwhip/debate/2017-10-10d.155.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.155.5" newgid="uk.org.publicwhip/debate/2017-10-10d.155.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.155.6" newgid="uk.org.publicwhip/debate/2017-10-10d.155.6" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.155.6" speakername="Jeremy Hunt" person_id="uk.org.publicwhip/person/11859" colnum="155" time="" url="">
+    <p pid="c155.6/1">I am more than happy to meet the YMCA. I also want to point out the amazing work done by the “Time to Change” campaign. I was at an event to mark its 10th anniversary, and I heard from young people who have spoken up about their mental health conditions, which takes a lot of courage. Things are changing, and we can draw a lot of hope from what is happening on the ground.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.155.7" newgid="uk.org.publicwhip/debate/2017-10-10d.155.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.155.8" newgid="uk.org.publicwhip/debate/2017-10-10d.155.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.155.9" newgid="uk.org.publicwhip/debate/2017-10-10d.155.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.156.0" newgid="uk.org.publicwhip/debate/2017-10-10d.156.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.156.1" newgid="uk.org.publicwhip/debate/2017-10-10d.156.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.156.2" newgid="uk.org.publicwhip/debate/2017-10-10d.156.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.156.3" newgid="uk.org.publicwhip/debate/2017-10-10d.156.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.156.4" newgid="uk.org.publicwhip/debate/2017-10-10d.156.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.156.5" newgid="uk.org.publicwhip/debate/2017-10-10d.156.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.156.6" newgid="uk.org.publicwhip/debate/2017-10-10d.156.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.156.7" newgid="uk.org.publicwhip/debate/2017-10-10d.156.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.156.8" newgid="uk.org.publicwhip/debate/2017-10-10d.156.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.156.9" newgid="uk.org.publicwhip/debate/2017-10-10d.156.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.156.10" newgid="uk.org.publicwhip/debate/2017-10-10d.156.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.157.0" newgid="uk.org.publicwhip/debate/2017-10-10d.157.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.157.1" newgid="uk.org.publicwhip/debate/2017-10-10d.157.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.157.2" newgid="uk.org.publicwhip/debate/2017-10-10d.157.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.157.3" newgid="uk.org.publicwhip/debate/2017-10-10d.157.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.157.4" newgid="uk.org.publicwhip/debate/2017-10-10d.157.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.157.5" newgid="uk.org.publicwhip/debate/2017-10-10d.157.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.157.6" newgid="uk.org.publicwhip/debate/2017-10-10d.157.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.157.7" newgid="uk.org.publicwhip/debate/2017-10-10d.157.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.158.0" newgid="uk.org.publicwhip/debate/2017-10-10d.158.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.158.1" newgid="uk.org.publicwhip/debate/2017-10-10d.158.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.158.2" newgid="uk.org.publicwhip/debate/2017-10-10d.158.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.158.3" newgid="uk.org.publicwhip/debate/2017-10-10d.158.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.158.4" newgid="uk.org.publicwhip/debate/2017-10-10d.158.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.158.5" newgid="uk.org.publicwhip/debate/2017-10-10d.158.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.158.6" newgid="uk.org.publicwhip/debate/2017-10-10d.158.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.158.7" newgid="uk.org.publicwhip/debate/2017-10-10d.158.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.158.8" newgid="uk.org.publicwhip/debate/2017-10-10d.158.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.159.0" newgid="uk.org.publicwhip/debate/2017-10-10d.159.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.159.1" newgid="uk.org.publicwhip/debate/2017-10-10d.159.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.159.2" newgid="uk.org.publicwhip/debate/2017-10-10d.159.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.159.3" newgid="uk.org.publicwhip/debate/2017-10-10d.159.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.159.4" newgid="uk.org.publicwhip/debate/2017-10-10d.159.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.159.5" newgid="uk.org.publicwhip/debate/2017-10-10d.159.5" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.159.5" speakername="Jeremy Hunt" person_id="uk.org.publicwhip/person/11859" colnum="159" time="" url="">
+    <p pid="c159.5/1">I can absolutely tell the hon. Gentleman the answer to that: we have been making very important progress with families over the summer; and we have decided the shape of the inquiry and the leadership of the inquiry. All the factors around the terms of reference need to be decided in close consultation with the affected families. So we are keen to get on as quickly as possible, but we have made some progress in understanding their wishes.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.159.6" newgid="uk.org.publicwhip/debate/2017-10-10d.159.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.159.7" newgid="uk.org.publicwhip/debate/2017-10-10d.159.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.159.8" newgid="uk.org.publicwhip/debate/2017-10-10d.159.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.159.9" newgid="uk.org.publicwhip/debate/2017-10-10d.159.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.160.0" newgid="uk.org.publicwhip/debate/2017-10-10d.160.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.160.1" newgid="uk.org.publicwhip/debate/2017-10-10d.160.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.160.2" newgid="uk.org.publicwhip/debate/2017-10-10d.160.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.160.3" newgid="uk.org.publicwhip/debate/2017-10-10d.160.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.160.4" newgid="uk.org.publicwhip/debate/2017-10-10d.160.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.160.5" newgid="uk.org.publicwhip/debate/2017-10-10d.160.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.160.6" newgid="uk.org.publicwhip/debate/2017-10-10d.160.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.160.7" newgid="uk.org.publicwhip/debate/2017-10-10d.160.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.161.0" newgid="uk.org.publicwhip/debate/2017-10-10d.161.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.161.1" newgid="uk.org.publicwhip/debate/2017-10-10d.161.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.161.2" newgid="uk.org.publicwhip/debate/2017-10-10d.161.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.161.3" newgid="uk.org.publicwhip/debate/2017-10-10d.161.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.161.4" newgid="uk.org.publicwhip/debate/2017-10-10d.161.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.161.5" newgid="uk.org.publicwhip/debate/2017-10-10d.161.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.161.6" newgid="uk.org.publicwhip/debate/2017-10-10d.161.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.161.7" newgid="uk.org.publicwhip/debate/2017-10-10d.161.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.161.8" newgid="uk.org.publicwhip/debate/2017-10-10d.161.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.162.0" newgid="uk.org.publicwhip/debate/2017-10-10d.162.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.162.1" newgid="uk.org.publicwhip/debate/2017-10-10d.162.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.162.2" newgid="uk.org.publicwhip/debate/2017-10-10d.162.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.162.3" newgid="uk.org.publicwhip/debate/2017-10-10d.162.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.162.4" newgid="uk.org.publicwhip/debate/2017-10-10d.162.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.162.5" newgid="uk.org.publicwhip/debate/2017-10-10d.162.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.162.6" newgid="uk.org.publicwhip/debate/2017-10-10d.162.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.162.7" newgid="uk.org.publicwhip/debate/2017-10-10d.162.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.163.0" newgid="uk.org.publicwhip/debate/2017-10-10d.163.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.163.1" newgid="uk.org.publicwhip/debate/2017-10-10d.163.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.163.2" newgid="uk.org.publicwhip/debate/2017-10-10d.163.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.163.3" newgid="uk.org.publicwhip/debate/2017-10-10d.163.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.163.4" newgid="uk.org.publicwhip/debate/2017-10-10d.163.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.163.5" newgid="uk.org.publicwhip/debate/2017-10-10d.163.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.163.6" newgid="uk.org.publicwhip/debate/2017-10-10d.163.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.163.7" newgid="uk.org.publicwhip/debate/2017-10-10d.163.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.163.8" newgid="uk.org.publicwhip/debate/2017-10-10d.163.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.164.0" newgid="uk.org.publicwhip/debate/2017-10-10d.164.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.164.1" newgid="uk.org.publicwhip/debate/2017-10-10d.164.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.164.2" newgid="uk.org.publicwhip/debate/2017-10-10d.164.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.164.3" newgid="uk.org.publicwhip/debate/2017-10-10d.164.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.164.4" newgid="uk.org.publicwhip/debate/2017-10-10d.164.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.164.5" newgid="uk.org.publicwhip/debate/2017-10-10d.164.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.164.6" newgid="uk.org.publicwhip/debate/2017-10-10d.164.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.164.7" newgid="uk.org.publicwhip/debate/2017-10-10d.164.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.164.8" newgid="uk.org.publicwhip/debate/2017-10-10d.164.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.164.9" newgid="uk.org.publicwhip/debate/2017-10-10d.164.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.165.0" newgid="uk.org.publicwhip/debate/2017-10-10d.165.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.165.1" newgid="uk.org.publicwhip/debate/2017-10-10d.165.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.165.2" newgid="uk.org.publicwhip/debate/2017-10-10d.165.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.165.3" newgid="uk.org.publicwhip/debate/2017-10-10d.165.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.165.4" newgid="uk.org.publicwhip/debate/2017-10-10d.165.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.166.0" newgid="uk.org.publicwhip/debate/2017-10-10d.166.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.166.1" newgid="uk.org.publicwhip/debate/2017-10-10d.166.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.166.2" newgid="uk.org.publicwhip/debate/2017-10-10d.166.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.166.3" newgid="uk.org.publicwhip/debate/2017-10-10d.166.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.166.4" newgid="uk.org.publicwhip/debate/2017-10-10d.166.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.166.5" newgid="uk.org.publicwhip/debate/2017-10-10d.166.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.166.6" newgid="uk.org.publicwhip/debate/2017-10-10d.166.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.166.7" newgid="uk.org.publicwhip/debate/2017-10-10d.166.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.167.0" newgid="uk.org.publicwhip/debate/2017-10-10d.167.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.167.1" newgid="uk.org.publicwhip/debate/2017-10-10d.167.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.168.0" newgid="uk.org.publicwhip/debate/2017-10-10d.168.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.168.1" newgid="uk.org.publicwhip/debate/2017-10-10d.168.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.169.0" newgid="uk.org.publicwhip/debate/2017-10-10d.169.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.169.1" newgid="uk.org.publicwhip/debate/2017-10-10d.169.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.169.2" newgid="uk.org.publicwhip/debate/2017-10-10d.169.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.169.2" speakername="Claire Perry" person_id="uk.org.publicwhip/person/24915" colnum="169" time="12:38:00" url="">
+    <p pid="c169.2/1">My right hon. Friend is right to remind us that we spend almost £4 billion in procuring products and services from BAE Systems. Again, if we want to have a globally competitive, highly efficient bastion of success in this vital industry, it is really important to allow the company to go through its management processes. Of course we want to procure from BAE Systems, but we also procure from a wide range of other suppliers. It would be wrong for the Government to try to interfere in business processes, but we can say that we are committed to making sure that the company does this as sensitively as possible.</p>
+    <p pid="c169.2/2">We also want to explore other opportunities. I am struck by the locations of some of the plants that may be affected, and I am also struck by the investment opportunities with, for example, the Siemens investment in offshore wind turbine production in Hull. There are opportunities for skilled engineering staff right the UK and right across the region. [Interruption.] I am sorry to hear <phrase class="honfriend" person_id="uk.org.publicwhip/person/24767" name="Karl Turner">the hon. Member for Kingston upon Hull East (Karl Turner)</phrase>, who knows Hull very well, talking down a major investment in skilled engineering. We remain absolutely committed to working with this company.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.170.0" newgid="uk.org.publicwhip/debate/2017-10-10d.170.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.170.0" speakername="Nia Griffith" person_id="uk.org.publicwhip/person/11692" colnum="170" time="12:38:00" url="">
+    <p pid="c170.0/1">Employees and families across the country will be hit hard by the news that has come from BAE today. The loss of nearly 2,000 highly skilled jobs is nothing short of devastating for communities and local economies that have a proud history of defence manufacturing. Moreover, if these redundancies go ahead, there is a very real risk that these skills will be lost forever, with a knock-on impact on this country’s manufacturing capability. What support will the Government be offering to those highly skilled workers who have lost their jobs, and how will the Government support the communities affected?</p>
+    <p pid="c170.0/2">A vibrant defence industry is vital for the security of this country and it brings immense economic benefits. In its statement, BAE points to uncertainty in future orders as a reason for the job cuts, and we know that the Government have pursued a stop-start approach which has not given the industry the long term stability that it desperately needs. Will the Minister now agree that it is time for the Government to come forward with a proper defence industrial strategy to enable the sector to plan ahead? I know from my conversations with those in the industry that they are very concerned about the gaping funding holes in the MOD’s defence equipment plan. What action are the Government taking to address those and to give the industry confidence?</p>
+    <p pid="c170.0/3">UK-based defence companies are also facing a great deal of uncertainty owing to the Government’s handling of Brexit. We know that the defence and aerospace industries have wide-reaching supply chains that cross many borders, so what steps are the Government taking to ensure that the sector is not disadvantaged by Brexit, and that companies do not take their manufacturing elsewhere?</p>
+    <p pid="c170.0/4">Finally, the slowdown in Hawk production was also cited as a reason for cuts, but the Government could take immediate steps to counter that by bringing forward orders for nine new Hawk aircraft for the Red Arrows, thus securing their future as the face of the RAF and a global ambassador for British engineering across the world. That would provide a much needed boost to the industry. Can the Minister commit to doing that today?</p>
+    <p pid="c170.0/5">This is no time for Government to stand by and do nothing. Ministers need to rise to their responsibilities and realise that proactive engagement with the industry could make a real difference to the workers concerned and to the future of our country’s defence industry.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.170.1" newgid="uk.org.publicwhip/debate/2017-10-10d.170.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.170.1" speakername="Claire Perry" person_id="uk.org.publicwhip/person/24915" colnum="170" time="12:38:00" url="">
+    <p pid="c170.1/1">I am entirely in agreement with the hon. Lady about the need to engage closely to understand the reasons for this. To reassure her on a couple of points that she raised, this is not due to any stop-start change in the Government’s procurement; this is in fact due to gaps in bringing forward some of the export orders. As I mentioned, the Secretary of State has signed a statement of intent with Qatar, and indeed we are standing by to do everything possible to support further export opportunities.</p>
+    <p pid="c170.1/2">The hon. Lady may not have heard, but I mentioned the talent retention system. She is absolutely right: for too long we have not thought about people and their skills and worked out whether there are other opportunities, especially in the region, to ensure that those skills are not lost. That is why we will be deploying the talent retention system that has been developed by my Department with this industry, and looking to see what more can  be done.</p>
+    <p pid="c170.1/3">To allay some of the hon. Lady’s questions about our commitment to shipbuilding, I can tell her that we have published the national shipbuilding strategy. I am told that we will be bringing forward the refresh of the defence industry policy document very shortly.</p>
+    <p pid="c170.1/4">We need to focus on the people who may be concerned about this, meet them to gain an understanding of their concerns, and see what more can be done, particularly to ensure that those vital skills are not lost to this or other sectors.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.171.0" newgid="uk.org.publicwhip/debate/2017-10-10d.171.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.171.1" newgid="uk.org.publicwhip/debate/2017-10-10d.171.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.171.2" newgid="uk.org.publicwhip/debate/2017-10-10d.171.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.171.2" speakername="Carol Monaghan" person_id="uk.org.publicwhip/person/25406" colnum="171" time="12:38:00" url="">
+    <p pid="c171.2/1">This morning’s news is deeply worrying for BAE workforces across the UK, and we have only just heard that that includes 15 workers in Fife. Of course, it is not just the 2,000 BAE workers who will be affected but the small and medium-sized enterprises, the supply chains and the communities as well. The SNP offer our sympathy this morning to all those who are affected directly and indirectly by today’s announcement.</p>
+    <p pid="c171.2/2">This is the latest evidence of the Government failing to deliver on defence programmes, and this is not just about an export industry. This is about undermining skilled jobs, undermining our own defence industry and undermining the defence of the UK as a whole. What are the Government doing to investigate what has gone wrong in BAE?</p>
+    <p pid="c171.2/3">Skilled workers have been mentioned a number of times. Skilled workers are exactly that—skilled. They cannot easily move from one position to another; extra training is required, so what are the Government doing  to assist them in this? And what has been done to provide guarantees to those who are currently still employed in the sector?</p>
+    <p pid="c171.2/4">Finally, can the Minister now confirm that future MOD orders will come as a steady drumbeat, and not be plagued by the dithering, delays and indecision that have contributed to today’s announcement?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.172.0" newgid="uk.org.publicwhip/debate/2017-10-10d.172.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.172.1" newgid="uk.org.publicwhip/debate/2017-10-10d.172.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.172.2" newgid="uk.org.publicwhip/debate/2017-10-10d.172.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.172.3" newgid="uk.org.publicwhip/debate/2017-10-10d.172.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.172.4" newgid="uk.org.publicwhip/debate/2017-10-10d.172.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.172.5" newgid="uk.org.publicwhip/debate/2017-10-10d.172.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.173.0" newgid="uk.org.publicwhip/debate/2017-10-10d.173.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.173.1" newgid="uk.org.publicwhip/debate/2017-10-10d.173.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.173.2" newgid="uk.org.publicwhip/debate/2017-10-10d.173.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.173.3" newgid="uk.org.publicwhip/debate/2017-10-10d.173.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.173.4" newgid="uk.org.publicwhip/debate/2017-10-10d.173.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.173.5" newgid="uk.org.publicwhip/debate/2017-10-10d.173.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.174.0" newgid="uk.org.publicwhip/debate/2017-10-10d.174.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.174.1" newgid="uk.org.publicwhip/debate/2017-10-10d.174.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.174.2" newgid="uk.org.publicwhip/debate/2017-10-10d.174.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.174.3" newgid="uk.org.publicwhip/debate/2017-10-10d.174.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.174.4" newgid="uk.org.publicwhip/debate/2017-10-10d.174.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.174.5" newgid="uk.org.publicwhip/debate/2017-10-10d.174.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.174.6" newgid="uk.org.publicwhip/debate/2017-10-10d.174.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.175.0" newgid="uk.org.publicwhip/debate/2017-10-10d.175.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.175.1" newgid="uk.org.publicwhip/debate/2017-10-10d.175.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.175.2" newgid="uk.org.publicwhip/debate/2017-10-10d.175.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.175.3" newgid="uk.org.publicwhip/debate/2017-10-10d.175.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.175.4" newgid="uk.org.publicwhip/debate/2017-10-10d.175.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.175.5" newgid="uk.org.publicwhip/debate/2017-10-10d.175.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.175.6" newgid="uk.org.publicwhip/debate/2017-10-10d.175.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.176.0" newgid="uk.org.publicwhip/debate/2017-10-10d.176.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.176.1" newgid="uk.org.publicwhip/debate/2017-10-10d.176.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.176.2" newgid="uk.org.publicwhip/debate/2017-10-10d.176.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.176.3" newgid="uk.org.publicwhip/debate/2017-10-10d.176.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.176.4" newgid="uk.org.publicwhip/debate/2017-10-10d.176.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.176.5" newgid="uk.org.publicwhip/debate/2017-10-10d.176.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.177.0" newgid="uk.org.publicwhip/debate/2017-10-10d.177.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.177.1" newgid="uk.org.publicwhip/debate/2017-10-10d.177.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.177.2" newgid="uk.org.publicwhip/debate/2017-10-10d.177.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.177.3" newgid="uk.org.publicwhip/debate/2017-10-10d.177.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.177.4" newgid="uk.org.publicwhip/debate/2017-10-10d.177.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.177.5" newgid="uk.org.publicwhip/debate/2017-10-10d.177.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.178.0" newgid="uk.org.publicwhip/debate/2017-10-10d.178.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.178.1" newgid="uk.org.publicwhip/debate/2017-10-10d.178.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.178.2" newgid="uk.org.publicwhip/debate/2017-10-10d.178.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.178.3" newgid="uk.org.publicwhip/debate/2017-10-10d.178.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.178.4" newgid="uk.org.publicwhip/debate/2017-10-10d.178.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.178.5" newgid="uk.org.publicwhip/debate/2017-10-10d.178.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.179.0" newgid="uk.org.publicwhip/debate/2017-10-10d.179.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.179.1" newgid="uk.org.publicwhip/debate/2017-10-10d.179.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.179.2" newgid="uk.org.publicwhip/debate/2017-10-10d.179.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.179.3" newgid="uk.org.publicwhip/debate/2017-10-10d.179.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.179.4" newgid="uk.org.publicwhip/debate/2017-10-10d.179.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.179.5" newgid="uk.org.publicwhip/debate/2017-10-10d.179.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.179.6" newgid="uk.org.publicwhip/debate/2017-10-10d.179.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.181.0" newgid="uk.org.publicwhip/debate/2017-10-10d.181.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.182.0" newgid="uk.org.publicwhip/debate/2017-10-10d.182.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.183.0" newgid="uk.org.publicwhip/debate/2017-10-10d.183.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.184.0" newgid="uk.org.publicwhip/debate/2017-10-10d.184.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.185.0" newgid="uk.org.publicwhip/debate/2017-10-10d.185.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.185.1" newgid="uk.org.publicwhip/debate/2017-10-10d.185.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.185.2" newgid="uk.org.publicwhip/debate/2017-10-10d.185.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.185.3" newgid="uk.org.publicwhip/debate/2017-10-10d.185.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.185.4" newgid="uk.org.publicwhip/debate/2017-10-10d.185.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.186.0" newgid="uk.org.publicwhip/debate/2017-10-10d.186.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.186.1" newgid="uk.org.publicwhip/debate/2017-10-10d.186.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.186.2" newgid="uk.org.publicwhip/debate/2017-10-10d.186.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.186.3" newgid="uk.org.publicwhip/debate/2017-10-10d.186.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.187.0" newgid="uk.org.publicwhip/debate/2017-10-10d.187.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.187.1" newgid="uk.org.publicwhip/debate/2017-10-10d.187.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.187.2" newgid="uk.org.publicwhip/debate/2017-10-10d.187.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.187.3" newgid="uk.org.publicwhip/debate/2017-10-10d.187.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.187.4" newgid="uk.org.publicwhip/debate/2017-10-10d.187.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.187.5" newgid="uk.org.publicwhip/debate/2017-10-10d.187.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.188.0" newgid="uk.org.publicwhip/debate/2017-10-10d.188.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.188.1" newgid="uk.org.publicwhip/debate/2017-10-10d.188.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.188.2" newgid="uk.org.publicwhip/debate/2017-10-10d.188.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.188.3" newgid="uk.org.publicwhip/debate/2017-10-10d.188.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.188.3" speakername="Damian Green" person_id="uk.org.publicwhip/person/10241" colnum="188" time="13:30:00" url="">
+    <p pid="c188.3/1">Behind the hon. Gentleman’s characteristic bombast is a serious point. He says that correlation is not the same as causation, so would he like to have a word with his Front-Bench team, who are demanding that all the policy responses should come now before we have done the analysis that he sensibly asks for? We are doing things the sensible way. Not only does his Front-Bench team have no polices, they appear to want policies before they have looked at the evidence. That would be the worst way to go about things. I appreciate that, in all sincerity, he believes that his Front-Bench team are as bad as I believe they are.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.188.4" newgid="uk.org.publicwhip/debate/2017-10-10d.188.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.188.5" newgid="uk.org.publicwhip/debate/2017-10-10d.188.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.188.6" newgid="uk.org.publicwhip/debate/2017-10-10d.188.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.189.0" newgid="uk.org.publicwhip/debate/2017-10-10d.189.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.189.1" newgid="uk.org.publicwhip/debate/2017-10-10d.189.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.189.2" newgid="uk.org.publicwhip/debate/2017-10-10d.189.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.189.3" newgid="uk.org.publicwhip/debate/2017-10-10d.189.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.189.4" newgid="uk.org.publicwhip/debate/2017-10-10d.189.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.190.0" newgid="uk.org.publicwhip/debate/2017-10-10d.190.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.190.1" newgid="uk.org.publicwhip/debate/2017-10-10d.190.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.190.2" newgid="uk.org.publicwhip/debate/2017-10-10d.190.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.190.3" newgid="uk.org.publicwhip/debate/2017-10-10d.190.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.190.4" newgid="uk.org.publicwhip/debate/2017-10-10d.190.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.190.5" newgid="uk.org.publicwhip/debate/2017-10-10d.190.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.190.6" newgid="uk.org.publicwhip/debate/2017-10-10d.190.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.191.0" newgid="uk.org.publicwhip/debate/2017-10-10d.191.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.191.1" newgid="uk.org.publicwhip/debate/2017-10-10d.191.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.191.2" newgid="uk.org.publicwhip/debate/2017-10-10d.191.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.191.3" newgid="uk.org.publicwhip/debate/2017-10-10d.191.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.191.4" newgid="uk.org.publicwhip/debate/2017-10-10d.191.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.191.5" newgid="uk.org.publicwhip/debate/2017-10-10d.191.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.191.6" newgid="uk.org.publicwhip/debate/2017-10-10d.191.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.192.0" newgid="uk.org.publicwhip/debate/2017-10-10d.192.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.192.1" newgid="uk.org.publicwhip/debate/2017-10-10d.192.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.192.2" newgid="uk.org.publicwhip/debate/2017-10-10d.192.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.192.3" newgid="uk.org.publicwhip/debate/2017-10-10d.192.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.192.4" newgid="uk.org.publicwhip/debate/2017-10-10d.192.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.193.0" newgid="uk.org.publicwhip/debate/2017-10-10d.193.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.193.1" newgid="uk.org.publicwhip/debate/2017-10-10d.193.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.193.2" newgid="uk.org.publicwhip/debate/2017-10-10d.193.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.193.3" newgid="uk.org.publicwhip/debate/2017-10-10d.193.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.193.4" newgid="uk.org.publicwhip/debate/2017-10-10d.193.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.193.5" newgid="uk.org.publicwhip/debate/2017-10-10d.193.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.194.0" newgid="uk.org.publicwhip/debate/2017-10-10d.194.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.194.1" newgid="uk.org.publicwhip/debate/2017-10-10d.194.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.195.0" newgid="uk.org.publicwhip/debate/2017-10-10d.195.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.196.0" newgid="uk.org.publicwhip/debate/2017-10-10d.196.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.197.0" newgid="uk.org.publicwhip/debate/2017-10-10d.197.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.197.1" newgid="uk.org.publicwhip/debate/2017-10-10d.197.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.197.2" newgid="uk.org.publicwhip/debate/2017-10-10d.197.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.198.0" newgid="uk.org.publicwhip/debate/2017-10-10d.198.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.198.1" newgid="uk.org.publicwhip/debate/2017-10-10d.198.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.198.2" newgid="uk.org.publicwhip/debate/2017-10-10d.198.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.198.3" newgid="uk.org.publicwhip/debate/2017-10-10d.198.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.199.0" newgid="uk.org.publicwhip/debate/2017-10-10d.199.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.199.1" newgid="uk.org.publicwhip/debate/2017-10-10d.199.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.199.2" newgid="uk.org.publicwhip/debate/2017-10-10d.199.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.199.3" newgid="uk.org.publicwhip/debate/2017-10-10d.199.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.200.0" newgid="uk.org.publicwhip/debate/2017-10-10d.200.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.200.1" newgid="uk.org.publicwhip/debate/2017-10-10d.200.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.200.2" newgid="uk.org.publicwhip/debate/2017-10-10d.200.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.200.3" newgid="uk.org.publicwhip/debate/2017-10-10d.200.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.201.0" newgid="uk.org.publicwhip/debate/2017-10-10d.201.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.201.1" newgid="uk.org.publicwhip/debate/2017-10-10d.201.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.201.2" newgid="uk.org.publicwhip/debate/2017-10-10d.201.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.201.3" newgid="uk.org.publicwhip/debate/2017-10-10d.201.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.201.4" newgid="uk.org.publicwhip/debate/2017-10-10d.201.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.202.0" newgid="uk.org.publicwhip/debate/2017-10-10d.202.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.202.1" newgid="uk.org.publicwhip/debate/2017-10-10d.202.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.202.2" newgid="uk.org.publicwhip/debate/2017-10-10d.202.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.202.3" newgid="uk.org.publicwhip/debate/2017-10-10d.202.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.202.4" newgid="uk.org.publicwhip/debate/2017-10-10d.202.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.202.5" newgid="uk.org.publicwhip/debate/2017-10-10d.202.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.202.6" newgid="uk.org.publicwhip/debate/2017-10-10d.202.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.203.0" newgid="uk.org.publicwhip/debate/2017-10-10d.203.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.203.1" newgid="uk.org.publicwhip/debate/2017-10-10d.203.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.203.2" newgid="uk.org.publicwhip/debate/2017-10-10d.203.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.203.3" newgid="uk.org.publicwhip/debate/2017-10-10d.203.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.204.0" newgid="uk.org.publicwhip/debate/2017-10-10d.204.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.204.1" newgid="uk.org.publicwhip/debate/2017-10-10d.204.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.204.2" newgid="uk.org.publicwhip/debate/2017-10-10d.204.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.204.3" newgid="uk.org.publicwhip/debate/2017-10-10d.204.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.204.4" newgid="uk.org.publicwhip/debate/2017-10-10d.204.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.205.0" newgid="uk.org.publicwhip/debate/2017-10-10d.205.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.205.1" newgid="uk.org.publicwhip/debate/2017-10-10d.205.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.205.2" newgid="uk.org.publicwhip/debate/2017-10-10d.205.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.206.0" newgid="uk.org.publicwhip/debate/2017-10-10d.206.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.206.1" newgid="uk.org.publicwhip/debate/2017-10-10d.206.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.207.0" newgid="uk.org.publicwhip/debate/2017-10-10d.207.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.208.0" newgid="uk.org.publicwhip/debate/2017-10-10d.208.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.208.1" newgid="uk.org.publicwhip/debate/2017-10-10d.208.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.209.0" newgid="uk.org.publicwhip/debate/2017-10-10d.209.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.209.0" speakername="Lucy Frazer" person_id="uk.org.publicwhip/person/25399" colnum="209" time="15:03:00" url="">
+    <p pid="c209.0/1">The hon. Gentleman is making a significant point about the importance of engaging in debates. Can he tell the House how many Liberal Democrats took part in the debate on the very important Finance Bill on <phrase class="date" code="2017-09-12">12 September</phrase>? Could he confirm that it was none?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.209.1" newgid="uk.org.publicwhip/debate/2017-10-10d.209.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.209.1" speakername="Alistair Carmichael" person_id="uk.org.publicwhip/person/10785" colnum="209" time="15:03:00" url="">
+    <p pid="c209.1/1">I can see how this is going to proceed, and it will not be as I might have hoped. I had hoped we might raise the debate a little bit higher than that. The hon. Lady is well aware that there are 12 Liberal Democrat Members of Parliament sitting in this Parliament, and if she cares to consult the record she will find that we play a full and constructive part in the proceedings of this House.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.209.2" newgid="uk.org.publicwhip/debate/2017-10-10d.209.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.209.3" newgid="uk.org.publicwhip/debate/2017-10-10d.209.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.209.4" newgid="uk.org.publicwhip/debate/2017-10-10d.209.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.210.0" newgid="uk.org.publicwhip/debate/2017-10-10d.210.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.210.1" newgid="uk.org.publicwhip/debate/2017-10-10d.210.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.210.2" newgid="uk.org.publicwhip/debate/2017-10-10d.210.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.211.0" newgid="uk.org.publicwhip/debate/2017-10-10d.211.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.211.1" newgid="uk.org.publicwhip/debate/2017-10-10d.211.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.211.2" newgid="uk.org.publicwhip/debate/2017-10-10d.211.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.211.3" newgid="uk.org.publicwhip/debate/2017-10-10d.211.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.211.4" newgid="uk.org.publicwhip/debate/2017-10-10d.211.4" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.211.4" speakername="Mark Harper" person_id="uk.org.publicwhip/person/11588" colnum="211" time="15:16:00" url="">
+    <p pid="c211.4/1">The right hon. Gentleman says it was about his right Friend’s question. It was a question, but the point is it was about a tweet. Hon. Members would  not expect my right hon. Friend the Leader of the House to comment on every single press comment about the House and dignify them all with a response. But also, to come back to the point I was making when I took the intervention, the Government cannot be expected to have a blanket policy for what they do about Opposition days. We look at the motion on the Order Paper.</p>
+    <p pid="c211.4/2">I have got into trouble in the past. When I responded at the Dispatch Box to Opposition day debates, I was often criticised because I used to do that dreadful thing of actually looking at the words on the Order Paper that the House was being asked to agree or not. I would be told that they did not really matter—what mattered was the debate we were having, and the general principle, and that we did not worry about the words. Well actually, the words are important and the right stance for the Government, each time there is an Opposition day motion —indeed any motion—before the House is to look at the words on the Order Paper and then make a judgment about whether they wish to support or oppose them. I will come to the specific motions that were being considered in a moment.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.212.0" newgid="uk.org.publicwhip/debate/2017-10-10d.212.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.212.1" newgid="uk.org.publicwhip/debate/2017-10-10d.212.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.212.2" newgid="uk.org.publicwhip/debate/2017-10-10d.212.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.212.3" newgid="uk.org.publicwhip/debate/2017-10-10d.212.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.213.0" newgid="uk.org.publicwhip/debate/2017-10-10d.213.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.213.1" newgid="uk.org.publicwhip/debate/2017-10-10d.213.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.213.2" newgid="uk.org.publicwhip/debate/2017-10-10d.213.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.213.3" newgid="uk.org.publicwhip/debate/2017-10-10d.213.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.214.0" newgid="uk.org.publicwhip/debate/2017-10-10d.214.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.214.1" newgid="uk.org.publicwhip/debate/2017-10-10d.214.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.214.2" newgid="uk.org.publicwhip/debate/2017-10-10d.214.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.214.3" newgid="uk.org.publicwhip/debate/2017-10-10d.214.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.214.4" newgid="uk.org.publicwhip/debate/2017-10-10d.214.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.215.0" newgid="uk.org.publicwhip/debate/2017-10-10d.215.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.215.1" newgid="uk.org.publicwhip/debate/2017-10-10d.215.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.215.2" newgid="uk.org.publicwhip/debate/2017-10-10d.215.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.215.3" newgid="uk.org.publicwhip/debate/2017-10-10d.215.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.215.4" newgid="uk.org.publicwhip/debate/2017-10-10d.215.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.215.5" newgid="uk.org.publicwhip/debate/2017-10-10d.215.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.215.6" newgid="uk.org.publicwhip/debate/2017-10-10d.215.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.215.7" newgid="uk.org.publicwhip/debate/2017-10-10d.215.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.216.0" newgid="uk.org.publicwhip/debate/2017-10-10d.216.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.216.1" newgid="uk.org.publicwhip/debate/2017-10-10d.216.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.216.2" newgid="uk.org.publicwhip/debate/2017-10-10d.216.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.216.3" newgid="uk.org.publicwhip/debate/2017-10-10d.216.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.216.3" speakername="Mark Harper" person_id="uk.org.publicwhip/person/11588" colnum="216" time="15:16:00" url="">
+    <p pid="c216.3/1">It is an arguable point. I have made my argument and the hon. Gentleman has made his, as he will no doubt do again later.</p>
+    <p pid="c216.3/2">There were two good reasons why the Government chose, looking at the words on the Order Paper on <phrase class="date" code="2017-09-13">13 September</phrase>, to not divide the House. I do not think that sets a precedent for the future. The Government will make those decisions when they look at future Opposition day motions. The right hon. Member for Orkney and Shetland is making a mountain out of a molehill. I suggest that the House waits to see what happens on future Opposition days before it gets itself so worked up. We have had a good gambol around the subject but I do not really think that the right hon. Gentleman has made his case to the satisfaction of Members more generally.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.216.4" newgid="uk.org.publicwhip/debate/2017-10-10d.216.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.216.5" newgid="uk.org.publicwhip/debate/2017-10-10d.216.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.217.0" newgid="uk.org.publicwhip/debate/2017-10-10d.217.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.217.1" newgid="uk.org.publicwhip/debate/2017-10-10d.217.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.217.2" newgid="uk.org.publicwhip/debate/2017-10-10d.217.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.217.3" newgid="uk.org.publicwhip/debate/2017-10-10d.217.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.217.4" newgid="uk.org.publicwhip/debate/2017-10-10d.217.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.217.5" newgid="uk.org.publicwhip/debate/2017-10-10d.217.5" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.217.5" speakername="Valerie Vaz" person_id="uk.org.publicwhip/person/24852" colnum="217" time="15:34:00" url="">
+    <p pid="c217.5/1">That point, which I am coming to, needs to be clarified, and it is the Government’s job to do such a thing. Mr Speaker, you have heard me ask for clarification several times, and we have had numerous discussions through the usual channels, but we have had absolutely nothing. It is sad that Parliament is treated this way. I did not think that, in the first week back after the conference recess, I would be standing here arguing for the same thing I did before the recess.</p>
+    <p pid="c217.5/2">We play a vital role in our democracy. The use of the term “Her Majesty’s Opposition” was first coined in 1826 by John Cam Hobhouse and was given statutory recognition in 1937. The official Opposition is defined as</p>
+    <p pid="c217.5/3" class="indent" pwmotiontext="yes">“the largest minority party which is prepared, in the event of the resignation of the Government, to assume office”.</p>
+    <p pid="c217.5/4">That is an important constitutional role, and we should not be prevented from doing our job. We would like to fulfil that role but that is the effect of not giving us dates for our debates. The Government want to stifle debate and so deny all the Opposition parties a chance to challenge them and put forward their policies.</p>
+    <p pid="c217.5/5">Secondly, having been given that Opposition day on <phrase class="date" code="2017-09-13">13 September</phrase>, the shadow Secretaries of State for Health and for Education moved and spoke eloquently to their motions, and we then witnessed the bizarre spectacle of the Government making no comment whatsoever. They had tabled no amendment to the motion. There was no voting for and no voting against, so Parliament was left in limbo. What was the status of the motion? It was a proper, substantive motion, defined as a self-contained proposal submitted for the approval of the House and drafted in such a way as to be capable of expressing a decision of the House. And it did, in this case to NHS workers and students about to start university.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.218.0" newgid="uk.org.publicwhip/debate/2017-10-10d.218.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.218.1" newgid="uk.org.publicwhip/debate/2017-10-10d.218.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.219.0" newgid="uk.org.publicwhip/debate/2017-10-10d.219.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.219.0" speakername="Robert Syms" person_id="uk.org.publicwhip/person/10582" colnum="219" time="15:34:00" url="">
+    <p pid="c219.0/1">The hon. Lady has been in the House for long enough to know that many things are debated here. Ten-minute rule Bills are let through because they raise an issue, and motions are sometimes passed by a few Members during Back-Bench business debates because, again, they raise an important issue. Is it not right that the Government make their own decisions about what they will oppose and what they will not oppose? At the end of the day, that is a choice for the Front Bench. If, politically, Members think that that that is a bad thing to do, let them have their <phrase class="standing-order" code="24">Standing Order No. 24</phrase> and make the point, but ultimately what we vote for is down to the Cabinet and the Whips Office, and that is our choice.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.219.1" newgid="uk.org.publicwhip/debate/2017-10-10d.219.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.219.2" newgid="uk.org.publicwhip/debate/2017-10-10d.219.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.219.3" newgid="uk.org.publicwhip/debate/2017-10-10d.219.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.219.4" newgid="uk.org.publicwhip/debate/2017-10-10d.219.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.219.5" newgid="uk.org.publicwhip/debate/2017-10-10d.219.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.219.6" newgid="uk.org.publicwhip/debate/2017-10-10d.219.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.220.0" newgid="uk.org.publicwhip/debate/2017-10-10d.220.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.220.1" newgid="uk.org.publicwhip/debate/2017-10-10d.220.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.220.2" newgid="uk.org.publicwhip/debate/2017-10-10d.220.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.220.2" speakername="Valerie Vaz" person_id="uk.org.publicwhip/person/24852" colnum="220" time="15:34:00" url="">
+    <p pid="c220.2/1">No, because I am nearly finished, and the right hon. Gentleman has had plenty of time.</p>
+    <p pid="c220.2/2">This makes a mockery of Parliament. Parliament is a forum for debate, discussion and amendments, as seen in the example given by the excellent Minister, Phil Woolas, who listened to the House, even though he was ambushed by a celebrity, and changed his policy—whether or not that was the right thing to do. Nevertheless, he said, “I have listened to the House.”</p>
+    <p pid="c220.2/3">Finally, in the preface to Erskine May, the guide to the law, privileges, proceedings and usage of Parliament, there is a dedication to you, Mr Speaker. It entrusts you with the great responsibilities of guardianship of the parliamentary system. You have done that many times in this House, and in granting this debate. I ask you to convey to the Government that they must abide by that dedication.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.220.3" newgid="uk.org.publicwhip/debate/2017-10-10d.220.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.220.4" newgid="uk.org.publicwhip/debate/2017-10-10d.220.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.220.5" newgid="uk.org.publicwhip/debate/2017-10-10d.220.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.220.6" newgid="uk.org.publicwhip/debate/2017-10-10d.220.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.220.7" newgid="uk.org.publicwhip/debate/2017-10-10d.220.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.220.8" newgid="uk.org.publicwhip/debate/2017-10-10d.220.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.221.0" newgid="uk.org.publicwhip/debate/2017-10-10d.221.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.221.1" newgid="uk.org.publicwhip/debate/2017-10-10d.221.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.221.2" newgid="uk.org.publicwhip/debate/2017-10-10d.221.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.221.3" newgid="uk.org.publicwhip/debate/2017-10-10d.221.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.222.0" newgid="uk.org.publicwhip/debate/2017-10-10d.222.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.222.1" newgid="uk.org.publicwhip/debate/2017-10-10d.222.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.222.2" newgid="uk.org.publicwhip/debate/2017-10-10d.222.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.223.0" newgid="uk.org.publicwhip/debate/2017-10-10d.223.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.223.1" newgid="uk.org.publicwhip/debate/2017-10-10d.223.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.223.2" newgid="uk.org.publicwhip/debate/2017-10-10d.223.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.223.3" newgid="uk.org.publicwhip/debate/2017-10-10d.223.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.223.4" newgid="uk.org.publicwhip/debate/2017-10-10d.223.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.223.5" newgid="uk.org.publicwhip/debate/2017-10-10d.223.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.223.6" newgid="uk.org.publicwhip/debate/2017-10-10d.223.6" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.223.6" speakername="Alistair Carmichael" person_id="uk.org.publicwhip/person/10785" colnum="223" time="15:49:00" url="">
+    <p pid="c223.6/1">I am grateful to the Leader of the House for giving way at last. What the House needs to hear from her is whether the votes on <phrase class="date" code="2017-09-13">13 September</phrase> were one-offs, or if we should expect routinely and frequently to hear from the Government that, when they are going to lose a vote, they will simply avoid that by avoiding a Division?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.223.7" newgid="uk.org.publicwhip/debate/2017-10-10d.223.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.224.0" newgid="uk.org.publicwhip/debate/2017-10-10d.224.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.224.1" newgid="uk.org.publicwhip/debate/2017-10-10d.224.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.224.2" newgid="uk.org.publicwhip/debate/2017-10-10d.224.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.224.3" newgid="uk.org.publicwhip/debate/2017-10-10d.224.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.224.4" newgid="uk.org.publicwhip/debate/2017-10-10d.224.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.225.0" newgid="uk.org.publicwhip/debate/2017-10-10d.225.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.225.1" newgid="uk.org.publicwhip/debate/2017-10-10d.225.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.226.0" newgid="uk.org.publicwhip/debate/2017-10-10d.226.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.226.1" newgid="uk.org.publicwhip/debate/2017-10-10d.226.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.226.2" newgid="uk.org.publicwhip/debate/2017-10-10d.226.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.227.0" newgid="uk.org.publicwhip/debate/2017-10-10d.227.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.227.1" newgid="uk.org.publicwhip/debate/2017-10-10d.227.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.227.2" newgid="uk.org.publicwhip/debate/2017-10-10d.227.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.227.3" newgid="uk.org.publicwhip/debate/2017-10-10d.227.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.228.0" newgid="uk.org.publicwhip/debate/2017-10-10d.228.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.228.1" newgid="uk.org.publicwhip/debate/2017-10-10d.228.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.229.0" newgid="uk.org.publicwhip/debate/2017-10-10d.229.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.229.1" newgid="uk.org.publicwhip/debate/2017-10-10d.229.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.229.2" newgid="uk.org.publicwhip/debate/2017-10-10d.229.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.229.3" newgid="uk.org.publicwhip/debate/2017-10-10d.229.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.230.0" newgid="uk.org.publicwhip/debate/2017-10-10d.230.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.230.1" newgid="uk.org.publicwhip/debate/2017-10-10d.230.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.230.2" newgid="uk.org.publicwhip/debate/2017-10-10d.230.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.230.3" newgid="uk.org.publicwhip/debate/2017-10-10d.230.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.230.4" newgid="uk.org.publicwhip/debate/2017-10-10d.230.4" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.230.4" speakername="Stephen Hammond" person_id="uk.org.publicwhip/person/11927" colnum="230" time="16:21:00" url="">
+    <p pid="c230.4/1">I am grateful to you, Mr Speaker, for the opportunity to make a short contribution to this debate. Like perhaps a number of Members, I was somewhat surprised to find us debating this issue today, when there are so many other things we should be debating, but you are absolutely right, Sir. As the shadow Leader of the House said, you are entrusted with grave responsibilities, and it is only right, when a Member of this House makes what is effectively a substantive complaint against the Government—essentially, that they disrespect this House—that you should call  them to this House. I am grateful for that, because it allows those of us on the Government Benches to set out arguments that, as you will see, more or less demolish the proposition that has been put.</p>
+    <p pid="c230.4/2">My right hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/11588" name="Mark Harper">the Member for Forest of Dean (Mr Harper)</phrase> quite rightly said that we need to look at the words of the motion, which says:</p>
+    <p pid="c230.4/3" class="indent" pwmotiontext="yes">“That this House has considered the Government’s policy in relation to the proceedings of this House.”</p>
+    <p pid="c230.4/4">There seem to me to be two ways one can tackle the motion. The first is to look, as he did, forensically at the debates in question, which <phrase class="honfriend" person_id="uk.org.publicwhip/person/10785" name="Alistair Carmichael">the right hon. Member for Orkney and Shetland (Mr Carmichael)</phrase> referred to yesterday. Anyone listening to my right hon. Friend’s speech would conclude that the Government clearly did not respect this House in any way.</p>
+    <p pid="c230.4/5">There is another way of looking at this, which is to say, “What would be the basis for the charge?” There seem to me to be four things that the right hon. Member for Orkney and Shetland could complain about. The first is, “Are the Government allocating enough days to Opposition debates?” Is he saying that the Government are not taking part? Is his charge that failure to vote is in some way a slight or a breach of convention? Or is he just saying that the Government are ignoring the Opposition motions?</p>
+    <p pid="c230.4/6">The shadow Leader of the House complained in her speech about the number of times she has to ask for days. The reality is that the number of days allocated to Opposition day debates has not changed since their introduction in 1998. Governments of all hues— Labour, coalition and Conservative—have observed the number of allocated days. Indeed, in the period 2010 to 2017, when the Opposition were entitled to 140 days, they were actually given 141 days. They were also given 24 more days in unallocated business that there was space for, so they cannot really claim that Opposition business is not being allocated the right number of days.</p>
+    <p pid="c230.4/7">If the charge is about participation, then a number of colleagues from across the House have pointed out that they are participating, particularly on this side of the House. As my right hon. Friend the Leader of the House said, on the day in question the Government fielded some of their most senior members. There were 11 speeches from the Opposition Benches and 10 from the Government’s, and in the second debate I think the figures were eight and 17. In both cases we had almost exactly the same number of speeches, so the charge of non-participation, which seems to be the thrust behind some of the contributions today, does not stack up. If this was the only time made available to debate such matters, that would be serious. It is not, of course. Tuition fees have been debated during ministerial statements and urgent questions, and in Westminster Hall. The subjects have been thoroughly debated by this House, and the charge of non-participation seems to me to be very difficult to prove.</p>
+    <p pid="c230.4/8">The Government, as the Leader of the House said, take their responsibilities very seriously. If the Opposition really believe there is a need for more scrutiny, there is a way to secure more scrutiny and force the Government to defend their case, and that is by debating and voting on programme motions. The Opposition have chosen to debate only 15% of programme motions in the last seven years. If they really want more time, the Opposition  could force the Government to come through the Lobby more often on programme motions, but they have chosen not to do so.</p>
+    <p pid="c230.4/9">The third charge is that, somehow, by not voting the Government snubbed the House. On the two days that we are talking about, my right hon. Friend the Member for Forest of Dean and others have made the point that snubbing the Opposition was certainly not the reason for the Government’s not voting. It is absolutely true that no Government have ever been bound by convention or the rules of the House to vote on any motion, especially Opposition motions. As my right hon. Friend has said, it is clear that Government—the Leader of the House is, I believe, following this tradition—should consider each motion and debate as it comes. There is no reason why the Government should be committed to voting on any motion, and my right hon. Friend the Leader of the House was right to resist the temptations offered by the Scottish National party to commit herself to that.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.232.0" newgid="uk.org.publicwhip/debate/2017-10-10d.232.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.232.1" newgid="uk.org.publicwhip/debate/2017-10-10d.232.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.233.0" newgid="uk.org.publicwhip/debate/2017-10-10d.233.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.233.1" newgid="uk.org.publicwhip/debate/2017-10-10d.233.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.233.2" newgid="uk.org.publicwhip/debate/2017-10-10d.233.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.233.3" newgid="uk.org.publicwhip/debate/2017-10-10d.233.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.233.4" newgid="uk.org.publicwhip/debate/2017-10-10d.233.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.233.5" newgid="uk.org.publicwhip/debate/2017-10-10d.233.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.233.6" newgid="uk.org.publicwhip/debate/2017-10-10d.233.6" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.233.6" speakername="Chris Bryant" person_id="uk.org.publicwhip/person/10761" colnum="233" time="16:30:00" url="">
+    <p pid="c233.6/1">I am not going to give way to the hon. Gentleman. He should understand that I am not going to give way to him on that point.</p>
+    <p pid="c233.6/2">Only the Government can introduce legislation and be certain to get it debated. Once a private Member’s Bill has been given a Second Reading, it can proceed further only if the Government table the relevant motions, even if it was assented to by the whole House or by a significant majority, as happened during the last Parliament. Only the Government can amend a tax or a duty, and only the Government can table motions in relation to expenditure. It is a case of winner takes all, and that places a very special responsibility on every single member of the governing party.</p>
+    <p pid="c233.6/3">I worry that this is all part of a trend. Of itself, this is not the biggest issue in the universe—of course it is not—but it is part of a trend in this Parliament since, I would say, 2010. The golden thread that runs through our parliamentary system is government by consent. It is not about the Government deciding everything because they have managed to take it all by winning, but about government by consent and the sovereignty of Parliament. Whatever the right hon. Member for Forest of Dean says—he and I have had many debates over many years—the truth of the matter is that the Government knew they were going to lose the vote and that is why they decided not to vote. That was absolutely clear, and it was what all the Whips were saying throughout the day.</p>
+    <p pid="c233.6/4">The latest trick that the Government are playing in this winner-takes-it-all system—[Interruption.] <phrase class="honfriend" person_id="uk.org.publicwhip/person/11406" name="Graham Stuart">The hon. Member for Beverley and Holderness (Graham Stuart)</phrase> really should not lead with his chin on that issue. Their latest trick is to increase the payroll vote in Parliament. In this country, we have more Government Ministers than France, Germany and Italy put together—or, for that matter, than India, Pakistan and Australia put together. We have a vast number of Ministers. In addition, the Government now have 46 Parliamentary Private Secretaries, as well as 15 Government MPs who are trade envoys. All this is an exercise of patronage to make sure they hold on to power. If we look at the percentage of the governing party that that has represented since 1992, the interesting fact is that this is now the highest percentage ever, with more than 50% of Government MPs being part of the payroll vote. That is a despicable process for the Government to have adopted.</p>
+    <p pid="c233.6/5">The right hon. Member for Forest of Dean said that the Opposition should have tabled a motion early in the year, so as to prevent the student fees regulations from coming into force. But the convention of this House, which he knows perfectly well, has always been that if the Leader of the Opposition prays against a statutory instrument—secondary legislation—the Government will provide time, in Government time, on the Floor of the House for a debate and vote within the timescale, so that the legislation can be prevented from coming into force if that is the will of the House. The Government’s Chief Whip refused to do that. When I asked, and when the shadow Leader of the House asked repeatedly, when we were going to get that debate, we were met with a consistent refusal.</p>
+    <p pid="c233.6/6">This is a big breach with our constitutional rights in this House. In the last 12 instances when the Leader of the Opposition has prayed against, only five have led to the granting of debates and votes, and three of those were debates in Committee, where even if every single member of the Committee, including the Government Whip, voted no, the legislation would still go through because all the Committee is allowed to consider, under our rules, is whether or not the matter has been debated.  In other words, it is the height of cheek—the most brass neck imaginable—to try to blame the Opposition for not providing time to debate statutory instruments laid down by the Government. That is why I say that hon. Members on the Government Benches should think very carefully about this business of whether the Government simply decide, when they think they are going to lose on a motion—a Back-Bench motion, an Opposition motion or any other kind of motion—to up sticks and say, “Oh well, it doesn’t really matter. It’s the kind of motion that doesn’t matter.”</p>
+    <p pid="c233.6/7">There have been two other Back-Bench motions that I could cite in the last Parliament. One was on Magnitsky, tabled by <phrase class="honfriend" person_id="uk.org.publicwhip/person/24815" name="Dominic Raab">the hon. Member for Esher and Walton (Dominic Raab)</phrase>; the other, tabled by <phrase class="honfriend" person_id="uk.org.publicwhip/person/11946" name="Mark Pritchard">the hon. Member for The Wrekin (Mark Pritchard)</phrase>, was on circus animals. The Government knew they would lose in both cases. They decided not to vote. So there was a unanimous vote in favour, and the Government have done absolutely nothing.</p>
+    <p pid="c233.6/8">You should just beware. If you think we are Marxist Bolivarians, what will we do when we have these powers?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.235.0" newgid="uk.org.publicwhip/debate/2017-10-10d.235.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.235.0" speakername="Lucy Frazer" person_id="uk.org.publicwhip/person/25399" colnum="235" time="16:37:00" url="">
+    <p pid="c235.0/1">This debate purports to be about an important issue. It accuses the Government of the day of flouting the rules of Parliament and it is true that if that were the case, it would be fundamentally objectionable, because we live in a parliamentary democracy, where Parliament makes the laws that regulate our society, and the rule of law provides that no one is above the law, including parliamentarians. But it is not the Conservative party that threatens the rule of law; it is the party opposite, because the Labour party have, time and time again, stated that they would condone the flouting of our laws, passed in this Chamber. They would condone illegal strikes supported by the trade unions. It is the shadow Chancellor, not this Members on this side of the House, who has threatened the rule of law and our democracy.</p>
+    <p pid="c235.0/2">This is a debate about procedure, but it is not just a debate about procedure; it is also a debate where the premise is flawed. There is an objection that the Government do not vote on Opposition days, but as <phrase class="honfriend" person_id="uk.org.publicwhip/person/10785" name="Alistair Carmichael">the right hon. Member for Orkney and Shetland (Mr Carmichael)</phrase>, who applied for the debate, knows––having been part of the coalition Government that brought in Backbench Business debates—there is great value in debating important matters that affect the lives of our constituents without a binding vote or a commitment to take immediate action. Indeed, he is using a procedure in this debate, in this House today, which will have no substantive result other than the airing in public of this issue.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.235.1" newgid="uk.org.publicwhip/debate/2017-10-10d.235.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.235.2" newgid="uk.org.publicwhip/debate/2017-10-10d.235.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.235.2" speakername="Lucy Frazer" person_id="uk.org.publicwhip/person/25399" colnum="235" time="16:37:00" url="">
+    <p pid="c235.2/1">It is interesting that the right hon. Gentleman says the Government did not follow the will of the House. In the debate on public sector pay, the Government said very clearly that they would be flexible on that. Since that debate, the Prison Service and the  police have had a pay increase, so it is completely inaccurate to say that the Government are not listening to the will of the House.</p>
+    <p pid="c235.2/2">This is the third debate on procedure I have taken part in in two years and I have learned that other parties seem to value form over substance. They seem to value debating procedure rather than the issues at stake. In the previous Parliament, I had the honour of sitting on the Investigatory Powers Public Bill Committee. In that Committee, we spent much time at the outset listening to arguments from Opposition Members that there was insufficient time to debate the issues. However, looking at the record of those proceedings I can see that on Second Reading, 53 Conservatives contributed as against 13 for Labour, and that on Report, there were 43 Conservative contributions, as against 13 from Labour.</p>
+    <p pid="c235.2/3">When I knock on doors, not one voter suggests to me that we should spend more time in this House on procedural matters about past debates. The right hon. Member for Orkney and Shetland has brought a three-hour debate before this House at a time when there are many more important issues facing our country, such as Brexit—[Hon. Members: “He applied for it.”] He applied for it and Mr Speaker agreed to it. But the issues facing our country are Brexit, the economy, the NHS and education, issues that affect the daily lives of our constituents. It is those issues our constituents want us to discuss and not the procedure of this House.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.236.0" newgid="uk.org.publicwhip/debate/2017-10-10d.236.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.236.1" newgid="uk.org.publicwhip/debate/2017-10-10d.236.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.237.0" newgid="uk.org.publicwhip/debate/2017-10-10d.237.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.237.1" newgid="uk.org.publicwhip/debate/2017-10-10d.237.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.237.2" newgid="uk.org.publicwhip/debate/2017-10-10d.237.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.237.3" newgid="uk.org.publicwhip/debate/2017-10-10d.237.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.237.4" newgid="uk.org.publicwhip/debate/2017-10-10d.237.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.238.0" newgid="uk.org.publicwhip/debate/2017-10-10d.238.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.238.1" newgid="uk.org.publicwhip/debate/2017-10-10d.238.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.238.2" newgid="uk.org.publicwhip/debate/2017-10-10d.238.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.239.0" newgid="uk.org.publicwhip/debate/2017-10-10d.239.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.239.1" newgid="uk.org.publicwhip/debate/2017-10-10d.239.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.239.2" newgid="uk.org.publicwhip/debate/2017-10-10d.239.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.239.3" newgid="uk.org.publicwhip/debate/2017-10-10d.239.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.239.4" newgid="uk.org.publicwhip/debate/2017-10-10d.239.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.240.0" newgid="uk.org.publicwhip/debate/2017-10-10d.240.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.240.1" newgid="uk.org.publicwhip/debate/2017-10-10d.240.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.240.2" newgid="uk.org.publicwhip/debate/2017-10-10d.240.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.241.0" newgid="uk.org.publicwhip/debate/2017-10-10d.241.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.242.0" newgid="uk.org.publicwhip/debate/2017-10-10d.242.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.242.0" speakername="Douglas Ross" person_id="uk.org.publicwhip/person/25531" colnum="242" time="17:02:00" url="">
+    <p pid="c242.0/1">I contribute to this debate from quite a privileged position, as someone who has served both my Parliaments: as a Member of the Scottish Parliament in Holyrood in Edinburgh; and as a Member of our Parliament here in Westminster in London. Of course, in both Parliaments, I have served under minority Governments, so I am well placed to speak about how Oppositions deal with debates in both Chambers.</p>
+    <p pid="c242.0/2">We hear a lot from our Scottish National party colleagues about minority government here at Westminster, but very little about the fact that their party is in minority government in Holyrood—we heard a couple of sentences about it today from <phrase class="honfriend" person_id="uk.org.publicwhip/person/11333" name="Pete Wishart">the hon. Member for Perth and North Perthshire (Pete Wishart)</phrase>, but not much before that. It is therefore worth repeating that Nicola Sturgeon went into the last Scottish parliamentary elections with a majority and came out with a minority, largely because the number of Scottish Conservative MSPs more than doubled—from 15 to 31.</p>
+    <p pid="c242.0/3">The hon. Member for Perth and North Perthshire said many interesting things. After 13 minutes of criticising and attacking the Government and Conservative Back Benchers, he told us that he was being helpful and consensual. That was the only helpful thing he told us, because up until that point it did not seem that he was being particularly helpful or consensual. He also said—I wrote this down because I was very interested—that nobody expects the Government to change policy after being defeated in an Opposition day debate. That was quickly followed by an intervention from <phrase class="honfriend" person_id="uk.org.publicwhip/person/10785" name="Alistair Carmichael">the right hon. Member for Orkney and Shetland (Mr Carmichael)</phrase>, who disagreed entirely. That just shows the confused position among the Opposition parties in today’s debate. It is perhaps because the party of the hon. Member for Perth and North Perthshire has a minority Government in Scotland that he does not believe that Governments should change policy due to a defeat in a chamber.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.242.1" newgid="uk.org.publicwhip/debate/2017-10-10d.242.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.242.1" speakername="Lloyd Russell-Moyle" person_id="uk.org.publicwhip/person/25667" colnum="242" time="17:02:00" url="">
+    <p pid="c242.1/1">It is nice to hear about the Scottish example, but I am interested to know whether the hon. Gentleman thinks that the Government should change course when they are defeated in a chamber, instead of just hearing him attack the SNP, which I do not have much truck with either.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.242.2" newgid="uk.org.publicwhip/debate/2017-10-10d.242.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.243.0" newgid="uk.org.publicwhip/debate/2017-10-10d.243.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.243.1" newgid="uk.org.publicwhip/debate/2017-10-10d.243.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.243.2" newgid="uk.org.publicwhip/debate/2017-10-10d.243.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.243.3" newgid="uk.org.publicwhip/debate/2017-10-10d.243.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.243.4" newgid="uk.org.publicwhip/debate/2017-10-10d.243.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.243.5" newgid="uk.org.publicwhip/debate/2017-10-10d.243.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.244.0" newgid="uk.org.publicwhip/debate/2017-10-10d.244.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.244.1" newgid="uk.org.publicwhip/debate/2017-10-10d.244.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.244.2" newgid="uk.org.publicwhip/debate/2017-10-10d.244.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.244.3" newgid="uk.org.publicwhip/debate/2017-10-10d.244.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.244.4" newgid="uk.org.publicwhip/debate/2017-10-10d.244.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.245.0" newgid="uk.org.publicwhip/debate/2017-10-10d.245.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.245.1" newgid="uk.org.publicwhip/debate/2017-10-10d.245.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.245.2" newgid="uk.org.publicwhip/debate/2017-10-10d.245.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.245.3" newgid="uk.org.publicwhip/debate/2017-10-10d.245.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.245.4" newgid="uk.org.publicwhip/debate/2017-10-10d.245.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.246.0" newgid="uk.org.publicwhip/debate/2017-10-10d.246.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.247.0" newgid="uk.org.publicwhip/debate/2017-10-10d.247.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.247.1" newgid="uk.org.publicwhip/debate/2017-10-10d.247.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.247.2" newgid="uk.org.publicwhip/debate/2017-10-10d.247.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.247.2" speakername="Jim Cunningham" person_id="uk.org.publicwhip/person/10147" colnum="247" time="17:18:00" url="">
+    <p pid="c247.2/1">I was very interested in the justification from the Leader of the House for the Government’s actions on those two votes. We noticed that she sloganized for Conservative Central Office by blaming the last Labour Government for running the country into debt when she knows that it was her friends, the bankers in America, who caused the problem.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.247.3" newgid="uk.org.publicwhip/debate/2017-10-10d.247.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.248.0" newgid="uk.org.publicwhip/debate/2017-10-10d.248.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.248.1" newgid="uk.org.publicwhip/debate/2017-10-10d.248.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.248.2" newgid="uk.org.publicwhip/debate/2017-10-10d.248.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.249.0" newgid="uk.org.publicwhip/debate/2017-10-10d.249.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.249.1" newgid="uk.org.publicwhip/debate/2017-10-10d.249.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.249.2" newgid="uk.org.publicwhip/debate/2017-10-10d.249.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.249.3" newgid="uk.org.publicwhip/debate/2017-10-10d.249.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.249.4" newgid="uk.org.publicwhip/debate/2017-10-10d.249.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.250.0" newgid="uk.org.publicwhip/debate/2017-10-10d.250.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.250.1" newgid="uk.org.publicwhip/debate/2017-10-10d.250.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.250.2" newgid="uk.org.publicwhip/debate/2017-10-10d.250.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.250.3" newgid="uk.org.publicwhip/debate/2017-10-10d.250.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.250.3" speakername="Mark Harper" person_id="uk.org.publicwhip/person/11588" colnum="250" time="17:24:00" url="">
+    <p pid="c250.3/1">That’s true.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.250.4" newgid="uk.org.publicwhip/debate/2017-10-10d.250.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.250.5" newgid="uk.org.publicwhip/debate/2017-10-10d.250.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.251.0" newgid="uk.org.publicwhip/debate/2017-10-10d.251.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.251.1" newgid="uk.org.publicwhip/debate/2017-10-10d.251.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.251.2" newgid="uk.org.publicwhip/debate/2017-10-10d.251.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.251.3" newgid="uk.org.publicwhip/debate/2017-10-10d.251.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.251.4" newgid="uk.org.publicwhip/debate/2017-10-10d.251.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.251.5" newgid="uk.org.publicwhip/debate/2017-10-10d.251.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.252.0" newgid="uk.org.publicwhip/debate/2017-10-10d.252.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.252.1" newgid="uk.org.publicwhip/debate/2017-10-10d.252.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.252.2" newgid="uk.org.publicwhip/debate/2017-10-10d.252.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.252.2" nospeaker="true" colnum="252" time="17:33:00" url="">
+    <p pid="c252.2/1">Considered in Committee.</p>
+    <p pid="c252.2/2" class="italic">Mrs Eleanor Laing in the Chair</p>
+    <p pid="c252.2/3">Clause 1</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.252.3" newgid="uk.org.publicwhip/debate/2017-10-10d.252.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.252.4" newgid="uk.org.publicwhip/debate/2017-10-10d.252.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.252.5" newgid="uk.org.publicwhip/debate/2017-10-10d.252.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.252.6" newgid="uk.org.publicwhip/debate/2017-10-10d.252.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.252.7" newgid="uk.org.publicwhip/debate/2017-10-10d.252.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.254.0" newgid="uk.org.publicwhip/debate/2017-10-10d.254.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.254.1" newgid="uk.org.publicwhip/debate/2017-10-10d.254.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.254.1" speakername="Bill Esterson" person_id="uk.org.publicwhip/person/24905" colnum="254" time="17:39:00" url="">
+    <p pid="c254.1/1">I do not think there is any danger of confusing Donald Trump’s Administration or regime with anything of the hard left.</p>
+    <p pid="c254.1/2">That Boeing can act as it has done—initiating trade disputes in a segment in which it does not compete—with the full support of a protectionist US Administration demonstrates the need to ensure that every effort is made to deliver healthy and fair competition. The reliance of some Ministers on the US for trade and for our own economic success has been brought into sharp focus by the actions of the Department of Commerce. Notably, this applies to the International Trade Secretary, who seems to think that our relationship with the US is the answer to all our prayers, but it clearly is not.</p>
+    <p pid="c254.1/3">On Second Reading, the Minister told the House:</p>
+    <p pid="c254.1/4" class="indent" pwmotiontext="yes">“The absence of the possibility of exchanging information with the Canadian Competition Bureau is regarded as a major impediment to effective co-operation. The proposed changes in the existing agreement will allow the European Commission and the Competition Bureau to exchange evidence that both sides have obtained in their investigations. That will be particularly useful in all cases in which the alleged anti-competitive behaviour affects transatlantic or world markets. Many worldwide or transatlantic cartels include Canada and, via Canada, the Commission will gain a good opportunity to have access to additional information concerning those cartels.”</p>
+    <p pid="c254.1/5">I note that she also told us:</p>
+    <p pid="c254.1/6" class="indent" pwmotiontext="yes">“The existing competition agreement with Canada does not allow the sharing of confidential information, but the new one does.”—[Official Report, <phrase class="date" code="2017-07-04">4 July</phrase> 2017; Vol. 626, c. 1048.]</p>
+    <p pid="c254.1/7">Many people regard the actions of Boeing in pushing the US Department of Commerce towards levying 300% tariffs on Bombardier, a competitor with a technically  superior product, as a pretty strong example of the type of anti-competitive behaviour that the Minister spoke about on <phrase class="date" code="2017-07-04">4 July</phrase>. Indeed, given Boeing’s battle with Airbus, it very much appears to be an attempt to destroy further competition in a market in which it has long been the dominant player.</p>
+    <p pid="c254.1/8">The Canadian Government and the EU have both been working hard to address the actions taken to reverse the protectionist, anti-competitive actions of Boeing and the US Government. I trust the Minister will agree that any action to help all those connected with Bombardier in the UK, who are now fearing the worst, would be widely welcomed. The European Commission has noted that the absence of a power to exchange information with the Canadian competition authority is now an impediment as co-operation between the two parties has increased. Co-operation between the Canadian Government, the UK Government and the EU has never been more important, and what is happening at Bombardier is a reminder that such increased co-operation can only help.</p>
+    <p pid="c254.1/9">Fair competition means avoiding anti-competitive practices, whether at home or abroad, including through the creation of cartels, or through mergers and acquisitions that distort the market. The undercutting and exploitation of workers in smaller businesses, the use of zero-hours contracts, the creation of false self-employment about which workers have little choice, the unfair treatment of smaller businesses by banks that will fund only those with liquid assets and delays in the payment of invoices by larger firms are all examples of anti-competitive and exploitative practices. In relation to such practices, Governments should find ways of intervening, nationally and internationally, to create a level playing field. Governments should be the partner of business and of the workforce, and they should encourage those wishing to start and to grow a business.</p>
+    <p pid="c254.1/10">Preventing competition from being undermined matters, so co-operation between competition authorities and the sharing of information between jurisdictions is a key part of preventing anti-competitive practices. There is an existing agreement between the EU and Canada on competition law. It provides for the reciprocal notification of cases under investigation by either party where such cases may affect the important interests of the other party. It provides for co-ordination of enforcement activities and the provision of assistance where both parties have an interest. It provides the ability of one party to request the other to take enforcement action if there is reason to believe that anti-competitive activities carried out on its territory are adversely affecting the other party’s important interests. It also provides for the exchange of information subject to confidentiality provisions and conditions of use, including on current enforcement activities and priorities, economic sectors of common interest, policy changes that either party is considering and other matters of mutual interest relating to the application of competition law.</p>
+    <p pid="c254.1/11">Labour will seek for us to remain a member of common European agencies that benefit the UK, such as Europol, Eurojust and the Erasmus scheme. To those, we can now add having access to the information shared between the competition authorities in the EU and in Canada and, for that matter, between those in the EU and in other countries.</p>
+    <p pid="c254.1/12">The emphasis from the Labour Benches is on jobs, the economy and retaining the benefits of the single market and the customs union. Being able to share information about competition, to prevent anti-competitive practices and support fair competition is consistent with maintaining the best possible relationship with the EU and access to our biggest customer as a country—the customer being the EU, which accounts for 44% of our trade.</p>
+    <p pid="c254.1/13">On Second Reading on <phrase class="date" code="2017-07-04">4 July</phrase>, the Minister told the House, in answer to my question whether the UK could remain part of the Fundamental Rights Agency after Brexit:</p>
+    <p pid="c254.1/14" class="indent" pwmotiontext="yes">“The Government are looking at the UK’s relationship with all EU bodies, including the FRA, as part of the exit negotiations.”</p>
+    <p pid="c254.1/15">Further to that answer, may I ask her, three months later, whether the Government have a view yet on whether we will remain in these EU bodies and, indeed, which ones we will remain in during transition, and secondly, whether the UK wishes to remain in these bodies after transition?</p>
+    <p pid="c254.1/16">In answer to my questions about the competition arrangements, she told me on <phrase class="date" code="2017-07-04">4 July</phrase>:</p>
+    <p pid="c254.1/17" class="indent" pwmotiontext="yes">“The UK Government will be free to enter into their own arrangements to share information with Canada directly, and the UK and Canada will need to negotiate any such agreement.”</p>
+    <p pid="c254.1/18">I also asked about international agreements after the UK leaves the EU, and whether this agreement provides a model. She told me:</p>
+    <p pid="c254.1/19" class="indent" pwmotiontext="yes">“The UK will be free to enter into international agreements on competition”</p>
+    <p pid="c254.1/20">and she told me that the Government</p>
+    <p pid="c254.1/21" class="indent" pwmotiontext="yes">“believe that this agreement is a good model.”—[Official Report, <phrase class="date" code="2017-07-04">4 July</phrase> 2017; Vol. 626, c. 1074-75.]</p>
+    <p pid="c254.1/22">Can she tell me what happens after we leave until new arrangements have been agreed? What transitional arrangements do the Government have in mind for sharing information about competition with Canada and other countries? Perhaps, following my comments about Bombardier, she might want to say whether, in her opinion, the sharing of information with the Canadian Competition Bureau might be of help in addressing the problems caused by Boeing’s actions and by the imposition of punitive tariffs and the return to protectionism that we have seen from the United States Government.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.256.0" newgid="uk.org.publicwhip/debate/2017-10-10d.256.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.257.0" newgid="uk.org.publicwhip/debate/2017-10-10d.257.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.257.1" newgid="uk.org.publicwhip/debate/2017-10-10d.257.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.257.2" newgid="uk.org.publicwhip/debate/2017-10-10d.257.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.258.0" newgid="uk.org.publicwhip/debate/2017-10-10d.258.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.258.1" newgid="uk.org.publicwhip/debate/2017-10-10d.258.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.260.0" newgid="uk.org.publicwhip/debate/2017-10-10d.260.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.260.1" newgid="uk.org.publicwhip/debate/2017-10-10d.260.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.260.2" newgid="uk.org.publicwhip/debate/2017-10-10d.260.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.261.0" newgid="uk.org.publicwhip/debate/2017-10-10d.261.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.261.0" speakername="Andrew Percy" person_id="uk.org.publicwhip/person/24832" colnum="261" time="18:00:00" url="">
+    <p pid="c261.0/1">I wish to forget that the hon. Gentleman was speaking, given, again, the nonsense he was trotting out that in some way this is Parliament’s failure. He clearly does not understand how European decision making has evolved through the various European treaties over the years and how the role of this House in that legislative process has been diminished. He is a member of party that wants to retain decision making in Brussels, rather than repatriate it to the UK, so it is a little difficult to swallow being lectured about parliamentary democracy by a representative of a party that wishes decision making to remain in Brussels.</p>
+    <p pid="c261.0/2">I am delighted, as I was on previous stages, to support the Bill. It is important, as we exit the EU, that we continue to be good partners in Europe, and if it is the will of Serbia and Albania to join the EU in the future, it is not for us to get in their way. Regardless of whether we are in favour of leaving or remaining in the EU, we will all wish them well as they embrace the values that we in this country and our allies in Europe hold so dear. It is important for their own stability that they be allowed to progress unimpeded down the path they have chosen. Also, by actively supporting the Bill, we show what we wish to be after we have left the EU: good partners with Europe. As a proud Brexiteer, therefore, I am more than happy to support a Bill that might well pave the way for the expansion of the EU.</p>
+    <p pid="c261.0/3">On the provisions as they relate to Canada, the Minister was unable, quite reasonably, to say whether we would wish to participate in these arrangements in the future. That will of course be a matter for our final arrangements with the EU. <phrase class="honfriend" person_id="uk.org.publicwhip/person/24905" name="Bill Esterson">The hon. Member for Sefton Central (Bill Esterson)</phrase> set out a position, and the Opposition have set out any number of different positions on Brexit, all of which they appear to be capable of maintaining at the same time. That is an interesting approach to such an important issue.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.261.1" newgid="uk.org.publicwhip/debate/2017-10-10d.261.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.261.2" newgid="uk.org.publicwhip/debate/2017-10-10d.261.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.261.3" newgid="uk.org.publicwhip/debate/2017-10-10d.261.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.261.4" newgid="uk.org.publicwhip/debate/2017-10-10d.261.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.262.0" newgid="uk.org.publicwhip/debate/2017-10-10d.262.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.263.0" newgid="uk.org.publicwhip/debate/2017-10-10d.263.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.264.0" newgid="uk.org.publicwhip/debate/2017-10-10d.264.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.265.0" newgid="uk.org.publicwhip/debate/2017-10-10d.265.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.266.0" newgid="uk.org.publicwhip/debate/2017-10-10d.266.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.266.1" newgid="uk.org.publicwhip/debate/2017-10-10d.266.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.266.2" newgid="uk.org.publicwhip/debate/2017-10-10d.266.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.267.0" newgid="uk.org.publicwhip/debate/2017-10-10d.267.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.267.0" speakername="Philip Dunne" person_id="uk.org.publicwhip/person/11696" colnum="267" time="18:33:00" url="">
+    <p pid="c267.0/1">Before I start the debate, Madam Deputy Speaker, let me say that I am delighted that you were able to pay tribute to all of our Doorkeepers and, in particular, to Trevor, on his last day here.</p>
+    <p pid="c267.0/2">I beg to move,</p>
+    <p pid="c267.0/3" class="indent" pwmotiontext="yes">That this House has considered Baby Loss Awareness Week.</p>
+    <p pid="c267.0/4">I am personally very pleased that this debate is being held in Government time, having participated in last year’s debate on baby loss. It was one of the most moving experiences I have had in this Chamber, as Members from both sides of the House gave expression to their own experiences. That helps to send a signal outside this place of the significance that we accord this, not just within the Department of Health and the NHS; Members of this House sympathise with the many members of the public who go through such experiences. It does this House a good service when Members who feel able to do so place on the record their own experiences. It is right and important that we continue to raise awareness of the devastating impact of baby loss.</p>
+    <p pid="c267.0/5">I wish to restate at the outset this Government’s commitment to provide high quality bereavement care and to reduce the numbers of babies who are lost too soon through miscarriage, stillbirth or other causes such as sudden infant death syndrome. I pay tribute to all those who are sharing their personal experiences this week. In particular, I thank my hon. Friends the Members for Eddisbury (Antoinette Sandbach) and for Colchester (Will Quince), who are in the Chamber today, and all members of the all-party parliamentary group on baby loss, which they co-chair, for achieving so much in raising awareness during this past year.</p>
+    <p pid="c267.0/6">I wish to update the House on some of the initiatives that the Government and the NHS have put in place since last year’s debate to improve safety, reduce stillbirths and other adverse maternity outcomes and improve bereavement care. I believe that all hon. Members support the ambition of the Secretary of State to halve the rates of stillbirth, neonatal and maternal deaths and brain injuries that occur during or soon after birth by 2030, and to achieve a 20% reduction in rates by 2020.</p>
+    <p pid="c267.0/7">Shortly after the debate last October, the Secretary of State launched the safer maternity care action plan, which set out additional support for the maternity and neonatal services working to achieve that ambition. The plan set out a range of initiatives on five themes. First, there is a focus on leadership, with the establishment of local, regional and national maternity safety champions to promote professional cultures, teamwork and continuous improvement. Every trust with maternity services has pledged to appoint a maternity safety champion, and 88 out of the 134 trusts that provide maternity services now have named leads.</p>
+    <p pid="c267.0/8">Secondly, there is a focus on learning and best practice. This includes the Saving Babies’ Lives care bundle to reduce stillbirths, which was launched by NHS England in March 2016. Saving Babies’ Lives brings together four elements of care that are recognised as evidence-based and/or best practice: reducing smoking in pregnancy; risk assessment and surveillance for foetal growth restriction; raising awareness of reduced foetal movement; and effective  foetal monitoring during labour. The Department has also funded Sands and Best Beginnings to develop and promote the “Our Chance” campaign to give parents knowledge and confidence to maximise their chances of healthy outcomes.</p>
+    <p pid="c267.0/9">Thirdly, there has been a focus on multi-disciplinary teams with an £8.1 million maternity safety training fund, which is designed to ensure that staff have the skills and confidence they need to deliver world-leading safe care. All 134 trusts with maternity units have now received funding and are implementing training packages. Many of those are being delivered by the charity Baby Lifeline, which I met this morning to learn some of the benefits that this training is bringing to improving safety, reducing error, and helping patient outcomes.</p>
+    <p pid="c267.0/10">I visited Leeds teaching hospital a couple of weeks ago and heard from midwives about their multi-disciplinary training programme “Deliver me safely” in which they and doctors undergo training together in the recognition that human factors can contribute to harm in maternity systems. These simulations focus on situational awareness and team interactions, challenging some cultural hierarchical attitudes, which I am afraid can be prevalent in parts of the NHS, and encouraging everybody to speak up if they have safety concerns.</p>
+    <p pid="c267.0/11">Lastly, there has been a focus on innovation, with the launch of a maternity safety innovation fund of £250,000, which has supported 25 local maternity services to create and pilot new ideas, and of the national maternal and neonatal health safety collaborative to build local capability in quality improvement and to provide structured support for local teams. One example of this is the safer films project at the University Hospitals Coventry and Warwickshire NHS Trust, which is developing staff training films, using headcam devices to show interactions with clinicians from the mother’s perspective. The patient’s view of the drills undertaken around her allows clinicians to look back at the impact that their activity, including how they communicate with women and their partners, has on the patient.</p>
+    <p pid="c267.0/12">Just last month, the Secretary of State hosted a roundtable with 25 key partners across the health system to discuss evidence and current NHS clinical practice on supporting women to have safe births. There has been an enthusiastic response to the Secretary of State’s ambition, with a range of initiatives developed by national and local NHS organisations, royal colleges and charities. We will continue to work with our partners to align these initiatives with the work of the maternity safety action plan. I am happy to report that we are on track to achieve our 2020 ambition. The stillbirth rate in England has fallen from 5.1 per 1,000 births in 2010 to 4.4 in 2015. The neonatal mortality rate was 2.6 deaths per 1,000 births in 2015, down 10% from 2.9 in 2010.</p>
+    <p pid="c267.0/13">I would like to touch briefly on the importance of learning from when things go wrong in clinical care. Many parents I have spoken to have made it clear they want maternity and neonatal services to learn from the deaths of their babies so that other families do not have to go through the experience of losing a much-loved and wanted child if that can be prevented. Recent publications from the Royal College of Obstetricians and Gynaecologists and MBRRACE-UK—Mothers and Babies: Reducing Risk through Audits and Confidential Enquiries across the UK—found that some local reviews of stillbirths and neonatal deaths were of poor quality.  Input from parents or independent experts is not routinely sought, and there is insufficient information to understand the quality of care provided.</p>
+    <p pid="c267.0/14">To improve the quality of those reviews and to learn from them, the Department of Health, together with the Health Departments in Scotland and Wales, has funded the development of a national standardised perinatal mortality review tool to support systematic, multidisciplinary reviews of the circumstances and care leading up to every stillbirth and neonatal death. The tool, which will be available at the end of this year, will also support clinicians to talk with parents about the care review and how they can contribute to the process.</p>
+    <p pid="c267.0/15">Last month, I laid the draft health service safety investigations Bill in Parliament. This Bill will take forward the work of the current independent healthcare safety investigation branch, which came into operation last April. Under the proposals, HSIB will have far-reaching access so that it can investigate serious safety incidents or risks to patient safety; help to develop national standards on investigations; and provide guidance and training to improve investigative practice across the health service.</p>
+    <p pid="c267.0/16">Earlier this year, we also consulted on proposals to introduce a system of consistent and independent investigations for all instances of severe avoidable birth injury, along with access to ongoing support and compensation for eligible babies through an administrative scheme. The public consultation into a rapid resolution and redress scheme for severe avoidable birth injury concluded at the end of May, receiving more than 200 responses. We are currently in the process of listening to people’s views, and we aim to publish a formal response soon.</p>
+    <p pid="c267.0/17">Turning to bereavement care, a clear message that we heard last year, particularly from my hon. Friends the Members for Eddisbury and for Colchester and <phrase class="honfriend" person_id="uk.org.publicwhip/person/11647" name="Diana R. Johnson">the hon. Member for Kingston upon Hull North (Diana Johnson)</phrase>, who I am pleased to see with us this evening, was about the need for a bereavement care pathway to ensure that all families experiencing baby loss receive the highest quality of care, no matter where they live.</p>
+    <p pid="c267.0/18">Since last year’s debate, the Department has funded Sands to deliver a national bereavement care pathway. I am delighted that 11 wave 1 pilot sites were announced yesterday. I know from the experience of my friends and colleagues that care in bereavement is best described as patchy. In some cases, I could use a less flattering adjective. There is no doubt that we need to do more to raise the training of staff and the facilities available to look after families who go through a bereavement in a hospital setting, and indeed to provide care and support to those who suffer loss outside a hospital setting. That is an important initiative.</p>
+    <p pid="c267.0/19">Earlier this year, Sands, NHS England and the London maternity clinical network published a new maternity bereavement experience measure. That tool aims sensitively to enable parents whose baby has died to feed back about the care they received. It also aims to support services to learn from the experiences of bereaved parents and identify where local improvements may be needed.</p>
+    <p pid="c267.0/20">Sands is also working on a project for NHS England on the role of the bereavement midwife. The project will make recommendations for the remit of the role of the bereavement midwife and give guidance on the support structures required around the role.</p>
+    <p pid="c267.0/21">Since 2010, the Government have invested £35 million in the NHS to improve birthing environments, including better bereavement rooms and quiet spaces at nearly 40 hospitals to support bereaved families. Whenever I visit maternity units, I ask to see the bereavement suite. I am always impressed by the quality of the suites, by the feedback from families and staff alike and by how the commitment of many families who have gone through such terrible loss has often led to them raising funds to help to create better bereavement facilities in hospitals.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.270.0" newgid="uk.org.publicwhip/debate/2017-10-10d.270.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.270.1" newgid="uk.org.publicwhip/debate/2017-10-10d.270.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.270.2" newgid="uk.org.publicwhip/debate/2017-10-10d.270.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.272.0" newgid="uk.org.publicwhip/debate/2017-10-10d.272.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.272.1" newgid="uk.org.publicwhip/debate/2017-10-10d.272.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.272.2" newgid="uk.org.publicwhip/debate/2017-10-10d.272.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.273.0" newgid="uk.org.publicwhip/debate/2017-10-10d.273.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.273.1" newgid="uk.org.publicwhip/debate/2017-10-10d.273.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.273.1" speakername="Will Quince" person_id="uk.org.publicwhip/person/25403" colnum="273" time="18:56:00" url="">
+    <p pid="c273.1/1">The hon. Gentleman makes some very good points, and he is absolutely right that bereavement suites play a very important role, as do hospital chaplains. I say that as a man of faith, but I know lots of people who have been through this tragic experience and who are not of faith. Nevertheless, the hospital chaplain came to talk to them—not about God, and not about religion—and sat there, listened, and allowed them to come to terms with the tragic event that had just happened. The chaplain gave them the time that they needed, and which medical professionals do not always have. It is a really important role, and chaplains are a credit to the NHS.</p>
+    <p pid="c273.1/2">We now have some ambitious targets when it comes to tackling stillbirth and neonatal death. I applaud the Government for their commitment to bringing about a reduction in stillbirth and neonatal death of 20% by 2020— I recognise the Minister’s efforts to make us aware of the steps that will be taken to achieve that—and 50% by 2030. Those targets are very much to be welcomed. Even if we are to achieve those targets—let us be clear: it would be absolutely fantastic if we could achieve a 50% reduction in stillbirth and neonatal death by 2030—that statistic would still mean thousands of babies dying every year and tens of thousands of parents—</p>
+    <p pid="c273.1/3">The debate stood adjourned (<phrase class="standing-order" code="9(3)">Standing Order No. 9(3)</phrase>).</p>
+    <p pid="c273.1/4">Motion made, and Question put forthwith (<phrase class="standing-order" code="15">Standing Order No. 15</phrase>),</p>
+    <p pid="c273.1/5" class="indent" pwmotiontext="yes">That, at this day’s sitting, proceedings on the motion in the name of the Prime Minister relating to Baby Loss Awareness Week may be proceeded with, though opposed, until 9.00pm.—(Andrew Stephenson.)</p>
+    <p pid="c273.1/6">Question agreed to.</p>
+    <p pid="c273.1/7">Debate resumed.</p>
+    <p pid="c273.1/8">Main Question again proposed.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.274.0" newgid="uk.org.publicwhip/debate/2017-10-10d.274.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.274.1" newgid="uk.org.publicwhip/debate/2017-10-10d.274.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.274.2" newgid="uk.org.publicwhip/debate/2017-10-10d.274.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.275.0" newgid="uk.org.publicwhip/debate/2017-10-10d.275.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.275.1" newgid="uk.org.publicwhip/debate/2017-10-10d.275.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.275.2" newgid="uk.org.publicwhip/debate/2017-10-10d.275.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.275.3" newgid="uk.org.publicwhip/debate/2017-10-10d.275.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.275.3" speakername="Philippa Whitford" person_id="uk.org.publicwhip/person/25318" colnum="275" time="19:07:00" url="">
+    <p pid="c275.3/1">I speak as someone who has not lost a child, but I remember what happened when I was working in Lebanon and was four months pregnant with my son. We had discussed the risks of going to Lebanon when I was  pregnant and we thought I would only be there a few months; even if I was here there would be nothing that could be done, so I was not adding to the risk. But when I suddenly saw blood, all of a sudden I realised how paltry that word “miscarriage” is. I understand that we are predominantly talking about babies who have been lost later, but that term “miscarriage” sounds like “misstep”—like a bump in the road—and by four or five months, particularly once you have had that little ultrasound picture, which you thought was going to be the first of a whole lifetime of photographs, you realise you have already bonded with the bulge that means you need elasticated waistbands and is giving you heartburn or keeping you up at night, or even, a bit later, starting to kick the living daylights out of you at three in the morning. So I think it is really important, as my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25276" name="Lisa Cameron">the Member for East Kilbride, Strathaven and Lesmahagow (Dr Cameron)</phrase> said, that we think of those who are slightly outwith this debate. That is something that we must try and bring over to medical staff as well.</p>
+    <p pid="c275.3/2">I acknowledge the discussion about bereavement midwives, and you always need champions and leaders when you are trying to raise awareness. But as someone who has worked in breast cancer for over 30 years, I can tell you that having a grumpy old surgeon and then sending the lady to the breast cancer nurse, who would be nice to her, is not a solution. In fact, with all midwives, all doctors, it only takes one person to turn the knife and make that heartbreak worse.</p>
+    <p pid="c275.3/3">I had a friend who had three miscarriages before she successfully had two rather wild and lively boys—something for which I am sure she gives thanks every day. On her second miscarriage, a routine scan at 16 weeks revealed that the heartbeat had stopped. They thought she would miscarry, but she did not. The period between then and when she underwent surgery meant she knew she was carrying her own dead baby. That was really difficult. At the scan that made the diagnosis, she was simply sent back out to the waiting room after a couple of minutes. She was sitting there surrounded by women with their bumps discussing their plans, while she waited for almost half an hour to be taken into a room and just given leaflets. There is no point in having one person who knows how someone should be supported: every single member of every single team, from antenatal, perinatal and right through to early paediatrics, needs to know the language, the body language, the timing and the support that someone might need.</p>
+    <p pid="c275.3/4">The number one thing as a doctor is to try to reduce the number of deaths and Scotland actually had higher perinatal, stillbirth and neonatal figures. About five years ago, there was a big discussion in the profession in Scotland saying that it needed to be tackled. It was not enough simply to collect data—whether the Scottish perinatal mortality data, which go back to 1977, or, now, in MBRRACE-UK. The cases had to be looked at. Regardless of whether that is done through a fatal accident inquiry, it must be done by the clinicians. As surgeons, we carry out morbidity-mortality meetings every couple of weeks to discuss cases that have gone wrong in a very open and frank way. We learn from them. Often, we will suddenly see a pattern that makes us want to change. Since 2013 in Scotland, our perinatal figures have dropped by 34%—a third—our stillbirth rate has dropped by 26% and neonatal has dropped by over 50%. That is what can be done if every single case is discussed.</p>
+    <p pid="c275.3/5">Believe me, Scottish Members here know that the geography of Scotland makes providing perinatal care really difficult and challenging. It is easy to identify the difficult case with a past history of diabetes or a huge wain and a small pelvis, but any delivery can go wrong. One challenge we face, which is not faced in so many areas in England, is how to get people off our islands and how to cover hundreds of miles, yet we have managed to bring the figures down.</p>
+    <p pid="c275.3/6">It is absolutely right that, even if we drop the mortality rate further, there will be children who are lost. We must not stop trying to do that and we must support people, in particular those whose babies are born and require extra neonatal care in a special baby unit. We know they have a higher incidence of post-natal depression. We know that, naturally, mothers who lose a child will have an increased incidence of post-natal depression. If we can get all our teams to try to get it right all the way through and support them, then maybe we can tackle both problems.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.277.0" newgid="uk.org.publicwhip/debate/2017-10-10d.277.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.277.0" speakername="Victoria Prentis" person_id="uk.org.publicwhip/person/25420" colnum="277" time="19:13:00" url="">
+    <p pid="c277.0/1">Thank you for calling me, Mr Deputy Speaker, although I have to say it is not a pleasure to speak in today’s debate. It is absolute torture for many of the speakers who have chosen to share their experiences with the House. It is, however, a pleasure to follow the extremely knowledgeable speech, as ever, of <phrase class="honfriend" person_id="uk.org.publicwhip/person/25318" name="Philippa Whitford">the hon. Member for Central Ayrshire (Dr Whitford)</phrase>. It is so good to hear the good news from Scotland about the real developments that have come from investigation into what happens when things go wrong.</p>
+    <p pid="c277.0/2">I am most grateful to business managers—even if I am quite close to some them—for allocating time during Baby Loss Awareness Week, and to all those who organised the extension of today’s sitting. It is a testament to the way the House has changed. I am grateful that you, Mr Deputy Speaker, have chosen to be in the Chair after your traumatic experiences last year listening to us. We are most grateful to all those who have enabled this debate.</p>
+    <p pid="c277.0/3">It is fair to say that maternal safety keeps me awake at night. Issues with the maternity unit at Horton General Hospital in my constituency sadly continue. It is good to see my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25593" name="Robert Courts">the Member for Witney (Robert Courts)</phrase> in his place. I do not know what keeps him awake at night. Indeed, I do not know whether he is kept awake at night. If he is, I suspect his young son probably has something to do with it, but I also know that he worries as much as I do about the future of the unit. The uncertainty goes on. My hon. Friend, other campaigners and I are not giving in. I remain convinced that the current situation is unsafe. Significant numbers of transfers are taking place during labour. Babies have been born at the side of the road and in ambulances. Mothers and their babies are not getting the sort of care that is safe, kind and close to home, which is what everybody in the Chamber wills them to get.</p>
+    <p pid="c277.0/4">Out of this morass sadly comes some dreadful casework. I have noticed that when something goes wrong, the shutters come down in the health service. Hospitals are on the defensive from the beginning and legal teams are called in. In one of the saddest cases I have had to deal with over the past year, Oxford University Hospitals  NHS Foundation Trust responded by saying that it would not meet me or the family in question without legal representation. My attempts to ensure that there was a full and external review of the case by MBRRACE-UK, for example, were stalled for months. This is simply not acceptable. Families, along with most of us, are motivated by a burning desire to ensure that what happened to us will not happen again. They are not interested in compensation except where that is necessary for looking after a desperately sick child. They are motivated by change in practice.</p>
+    <p pid="c277.0/5">Sir Charles Pollard, the former chief constable of Thames Valley police, has been working tirelessly on producing restorative solutions in the justice sector—that is my background—and increasingly in the health sector, where the needs of all parties, including families, doctors and staff, are crucial. Constructive conversations can be had in carefully controlled environments. I think, particularly after having a lengthy conversation with my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25597" name="Dr Caroline Johnson">the Member for Sleaford and North Hykeham (Dr Johnson)</phrase>, that it is important to find a new language. We do not want to apportion blame to anyone in any way, unlike in the justice sector. Finding a new language would be good for families and for staff, who are often traumatised by a loss on their watch.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.278.0" newgid="uk.org.publicwhip/debate/2017-10-10d.278.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.278.1" newgid="uk.org.publicwhip/debate/2017-10-10d.278.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.279.0" newgid="uk.org.publicwhip/debate/2017-10-10d.279.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.279.0" speakername="Emma Little Pengelly" person_id="uk.org.publicwhip/person/25452" colnum="279" time="19:20:00" url="">
+    <p pid="c279.0/1">I am grateful for the opportunity to take part in this important debate, which allows us to play our part in Baby Loss Awareness Week.</p>
+    <p pid="c279.0/2">In terms of how we talk about it day to day, pregnancy and childbirth are for many people times of joy and celebration: a new addition to the family, a celebration of new life, the hopes and dreams—and laughter and tears—that a new baby can bring to a family. It is all the more difficult, therefore, when a family suffers the loss of a baby. These issues— miscarriage, stillbirth, death in infancy—are less commonly spoken about for a range of reasons. I note that <phrase class="honfriend" person_id="uk.org.publicwhip/person/25318" name="Philippa Whitford">the hon. Member for Central Ayrshire (Dr Whitford)</phrase> referenced miscarriage. I know from speaking to family and friends that the loss is felt acutely, but too often, perhaps, society trivialises it. To the mother and family, it is the loss of a baby—an unborn baby—and the hopes and dreams that go with it. When that is taken away, privately it can be very difficult. Some do not tell their family and friends straightway, so the grief takes place in a very private and unspoken way. Others break the news, and it is heart breaking to have to so shortly after sharing the good news of the pregnancy. I know that that can be particularly difficult for families and women.</p>
+    <p pid="c279.0/3">The pain and loss that follow from the loss of a child can be acute. I know that families admire the many improvements made and I recognise that much work has been done, but I also know that more must be done to enhance services, including bereavement services, and the support for perinatal and post-natal mental health. I know from speaking to many women that the support services are simply not there at this very difficult time. It is not right, for example, that many women continue to be placed in and around maternity wards, surrounded by new mothers, parents and joy, at a time when they are grieving. Having to listen to the conversations, hearing the cries of new-born babies, while suffering their own personal loss, makes it all the more difficult for them and their families. It is not right that a woman who has suffered miscarriage after miscarriage, often when a child is much longed for, is required to sit in an  out-patients maternity ward with heavily pregnant and joyful mothers-to-be. Very often women are left there for half an hour or an hour watching those families and feeling the pain of their loss—sometimes loss after loss—very acutely. It is not right either that families are left without adequate bereavement care.</p>
+    <p pid="c279.0/4">I want to raise a number of short points. First, our perinatal and support services must improve, not just following baby loss or miscarriage, but in relation to women’s mental health. The way in which we understand the human mind, mental health and trauma has changed and advanced year on year, but I think that, for too many of the people who go through this experience, those services are not advancing at the same pace and they need to catch up.</p>
+    <p pid="c279.0/5">Secondly, we need to look at statutory and support services for bereaved parents as a matter of urgency. Like many people, before I started to speak to parents, I had assumed that these issues would be dealt with compassionately by employers, schools and statutory agencies, but it became clear that that was not always the case. There is a good basis for the introduction of enhanced statutory protections for bereaved families, to ensure that they are given the time that they need to try to heal and move forward with their lives.</p>
+    <p pid="c279.0/6">Thirdly, I think it would be remiss of us not to refer to the health of mothers, infant mortality and miscarriage rates all over the world. There is no doubt that improvements can be made, and that they can be made throughout the United Kingdom as well. I welcome the commitment that has been made in that regard, but in too many countries, there are still appalling rates of infant mortality and appalling statistics about the health of mothers and what happens during childbirth. I know that most of those who campaign on the issue here will have the same interest in trying to improve services for women throughout the world. Those in the poorest areas often suffer incredibly during childbirth, and there are still very high levels of infant and mother mortality in such places.</p>
+    <p pid="c279.0/7">Lastly, I want to take a moment to recognise all the parents and families who have suffered loss in this way. I think that it will be an incredible tribute to those families, and to the loss that they have suffered, if we go on striving to create world-leading services in both bereavement and childcare.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.280.0" newgid="uk.org.publicwhip/debate/2017-10-10d.280.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.282.0" newgid="uk.org.publicwhip/debate/2017-10-10d.282.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.283.0" newgid="uk.org.publicwhip/debate/2017-10-10d.283.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.285.0" newgid="uk.org.publicwhip/debate/2017-10-10d.285.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.285.1" newgid="uk.org.publicwhip/debate/2017-10-10d.285.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.285.2" newgid="uk.org.publicwhip/debate/2017-10-10d.285.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.287.0" newgid="uk.org.publicwhip/debate/2017-10-10d.287.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.287.0" speakername="Paul Masterton" person_id="uk.org.publicwhip/person/25654" colnum="287" time="19:57:00" url="">
+    <p pid="c287.0/1">Let me start by saying how grateful I am to everybody who secured the extension of today’s business so that we have the opportunity to pay tribute to the families who have suffered the unimaginable loss of a child and to the professionals who provide irreplaceable care and support throughout a journey that no parent ever wants to take, and, in Baby Loss Awareness Week, to break the silence for bereaved parents, as the strapline for this year’s campaign says.</p>
+    <p pid="c287.0/2">I also pay tribute to the APPG and to my hon. Friends the Members for Banbury (Victoria Prentis), for Eddisbury (Antoinette Sandbach) and for Colchester (Will Quince), and to other Members from across the House, including <phrase class="honfriend" person_id="uk.org.publicwhip/person/25300" name="Patricia Gibson">the hon. Member for North Ayrshire and Arran (Patricia Gibson)</phrase>, who have spoken with such courage, dignity, passion and determination, enabling us to deal with this issue in a very open and honest way and to really move things forward. The hon. Lady was right to say that if we do not talk about things, nothing ever happens, and I commend everybody for telling their stories.</p>
+    <p pid="c287.0/3">I want to tell two stories today, one of which I told in my debate in Westminster Hall before the recess, and which focused on bereavement support for employees. It is about a young guy in the west of Scotland, who was recently married and looking forward to becoming a dad for the first time, but whose son died at three days old. He received a phone call from his employer the day after his child’s death to say that because his son was dead and there was no baby, there was an expectation  that he did not need the remainder of his parental leave and was therefore expected to come back to work the next day. <phrase class="honfriend" person_id="uk.org.publicwhip/person/25452" name="Emma Little Pengelly">The hon. Member for Belfast South (Emma Little Pengelly)</phrase> is so right that there is an assumption that people are kind and decent and deal with things compassionately, but the truth in too many cases is that that is not the case.</p>
+    <p pid="c287.0/4">The second story I want to talk about is about a family in my constituency, and it means a lot to me because it is the story of my office manager, whose daughter Rebecca died of TB meningitis. She had spent the last three months of her life in the Institute of Neurosciences in Glasgow’s children’s hospital. After several failed operations on her brain, her parents were told that there was no hope and that their daughter would die—their daughter, who had previously been fit and well and full of life, would die of a disease not usually associated with a first world, developed country. For the last three weeks of her life, she was transferred to Robin House, which is a most incredible children’s hospice run by Children’s Hospices Across Scotland in Balloch, near Loch Lomond.</p>
+    <p pid="c287.0/5">The staff of Robin House gave Rebecca, her parents and the rest of her family a week devoted to giving her what I believe is called a “good death”. I am not sure there is ever such a thing, but in these circumstances perhaps that is the right term. It was a week where nothing else mattered, where the tasks that made an impossible situation in the hospital worse, like having to cook, do the laundry, travel, find a car parking space and look after other children, were all entirely dealt with. Rebecca died on <phrase class="date" code="2017-12-02">2 December</phrase> 2009 in the arms of her parents, in a double bed that had been installed in her room from another part of the hospice, because no task was impossible for the staff of Robin House. Indeed, their support for Rebecca’s family continues several years on.</p>
+    <p pid="c287.0/6">It is important to recognise that for the charities across the UK no task is impossible for the babies, children and parents they look after—from Bliss and its vision to give every baby born prematurely and sick in the UK the best chance of survival and quality of life, to Sands, which offers support to anyone affected by the death of a baby, the Miscarriage Association and its work offering support to anyone affected by miscarriage, and Together for Short Lives, whose mission is to secure the best quality of life and the best end of life for children who have short lives. In parents’ hours of need, absolutely nothing is insurmountable for both the paid staff and the volunteers in these organisations.</p>
+    <p pid="c287.0/7">As we have heard, however, experiences outside the specialist palliative care environment can vary wildly. Hospital facilities do not always lend themselves well to the purpose of grieving. Not all health boards have dedicated bereavement rooms. They do not all have dedicated staff available. They do not all have rooms where parents can leave the noise and “life” of the hospital environment, which can make things so much harder and painful because it is so impersonal and sterile. Not all hospitals provide night-time accommodation for parents. Rebecca’s mum regularly slept in hospital coffee rooms overnight simply because there were not the facilities on the ward for her.</p>
+    <p pid="c287.0/8">After death, when families are left devastated—some of them may have lost or given up their job and devoted themselves to being the sole carers for a sick child for  many months or possibly years—the support we as a society give them to grieve can make the difference between whether they are able to rebuild their lives or not. Someone said to me that when your child dies you are shattered and, like a smashed vase, you can put the pieces back together but you are never the same as you once were; you are never truly whole again. You may find a way to function in society, but you are not coping; you are never coping. The grief can come on you almost randomly and indiscriminately and it can be overwhelming. We must acknowledge the fact that the psychological consequences of grieving for a child are lifelong. It is not something that will ever leave you.</p>
+    <p pid="c287.0/9">I am talking today not with a list of statistics or data because this is not a debate for pie charts or graphs. It is more about trying to reinforce the message of Baby Loss Awareness Week, to break the silence for bereaved parents who need support, to break the silence to promote the outstanding work of charities such as CHAS, CLIC Sargent, the Rainbow Trust, Bliss and the many charities across the UK that have come together for Baby Loss Awareness Week, and, most importantly, to break the silence for children like Rebecca so they are never forgotten.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.289.0" newgid="uk.org.publicwhip/debate/2017-10-10d.289.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.289.1" newgid="uk.org.publicwhip/debate/2017-10-10d.289.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.289.2" newgid="uk.org.publicwhip/debate/2017-10-10d.289.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.290.0" newgid="uk.org.publicwhip/debate/2017-10-10d.290.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.291.0" newgid="uk.org.publicwhip/debate/2017-10-10d.291.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.293.0" newgid="uk.org.publicwhip/debate/2017-10-10d.293.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.294.0" newgid="uk.org.publicwhip/debate/2017-10-10d.294.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.294.1" newgid="uk.org.publicwhip/debate/2017-10-10d.294.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.295.0" newgid="uk.org.publicwhip/debate/2017-10-10d.295.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.299.0" newgid="uk.org.publicwhip/debate/2017-10-10d.299.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.300.0" newgid="uk.org.publicwhip/debate/2017-10-10d.300.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.300.1" newgid="uk.org.publicwhip/debate/2017-10-10d.300.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.300.2" newgid="uk.org.publicwhip/debate/2017-10-10d.300.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.300.3" newgid="uk.org.publicwhip/debate/2017-10-10d.300.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.301.0" newgid="uk.org.publicwhip/debate/2017-10-10d.301.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.301.1" newgid="uk.org.publicwhip/debate/2017-10-10d.301.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.301.2" newgid="uk.org.publicwhip/debate/2017-10-10d.301.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.301.3" newgid="uk.org.publicwhip/debate/2017-10-10d.301.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.301.4" newgid="uk.org.publicwhip/debate/2017-10-10d.301.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.301.5" newgid="uk.org.publicwhip/debate/2017-10-10d.301.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.302.0" newgid="uk.org.publicwhip/debate/2017-10-10d.302.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.302.1" newgid="uk.org.publicwhip/debate/2017-10-10d.302.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.302.2" newgid="uk.org.publicwhip/debate/2017-10-10d.302.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.302.3" newgid="uk.org.publicwhip/debate/2017-10-10d.302.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.302.4" newgid="uk.org.publicwhip/debate/2017-10-10d.302.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.303.0" newgid="uk.org.publicwhip/debate/2017-10-10d.303.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.303.1" newgid="uk.org.publicwhip/debate/2017-10-10d.303.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.303.2" newgid="uk.org.publicwhip/debate/2017-10-10d.303.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.303.3" newgid="uk.org.publicwhip/debate/2017-10-10d.303.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.303.4" newgid="uk.org.publicwhip/debate/2017-10-10d.303.4" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2017-10-10c.303.4" speakername="John Grogan" person_id="uk.org.publicwhip/person/10248" colnum="303" time="20:45:00" url="">
+    <p pid="c303.4/1">I was about to move on the Sheffield city region deal, so this is the moment for me to give way.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.303.5" newgid="uk.org.publicwhip/debate/2017-10-10d.303.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.303.6" newgid="uk.org.publicwhip/debate/2017-10-10d.303.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.303.7" newgid="uk.org.publicwhip/debate/2017-10-10d.303.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.303.8" newgid="uk.org.publicwhip/debate/2017-10-10d.303.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.304.0" newgid="uk.org.publicwhip/debate/2017-10-10d.304.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.304.1" newgid="uk.org.publicwhip/debate/2017-10-10d.304.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.304.2" newgid="uk.org.publicwhip/debate/2017-10-10d.304.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.304.3" newgid="uk.org.publicwhip/debate/2017-10-10d.304.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.305.0" newgid="uk.org.publicwhip/debate/2017-10-10d.305.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.305.1" newgid="uk.org.publicwhip/debate/2017-10-10d.305.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.305.2" newgid="uk.org.publicwhip/debate/2017-10-10d.305.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.306.0" newgid="uk.org.publicwhip/debate/2017-10-10d.306.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.308.0" newgid="uk.org.publicwhip/debate/2017-10-10d.308.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.308.1" newgid="uk.org.publicwhip/debate/2017-10-10d.308.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.308.2" newgid="uk.org.publicwhip/debate/2017-10-10d.308.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.308.3" newgid="uk.org.publicwhip/debate/2017-10-10d.308.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.308.4" newgid="uk.org.publicwhip/debate/2017-10-10d.308.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.308.5" newgid="uk.org.publicwhip/debate/2017-10-10d.308.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.309.0" newgid="uk.org.publicwhip/debate/2017-10-10d.309.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.309.1" newgid="uk.org.publicwhip/debate/2017-10-10d.309.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.310.0" newgid="uk.org.publicwhip/debate/2017-10-10d.310.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2017-10-10c.310.1" newgid="uk.org.publicwhip/debate/2017-10-10d.310.1" matchtype="perfectmatch"/>
+</publicwhip>
+

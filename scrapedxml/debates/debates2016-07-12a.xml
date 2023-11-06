@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/debates/debates2016-07-12a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.145.0" newgid="uk.org.publicwhip/debate/2016-07-12b.145.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.145.1" newgid="uk.org.publicwhip/debate/2016-07-12b.145.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.145.2" newgid="uk.org.publicwhip/debate/2016-07-12b.145.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.145.3" newgid="uk.org.publicwhip/debate/2016-07-12b.145.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.145.4" newgid="uk.org.publicwhip/debate/2016-07-12b.145.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.145.5" newgid="uk.org.publicwhip/debate/2016-07-12b.145.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.145.6" newgid="uk.org.publicwhip/debate/2016-07-12b.145.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.145.7" newgid="uk.org.publicwhip/debate/2016-07-12b.145.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.145.8" newgid="uk.org.publicwhip/debate/2016-07-12b.145.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.145.9" newgid="uk.org.publicwhip/debate/2016-07-12b.145.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.145.10" newgid="uk.org.publicwhip/debate/2016-07-12b.145.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.145.11" newgid="uk.org.publicwhip/debate/2016-07-12b.145.11" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.145.12" newgid="uk.org.publicwhip/debate/2016-07-12b.145.12" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.146.0" newgid="uk.org.publicwhip/debate/2016-07-12b.146.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.146.1" newgid="uk.org.publicwhip/debate/2016-07-12b.146.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.146.2" newgid="uk.org.publicwhip/debate/2016-07-12b.146.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.146.3" newgid="uk.org.publicwhip/debate/2016-07-12b.146.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.147.0" newgid="uk.org.publicwhip/debate/2016-07-12b.147.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.147.1" newgid="uk.org.publicwhip/debate/2016-07-12b.147.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.147.2" newgid="uk.org.publicwhip/debate/2016-07-12b.147.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.147.3" newgid="uk.org.publicwhip/debate/2016-07-12b.147.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.147.4" newgid="uk.org.publicwhip/debate/2016-07-12b.147.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.147.5" newgid="uk.org.publicwhip/debate/2016-07-12b.147.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.147.6" newgid="uk.org.publicwhip/debate/2016-07-12b.147.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.147.7" newgid="uk.org.publicwhip/debate/2016-07-12b.147.7" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2016-07-12a.147.7" speakername="Tobias Ellwood" person_id="uk.org.publicwhip/person/11437" colnum="147" time="" url="">
+    <p pid="a147.7/1">I was aware of that case, and I am grateful to the hon. Lady for raising it. If any other Members are concerned about a lack of support from embassies for businesses in their constituents, will they please let us know?</p>
+    <p pid="a147.7/2">I understand that the head of UKTI in Morocco, with which the company concerned wishes to trade, has been speaking to the company directly. I can only apologise for the delay in providing the normal level of support that we would expect to give any company wishing to do business in Morocco or, indeed, anywhere else.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.148.0" newgid="uk.org.publicwhip/debate/2016-07-12b.148.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.148.1" newgid="uk.org.publicwhip/debate/2016-07-12b.148.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.148.2" newgid="uk.org.publicwhip/debate/2016-07-12b.148.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.148.3" newgid="uk.org.publicwhip/debate/2016-07-12b.148.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.148.4" newgid="uk.org.publicwhip/debate/2016-07-12b.148.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.148.5" newgid="uk.org.publicwhip/debate/2016-07-12b.148.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.148.6" newgid="uk.org.publicwhip/debate/2016-07-12b.148.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.148.7" newgid="uk.org.publicwhip/debate/2016-07-12b.148.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.148.8" newgid="uk.org.publicwhip/debate/2016-07-12b.148.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.149.0" newgid="uk.org.publicwhip/debate/2016-07-12b.149.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.149.1" newgid="uk.org.publicwhip/debate/2016-07-12b.149.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.149.2" newgid="uk.org.publicwhip/debate/2016-07-12b.149.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.149.3" newgid="uk.org.publicwhip/debate/2016-07-12b.149.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.149.4" newgid="uk.org.publicwhip/debate/2016-07-12b.149.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.149.5" newgid="uk.org.publicwhip/debate/2016-07-12b.149.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.149.6" newgid="uk.org.publicwhip/debate/2016-07-12b.149.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.149.7" newgid="uk.org.publicwhip/debate/2016-07-12b.149.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.150.0" newgid="uk.org.publicwhip/debate/2016-07-12b.150.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.150.1" newgid="uk.org.publicwhip/debate/2016-07-12b.150.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.150.2" newgid="uk.org.publicwhip/debate/2016-07-12b.150.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.150.3" newgid="uk.org.publicwhip/debate/2016-07-12b.150.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.150.4" newgid="uk.org.publicwhip/debate/2016-07-12b.150.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.150.5" newgid="uk.org.publicwhip/debate/2016-07-12b.150.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.150.6" newgid="uk.org.publicwhip/debate/2016-07-12b.150.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.150.7" newgid="uk.org.publicwhip/debate/2016-07-12b.150.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.151.0" newgid="uk.org.publicwhip/debate/2016-07-12b.151.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.151.1" newgid="uk.org.publicwhip/debate/2016-07-12b.151.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.151.2" newgid="uk.org.publicwhip/debate/2016-07-12b.151.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.151.3" newgid="uk.org.publicwhip/debate/2016-07-12b.151.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.151.4" newgid="uk.org.publicwhip/debate/2016-07-12b.151.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.151.5" newgid="uk.org.publicwhip/debate/2016-07-12b.151.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.151.6" newgid="uk.org.publicwhip/debate/2016-07-12b.151.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.152.0" newgid="uk.org.publicwhip/debate/2016-07-12b.152.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.152.1" newgid="uk.org.publicwhip/debate/2016-07-12b.152.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.152.2" newgid="uk.org.publicwhip/debate/2016-07-12b.152.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.152.3" newgid="uk.org.publicwhip/debate/2016-07-12b.152.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.152.4" newgid="uk.org.publicwhip/debate/2016-07-12b.152.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.152.5" newgid="uk.org.publicwhip/debate/2016-07-12b.152.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.152.6" newgid="uk.org.publicwhip/debate/2016-07-12b.152.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.152.7" newgid="uk.org.publicwhip/debate/2016-07-12b.152.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.152.8" newgid="uk.org.publicwhip/debate/2016-07-12b.152.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.153.0" newgid="uk.org.publicwhip/debate/2016-07-12b.153.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.153.1" newgid="uk.org.publicwhip/debate/2016-07-12b.153.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.153.2" newgid="uk.org.publicwhip/debate/2016-07-12b.153.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.153.3" newgid="uk.org.publicwhip/debate/2016-07-12b.153.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.153.4" newgid="uk.org.publicwhip/debate/2016-07-12b.153.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.154.0" newgid="uk.org.publicwhip/debate/2016-07-12b.154.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.154.1" newgid="uk.org.publicwhip/debate/2016-07-12b.154.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.154.2" newgid="uk.org.publicwhip/debate/2016-07-12b.154.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.154.3" newgid="uk.org.publicwhip/debate/2016-07-12b.154.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.154.4" newgid="uk.org.publicwhip/debate/2016-07-12b.154.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.154.5" newgid="uk.org.publicwhip/debate/2016-07-12b.154.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.154.6" newgid="uk.org.publicwhip/debate/2016-07-12b.154.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.154.7" newgid="uk.org.publicwhip/debate/2016-07-12b.154.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.154.8" newgid="uk.org.publicwhip/debate/2016-07-12b.154.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.155.0" newgid="uk.org.publicwhip/debate/2016-07-12b.155.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.155.1" newgid="uk.org.publicwhip/debate/2016-07-12b.155.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.155.2" newgid="uk.org.publicwhip/debate/2016-07-12b.155.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.155.3" newgid="uk.org.publicwhip/debate/2016-07-12b.155.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.155.4" newgid="uk.org.publicwhip/debate/2016-07-12b.155.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.155.5" newgid="uk.org.publicwhip/debate/2016-07-12b.155.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.155.6" newgid="uk.org.publicwhip/debate/2016-07-12b.155.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.155.7" newgid="uk.org.publicwhip/debate/2016-07-12b.155.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.155.8" newgid="uk.org.publicwhip/debate/2016-07-12b.155.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.155.9" newgid="uk.org.publicwhip/debate/2016-07-12b.155.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.155.10" newgid="uk.org.publicwhip/debate/2016-07-12b.155.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.156.0" newgid="uk.org.publicwhip/debate/2016-07-12b.156.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.156.1" newgid="uk.org.publicwhip/debate/2016-07-12b.156.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.156.2" newgid="uk.org.publicwhip/debate/2016-07-12b.156.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.156.3" newgid="uk.org.publicwhip/debate/2016-07-12b.156.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.156.4" newgid="uk.org.publicwhip/debate/2016-07-12b.156.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.156.5" newgid="uk.org.publicwhip/debate/2016-07-12b.156.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.156.6" newgid="uk.org.publicwhip/debate/2016-07-12b.156.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.156.7" newgid="uk.org.publicwhip/debate/2016-07-12b.156.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.156.8" newgid="uk.org.publicwhip/debate/2016-07-12b.156.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.156.9" newgid="uk.org.publicwhip/debate/2016-07-12b.156.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.156.10" newgid="uk.org.publicwhip/debate/2016-07-12b.156.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.157.0" newgid="uk.org.publicwhip/debate/2016-07-12b.157.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2016-07-12a.157.0" speakername="Tobias Ellwood" person_id="uk.org.publicwhip/person/11437" colnum="157" time="" url="">
+    <p pid="a157.0/1">To make it clear, the summit was moved at short notice to accommodate the Secretary of State for the United States. My right hon. Friend the Foreign Secretary was in Africa at the time, which was why I was able to attend. I hope the hon. Gentleman does not feel short-changed by the fact that I was there instead of the Foreign Secretary. It was an important meeting, as it registered the need for the international community to play its part and we look forward to moving ahead with the process. Discussions will take place in the next few months to bring the parties together.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.157.1" newgid="uk.org.publicwhip/debate/2016-07-12b.157.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.157.2" newgid="uk.org.publicwhip/debate/2016-07-12b.157.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.157.3" newgid="uk.org.publicwhip/debate/2016-07-12b.157.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.157.4" newgid="uk.org.publicwhip/debate/2016-07-12b.157.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.157.5" newgid="uk.org.publicwhip/debate/2016-07-12b.157.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.157.6" newgid="uk.org.publicwhip/debate/2016-07-12b.157.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.157.7" newgid="uk.org.publicwhip/debate/2016-07-12b.157.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.157.8" newgid="uk.org.publicwhip/debate/2016-07-12b.157.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.158.0" newgid="uk.org.publicwhip/debate/2016-07-12b.158.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.158.1" newgid="uk.org.publicwhip/debate/2016-07-12b.158.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.158.2" newgid="uk.org.publicwhip/debate/2016-07-12b.158.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.158.3" newgid="uk.org.publicwhip/debate/2016-07-12b.158.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.158.4" newgid="uk.org.publicwhip/debate/2016-07-12b.158.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.158.5" newgid="uk.org.publicwhip/debate/2016-07-12b.158.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.158.6" newgid="uk.org.publicwhip/debate/2016-07-12b.158.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.158.7" newgid="uk.org.publicwhip/debate/2016-07-12b.158.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.158.8" newgid="uk.org.publicwhip/debate/2016-07-12b.158.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.158.9" newgid="uk.org.publicwhip/debate/2016-07-12b.158.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.159.0" newgid="uk.org.publicwhip/debate/2016-07-12b.159.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.159.1" newgid="uk.org.publicwhip/debate/2016-07-12b.159.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.159.2" newgid="uk.org.publicwhip/debate/2016-07-12b.159.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.159.3" newgid="uk.org.publicwhip/debate/2016-07-12b.159.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.159.4" newgid="uk.org.publicwhip/debate/2016-07-12b.159.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.159.5" newgid="uk.org.publicwhip/debate/2016-07-12b.159.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.159.6" newgid="uk.org.publicwhip/debate/2016-07-12b.159.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.159.7" newgid="uk.org.publicwhip/debate/2016-07-12b.159.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.159.8" newgid="uk.org.publicwhip/debate/2016-07-12b.159.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.159.9" newgid="uk.org.publicwhip/debate/2016-07-12b.159.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.160.0" newgid="uk.org.publicwhip/debate/2016-07-12b.160.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.160.1" newgid="uk.org.publicwhip/debate/2016-07-12b.160.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.160.2" newgid="uk.org.publicwhip/debate/2016-07-12b.160.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.160.3" newgid="uk.org.publicwhip/debate/2016-07-12b.160.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.160.4" newgid="uk.org.publicwhip/debate/2016-07-12b.160.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.160.5" newgid="uk.org.publicwhip/debate/2016-07-12b.160.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.160.6" newgid="uk.org.publicwhip/debate/2016-07-12b.160.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.160.7" newgid="uk.org.publicwhip/debate/2016-07-12b.160.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.161.0" newgid="uk.org.publicwhip/debate/2016-07-12b.161.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.161.1" newgid="uk.org.publicwhip/debate/2016-07-12b.161.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.161.2" newgid="uk.org.publicwhip/debate/2016-07-12b.161.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.161.3" newgid="uk.org.publicwhip/debate/2016-07-12b.161.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.161.4" newgid="uk.org.publicwhip/debate/2016-07-12b.161.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.161.5" newgid="uk.org.publicwhip/debate/2016-07-12b.161.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.161.6" newgid="uk.org.publicwhip/debate/2016-07-12b.161.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.161.7" newgid="uk.org.publicwhip/debate/2016-07-12b.161.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.161.8" newgid="uk.org.publicwhip/debate/2016-07-12b.161.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.162.0" newgid="uk.org.publicwhip/debate/2016-07-12b.162.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.162.1" newgid="uk.org.publicwhip/debate/2016-07-12b.162.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.162.2" newgid="uk.org.publicwhip/debate/2016-07-12b.162.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.162.3" newgid="uk.org.publicwhip/debate/2016-07-12b.162.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.162.4" newgid="uk.org.publicwhip/debate/2016-07-12b.162.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.162.5" newgid="uk.org.publicwhip/debate/2016-07-12b.162.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.162.6" newgid="uk.org.publicwhip/debate/2016-07-12b.162.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.162.7" newgid="uk.org.publicwhip/debate/2016-07-12b.162.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.162.8" newgid="uk.org.publicwhip/debate/2016-07-12b.162.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.163.0" newgid="uk.org.publicwhip/debate/2016-07-12b.163.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.163.1" newgid="uk.org.publicwhip/debate/2016-07-12b.163.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.163.2" newgid="uk.org.publicwhip/debate/2016-07-12b.163.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.163.3" newgid="uk.org.publicwhip/debate/2016-07-12b.163.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.163.4" newgid="uk.org.publicwhip/debate/2016-07-12b.163.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.163.5" newgid="uk.org.publicwhip/debate/2016-07-12b.163.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.163.6" newgid="uk.org.publicwhip/debate/2016-07-12b.163.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.164.0" newgid="uk.org.publicwhip/debate/2016-07-12b.164.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.164.1" newgid="uk.org.publicwhip/debate/2016-07-12b.164.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.164.2" newgid="uk.org.publicwhip/debate/2016-07-12b.164.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.164.3" newgid="uk.org.publicwhip/debate/2016-07-12b.164.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.164.4" newgid="uk.org.publicwhip/debate/2016-07-12b.164.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.164.5" newgid="uk.org.publicwhip/debate/2016-07-12b.164.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.164.6" newgid="uk.org.publicwhip/debate/2016-07-12b.164.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.164.7" newgid="uk.org.publicwhip/debate/2016-07-12b.164.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.164.8" newgid="uk.org.publicwhip/debate/2016-07-12b.164.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.165.0" newgid="uk.org.publicwhip/debate/2016-07-12b.165.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.165.1" newgid="uk.org.publicwhip/debate/2016-07-12b.165.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.165.2" newgid="uk.org.publicwhip/debate/2016-07-12b.165.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.165.3" newgid="uk.org.publicwhip/debate/2016-07-12b.165.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.165.4" newgid="uk.org.publicwhip/debate/2016-07-12b.165.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.165.5" newgid="uk.org.publicwhip/debate/2016-07-12b.165.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.165.6" newgid="uk.org.publicwhip/debate/2016-07-12b.165.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.165.7" newgid="uk.org.publicwhip/debate/2016-07-12b.165.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.166.0" newgid="uk.org.publicwhip/debate/2016-07-12b.166.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.166.1" newgid="uk.org.publicwhip/debate/2016-07-12b.166.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.166.2" newgid="uk.org.publicwhip/debate/2016-07-12b.166.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.166.3" newgid="uk.org.publicwhip/debate/2016-07-12b.166.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.166.4" newgid="uk.org.publicwhip/debate/2016-07-12b.166.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.166.5" newgid="uk.org.publicwhip/debate/2016-07-12b.166.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.166.6" newgid="uk.org.publicwhip/debate/2016-07-12b.166.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.166.7" newgid="uk.org.publicwhip/debate/2016-07-12b.166.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.167.0" newgid="uk.org.publicwhip/debate/2016-07-12b.167.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.167.1" newgid="uk.org.publicwhip/debate/2016-07-12b.167.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.167.2" newgid="uk.org.publicwhip/debate/2016-07-12b.167.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.167.3" newgid="uk.org.publicwhip/debate/2016-07-12b.167.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.167.4" newgid="uk.org.publicwhip/debate/2016-07-12b.167.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.167.5" newgid="uk.org.publicwhip/debate/2016-07-12b.167.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.167.6" newgid="uk.org.publicwhip/debate/2016-07-12b.167.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.168.0" newgid="uk.org.publicwhip/debate/2016-07-12b.168.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.168.1" newgid="uk.org.publicwhip/debate/2016-07-12b.168.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.168.2" newgid="uk.org.publicwhip/debate/2016-07-12b.168.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.168.3" newgid="uk.org.publicwhip/debate/2016-07-12b.168.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.168.4" newgid="uk.org.publicwhip/debate/2016-07-12b.168.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.168.5" newgid="uk.org.publicwhip/debate/2016-07-12b.168.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.168.6" newgid="uk.org.publicwhip/debate/2016-07-12b.168.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.168.7" newgid="uk.org.publicwhip/debate/2016-07-12b.168.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.168.8" newgid="uk.org.publicwhip/debate/2016-07-12b.168.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.168.9" newgid="uk.org.publicwhip/debate/2016-07-12b.168.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.169.0" newgid="uk.org.publicwhip/debate/2016-07-12b.169.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.169.1" newgid="uk.org.publicwhip/debate/2016-07-12b.169.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.169.2" newgid="uk.org.publicwhip/debate/2016-07-12b.169.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.169.3" newgid="uk.org.publicwhip/debate/2016-07-12b.169.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.169.4" newgid="uk.org.publicwhip/debate/2016-07-12b.169.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.169.5" newgid="uk.org.publicwhip/debate/2016-07-12b.169.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.170.0" newgid="uk.org.publicwhip/debate/2016-07-12b.170.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.170.1" newgid="uk.org.publicwhip/debate/2016-07-12b.170.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.170.2" newgid="uk.org.publicwhip/debate/2016-07-12b.170.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.170.3" newgid="uk.org.publicwhip/debate/2016-07-12b.170.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.170.4" newgid="uk.org.publicwhip/debate/2016-07-12b.170.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.170.5" newgid="uk.org.publicwhip/debate/2016-07-12b.170.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.171.0" newgid="uk.org.publicwhip/debate/2016-07-12b.171.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.171.1" newgid="uk.org.publicwhip/debate/2016-07-12b.171.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.171.2" newgid="uk.org.publicwhip/debate/2016-07-12b.171.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.171.3" newgid="uk.org.publicwhip/debate/2016-07-12b.171.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.171.4" newgid="uk.org.publicwhip/debate/2016-07-12b.171.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.171.5" newgid="uk.org.publicwhip/debate/2016-07-12b.171.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.171.6" newgid="uk.org.publicwhip/debate/2016-07-12b.171.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.171.7" newgid="uk.org.publicwhip/debate/2016-07-12b.171.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.172.0" newgid="uk.org.publicwhip/debate/2016-07-12b.172.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.172.1" newgid="uk.org.publicwhip/debate/2016-07-12b.172.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.174.0" newgid="uk.org.publicwhip/debate/2016-07-12b.174.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.175.0" newgid="uk.org.publicwhip/debate/2016-07-12b.175.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.175.1" newgid="uk.org.publicwhip/debate/2016-07-12b.175.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.175.2" newgid="uk.org.publicwhip/debate/2016-07-12b.175.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.175.3" newgid="uk.org.publicwhip/debate/2016-07-12b.175.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.175.4" newgid="uk.org.publicwhip/debate/2016-07-12b.175.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.176.0" newgid="uk.org.publicwhip/debate/2016-07-12b.176.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.176.1" newgid="uk.org.publicwhip/debate/2016-07-12b.176.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.176.2" newgid="uk.org.publicwhip/debate/2016-07-12b.176.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.176.3" newgid="uk.org.publicwhip/debate/2016-07-12b.176.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.176.4" newgid="uk.org.publicwhip/debate/2016-07-12b.176.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.176.5" newgid="uk.org.publicwhip/debate/2016-07-12b.176.5" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2016-07-12a.176.5" speakername="Robert Syms" person_id="uk.org.publicwhip/person/10582" colnum="176" time="12:58:00" url="">
+    <p pid="a176.5/1">I thank the shadow Secretary of State for giving way. This is one of the first of our debates to mention the result of the EU referendum. I know that the hon. Gentleman was on the other side  of the argument, so it would be useful if he told us whether, when it comes to a vote, he will vote to leave the EU despite his heavy heart or will he vote against the wishes of the British people?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.177.0" newgid="uk.org.publicwhip/debate/2016-07-12b.177.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.177.1" newgid="uk.org.publicwhip/debate/2016-07-12b.177.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.177.2" newgid="uk.org.publicwhip/debate/2016-07-12b.177.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.178.0" newgid="uk.org.publicwhip/debate/2016-07-12b.178.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.178.1" newgid="uk.org.publicwhip/debate/2016-07-12b.178.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.178.2" newgid="uk.org.publicwhip/debate/2016-07-12b.178.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.178.3" newgid="uk.org.publicwhip/debate/2016-07-12b.178.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.178.4" newgid="uk.org.publicwhip/debate/2016-07-12b.178.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.179.0" newgid="uk.org.publicwhip/debate/2016-07-12b.179.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2016-07-12a.179.0" speakername="Barry Gardiner" person_id="uk.org.publicwhip/person/10220" colnum="179" time="12:58:00" url="">
+    <p pid="a179.0/1">The hon. Gentleman is absolutely right. It is clear from what the Committee on Climate Change has said that the area in which the United Kingdom is falling behind most badly is not the power sector, but the transport and heating sectors. Of course, dealing with that does not rest solely with the Secretary of State; it also rests with her colleagues in the Department for Transport and the Department for Communities and Local Government.</p>
+    <p pid="a179.0/2">Perhaps the Secretary of State would find it easier to explain how the UK might continue to benefit from the EU internal energy market—or does Brexit mean Brexit in this regard as well? We really do need clear answers to all these questions. Perhaps the right hon. Lady can tell us what will happen to the four clean energy projects that are currently being assessed by the European Fund for Strategic Investments. She knows that the European Investment Bank has been the UK’s biggest clean-energy lender, having put €31 billion into clean energy over the last five years. Has she identified a replacement source of funds for such projects?</p>
+    <p pid="a179.0/3">Perhaps the Secretary of State can explain why, last week, the Government pulled their funding for the only large new gas plant that had managed to secure finance under the capacity market scheme after Carlton Power was unable to secure the investment that was needed for the Trafford plant. The capacity market has resoundingly failed to secure the new gas build that it was introduced to incentivise.</p>
+    <p pid="a179.0/4">Perhaps the right hon. Lady can explain—after the failure of the green deal, and after acknowledging that neither the warm home scheme nor the energy company obligation is sufficiently well targeted to reach those most in need—precisely how she proposes to address energy efficiency and tackle the fuel poverty experienced by 2.38 million of our fellow citizens. Let me correct that, Mr Speaker: 1 should have said “2.38 million households”, in England alone. Perhaps the right hon. Lady might also explain why National Grid warned on Friday that the lights were kept on only by emergency measures last year. The fact is that the Government’s energy policy has pushed us further towards energy insecurity.</p>
+    <p pid="a179.0/5">Our purpose in securing this Opposition Day debate is precisely to ensure that the Government cannot ignore such pressing concerns following the referendum. The vote to leave was not a vote for blackouts and soaring energy bills; it is the Government’s responsibility to ensure that those things do not happen.</p>
+    <p pid="a179.0/6">The Committee on Climate Change, which has a statutory duty to advise the Government on the most cost-effective route to decarbonisation, has always made it clear that early action is cheaper action. As its chief executive warned us last week, leaving the EU calls the mechanism of how we reach our targets into question. The Government’s policy failure has created a 10% gap in emissions projections towards our legally binding climate target for the mid-2020s, and they are nearly 50% short of meeting their intended target for 2030—that is, if the Secretary of State ever gets round to actually complying with her statutory obligation to set the target. I believe that that is now due to happen on Monday, which would make it only 18 days beyond the legal statutory limit.</p>
+    <p pid="a179.0/7">Last year, the Environmental Audit Committee gave the Government a red card for their record on managing future climate change risks. The chair of the Infrastructure Operators Adaptation Forum concluded:</p>
+    <p pid="a179.0/8" class="indent" pwmotiontext="yes">“we simply do not know the capability of the vast majority of stuff out there for current weather, never mind the future”.</p>
+    <p pid="a179.0/9">The National Security Risk Assessment cites flood risk to the UK as a tier 1 priority risk, alongside terrorism and cyber-attacks, and, of course, it is our most deprived communities that face the greatest increases in flood risk. However, new evidence released today by the Committee on Climate Change renders starker than ever the threat to British households and businesses from a failure to manage climate change. Its published estimates show that, without increased Government action on climate adaptation, the number of homes at high risk from flooding will rise to well over 1 million even if we meet our current climate targets.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.180.0" newgid="uk.org.publicwhip/debate/2016-07-12b.180.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.180.1" newgid="uk.org.publicwhip/debate/2016-07-12b.180.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.180.2" newgid="uk.org.publicwhip/debate/2016-07-12b.180.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.180.3" newgid="uk.org.publicwhip/debate/2016-07-12b.180.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.180.4" newgid="uk.org.publicwhip/debate/2016-07-12b.180.4" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2016-07-12a.180.4" speakername="Barry Gardiner" person_id="uk.org.publicwhip/person/10220" colnum="180" time="12:58:00" url="">
+    <p pid="a180.4/1">I think you would like me to press on, Mr Speaker, so I will not. I have, I think, been most generous in giving way.</p>
+    <p pid="a180.4/2">Given the Treasury’s response, it would be helpful to hear from the Under-Secretary, when he winds up the debate, precisely where he proposes to find the additional resources that are required for adequate flood defences to meet the new assessment. Last week, the Secretary of State for Environment, Food and Rural Affairs told the House:</p>
+    <p pid="a180.4/3" class="indent" pwmotiontext="yes">“It is absolutely clear that it is business as usual while we remain members of the EU.”—[Official Report, <phrase class="date" code="2016-07-07">7 July</phrase> 2016; Vol. 62, c. 1030.]</p>
+    <p pid="a180.4/4">Perhaps she will understand that what concerns many of us is that, as soon as we are no longer members of the EU, many of the protections the UK natural environment currently enjoys will fall away. The clean air directive has been strenuously opposed in Europe by this Government, who tried to water it down for years; indeed our own Supreme Court has now found them to be in breach. I pay tribute to ClientEarth and its work in holding Government to account for the 52,500 excess deaths every year as a result of polluted air in the UK, and I pay particular tribute to Sadiq Khan as Mayor of London who used the 60th anniversary of the Clean Air Act 1956 to unveil a new clean air programme.</p>
+    <p pid="a180.4/5">The Government must remember that they have a job to do, and that includes taking concrete action to meet the legal air quality standards as ordered by the UK’s Supreme Court. The Government need to explain to the House if they will incorporate the provisions of the clean air directive into UK law and then begin to comply with its provisions in a way which they have, tragically, failed to do for the past six years.</p>
+    <p pid="a180.4/6">The birds and habitat directives may well already be fully transposed into UK law, but we need to know if our beaches will still be protected from sewage by the bathing water directive or whether swimming through sewage will once again become a feature of a day at the seaside. We need to know which elements of the waste and electronic equipment directive were not transposed into UK law under the 2013 regulations and what the impact of leaving the EU might be for our recycling industries and our commitment to the circular economy.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.181.0" newgid="uk.org.publicwhip/debate/2016-07-12b.181.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.181.1" newgid="uk.org.publicwhip/debate/2016-07-12b.181.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.182.0" newgid="uk.org.publicwhip/debate/2016-07-12b.182.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.182.1" newgid="uk.org.publicwhip/debate/2016-07-12b.182.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.182.2" newgid="uk.org.publicwhip/debate/2016-07-12b.182.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.183.0" newgid="uk.org.publicwhip/debate/2016-07-12b.183.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.183.1" newgid="uk.org.publicwhip/debate/2016-07-12b.183.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.183.2" newgid="uk.org.publicwhip/debate/2016-07-12b.183.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2016-07-12a.183.2" speakername="Andrew Murrison" person_id="uk.org.publicwhip/person/11132" colnum="183" time="13:25:00" url="">
+    <p pid="a183.2/1">Does my right hon. Friend agree that it is a pity that those on the Opposition Benches seem to be suggesting that the EU has dragged the UK from darkness into enlightenment? Does she also agree that Britain has traditionally led the way in environmental legislation? I would cite particularly the Clean Air Act 1956, which <phrase class="honfriend" person_id="uk.org.publicwhip/person/10220" name="Barry Gardiner">the hon. Member for Brent North (Barry Gardiner)</phrase> cited without a hint of irony.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.183.3" newgid="uk.org.publicwhip/debate/2016-07-12b.183.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.184.0" newgid="uk.org.publicwhip/debate/2016-07-12b.184.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.184.1" newgid="uk.org.publicwhip/debate/2016-07-12b.184.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.184.2" newgid="uk.org.publicwhip/debate/2016-07-12b.184.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.184.3" newgid="uk.org.publicwhip/debate/2016-07-12b.184.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.184.4" newgid="uk.org.publicwhip/debate/2016-07-12b.184.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.184.5" newgid="uk.org.publicwhip/debate/2016-07-12b.184.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.185.0" newgid="uk.org.publicwhip/debate/2016-07-12b.185.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.185.1" newgid="uk.org.publicwhip/debate/2016-07-12b.185.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.186.0" newgid="uk.org.publicwhip/debate/2016-07-12b.186.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.186.1" newgid="uk.org.publicwhip/debate/2016-07-12b.186.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.187.0" newgid="uk.org.publicwhip/debate/2016-07-12b.187.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2016-07-12a.187.0" speakername="Callum McCaig" person_id="uk.org.publicwhip/person/25400" colnum="187" time="13:40:00" url="">
+    <p pid="a187.0/1">This is a good debate to be having and I thank the shadow Secretary of State, <phrase class="honfriend" person_id="uk.org.publicwhip/person/10220" name="Barry Gardiner">the hon. Member for Brent North (Barry Gardiner)</phrase>, and the Labour Front Bench team for giving us the opportunity. It is a shame, however, that the hon. Gentleman did not get beyond his introductory remarks in what was an excellent overview of the issues.</p>
+    <p pid="a187.0/2">SNP history is being made today in that it is the first time that the full force of “Team Callum” has been deployed at the same time. We will hear later from my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25416" name="Calum Kerr">the Member for Berwickshire, Roxburgh and Selkirk (Calum Kerr)</phrase>—or, as I like to call him, the junior member of the team.</p>
+    <p pid="a187.0/3">Today debate feels a little bit like the last day of school. There is a little bit more work to do, but not a huge amount of Government work is going on as we discuss things, pick over the bones of Brexit and ask questions about how we go forward. I am sure that the Secretary of State is pleased—as we all are—that we have a new Prime Minister because that will help to ease some of the uncertainties that were building up and it is welcome that we will not have several weeks of uncertainty. I hope that the Government use the summer recess to come up with some plans, because plans are badly needed.</p>
+    <p pid="a187.0/4">Last week, we discussed the excellent Energy and Climate Change Committee report on investor confidence and were able to discuss some of the issues affecting the sector that have been exacerbated by the Brexit vote. It is fair to say and it bears repeating time and again that Scotland did not vote for Brexit, and we will be doing everything in our power to ensure that we do not leave. We should change the lexicon slightly and refer either to “Exit” or perhaps “Wexit”. Scotland is not for leaving, and our Parliament and Government have united around keeping Scotland in the European Union. However, the uncertainty afflicting the United Kingdom following the vote will have some effects while we wait for clarity about our maintained position in the European Union</p>
+    <p pid="a187.0/5">On energy bills, The Guardian reports today on uSwitch research suggesting that, since <phrase class="date" code="2016-06-23">23 June</phrase>, 12 providers have pulled their cheapest fixed-rate tariffs and replaced them with more expensive deals. That is the impact of Brexit, which will be felt by consumers and those who can ill afford to pay more. The weak pound will have another cost impact as the UK is a net importer of electricity. Such things will drive up bills and are an unfortunate consequence of the Brexit vote. The future of interconnection is also uncertain. Interconnection  is important and represents a valuable and sensible Government aim. I have often said that we should not see it as a way of importing cheap electricity from the continent, as the Secretary of State said in her “reset” speech; we should be using it to export electricity to the continent. We should be investing in domestic, low-carbon electricity generation, for which Scotland has immense and highly enviable potential.</p>
+    <p pid="a187.0/6">The prospect of cheap electricity from the continent is also slightly questionable. Exchange rates will obviously change over time, but the assumptions about future interconnection decisions built into the sums might not look so good when the pound is not faring so well against the euro. Such things will come out in the wash, as we say in Scotland, but we need to look at energy policy and interconnection to see whether it is the right thing to do.</p>
+    <p pid="a187.0/7">Hinkley is another big question about which we have had some discussion and it will come as no surprise to anyone on the Government Benches that the SNP are not in favour of it. We have discussed it ad nauseam, but it bears repeating that the economics of Hinkley were, in the views of my party, myself and a large number of people in the Chamber, highly dubious. The fundamental economics have only been undermined by the Brexit vote, and we need to reconsider them. We cannot afford to have all our eggs in this particular basket, because if it does not happen—I suspect it will not—there will be a rather large hole to be filled. We cannot, like we did with the Brexit vote, enter the unknown with no back-up plan.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.188.0" newgid="uk.org.publicwhip/debate/2016-07-12b.188.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.188.1" newgid="uk.org.publicwhip/debate/2016-07-12b.188.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.189.0" newgid="uk.org.publicwhip/debate/2016-07-12b.189.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.190.0" newgid="uk.org.publicwhip/debate/2016-07-12b.190.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2016-07-12a.190.0" speakername="Callum McCaig" person_id="uk.org.publicwhip/person/25400" colnum="190" time="13:40:00" url="">
+    <p pid="a190.0/1">I thank the Secretary of State for that intervention and very much welcome it; that is progress and I hope it can be done. I do not think there will be any opposition on that—none will come from Scottish National party Members.</p>
+    <p pid="a190.0/2">I do not want to go through the negativities, but on the eve of the Paris summit we had the sweet and the sour. We had the sour on CCS, to which my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25315" name="Phil Boswell">the Member for Coatbridge, Chryston and Bellshill (Philip Boswell)</phrase> referred. The sweet was the commitment from the Secretary of State and the Government on coal. That was welcome and it was a significant step forward, but are there questions about its deliverability now? I think that there are, as the commitment had a subtle caveat, which was that it would be done only if and when it was possible. The combination of the effects on investor confidence and the lack of clarity on a number of these things will make it more difficult to meet the conditions required to have that coal taken off the system. There is a requirement to look at that again. Above all, although we all welcome the fact that we are getting the fifth carbon budget and that it agreed with the recommendations of the Committee on Climate Change, we do need the action plan. That is the fundamental thing; the bread and butter of this is how we do it. The ambition, determination and commitment is there, but it will come to be only if we have a viable plan. I do think this is achievable, but it has become more uncertain because of the Brexit vote.</p>
+    <p pid="a190.0/3">In conclusion, yesterday’s events probably put us in a better place than many of us expected to be in. We do not have the added unwelcome uncertainty of a nine-week leadership contest, but a power of work needs to be done by government over the summer. I hope the Secretary of State continues in her post to do that. I look forward to continuing to work with her and to marking her homework after the summer recess.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.190.1" newgid="uk.org.publicwhip/debate/2016-07-12b.190.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.191.0" newgid="uk.org.publicwhip/debate/2016-07-12b.191.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.191.1" newgid="uk.org.publicwhip/debate/2016-07-12b.191.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.191.2" newgid="uk.org.publicwhip/debate/2016-07-12b.191.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.191.3" newgid="uk.org.publicwhip/debate/2016-07-12b.191.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.192.0" newgid="uk.org.publicwhip/debate/2016-07-12b.192.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2016-07-12a.192.0" speakername="Mary Creagh" person_id="uk.org.publicwhip/person/11898" colnum="192" time="13:59:00" url="">
+    <p pid="a192.0/1">It is a pleasure to follow <phrase class="honfriend" person_id="uk.org.publicwhip/person/10582" name="Robert Syms">the hon. Member for Poole (Mr Syms)</phrase>.</p>
+    <p pid="a192.0/2">We have heard today that environmental problems do not respect borders. I would like to posit an alternative argument to the one just advanced by the hon. Gentleman, who said that everything was pretty much okay. I say that things are not that okay and that Britain’s membership of the EU has been instrumental and crucial to the improvement of UK air quality, the cleaning up water pollution, the management of waste, and the protection and enhancement of biodiversity. It has also given us a global platform on which we can show global leadership in tackling climate change.</p>
+    <p pid="a192.0/3">Earlier this year, the Environmental Audit Committee, which I chair—I can see several colleagues from it dotted around the Chamber here today—carried out an inquiry into the effects of EU membership on UK environmental protection. We heard from a wide variety of witnesses, including business people, academics, politicians and non-governmental organisations. The overwhelming majority told us that the environment was better protected as a result of our EU membership.</p>
+    <p pid="a192.0/4">We do not have to look too far to find examples of that protection. In the 1970s, the Thames was biologically dead. It may not look any cleaner from the Palace of Westminster than it did in the ‘70s, but it serves as a great reminder of how EU membership has cleaned up our environment. We can now see seals and dolphins—I have yet to see one from my window. Otters are now in the high end of the Thames. That success story has been repeated up and down the country, as once dead rivers have been brought back to life. Where once it was dangerous to swim, now it is safe for people and wildlife alike. The EU water framework directive has cleaned up our beaches and our rivers, and the marine strategy directive has encouraged us to set out that ecologically coherent network of marine protection zones. It has not been an easy task and I pay tribute to the Under-Secretary  of State for Environment, Food and Rural Affairs, <phrase class="honfriend" person_id="uk.org.publicwhip/person/24964" name="Rory Stewart">the hon. Member for Penrith and The Border (Rory Stewart)</phrase>, for his work in this area.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.193.0" newgid="uk.org.publicwhip/debate/2016-07-12b.193.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.193.1" newgid="uk.org.publicwhip/debate/2016-07-12b.193.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.193.2" newgid="uk.org.publicwhip/debate/2016-07-12b.193.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.193.3" newgid="uk.org.publicwhip/debate/2016-07-12b.193.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.195.0" newgid="uk.org.publicwhip/debate/2016-07-12b.195.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.195.1" newgid="uk.org.publicwhip/debate/2016-07-12b.195.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.196.0" newgid="uk.org.publicwhip/debate/2016-07-12b.196.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.199.0" newgid="uk.org.publicwhip/debate/2016-07-12b.199.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.202.0" newgid="uk.org.publicwhip/debate/2016-07-12b.202.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.203.0" newgid="uk.org.publicwhip/debate/2016-07-12b.203.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.203.1" newgid="uk.org.publicwhip/debate/2016-07-12b.203.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.204.0" newgid="uk.org.publicwhip/debate/2016-07-12b.204.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2016-07-12a.204.0" speakername="David Mowat" person_id="uk.org.publicwhip/person/24932" colnum="204" time="14:48:00" url="">
+    <p pid="a204.0/1">It was a pleasure to hear <phrase class="honfriend" person_id="unknown" name="None">the hon. Member for Tooting (Dr Allin- Khan)</phrase>, whose speech was excellent, in terms of both content and delivery. My son is a junior hospital doctor and I know how hard doctors work. We need more scientists and doctors in the House of Commons, so for that reason, too, she is really welcome. I congratulate her.</p>
+    <p pid="a204.0/2">The implication of the Opposition’s motion is that somehow, by leaving the EU, we will become the dirty man of Europe and that, without the glad hand of European legislation, we will go back to our dirty ways.</p>
+    <p pid="a204.0/3">I want to talk about climate change police, particularly how far ahead we are of the rest of the EU, and how Europe’s slow pace is causing increasing difficulty for the rest of the world.</p>
+    <p pid="a204.0/4">People are right that environmental protection and policy is cross-border. We produce 1.3% of global emissions. Since 1990, the UK has decreased its carbon emissions by 28% and the EU has decreased carbon emissions  by 21%. That figure includes our contribution of 28%, so the rest of the members have done a bit worse; although that in itself is not a disaster. What is extraordinary is the variability between different countries in Europe on carbon emissions since 1990: Austria has increased emissions by 14%, Ireland by 7% and Poland by 14%; Germany has decreased emissions, but not by anything like as much as we have. It is really quite bizarre.</p>
+    <p pid="a204.0/5">Quite often, people talk about countries such as China as being the issue when it comes to emissions. However, the reality is that the Chinese are taking the whole issue a great deal more seriously than a number of OECD countries are. China has 40 to 50 nuclear power stations under construction. It increased its proportion of energy from nuclear by 30% last year, and from renewables by 20%. That is a huge effort. The truth is—</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.205.0" newgid="uk.org.publicwhip/debate/2016-07-12b.205.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.205.1" newgid="uk.org.publicwhip/debate/2016-07-12b.205.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.206.0" newgid="uk.org.publicwhip/debate/2016-07-12b.206.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.206.1" newgid="uk.org.publicwhip/debate/2016-07-12b.206.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.207.0" newgid="uk.org.publicwhip/debate/2016-07-12b.207.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.207.1" newgid="uk.org.publicwhip/debate/2016-07-12b.207.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.207.2" newgid="uk.org.publicwhip/debate/2016-07-12b.207.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.208.0" newgid="uk.org.publicwhip/debate/2016-07-12b.208.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.208.1" newgid="uk.org.publicwhip/debate/2016-07-12b.208.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.211.0" newgid="uk.org.publicwhip/debate/2016-07-12b.211.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.211.1" newgid="uk.org.publicwhip/debate/2016-07-12b.211.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.211.2" newgid="uk.org.publicwhip/debate/2016-07-12b.211.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.213.0" newgid="uk.org.publicwhip/debate/2016-07-12b.213.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.213.1" newgid="uk.org.publicwhip/debate/2016-07-12b.213.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.213.2" newgid="uk.org.publicwhip/debate/2016-07-12b.213.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.213.3" newgid="uk.org.publicwhip/debate/2016-07-12b.213.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.213.4" newgid="uk.org.publicwhip/debate/2016-07-12b.213.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.215.0" newgid="uk.org.publicwhip/debate/2016-07-12b.215.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.215.1" newgid="uk.org.publicwhip/debate/2016-07-12b.215.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.215.2" newgid="uk.org.publicwhip/debate/2016-07-12b.215.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.218.0" newgid="uk.org.publicwhip/debate/2016-07-12b.218.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.221.0" newgid="uk.org.publicwhip/debate/2016-07-12b.221.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.221.1" newgid="uk.org.publicwhip/debate/2016-07-12b.221.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.221.2" newgid="uk.org.publicwhip/debate/2016-07-12b.221.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.221.3" newgid="uk.org.publicwhip/debate/2016-07-12b.221.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.221.4" newgid="uk.org.publicwhip/debate/2016-07-12b.221.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.221.5" newgid="uk.org.publicwhip/debate/2016-07-12b.221.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.225.0" newgid="uk.org.publicwhip/debate/2016-07-12b.225.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.226.0" newgid="uk.org.publicwhip/debate/2016-07-12b.226.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.226.1" newgid="uk.org.publicwhip/debate/2016-07-12b.226.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.227.0" newgid="uk.org.publicwhip/debate/2016-07-12b.227.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.228.0" newgid="uk.org.publicwhip/debate/2016-07-12b.228.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.228.1" newgid="uk.org.publicwhip/debate/2016-07-12b.228.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2016-07-12a.228.1" speakername="Angela Rayner" person_id="uk.org.publicwhip/person/25429" colnum="228" time="16:07:00" url="">
+    <p pid="a228.1/1">I made it quite clear in my opening remarks that the Opposition recognise the need for testing, but it is the chaotic way in which the Secretary of State has brought in the new key stage 2 SATs that is damaging and that potentially makes people feel a failure. Given what the hon. Gentleman has just said, I am sure he recognises that the 11-plus and 12-plus caused uncertainty and that feeling of failure. I remember how I felt when I was branded a failure, and these things do not help our young people today.</p>
+    <p pid="a228.1/2">The Government seem hellbent on bringing back the 11-plus through the back door. They can deny that it, but the evidence is right in front of us: children are being selected on the basis of muddle-headed tests into two separate groups—winners and losers, successes and failures—and their primary schools are being branded in exactly the same way. It is the 11-plus by any other name.</p>
+    <p pid="a228.1/3">The tests do not give a rounded picture of the work of individual pupils or their schools. I could not put things any better than Mrs Jane Grecic, the headteacher of Lansbury Bridge School in St Helen’s, who wrote to one of her 11-year-old pupils, Ben, about his SATs results. Ben is autistic, and Mrs Grecic congratulated him on his fabulous progress, writing:</p>
+    <p pid="a228.1/4" class="indent" pwmotiontext="yes">“these tests only measure a little bit of you and your abilities…Ben…is made up of many other skills and talents that we at Lansbury Bridge see and measure in other ways…These tests do not measure…Your artistic talents…Your ability to work in a team…Your growing independence…Your kindness…Your ability to express your opinion…Your abilities in sport…Your ability to make and keep friends…Your ability to discuss and evaluate your own progress…Your design and building talents…Your musical ability”.</p>
+    <p pid="a228.1/5">This fine headteacher concludes:</p>
+    <p pid="a228.1/6" class="indent" pwmotiontext="yes">“we are so pleased that all of these different talents and abilities make you the special person you are and these are all of the things we measure to reassure us that you are always making progress and continuing to develop as a lovely bright young man. Well done Ben, we are very proud of you.”</p>
+    <p pid="a228.1/7">I am sure the whole House will join me in congratulating young Ben on his development at the tender age of 11 and, indeed, his headteacher, on showing in very real, human terms how these test results should in no way make a child feel they are not developing well.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.228.2" newgid="uk.org.publicwhip/debate/2016-07-12b.228.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.228.3" newgid="uk.org.publicwhip/debate/2016-07-12b.228.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.229.0" newgid="uk.org.publicwhip/debate/2016-07-12b.229.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.229.1" newgid="uk.org.publicwhip/debate/2016-07-12b.229.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2016-07-12a.229.1" speakername="Angela Rayner" person_id="uk.org.publicwhip/person/25429" colnum="229" time="16:07:00" url="">
+    <p pid="a229.1/1">I am only too aware of that, because I failed my GCSEs—I did not get grades A to C. We had a well-attended Westminster Hall debate about early years intervention and it is important that we put the structures in place to help children, not make them feel like failures through our own failures.</p>
+    <p pid="a229.1/2">These SATs undermine the morale of our dedicated primary teachers, who have battled against the odds to prepare children for tests they knew were inappropriate while trying to protect them from their worst consequences. They could result in thousands more schools being forced to become academies. They do not reflect the hard work of children with special educational needs or those for whom English is an additional language. These tests are designed to measure what children cannot do, not what they can do. Nor do they measure the many ways in which our children learn to develop and succeed every day of their young lives.</p>
+    <p pid="a229.1/3">The impact of these SATs on children is best illustrated by their parents. Rachel McCollin from Birmingham says:</p>
+    <p pid="a229.1/4" class="indent" pwmotiontext="yes">“My son is tired, stressed and paranoid that he’s going to fail—I can’t wait for this week to be over.”</p>
+    <p pid="a229.1/5">Katharine Lee from Bath says:</p>
+    <p pid="a229.1/6" class="indent" pwmotiontext="yes">“My son hardly slept on Sunday night and was a nervous wreck on Monday morning, despite us telling him that these tests are not the be-all and end-all. It’s way too much pressure at 11.”</p>
+    <p pid="a229.1/7">We have already forced the Government into a U-turn on forced academisation, but they are using these results to compel even more academisation through the back door. It is hardly surprising that teachers and school leaders have lost confidence in the Secretary of State and her education policies. Guidance arrived late and changed frequently. Test papers were leaked and the design of tests was poor. Preparation for the SATs had a negative impact on children’s access to a broad and balanced curriculum. Ninety per cent. of teachers thought that this year’s changes had had a negative impact on children’s experience at school. Teachers spoke of demoralisation, demotivation, and physical and mental distress. This is a damning indictment of the Secretary of State’s performance. She has been entrusted with the future of our children and the future of our country, and she has failed; we do not need any test to see that that.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.229.2" newgid="uk.org.publicwhip/debate/2016-07-12b.229.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.230.0" newgid="uk.org.publicwhip/debate/2016-07-12b.230.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.230.1" newgid="uk.org.publicwhip/debate/2016-07-12b.230.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.230.2" newgid="uk.org.publicwhip/debate/2016-07-12b.230.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.230.3" newgid="uk.org.publicwhip/debate/2016-07-12b.230.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.231.0" newgid="uk.org.publicwhip/debate/2016-07-12b.231.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.231.1" newgid="uk.org.publicwhip/debate/2016-07-12b.231.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.231.2" newgid="uk.org.publicwhip/debate/2016-07-12b.231.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.232.0" newgid="uk.org.publicwhip/debate/2016-07-12b.232.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.233.0" newgid="uk.org.publicwhip/debate/2016-07-12b.233.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.233.1" newgid="uk.org.publicwhip/debate/2016-07-12b.233.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.233.2" newgid="uk.org.publicwhip/debate/2016-07-12b.233.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.233.3" newgid="uk.org.publicwhip/debate/2016-07-12b.233.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.233.4" newgid="uk.org.publicwhip/debate/2016-07-12b.233.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.233.5" newgid="uk.org.publicwhip/debate/2016-07-12b.233.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.234.0" newgid="uk.org.publicwhip/debate/2016-07-12b.234.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.234.1" newgid="uk.org.publicwhip/debate/2016-07-12b.234.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.234.2" newgid="uk.org.publicwhip/debate/2016-07-12b.234.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.234.3" newgid="uk.org.publicwhip/debate/2016-07-12b.234.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.235.0" newgid="uk.org.publicwhip/debate/2016-07-12b.235.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.235.1" newgid="uk.org.publicwhip/debate/2016-07-12b.235.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.236.0" newgid="uk.org.publicwhip/debate/2016-07-12b.236.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.237.0" newgid="uk.org.publicwhip/debate/2016-07-12b.237.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.237.1" newgid="uk.org.publicwhip/debate/2016-07-12b.237.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.237.2" newgid="uk.org.publicwhip/debate/2016-07-12b.237.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.237.3" newgid="uk.org.publicwhip/debate/2016-07-12b.237.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.237.4" newgid="uk.org.publicwhip/debate/2016-07-12b.237.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.238.0" newgid="uk.org.publicwhip/debate/2016-07-12b.238.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.238.1" newgid="uk.org.publicwhip/debate/2016-07-12b.238.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.238.2" newgid="uk.org.publicwhip/debate/2016-07-12b.238.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.239.0" newgid="uk.org.publicwhip/debate/2016-07-12b.239.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.239.1" newgid="uk.org.publicwhip/debate/2016-07-12b.239.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.239.2" newgid="uk.org.publicwhip/debate/2016-07-12b.239.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.239.3" newgid="uk.org.publicwhip/debate/2016-07-12b.239.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.240.0" newgid="uk.org.publicwhip/debate/2016-07-12b.240.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2016-07-12a.240.0" speakername="Rupa Huq" person_id="uk.org.publicwhip/person/25284" colnum="240" time="16:55:00" url="">
+    <p pid="a240.0/1">Let me state from the outset that am a child of the ’70s when grammar purism was not much taught. I think the Secretary of State and I are of the same vintage—from 1972—so I am not going to be a grammar fascist or purist in this debate. We used to play in the sandpit in those days rather than learn the declensions of nouns!</p>
+    <p pid="a240.0/2">I want to contribute to today’s debate because of a case raised with me over the weekend by a constituent. She is deputy headteacher of Christ the Saviour, a Church of England primary school that is outstanding in all four categories. This is not a Bash Street school gasworks comprehensive or anything like those sort of places. The deputy head, Katie Tramoni, is someone I was at school with. I have lived 44 years in Ealing, so I have spent a lot of time there, and both the schools I attended are in my constituency. I am now a mum, bringing up my own children in the borough.</p>
+    <p pid="a240.0/3">As I say, Christ the Saviour is a well-regarded school and I was at school with Katie. This weekend, I went to the Acton carnival, and she literally grabbed me by the lapels and said, “Can you tell Nicky Morgan this from me?” When I saw this debate coming up, I thought, “Now is my opportunity.” Katie is worried about the floor standards of key stage 2. Like everyone else, I have read the headlines saying that almost half of 11-year-old primary pupils will not reach the required standard, but Katie’s issues are with the marking, so let me raise them directly.</p>
+    <p pid="a240.0/4">Katie tells me that the KS2 reading paper was so poorly marked that 55 out of 86 papers—64%—had to be returned for re-marking. The quibbles sometimes seem very minor, but it costs the school £9 per paper if the complaint is not upheld. That does not seem to make sense economically, and the school is in fear of sending things back because of that £9 penalty. For the GPS paper—on grammar, punctuation and spelling—the complaint was that the marking scheme was exceptionally harsh. If, for example, a pupil inserts a semi-colon in the correct place in the sentence, but in too large a size so that it comes out larger than the letters, it is marked as wrong. A zero mark is given, and there are many things like that. Katie said, “I know I go on and on. Don’t get me started on SATs report; let me know if you need more; I must dash.” It was at 7 o’clock this morning that I noticed this debate was on.</p>
+    <p pid="a240.0/5">The point has been made by Government Members that we are anti-testing, but that is not the case. We presided over tests for all those years in power. As the Secretary of State pointed out, it was Tony Blair’s mantra that his top three priorities were “education, education, education”. We have never been against testing as such, but the particular tests this year have been a dog’s dinner and a shambles. I know this from numerous examples in my inbox, in my postbag and when people literally collar me when I am trying to go to a fun event at the weekend. Surely it is the Government’s responsibility to make sure that these tests are marked properly.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.240.1" newgid="uk.org.publicwhip/debate/2016-07-12b.240.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.241.0" newgid="uk.org.publicwhip/debate/2016-07-12b.241.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.241.1" newgid="uk.org.publicwhip/debate/2016-07-12b.241.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.242.0" newgid="uk.org.publicwhip/debate/2016-07-12b.242.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.242.1" newgid="uk.org.publicwhip/debate/2016-07-12b.242.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2016-07-12a.242.1" speakername="Graham Stuart" person_id="uk.org.publicwhip/person/11406" colnum="242" time="16:55:00" url="">
+    <p pid="a242.1/1">I am grateful to the hon. Lady for spinning out an excellent intervention.</p>
+    <p pid="a242.1/2">I suppose that what frustrates Conservatives is that the Labour wants tests, but then talks about the tensions that they can cause. What kind of tests are required that do not already exist? We have heard nothing constructive from Labour Members. <phrase class="honfriend" person_id="uk.org.publicwhip/person/11174" name="John Pugh">The hon. Member for Southport (John Pugh)</phrase> at least suggested that the grammar test might be a bit over the top. What is wrong with these tests that could be put right, and should be put right, for next year? Any suggestion would be helpful.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.242.2" newgid="uk.org.publicwhip/debate/2016-07-12b.242.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.242.3" newgid="uk.org.publicwhip/debate/2016-07-12b.242.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.244.0" newgid="uk.org.publicwhip/debate/2016-07-12b.244.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.244.1" newgid="uk.org.publicwhip/debate/2016-07-12b.244.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.244.2" newgid="uk.org.publicwhip/debate/2016-07-12b.244.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2016-07-12a.244.2" speakername="Vernon Coaker" person_id="uk.org.publicwhip/person/10121" colnum="244" time="17:10:00" url="">
+    <p pid="a244.2/1">That is a good point. There has always been a danger of teaching to the test. The guidance for Ofsted during my time as a Minister—to be fair, it is the same under the present Government—was to look at the breadth of the curriculum and to see what emphasis was being placed on subjects outside those specifically designed for the SATs. The good schools have drama, history, sport and other things going on alongside the SAT subjects. In my view, the schools that do best in the tests—especially in relation to young people from the most disadvantaged backgrounds—are often those that have that breadth of curriculum and that do drama and all those other things as well. Those subjects can give young people the self-esteem and confidence to achieve in the more academic subjects—for want of a better term—that they have to study.</p>
+    <p pid="a244.2/2">Will the Minister tell us what he is going to do restore confidence among our teachers? Whatever the rights and wrongs of this, some people in my constituency have been absolutely distraught at the results they have been given. That cannot be right. I am not saying this to make point; this is a statement of fact. Even in schools that are regarded as outstanding, headteachers have been crying. That cannot be what we want. Let us just reflect on all that. We know that 53% met the Government’s targets, while 47% did not meet those targets. Perhaps we do not want to use the word “failure”. Is there something of particular concern in the three components? Is one area weaker than the others? Do we need to do something about maths? How are the Government, working with both sides of the House and the unions, going to ensure that we tackle the 47%?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.245.0" newgid="uk.org.publicwhip/debate/2016-07-12b.245.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.245.1" newgid="uk.org.publicwhip/debate/2016-07-12b.245.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2016-07-12a.245.1" speakername="Vernon Coaker" person_id="uk.org.publicwhip/person/10121" colnum="245" time="17:10:00" url="">
+    <p pid="a245.1/1">I agree. Standards have risen over the past couple of decades, but we want them to rise faster. There is still too much inequality and social background still determines educational attainment. We should not blame people; we should ask what is preventing this country from overcoming something that has bedevilled the education system for decades. No one would stand up and say that we want the situation to continue. The question is how we best meet the challenge.</p>
+    <p pid="a245.1/2">Given the embarrassment of the leaked and abandoned tests, what will the Minister do to improve security in the future? What is his response to the criticism of how the new tests relate to the new curriculum? It was introduced in 2014 and tests are being set on it in 2016—two years for a four-year course. Will that be taken into account? What has been said to schools? Next year, we will be three years into a four-year programme, so will that mean anything for next year’s testing? We all want to hear about that. It would be ridiculous to pretend that this year’s SATS have been an unmitigated success given the real problems. What are the Government going to do about that? How will they improve things? That is what parents, schools and all of us want to hear.</p>
+    <p pid="a245.1/3">What will the key stage 2 results mean for schools’ Ofsted categorisation? If a school has seen its results collapse, what will that mean when Ofsted go in in September? I do not know the answer, which is why I am asking. The Secretary of State is nodding her head, but I do not know the answer. People want clarity. What will the results mean for a school’s Ofsted categorisation? If the Government set a standard and large numbers of pupils fall below it, including those at schools currently categorised as outstanding, what will that mean when Ofsted inspectors go in? Will the school get cast out? Perhaps not, but that is what schools want to—[Interruption.] The Minister will respond to that to reassure people—thank you.</p>
+    <p pid="a245.1/4">The SATs have had real problems. Everybody in the House agrees that we need to improve standards. We will never reach a point at which we are all satisfied. Everyone will always want more, but what are we going to do about the problems? How will the tests that have been introduced allow us to build on any progress? What are we doing to reassure schools? What are we doing to reassure headteachers, teachers and parents? What will be different next year to prevent what has happened this year from happening again? Those are the sorts of questions that I was trying to intervene on the Secretary of State to ask. I was not trying to get up and say, “Tories wicked, Labour brilliant.” I just wanted to ask, because, with respect, I thought that people were not going to get answers to their detailed questions. My hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/10415" name="Gordon Marsden">the Member for Blackpool South (Mr Marsden)</phrase> will no doubt ask similar questions, but I will grateful if the Minister answers some of them and makes some other points.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.246.0" newgid="uk.org.publicwhip/debate/2016-07-12b.246.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2016-07-12a.246.0" speakername="Gordon Marsden" person_id="uk.org.publicwhip/person/10415" colnum="246" time="17:19:00" url="">
+    <p pid="a246.0/1">It is a great pleasure to speak in this debate. First, I should comment on the uniformly thoughtful and interesting contributions from Back Benchers. Let me begin by mentioning the intervention by my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/11531" name="Andrew Gwynne">the Member for Denton and Reddish (Andrew Gwynne)</phrase>, who challenged the Secretary of State on the whole issue of secondary improvements. Although that is not the subject of this debate, secondary schools would be assisted if they and their heads did not have to worry about how to play catch-up on key stage 2 SATs fails.</p>
+    <p pid="a246.0/2"><phrase class="honfriend" person_id="uk.org.publicwhip/person/11174" name="John Pugh">The hon. Member for Southport (John Pugh)</phrase>, in a thoughtful speech, was rightfully caustic about some of the Secretary of State’s newspeak on SATs. His quote from one of his respected local headteachers about this being “one big mess” is devastating, so we should all take it into account. It is worth mentioning that, in a survey, 97% of primary teachers and leaders expressed concern that schools were preparing pupils for the tests at the expense of the wider curriculum, and other Members have spoken about that today. The hon. Gentleman also talked about a sense of common enterprise. His contribution, like others, pointed out that we need not only a sense of common enterprise, but evidence-driven policy.</p>
+    <p pid="a246.0/3"><phrase class="honfriend" person_id="uk.org.publicwhip/person/11406" name="Graham Stuart">The hon. Member for Beverley and Holderness (Graham Stuart)</phrase>, the former Chair of the Education Committee, used the interesting word “volatility” to describe what has happened this year. That was not a great word to use; his five years as Chair might have given him a choicer set of words to describe the fiasco of the process and outcomes that this year’s SATs have left us with. He also talked about the need for people to row back in, but surely the whole problem is that the specs were not there in time for them to do so. That point needs to be taken on board.</p>
+    <p pid="a246.0/4"><phrase class="honfriend" person_id="uk.org.publicwhip/person/25348" name="Heidi Allen">The hon. Member for South Cambridgeshire (Heidi Allen)</phrase> struck a chord with many Members by talking about the way in which we need to keep our teachers with us. My hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25284" name="Rupa Huq">the Member for Ealing Central and Acton (Dr Huq)</phrase> regaled us with tales of her days, and perhaps the Secretary of State’s days, in the sandpit. Apart from that, the most enlightening thing in my hon. Friend’s speech was when she relayed what her local headteacher, Katie, said. Perhaps it should have been what Katie did and what Katie did next. To be fair, the Secretary of State was gracious and told us what Katie needs to do next: get her thoughts in before <phrase class="date" code="2016-07-15">15 July</phrase>. Again, this raises the issue that people can have legitimate concerns without being anti-testing.</p>
+    <p pid="a246.0/5"><phrase class="honfriend" person_id="uk.org.publicwhip/person/25426" name="Huw Merriman">The hon. Member for Bexhill and Battle (Huw Merriman)</phrase> said that the tests should not be set to a low benchmark. Nobody in the House would dispute that point. He said that there needs to be more time for prep and more time for learning subjects other than English and maths. Perhaps we can welcome him as an additional recruit to those of us who talked to the Minister last week about the need to widen the EBacc.</p>
+    <p pid="a246.0/6">My hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/10121" name="Vernon Coaker">the Member for Gedling (Vernon Coaker)</phrase> rightly expressed concerns that some of the outstanding schools in his constituency have had bizarrely low results. He also rightly asked what the Government would do about the security of the tests. I hope that the Minister will take on board those issues in his response.</p>
+    <p pid="a246.0/7">My hon. Friend the shadow Secretary of State got an unfair blistering from the Secretary of State. My colleague painted a stark picture of the strengths and skills of the young people who took the tests this year being cast aside or ignored because they have been the guinea pigs and victims of the Department’s shambles this year. She did show passion, and she needed to do so, because the pupils who took this year’s key stage 2 SATs have been very badly let down. Why is that? It is because the Department’s resources and Ministers’ focus were obsessively trained on their national programme of academisation. As my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24798" name="Nicholas Dakin">the Member for Scunthorpe (Nic Dakin)</phrase>, among others, said when the previous statement was made, they took their eye off the ball. Tens of thousands of children have suffered, and for what? For a humiliating climbdown on forced academisation under fire from the Government’s own side, which now means that the Secretary of State will have to swerve and dodge in the academy-lite education Bill that may or may not come this autumn or under this Secretary of State.</p>
+    <p pid="a246.0/8">In this instance, process cannot be divorced from outcome. Russell Hobby, the general secretary of the NAHT, was quite right to say that the Government had made</p>
+    <p pid="a246.0/9" class="indent" pwmotiontext="yes">“serious mistakes in the planning and implementation of tests this year”</p>
+    <p pid="a246.0/10">and</p>
+    <p pid="a246.0/11" class="indent" pwmotiontext="yes">“with the delays and confusion in guideline materials.”</p>
+    <p pid="a246.0/12">The Minister for Schools said in this House on <phrase class="date" code="2016-05-10">10 May</phrase> that Pearson UK was investigating the uploading of the key stage test on to a website and was committed to investigating it quickly. I do not recall whether we have had a full explanation of that from the Minister, so I ask him to give us one now. I also echo what my hon. Friend the Member for Gedling said by asking the Minister to tell us what steps he has put in place to reduce the possibility of this happening again.</p>
+    <p pid="a246.0/13">The Secretary of State wanted to cloud talk of her failures by saying that this was all driven by a NUT plot. If she were to pause for a moment from her rant about the NUT, perhaps she would like to look at the joint statement that the National Governors Association and the NAHT put out. They said that schools did not need to draw conclusions from the SATs data because they provide</p>
+    <p pid="a246.0/14" class="indent" pwmotiontext="yes">“no intelligence on the rate of improvement of teaching and learning.”</p>
+    <p pid="a246.0/15">They went on to point out that many will be “feeling demoralised”, saying:</p>
+    <p pid="a246.0/16" class="indent" pwmotiontext="yes">“Pupils, teachers and parents and all involved in schools should be proud of the work they have put in to implement”—</p>
+    <p pid="a246.0/17">the new curriculum and the testing regime—</p>
+    <p pid="a246.0/18" class="indent" pwmotiontext="yes">“in what has been a very short timetable.”</p>
+    <p pid="a246.0/19">It is simply not good enough for the Secretary of State to be complacent about this matter. The Government’s complacency has already been commented on by the Public Accounts Committee, although that does not seem to have affected the Secretary of State’s ability to be Madam Pangloss on the issue. In her first response to the results, she said that they had been a “good  start”, but Anne Watson, who was the emeritus professor of mathematics education at the University of Oxford, said:</p>
+    <p pid="a246.0/20" class="indent" pwmotiontext="yes">“The aim to raise standards has resulted in a new way to measure performance so that no comparative judgments can be made…This means we do not know from the data alone whether the Government has done a good job or a bad job and whether the test designers and score-scalers have done a good job or a bad job.”</p>
+    <p pid="a246.0/21">After all, these results mean that, according to this Government, 47% of children in this country are not ready for secondary school. How do we tell children and their parents that?</p>
+    <p pid="a246.0/22">The Secretary of State—the Minister has said this on another occasion—talked about the fact that pupils either “don’t mind” or “enjoy” taking these tests, and the ComRes poll gave them some comfort in that respect. Pupils might not mind taking the test, but they mind with absolute justification the test being taken out of context and their teachers being left frustrated that they are not able to engage at an early enough stage.</p>
+    <p pid="a246.0/23">When the Minister made his statement in May, my hon. Friend the Member for Scunthorpe made an absolutely key point:</p>
+    <p pid="a246.0/24" class="indent" pwmotiontext="yes">“By rushing ahead with the policy without properly involving professionals or parents, the Government failed to spot the fundamental flaw in the design, which was that the test that they had developed were insufficiently comparable. As a result, they were forced to abandon their approach to baseline test entirely.”</p>
+    <p pid="a246.0/25">He went on to say:</p>
+    <p pid="a246.0/26" class="indent" pwmotiontext="yes">“There has been a constant stream of chop and change in primary assessment under this Government. Since September, the Department for Education has updated or clarified on average at least one primary school assessment resource every other working day.”—[Official Report, <phrase class="date" code="2016-05-10">10 May</phrase> 2016; Vol. 609, c. 554.]</p>
+    <p pid="a246.0/27">We do not regard that as good enough.</p>
+    <p pid="a246.0/28">On the floor standard, I think the Secretary of State said that the details would be made available in September, yet her Department told Schools Week that the results would not be published until December. Whether it is September or December—the Secretary of State or the Minister is welcome to clarify this—what an indictment it is that schools should have that sword of Damocles over their head for four or six months.</p>
+    <p pid="a246.0/29">Ultimately, this comes down to what happens in individual Members’ constituencies and the responses that they get. In my own area of Lancashire, the spokesman for the National Association of Head Teachers said that, with 94% of Lancashire schools judged good or outstanding by Ofsted,</p>
+    <p pid="a246.0/30" class="indent" pwmotiontext="yes">“there is something wrong in the assessment process”,</p>
+    <p pid="a246.0/31">and that schools need to support their children and their staff</p>
+    <p pid="a246.0/32" class="indent" pwmotiontext="yes">“and carry out what is effectively damage limitation.”</p>
+    <p pid="a246.0/33">Last Friday I visited one of my primary schools in Blackpool, where the head and others are doing some extremely good work. I observed a session with an excellent Pobble literacy tutor, but when I spoke afterwards to the head, he had a huge sense of frustration that the school had not been able to structure its exam preparation because of the continuous chopping and changing to which I and my hon. Friend the Member for Scunthorpe have referred. The head said, “I fear it will put more pressure on testing in these students’ first year in secondary schools.” The schools will not regard the tests as useful,  and the consequence will be deflated students and pressured parents—those are my observations, not those of the head.</p>
+    <p pid="a246.0/34">The years between the ages of nine and 11 are almost as crucial for young people as the time of transfer to secondary school. I am old enough—I suspect that others in the Chamber may be old enough—to remember the nine-plus. I remember from doing the nine-plus that it was a testing time, so it is not good enough for the Minister and the Secretary of State to draw a veil over this year’s results by setting up straw people and saying that the Opposition or other critics are not interested in testing or in standards. We are interested in both, but we are also interested in their being delivered competently, and this Government have not shown competence.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.249.0" newgid="uk.org.publicwhip/debate/2016-07-12b.249.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.251.0" newgid="uk.org.publicwhip/debate/2016-07-12b.251.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.252.0" newgid="uk.org.publicwhip/debate/2016-07-12b.252.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2016-07-12a.252.0" speakername="Nick Gibb" person_id="uk.org.publicwhip/person/10225" colnum="252" time="17:33:00" url="">
+    <p pid="a252.0/1">Experience so far is that inspectors are already taking my letter into account and adjusting their judgments. They are not looking at raw data in an unintelligent way; they are looking at it intelligently, reflecting the concerns raised in my letter. We have also now introduced the progress measure, which means that progress will be a much more important part of determining whether a school falls below the floor.</p>
+    <p pid="a252.0/2">The hon. Member for Blackpool South asked about Pearson. It has investigated the leak and taken a number of steps to ensure that rogue markers do not deliberately release marking schemes in future, and it is tightening up its contractual arrangements.</p>
+    <p pid="a252.0/3">As a result of this Government’s education reform, 66% of secondary schools and 19% of primary schools now have academy status, with the professional autonomy that this brings. A total of 1.45 million more pupils are in schools rated “good” or “outstanding” by Ofsted than in 2010. More pupils are taking and securing good grades in the core academic subjects at GSCE that employers and universities most value. More pupils are studying foreign languages and taking A-levels in maths, physics and chemistry. As a result of our reforms more children are reading fluently, and doing so earlier.</p>
+    <p pid="a252.0/4">I was saddened by the approach taken by the new shadow Secretary of State, <phrase class="honfriend" person_id="uk.org.publicwhip/person/25429" name="Angela Rayner">the hon. Member for Ashton-under-Lyne (Angela Rayner)</phrase>. Yesterday, in a Westminster Hall debate on term-time holidays, she supported our reforms to improve school attendance. Today, she is reverting back to the approach of her predecessor-but-one, <phrase class="honfriend" person_id="uk.org.publicwhip/person/25165" name="Lucy Powell">the hon. Member for Manchester Central (Lucy Powell)</phrase>, in opposing the rise in academic standards and the rise in expectations that the new SATs reflect and assess. She is, alas, simply kowtowing to the NUT “line to take”. This Government are about raising standards, raising expectations and delivering successful and effective reform. I urge the House to reject Labour’s motion.</p>
+    <p pid="a252.0/5">Question put.</p>
+    <p pid="a252.0/6" class="italic" pwmotiontext="yes">The House divided:</p>
+    <p pid="a252.0/7" pwmotiontext="yes">Ayes 178, Noes 278.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.252.1" newgid="uk.org.publicwhip/debate/2016-07-12b.252.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.252.2" newgid="uk.org.publicwhip/debate/2016-07-12b.252.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.256.0" newgid="uk.org.publicwhip/debate/2016-07-12b.256.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.256.1" newgid="uk.org.publicwhip/debate/2016-07-12b.256.1" matchtype="changes"/>
+<minor-heading id="uk.org.publicwhip/debate/2016-07-12a.256.1" nospeaker="true" colnum="256" time="17:33:00" url="">
+Delegated Legislation
+</minor-heading>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.256.2" newgid="uk.org.publicwhip/debate/2016-07-12b.256.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.256.3" newgid="uk.org.publicwhip/debate/2016-07-12b.256.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.256.4" newgid="uk.org.publicwhip/debate/2016-07-12b.256.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.256.5" newgid="uk.org.publicwhip/debate/2016-07-12b.256.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.256.6" newgid="uk.org.publicwhip/debate/2016-07-12b.256.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.256.7" newgid="uk.org.publicwhip/debate/2016-07-12b.256.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.256.8" newgid="uk.org.publicwhip/debate/2016-07-12b.256.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.260.0" newgid="uk.org.publicwhip/debate/2016-07-12b.260.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.260.1" newgid="uk.org.publicwhip/debate/2016-07-12b.260.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.261.0" newgid="uk.org.publicwhip/debate/2016-07-12b.261.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.262.0" newgid="uk.org.publicwhip/debate/2016-07-12b.262.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.262.1" newgid="uk.org.publicwhip/debate/2016-07-12b.262.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.262.2" newgid="uk.org.publicwhip/debate/2016-07-12b.262.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.262.3" newgid="uk.org.publicwhip/debate/2016-07-12b.262.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.262.4" newgid="uk.org.publicwhip/debate/2016-07-12b.262.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.263.0" newgid="uk.org.publicwhip/debate/2016-07-12b.263.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.263.1" newgid="uk.org.publicwhip/debate/2016-07-12b.263.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.263.2" newgid="uk.org.publicwhip/debate/2016-07-12b.263.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.263.3" newgid="uk.org.publicwhip/debate/2016-07-12b.263.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.263.4" newgid="uk.org.publicwhip/debate/2016-07-12b.263.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.264.0" newgid="uk.org.publicwhip/debate/2016-07-12b.264.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.264.1" newgid="uk.org.publicwhip/debate/2016-07-12b.264.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.264.2" newgid="uk.org.publicwhip/debate/2016-07-12b.264.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.264.3" newgid="uk.org.publicwhip/debate/2016-07-12b.264.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.264.4" newgid="uk.org.publicwhip/debate/2016-07-12b.264.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.264.5" newgid="uk.org.publicwhip/debate/2016-07-12b.264.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.264.6" newgid="uk.org.publicwhip/debate/2016-07-12b.264.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.265.0" newgid="uk.org.publicwhip/debate/2016-07-12b.265.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.266.0" newgid="uk.org.publicwhip/debate/2016-07-12b.266.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.266.1" newgid="uk.org.publicwhip/debate/2016-07-12b.266.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.266.2" newgid="uk.org.publicwhip/debate/2016-07-12b.266.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.267.0" newgid="uk.org.publicwhip/debate/2016-07-12b.267.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.267.1" newgid="uk.org.publicwhip/debate/2016-07-12b.267.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2016-07-12a.267.1" speakername="Peter Aldous" person_id="uk.org.publicwhip/person/24904" colnum="267" time="18:10:00" url="">
+    <p pid="a267.1/1">I am grateful to the hon. Lady for that intervention, which provides a clear illustration of the point that I am making.</p>
+    <p pid="a267.1/2">Inside Housing’s snap survey found that 95% of supported housing providers will be forced to wind up some or all of their schemes. HB Villages wants to invest in new developments. It requires no public grant, but the investment can only be made if returns from future rents are protected through continued rent exemption. I fully appreciate that Lord Freud’s review must be comprehensive and based on as much evidence as possible. It will also be important not to rush it, if we are to arrive at a sustainable long-term funding solution. However, an early assurance from the Government—perhaps from the Minister tonight—that the cap will not apply to supported housing will remove the uncertainty that currently hangs over the sector.</p>
+    <p pid="a267.1/3">In framing their proposals for the funding of supported housing, it is vital that the Government have in mind the needs of those charities, housing associations and social investors already active and doing great work in the sector as well as those looking to get involved. There is an enormous amount of goodwill and capital waiting in the wings. If the right framework is put in place, those organisations, charities and investors will step up to plate and carry out projects. In doing so, they will bring significant benefits to the lives of many.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.267.2" newgid="uk.org.publicwhip/debate/2016-07-12b.267.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.267.3" newgid="uk.org.publicwhip/debate/2016-07-12b.267.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.268.0" newgid="uk.org.publicwhip/debate/2016-07-12b.268.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.269.0" newgid="uk.org.publicwhip/debate/2016-07-12b.269.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.269.1" newgid="uk.org.publicwhip/debate/2016-07-12b.269.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2016-07-12a.269.1" speakername="Stewart Jackson" person_id="uk.org.publicwhip/person/11759" colnum="269" time="18:36:00" url="">
+    <p pid="a269.1/1">I thank my hon. Friend for that intervention. She goes to the nub of the issue. We are not talking about fiscal changes regarding general needs housing, which is a separate issue. We understand that there has  been a significant increase in the housing benefit bill over the past number of years and we have to reduce that. We are talking here about young people who are fleeing violent backgrounds, women who are fleeing violent partners, and teenagers, children and young adults who have mental health issues—my hon. Friend the Member for Waveney alluded to this point. That situation is different, so the Minister needs to put a case to the Treasury that a much more long-term and sustainable funding regime should be put in place before we go any further.</p>
+    <p pid="a269.1/2">I mentioned delayed discharge. If only we were in a position to plan these supported housing schemes properly—they are now under threat, as my hon. Friend so eloquently revealed—we would make a net saving. The process might take five or 10 years, but we must consider the number of older people who are admitted to hospital when they do not need to be in acute hospital beds, but instead need appropriate housing to deal with their specific individual needs.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.270.0" newgid="uk.org.publicwhip/debate/2016-07-12b.270.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.270.1" newgid="uk.org.publicwhip/debate/2016-07-12b.270.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.271.0" newgid="uk.org.publicwhip/debate/2016-07-12b.271.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.271.1" newgid="uk.org.publicwhip/debate/2016-07-12b.271.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.271.2" newgid="uk.org.publicwhip/debate/2016-07-12b.271.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.272.0" newgid="uk.org.publicwhip/debate/2016-07-12b.272.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.272.1" newgid="uk.org.publicwhip/debate/2016-07-12b.272.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.274.0" newgid="uk.org.publicwhip/debate/2016-07-12b.274.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.274.1" newgid="uk.org.publicwhip/debate/2016-07-12b.274.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.274.2" newgid="uk.org.publicwhip/debate/2016-07-12b.274.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2016-07-12a.274.3" newgid="uk.org.publicwhip/debate/2016-07-12b.274.3" matchtype="perfectmatch"/>
+</publicwhip>
+

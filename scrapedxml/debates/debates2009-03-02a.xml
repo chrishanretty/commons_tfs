@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="a" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.565.0" newgid="uk.org.publicwhip/debate/2009-03-02b.565.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.565.1" newgid="uk.org.publicwhip/debate/2009-03-02b.565.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.565.2" newgid="uk.org.publicwhip/debate/2009-03-02b.565.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.565.3" newgid="uk.org.publicwhip/debate/2009-03-02b.565.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.565.4" newgid="uk.org.publicwhip/debate/2009-03-02b.565.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.565.5" newgid="uk.org.publicwhip/debate/2009-03-02b.565.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.565.6" newgid="uk.org.publicwhip/debate/2009-03-02b.565.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.565.7" newgid="uk.org.publicwhip/debate/2009-03-02b.565.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.566.0" newgid="uk.org.publicwhip/debate/2009-03-02b.566.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.566.1" newgid="uk.org.publicwhip/debate/2009-03-02b.566.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.566.2" newgid="uk.org.publicwhip/debate/2009-03-02b.566.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.566.3" newgid="uk.org.publicwhip/debate/2009-03-02b.566.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.566.4" newgid="uk.org.publicwhip/debate/2009-03-02b.566.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.566.5" newgid="uk.org.publicwhip/debate/2009-03-02b.566.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.567.0" newgid="uk.org.publicwhip/debate/2009-03-02b.567.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.567.1" newgid="uk.org.publicwhip/debate/2009-03-02b.567.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.567.2" newgid="uk.org.publicwhip/debate/2009-03-02b.567.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.567.3" newgid="uk.org.publicwhip/debate/2009-03-02b.567.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.567.4" newgid="uk.org.publicwhip/debate/2009-03-02b.567.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.567.5" newgid="uk.org.publicwhip/debate/2009-03-02b.567.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.567.6" newgid="uk.org.publicwhip/debate/2009-03-02b.567.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.567.7" newgid="uk.org.publicwhip/debate/2009-03-02b.567.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.568.0" newgid="uk.org.publicwhip/debate/2009-03-02b.568.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.568.1" newgid="uk.org.publicwhip/debate/2009-03-02b.568.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.568.2" newgid="uk.org.publicwhip/debate/2009-03-02b.568.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.568.3" newgid="uk.org.publicwhip/debate/2009-03-02b.568.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.569.0" newgid="uk.org.publicwhip/debate/2009-03-02b.569.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.569.1" newgid="uk.org.publicwhip/debate/2009-03-02b.569.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.569.2" newgid="uk.org.publicwhip/debate/2009-03-02b.569.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.569.3" newgid="uk.org.publicwhip/debate/2009-03-02b.569.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.569.4" newgid="uk.org.publicwhip/debate/2009-03-02b.569.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.570.0" newgid="uk.org.publicwhip/debate/2009-03-02b.570.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.570.1" newgid="uk.org.publicwhip/debate/2009-03-02b.570.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.570.1" speakerid="uk.org.publicwhip/member/1678" speakername="Andy Burnham" colnum="570"  time="14:30:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0001.htm#0903027000444">
+	<p pid="a.570.1/1">I am not sure whether the hon. Gentleman is making a spending commitment and suggesting that there should be a subsidy. If he is accusing us of not acting quickly enough, I should tell him that we put in train the &quot;Digital Britain&quot; review precisely to take a quick but nevertheless detailed look at the range of issues affecting the media industry across the board and to come back with firm recommendations by the summer. That represents a pretty focused piece of work and I encourage him to engage in the process. It is not necessarily just funding, it may be regulatory change or looking at new ways of providing services, but in this case he cannot accuse us of being behind the curve. I told the House at our last Question Time that I had decided to raise the issue up the Department's agenda, having met the Society of Editors, and I remain absolutely committed to making sure we get solutions that the newspaper industry can work with.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.570.2" newgid="uk.org.publicwhip/debate/2009-03-02b.570.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.570.3" newgid="uk.org.publicwhip/debate/2009-03-02b.570.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.570.4" newgid="uk.org.publicwhip/debate/2009-03-02b.570.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.570.5" newgid="uk.org.publicwhip/debate/2009-03-02b.570.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.570.6" newgid="uk.org.publicwhip/debate/2009-03-02b.570.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.571.0" newgid="uk.org.publicwhip/debate/2009-03-02b.571.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.571.1" newgid="uk.org.publicwhip/debate/2009-03-02b.571.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.571.2" newgid="uk.org.publicwhip/debate/2009-03-02b.571.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.571.3" newgid="uk.org.publicwhip/debate/2009-03-02b.571.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.572.0" newgid="uk.org.publicwhip/debate/2009-03-02b.572.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.572.1" newgid="uk.org.publicwhip/debate/2009-03-02b.572.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.572.2" newgid="uk.org.publicwhip/debate/2009-03-02b.572.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.572.3" newgid="uk.org.publicwhip/debate/2009-03-02b.572.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.572.4" newgid="uk.org.publicwhip/debate/2009-03-02b.572.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.572.5" newgid="uk.org.publicwhip/debate/2009-03-02b.572.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.572.6" newgid="uk.org.publicwhip/debate/2009-03-02b.572.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.572.7" newgid="uk.org.publicwhip/debate/2009-03-02b.572.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.572.8" newgid="uk.org.publicwhip/debate/2009-03-02b.572.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.573.0" newgid="uk.org.publicwhip/debate/2009-03-02b.573.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.573.1" newgid="uk.org.publicwhip/debate/2009-03-02b.573.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.573.2" newgid="uk.org.publicwhip/debate/2009-03-02b.573.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.573.3" newgid="uk.org.publicwhip/debate/2009-03-02b.573.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.573.4" newgid="uk.org.publicwhip/debate/2009-03-02b.573.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.573.5" newgid="uk.org.publicwhip/debate/2009-03-02b.573.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.573.6" newgid="uk.org.publicwhip/debate/2009-03-02b.573.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.574.0" newgid="uk.org.publicwhip/debate/2009-03-02b.574.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.574.1" newgid="uk.org.publicwhip/debate/2009-03-02b.574.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.574.2" newgid="uk.org.publicwhip/debate/2009-03-02b.574.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.574.3" newgid="uk.org.publicwhip/debate/2009-03-02b.574.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.574.4" newgid="uk.org.publicwhip/debate/2009-03-02b.574.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.574.5" newgid="uk.org.publicwhip/debate/2009-03-02b.574.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.575.0" newgid="uk.org.publicwhip/debate/2009-03-02b.575.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.575.1" newgid="uk.org.publicwhip/debate/2009-03-02b.575.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.575.2" newgid="uk.org.publicwhip/debate/2009-03-02b.575.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.575.3" newgid="uk.org.publicwhip/debate/2009-03-02b.575.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.575.4" newgid="uk.org.publicwhip/debate/2009-03-02b.575.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.575.5" newgid="uk.org.publicwhip/debate/2009-03-02b.575.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.575.6" newgid="uk.org.publicwhip/debate/2009-03-02b.575.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.575.7" newgid="uk.org.publicwhip/debate/2009-03-02b.575.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.575.8" newgid="uk.org.publicwhip/debate/2009-03-02b.575.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.576.0" newgid="uk.org.publicwhip/debate/2009-03-02b.576.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.576.1" newgid="uk.org.publicwhip/debate/2009-03-02b.576.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.576.2" newgid="uk.org.publicwhip/debate/2009-03-02b.576.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.576.3" newgid="uk.org.publicwhip/debate/2009-03-02b.576.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.576.4" newgid="uk.org.publicwhip/debate/2009-03-02b.576.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.576.5" newgid="uk.org.publicwhip/debate/2009-03-02b.576.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.576.6" newgid="uk.org.publicwhip/debate/2009-03-02b.576.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.577.0" newgid="uk.org.publicwhip/debate/2009-03-02b.577.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.577.0" speakerid="uk.org.publicwhip/member/1482" speakername="Alun Michael" colnum="577"  time="14:30:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0002.htm#0903027000487">
+	<p pid="a.577.0/1">May I congratulate my right hon. Friend on the initiative that he personally has taken in accelerating the work on audio description? The current window of opportunity in respect of digital switchover or analogue switch-off is enormously important for people with visual impairment. Will my right hon. Friend do all he can to publicise that, and to persuade television companies that there is an audience out there that, as a result of this process, will be able to benefit from our maximising the number of programmes that have audio description, along the lines of the plea, to which I know he is sympathetic, made by the RNIB?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.577.1" newgid="uk.org.publicwhip/debate/2009-03-02b.577.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.577.2" newgid="uk.org.publicwhip/debate/2009-03-02b.577.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.577.3" newgid="uk.org.publicwhip/debate/2009-03-02b.577.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.577.4" newgid="uk.org.publicwhip/debate/2009-03-02b.577.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.577.5" newgid="uk.org.publicwhip/debate/2009-03-02b.577.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.577.6" newgid="uk.org.publicwhip/debate/2009-03-02b.577.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.578.0" newgid="uk.org.publicwhip/debate/2009-03-02b.578.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.578.1" newgid="uk.org.publicwhip/debate/2009-03-02b.578.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.578.2" newgid="uk.org.publicwhip/debate/2009-03-02b.578.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.578.3" newgid="uk.org.publicwhip/debate/2009-03-02b.578.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.578.4" newgid="uk.org.publicwhip/debate/2009-03-02b.578.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.578.5" newgid="uk.org.publicwhip/debate/2009-03-02b.578.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.579.0" newgid="uk.org.publicwhip/debate/2009-03-02b.579.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.579.1" newgid="uk.org.publicwhip/debate/2009-03-02b.579.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.579.2" newgid="uk.org.publicwhip/debate/2009-03-02b.579.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.579.2" speakerid="uk.org.publicwhip/member/1678" speakername="Andy Burnham" colnum="579"  time="14:30:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0003.htm#0903027000500">
+	<p pid="a.579.2/1">I shall certainly draw the hon. Gentleman's remarks to the attention of Lord Carter. I am sure that we can examine the particular local issues that his area faces as part of the Digital Britain work&mdash;I shall do so and I shall write to him.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.579.3" newgid="uk.org.publicwhip/debate/2009-03-02b.579.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.579.4" newgid="uk.org.publicwhip/debate/2009-03-02b.579.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.579.5" newgid="uk.org.publicwhip/debate/2009-03-02b.579.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.579.6" newgid="uk.org.publicwhip/debate/2009-03-02b.579.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.580.0" newgid="uk.org.publicwhip/debate/2009-03-02b.580.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.580.1" newgid="uk.org.publicwhip/debate/2009-03-02b.580.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.580.2" newgid="uk.org.publicwhip/debate/2009-03-02b.580.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.580.3" newgid="uk.org.publicwhip/debate/2009-03-02b.580.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.580.4" newgid="uk.org.publicwhip/debate/2009-03-02b.580.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.580.5" newgid="uk.org.publicwhip/debate/2009-03-02b.580.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.580.6" newgid="uk.org.publicwhip/debate/2009-03-02b.580.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.581.0" newgid="uk.org.publicwhip/debate/2009-03-02b.581.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.581.1" newgid="uk.org.publicwhip/debate/2009-03-02b.581.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.581.2" newgid="uk.org.publicwhip/debate/2009-03-02b.581.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.581.3" newgid="uk.org.publicwhip/debate/2009-03-02b.581.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.581.4" newgid="uk.org.publicwhip/debate/2009-03-02b.581.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.581.5" newgid="uk.org.publicwhip/debate/2009-03-02b.581.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.582.0" newgid="uk.org.publicwhip/debate/2009-03-02b.582.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.582.1" newgid="uk.org.publicwhip/debate/2009-03-02b.582.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.582.2" newgid="uk.org.publicwhip/debate/2009-03-02b.582.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.582.3" newgid="uk.org.publicwhip/debate/2009-03-02b.582.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.582.4" newgid="uk.org.publicwhip/debate/2009-03-02b.582.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.582.5" newgid="uk.org.publicwhip/debate/2009-03-02b.582.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.582.6" newgid="uk.org.publicwhip/debate/2009-03-02b.582.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.582.7" newgid="uk.org.publicwhip/debate/2009-03-02b.582.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.582.8" newgid="uk.org.publicwhip/debate/2009-03-02b.582.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.583.0" newgid="uk.org.publicwhip/debate/2009-03-02b.583.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.583.1" newgid="uk.org.publicwhip/debate/2009-03-02b.583.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.583.2" newgid="uk.org.publicwhip/debate/2009-03-02b.583.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.583.3" newgid="uk.org.publicwhip/debate/2009-03-02b.583.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.583.4" newgid="uk.org.publicwhip/debate/2009-03-02b.583.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.583.5" newgid="uk.org.publicwhip/debate/2009-03-02b.583.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.583.6" newgid="uk.org.publicwhip/debate/2009-03-02b.583.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.583.7" newgid="uk.org.publicwhip/debate/2009-03-02b.583.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.583.8" newgid="uk.org.publicwhip/debate/2009-03-02b.583.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.584.0" newgid="uk.org.publicwhip/debate/2009-03-02b.584.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.584.1" newgid="uk.org.publicwhip/debate/2009-03-02b.584.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.584.2" newgid="uk.org.publicwhip/debate/2009-03-02b.584.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.584.3" newgid="uk.org.publicwhip/debate/2009-03-02b.584.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.584.4" newgid="uk.org.publicwhip/debate/2009-03-02b.584.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.584.5" newgid="uk.org.publicwhip/debate/2009-03-02b.584.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.584.6" newgid="uk.org.publicwhip/debate/2009-03-02b.584.6" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.584.6" speakerid="uk.org.publicwhip/member/1569" speakername="Andrew Miller" colnum="584"  time="14:30:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0004.htm#0903027000537">
+	<p pid="a.584.6/1">I totally agree with my right hon. Friend's sentiments. Will she ensure that everything possible is done to support groups such as West Cheshire Athletic Club, which has an Olympic-standard track along with associated facilities? It is vital that the hard work done by volunteers and organisers to develop the club and support new young athletes is protected well after 2012.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.585.0" newgid="uk.org.publicwhip/debate/2009-03-02b.585.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.585.0" speakerid="uk.org.publicwhip/member/1555" speakername="Tessa Jowell" colnum="585"  time="14:30:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0004.htm#0903027000538">
+	<p pid="a.585.0/1">I thank my hon. Friend and recognise the part that he has played in getting this excellent facility for his constituents. I understand that there is some anxiety about the consequence of local government reorganisation. I hope that the new authority will honour all the commitments that have already been given, especially in recognition of the important role that local authorities up and down the country have to play in ensuring that we get 2 million more people being physically active and taking part in sport.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.585.1" newgid="uk.org.publicwhip/debate/2009-03-02b.585.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.585.2" newgid="uk.org.publicwhip/debate/2009-03-02b.585.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.586.0" newgid="uk.org.publicwhip/debate/2009-03-02b.586.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.586.1" newgid="uk.org.publicwhip/debate/2009-03-02b.586.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.587.0" newgid="uk.org.publicwhip/debate/2009-03-02b.587.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.587.1" newgid="uk.org.publicwhip/debate/2009-03-02b.587.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.587.2" newgid="uk.org.publicwhip/debate/2009-03-02b.587.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.588.0" newgid="uk.org.publicwhip/debate/2009-03-02b.588.0" matchtype="changes"/>
+<minor-heading id="uk.org.publicwhip/debate/2009-03-02a.588.0" nospeaker="true" colnum="588"  time="015:38:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0004.htm#0903027000001">
+	Political Parties and Elections Bill
+</minor-heading>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.588.1" newgid="uk.org.publicwhip/debate/2009-03-02b.588.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.588.2" newgid="uk.org.publicwhip/debate/2009-03-02b.588.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.588.3" newgid="uk.org.publicwhip/debate/2009-03-02b.588.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.588.4" newgid="uk.org.publicwhip/debate/2009-03-02b.588.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.588.5" newgid="uk.org.publicwhip/debate/2009-03-02b.588.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.588.6" newgid="uk.org.publicwhip/debate/2009-03-02b.588.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.588.7" newgid="uk.org.publicwhip/debate/2009-03-02b.588.7" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.588.7" speakerid="uk.org.publicwhip/member/2014" speakername="Mr. Speaker" colnum="588"  time="015:39:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0004.htm#0903027000546">
+	<p pid="a.588.7/1">With this it will be convenient to discuss the following:</p>
+	<p pid="a.588.7/2">Amendments (a) to (c).</p>
+	<p pid="a.588.7/3">Government amendment 94.</p>
+	<p pid="a.588.7/4">Amendment 126, in clause 8, page 6, line 2, after '&pound;5,000', insert 'plus an annual upwards-only indexation allowance'.</p>
+	<p pid="a.588.7/5">Government amendment 95.</p>
+	<p pid="a.588.7/6">Amendment 125, in clause 8, page 6, line 3, leave out '&pound;1,000' and insert</p>
+	<p pid="a.588.7/7">'&pound;3,000 plus an annual upwards-only indexation allowance'.</p>
+	<p pid="a.588.7/8">Government amendment 96.</p>
+	<p pid="a.588.7/9">Amendment 123, in clause 8, page 6, line 7, after '&pound;5,000', insert 'plus an annual upwards-only indexation allowance'.</p>
+	<p pid="a.588.7/10">Amendment 122, in clause 8, page 6, line 12, leave out 'best of individuals' and insert 'individual's reasonable'.</p>
+	<p pid="a.588.7/11">Government amendment 97.</p>
+	<p pid="a.588.7/12">Amendment 127, in clause 8, page 6, line 18, after '&pound;5,000', insert 'plus an annual upwards-only indexation allowance'.</p>
+	<p pid="a.588.7/13">Government amendment 98.</p>
+	<p pid="a.588.7/14">Amendment 124, in clause 8, page 6, line 35, leave out '&pound;1,000' and insert</p>
+	<p pid="a.588.7/15">'&pound;3,000 plus an annual upwards-only indexation allowance'.</p>
+	<p pid="a.588.7/16">Government amendment 99.</p>
+	<p pid="a.588.7/17">Amendment 121, in clause 8, page 6, line 38, at end insert&mdash;</p>
+	<p pid="a.588.7/18">'(6A) A person does not commit an offence if, in the reasonable opinion of the Commission, the person had no intention of making, or by innocent mistake made, a false declaration under this section'.</p>
+	<p pid="a.588.7/19">Amendment 8, in schedule 3, page 38, line 19, at end insert&mdash;</p>
+	<p pid="a.588.7/20" class="italic"> 'Schedule 6 of the 2000 Act (details to be given in donation reports)</p>
+	<p pid="a.588.7/21">A1 (1) In paragraph 2 of Schedule 6 to the 2000 Act (details to be given in donation reports), after paragraph (b) of sub-paragraph (10), there is inserted&mdash;</p>
+	<p pid="a.588.7/22">&quot;(c) the names and addresses of all the members of and donors donating &pound;5,000 or more annually to the association.&quot;.</p>
+	<p pid="a.588.7/23">(2) In paragraph 2 of Schedule 6A to the 2000 Act (details to be given in transaction reports), after paragraph (b) of sub-paragraph (10), there is inserted&mdash;</p>
+	<p pid="a.588.7/24">&quot;(c) the names and addresses of all members of and donors donating &pound;5,000 or more annually to the association.&quot;.</p>
+	<p pid="a.588.7/25">(3) In paragraph 2A of Schedule 6A to the 2000 Act (details to be given in transaction reports), after paragraph (b) of sub-paragraph (11), there is inserted&mdash;</p>
+	<p pid="a.588.7/26">&quot;(ba) the names and addresses of all the members of and donors donating &pound;5,000 or more annually to the association;&quot;'.</p>
+	<p pid="a.588.7/27">Government amendment 100.</p>
+	<p pid="a.588.7/28">Amendment 128, in schedule 3, page 38, line 24, after '&pound;5,000', insert 'plus an annual upwards-only indexation allowance'.</p>
+	<p pid="a.588.7/29">Government amendment 101.</p>
+	<p pid="a.588.7/30">Amendment 129, in schedule 3, page 38, line 26, leave out '&pound;1,000' and insert</p>
+	<p pid="a.588.7/31">'&pound;3,000 plus an annual upwards-only indexation allowance'.</p>
+	<p pid="a.588.7/32">Government amendment 102.</p>
+	<p pid="a.588.7/33">Amendment 130, in schedule 3, page 38, line 30, after '&pound;5,000', insert 'plus an annual upwards-only indexation allowance'.</p>
+	<p pid="a.588.7/34">Government amendment 103.</p>
+	<p pid="a.588.7/35">Amendment 131, in schedule 3, page 38, line 32, leave out '&pound;1,000' and insert</p>
+	<p pid="a.588.7/36">'&pound;3,000 plus an annual upwards-only indexation allowance'.</p>
+	<p pid="a.588.7/37">Government amendment 104.</p>
+	<p pid="a.588.7/38">Amendment 132, in schedule 3, page 39, line 3, after '&pound;5,000', insert 'plus an annual upwards-only indexation allowance'.</p>
+	<p pid="a.588.7/39">Government amendment 105.</p>
+	<p pid="a.588.7/40">Amendment 133, in schedule 3, page 39, line 5, leave out '&pound;1,000' and insert</p>
+	<p pid="a.588.7/41">'&pound;3,000 plus an annual upwards-only indexation allowance'.</p>
+	<p pid="a.588.7/42">Government amendment 106.</p>
+	<p pid="a.588.7/43">Amendment 134, in schedule 3, page 40, line 18, after '&pound;5,000', insert 'plus an annual upwards-only indexation allowance'.</p>
+	<p pid="a.588.7/44">Government amendment 107.</p>
+	<p pid="a.588.7/45">Amendment 135, in schedule 3, page 40, line 23, after '&pound;5,000', insert 'plus an annual upwards-only indexation allowance'.</p>
+	<p pid="a.588.7/46">Government amendment 108.</p>
+	<p pid="a.588.7/47">Amendment 136, in schedule 3, page 40, line 36, after '&pound;5,000', insert 'plus an annual upwards-only indexation allowance'.</p>
+	<p pid="a.588.7/48">Government amendment 109.</p>
+	<p pid="a.588.7/49">Amendment 137, in schedule 3, page 42, line 2, after '&pound;5,000', insert 'plus an annual upwards-only indexation allowance'.</p>
+	<p pid="a.588.7/50">Government amendment 110.</p>
+	<p pid="a.588.7/51">Amendment 138, in schedule 3, page 42, line 7, after '&pound;5,000', insert 'plus an annual upwards-only indexation allowance'.</p>
+	<p pid="a.588.7/52">Government amendment 111.</p>
+	<p pid="a.588.7/53">Amendment 139, in schedule 3, page 42, line 20, after '&pound;5,000', insert 'plus an annual upwards-only indexation allowance'.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.590.0" newgid="uk.org.publicwhip/debate/2009-03-02b.590.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.590.1" newgid="uk.org.publicwhip/debate/2009-03-02b.590.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.590.2" newgid="uk.org.publicwhip/debate/2009-03-02b.590.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.591.0" newgid="uk.org.publicwhip/debate/2009-03-02b.591.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.591.1" newgid="uk.org.publicwhip/debate/2009-03-02b.591.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.591.2" newgid="uk.org.publicwhip/debate/2009-03-02b.591.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.591.3" newgid="uk.org.publicwhip/debate/2009-03-02b.591.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.591.3" speakerid="uk.org.publicwhip/member/1865" speakername="Michael Wills" colnum="591"  time="015:45:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0005.htm#0903027000553">
+	<p pid="a.591.3/1">I am grateful to the hon. Gentleman for his intervention and I am happy that he has put the record straight in the way that he has. However, I was saying that I thought that he had made an important point. Implicit in what he was saying was the need to strike a balance between transparency, which those in all parts of the House subscribe to as a fundamental principle in party funding, and not putting unreasonable burdens on the volunteer armies that sustain the activities of us all and on which our democracy depends. We have to strike that balance.</p>
+	<p pid="a.591.3/2">As I was saying, there has already been an increase since 2000 that would have been merited by inflation, but such an increase would not, on its own, account for the increases that we are suggesting. However, I want to stress one thing, before I deal with the substance of the amendments and the Government's response to the Opposition amendments. This Government are fundamentally committed to transparency. It is worth noting that the Bill before us makes important provisions to increase transparency. In particular, clause 8 and the Government amendments relating to unincorporated associations, which we will come to shortly, do a great deal to enhance transparency.</p>
+	<p pid="a.591.3/3">The increases in the thresholds in the 2000 Act should be considered in that context. We have proposed to increase the recordable threshold for recording donations, loans and other transactions from the current limit, relating to donations of more than &pound;200, to a new limit, relating to donations of more than &pound;500. As the House will know, the recordable threshold requires recipients to verify the permissibility of the donor and to keep their details.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.592.0" newgid="uk.org.publicwhip/debate/2009-03-02b.592.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.592.1" newgid="uk.org.publicwhip/debate/2009-03-02b.592.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.592.2" newgid="uk.org.publicwhip/debate/2009-03-02b.592.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.593.0" newgid="uk.org.publicwhip/debate/2009-03-02b.592.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.593.1" newgid="uk.org.publicwhip/debate/2009-03-02b.593.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.593.2" newgid="uk.org.publicwhip/debate/2009-03-02b.593.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.593.3" newgid="uk.org.publicwhip/debate/2009-03-02b.593.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.593.4" newgid="uk.org.publicwhip/debate/2009-03-02b.593.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.594.0" newgid="uk.org.publicwhip/debate/2009-03-02b.594.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.594.1" newgid="uk.org.publicwhip/debate/2009-03-02b.594.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.594.1" speakerid="uk.org.publicwhip/member/1865" speakername="Michael Wills" colnum="594"  time="015:45:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0005.htm#0903027000563">
+	<p pid="a.594.1/1">I think that the hon. Gentleman, who was a member of the Public Bill Committee, was present at the sittings where officers of both the Labour and Conservative parties&mdash;and, indeed, the Liberal Democrats&mdash;gave evidence about the dangers stemming from the excessive burdens of compliance on volunteers, on whom every party depends. I think that this is a matter of public record and of common sense; every Member knows about it from their own experience. We must be very careful. Throughout the lengthy Public Bill Committee stages, this issue came up over and over again, and it was raised by all parties. Broadly, there is, I think, a consensus. What we are debating is the fine detail of exactly where and how to strike this balance between transparency and excessive compliance. It is inevitably a judgment.</p>
+	<p pid="a.594.1/2">It might help <phrase class="honfriend" id="uk.org.publicwhip/member/2038" name="Bob Spink">the hon. Member for Castle Point (Bob Spink)</phrase> if I explained more about the difference between the recordable and the reportable threshold, so let me say a few words about that. The recordable threshold requires recipients to verify the permissibility of the donor and to keep details about it, but the information is not reported to the Electoral Commission unless, in aggregate, donations from the same donor exceed the reportable threshold in a calendar year. We believe that the burden for parties and others of keeping records of really quite small donations&mdash;those of &pound;500 or less&mdash;exceeds the benefits of verifying their source.</p>
+	<p pid="a.594.1/3">We also propose to increase the thresholds for reporting donations, loans or other regulated transactions to the Electoral Commission from the existing level of more than &pound;1,000 to more than &pound;1,500 and from the existing limit of more than &pound;5,000 to those with a value of more than &pound;7,500. We believe again that increases of that order are proportionate and that they strike the right balance between the transparency that everyone agrees is so necessary and the burden of compliance. A certain increase would have been merited by inflation, but we decided that to increase the thresholds by more than inflation alone was merited for precisely the reasons that I have set out in respect of recording donations, loans and other transactions.</p>
+	<p pid="a.594.1/4">Overall, the Bill's provisions will increase information in the public domain about significant political donations. In our view&mdash;it is our view&mdash;this is the key area of public interest, and the moderate increases in reportable thresholds should be considered in that context. I know that hon. Members have referred to percentage increases, but I think that this is one of the occasions where percentages can be misleading&mdash;more misleading than the numerical figures themselves. I hope the House will focus on the number of pounds involved rather than on the percentage increases. As I say, they may be misleading about the overall impact of these changes.</p>
+	<p pid="a.594.1/5">As with the other provisions in the Bill, the Government and I are determined that we move forward on those measures, which are aimed, as I say, at striking the right balance between transparency and the compliance burdens on party officials and other donees. We want to do that on the basis of a broad political consensus. I am open to views and further consideration as to the precise levels of the thresholds. I note that Conservative Members have tabled amendments relating to donation thresholds and will turn to those in a moment. I will be happy to give them further consideration, if that is the will of the majority of the House. I ask hon. Members to support new clause 19 and consequential amendments 94 to 111.</p>
+	<p pid="a.594.1/6">I want to discuss amendments (a) to (c) to new clause 19, and amendments 123 to 139, which were tabled by Conservative Members. Amendments 124, 125, 129,131 and 133 would increase the &pound;1,000 threshold set out in clause 8 and schedule 3 to &pound;3,000. That means that donations of more than &pound;3,000 to party accounting units and regulated donees, except members' associations, would have to be accompanied by a declaration as to the source of the donation. We understand that the intended effect would be to increase across the board the local reporting threshold for donations made to accounting units of parties to &pound;3,000. I am sure that Conservative Members will speak to their amendments shortly but, in doing so, I hope that they will correct me if I have misunderstood the purpose of their amendments.</p>
+	<p pid="a.594.1/7">The thresholds in clause 8 and schedule 3 mirror the thresholds for the reporting of donations, so that all donations that are reported to the Electoral Commission will be accompanied by declarations as to their source. We have therefore tabled amendments to increase that threshold to &pound;1,500, in line with new clause 19, which would increase the threshold above which party accounting units and regulated donees, except members' associations, must report donations to &pound;1,500.</p>
+	<p pid="a.594.1/8">We have believed that aligning the thresholds above which donations must be accompanied by declarations with the levels at which donations must be reported would provide clarity for recipients of donations. We think that having different thresholds could make the system unnecessarily complex. These proposals would set the reporting and declaration thresholds at different levels. That might be an unnecessary and unhelpful complication, although I understand that it might not be the intended effect. It might be that hon. Members are suggesting&mdash;again, I would be grateful for their correction if I have misunderstood&mdash;that the threshold for both reporting and declaration in relation to donations to party accounting units and regulated donees, except members' associations, should be &pound;3,000. <phrase class="honfriend" id="uk.org.publicwhip/member/1649" name="Jonathan Djanogly">The hon. Member for Huntingdon (Mr. Djanogly)</phrase> is nodding, so I think my understanding at that point is correct.</p>
+	<p pid="a.594.1/9">Increasing the threshold in such a way would undoubtedly be a significant change, but, having reflected, we are prepared to agree to it in principle&mdash;in the interests of consensus and on the ground that there is a judgment to be made here as to how best to strike the balance. We decided to strike it in one way; Opposition Members decided to strike it differently. In the interests of achieving consensus, we are prepared to concede the point. However, we see some problems with the proposals, and they reflect in particular the point about indexation.</p>
+	<p pid="a.594.1/10">Again, we understand what Conservative Members are trying to do with indexation. We want, as far as possible, to secure a consensus on these measures and we do not think it a fitting use of the House's time to keep returning to those issues. Some years, they will be overlooked, for whatever reason&mdash;pressures of business, perhaps, or other things might be happening. We may find ourselves again in the position that we are intoday, when the thresholds have not been examined for a long time. Some Members have drawn attention to the percentage increase, but in numerical terms the sums are relatively modest, and, as I have said, we think that the right balance has been struck.</p>
+	<p pid="a.594.1/11">We take the point that we think the Opposition are making&mdash;no doubt we shall hear from them shortly&mdash;about indexation and the need to provide some automaticity in the process. However, they are proposing a rather simple form of indexation. I am usually all in favour of simplicity, which has great merits, but in this instance the thresholds might become unbelievably complex. We might end up with pennies being added to them. I do not think that anyone wants a threshold of &pound;3,223.33, for example. That really would impose an unnecessary compliance burden.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.597.0" newgid="uk.org.publicwhip/debate/2009-03-02b.597.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.597.1" newgid="uk.org.publicwhip/debate/2009-03-02b.597.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.598.0" newgid="uk.org.publicwhip/debate/2009-03-02b.597.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.598.1" newgid="uk.org.publicwhip/debate/2009-03-02b.598.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.598.2" newgid="uk.org.publicwhip/debate/2009-03-02b.598.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.598.3" newgid="uk.org.publicwhip/debate/2009-03-02b.598.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.598.4" newgid="uk.org.publicwhip/debate/2009-03-02b.598.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.598.5" newgid="uk.org.publicwhip/debate/2009-03-02b.598.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.599.0" newgid="uk.org.publicwhip/debate/2009-03-02b.599.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.599.1" newgid="uk.org.publicwhip/debate/2009-03-02b.599.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.599.2" newgid="uk.org.publicwhip/debate/2009-03-02b.599.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.600.0" newgid="uk.org.publicwhip/debate/2009-03-02b.600.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.600.1" newgid="uk.org.publicwhip/debate/2009-03-02b.600.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.600.2" newgid="uk.org.publicwhip/debate/2009-03-02b.600.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.600.3" newgid="uk.org.publicwhip/debate/2009-03-02b.600.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.601.0" newgid="uk.org.publicwhip/debate/2009-03-02b.601.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.601.1" newgid="uk.org.publicwhip/debate/2009-03-02b.601.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.601.2" newgid="uk.org.publicwhip/debate/2009-03-02b.601.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.601.3" newgid="uk.org.publicwhip/debate/2009-03-02b.601.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.601.4" newgid="uk.org.publicwhip/debate/2009-03-02b.601.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.601.5" newgid="uk.org.publicwhip/debate/2009-03-02b.601.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.601.6" newgid="uk.org.publicwhip/debate/2009-03-02b.601.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.601.7" newgid="uk.org.publicwhip/debate/2009-03-02b.601.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.601.8" newgid="uk.org.publicwhip/debate/2009-03-02b.601.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.602.0" newgid="uk.org.publicwhip/debate/2009-03-02b.602.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.602.1" newgid="uk.org.publicwhip/debate/2009-03-02b.602.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.602.2" newgid="uk.org.publicwhip/debate/2009-03-02b.602.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.602.3" newgid="uk.org.publicwhip/debate/2009-03-02b.602.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.602.4" newgid="uk.org.publicwhip/debate/2009-03-02b.602.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.603.0" newgid="uk.org.publicwhip/debate/2009-03-02b.603.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.604.0" newgid="uk.org.publicwhip/debate/2009-03-02b.604.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.606.0" newgid="uk.org.publicwhip/debate/2009-03-02b.606.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.606.1" newgid="uk.org.publicwhip/debate/2009-03-02b.606.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.606.2" newgid="uk.org.publicwhip/debate/2009-03-02b.606.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.606.3" newgid="uk.org.publicwhip/debate/2009-03-02b.606.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.607.0" newgid="uk.org.publicwhip/debate/2009-03-02b.607.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.607.1" newgid="uk.org.publicwhip/debate/2009-03-02b.607.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.607.2" newgid="uk.org.publicwhip/debate/2009-03-02b.607.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.607.3" newgid="uk.org.publicwhip/debate/2009-03-02b.607.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.607.3" speakerid="uk.org.publicwhip/member/1649" speakername="Jonathan Djanogly" colnum="607"  time="016:45:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0007.htm#0903027000602">
+	<p pid="a.607.3/1">The hon. Gentleman has made his point, which is worth looking at. We would not be averse to debating his proposal along with others that will hopefully be considered in the context of the Government's response.</p>
+	<p pid="a.607.3/2">More specifically, an increase in the threshold would further emphasise the importance of catching the larger and more significant sums. Narrowing the ambit of the Bill would focus the commission on the more serious tasks that it faces, avoiding donors, local associations, volunteers and electoral commissioners being bogged down in misunderstandings and disputes over lesser sums.</p>
+	<p pid="a.607.3/3">The amendments would serve three connected purposes. First, they would reduce the administrative burden for donors and parties. Again, I remind hon. Members that the measure will place a significant obligation on a great number of donors. Secondly and simultaneously, an increased limit would emphasise the importance of declarations of larger donations. That would ensure that an appropriate level of scrutiny was applied to the more significant sums. Indeed, it is in relation to the larger sums that suspicious and offending activity is most likely to take place. Finally, an increased limit would remove the discouraging requirements in relation to smaller donations. Accordingly, fewer people donating at the very important grassroots level would feel exposed to the declarations regime and such people would therefore not be discouraged from giving.</p>
+	<p pid="a.607.3/4">We must avoid pushing interested persons further away from political engagement by importing complex legal requirements into the local party funding scheme. The wrong that the measure is intended to tackle is very far departed from the vast majority of scenarios involving sums under &pound;3,000. If we succumb to the temptation to over-regulate, we will succeed only in taking the political system further away from the general public. In this way, we will defeat some of the Bill's key goals in the process.</p>
+	<p pid="a.607.3/5">By tabling their own increases, the Government have shown that they support the principle behind increased thresholds. We therefore believe that the further increase introduced by our amendments would reinforce the theme of the Bill, rather than detract from it. The Minister's acknowledgement of the fairness of our &pound;3,000 proposal is welcome. In the light of his kind offer, we shall not press the amendment to a Division. We look forward to seeing the Government amendments in the other place. I take the Minister's point on certain technical issues that he mentioned, which his draftsmen will no doubt address in their drafting of his amendments.</p>
+	<p pid="a.607.3/6">As I stated, clause 8 creates a new responsibility for donors to political parties to declare any outside source of a donation. Although I repeat our support for the concept of transparency, there must be sensible limits in place to protect the vast majority of honest and genuine participants in the democratic process. The general impact of clause 8 could be costly in both time and money for parties locally. It is at this most fundamental and important level that such burdens are most heavily felt. Bearing in mind this negative potential, our amendment 121 seeks to provide a positive defence for those who have made an innocent mistake.</p>
+	<p pid="a.607.3/7">As we have emphasised throughout our deliberations, this is a complex Bill and it may prove easy to innocently fall foul of the law in PPERA. Even a brief review of the clause in relation to a declaration reveals the lack of certainty for a lay person&mdash;for example, the concept of &quot;value of the benefit&quot; and the provision of a benefit &quot;in connection with&quot; a donation. Although we do not dispute the need for such provisions, it is important to ensure that a positive defence is in place if the complex measures are unwittingly not complied with.</p>
+	<p pid="a.607.3/8">By including the commission in the process, amendment 121 looks to see that adequate and specialised scrutiny would be placed on any person who asserted the defence. By positively confirming that the defence exists, we can ensure that the Bill is in kilter with other legislation that creates criminal offences. It is important to remember that guilt of a criminal offence, with the obvious stigma attached, is at stake. As it stands, the drafting of proposed section 54A(6) to the 2000 Act does not adequately address our concerns. It merely states:</p>
+	<p pid="a.607.3/9" class="indent">&quot;A person who knowingly or recklessly makes a false declaration under this section commits an offence.&quot;</p>
+	<p pid="a.607.3/10">There is no confirmation that a person would not commit an offence in the case of an innocent mistake. From our perspective, the drafting of section 54A(5), as proposed in clause 8(2), is not sufficiently prescriptive in that respect. The Bill is silent, and might unfairly cast a doubt over the honesty of an innocent person. There may be a lack of clarity about how the law works in practice, especially when the legislation is first enacted. As such, it seems fair positively to provide a clear defence.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.608.0" newgid="uk.org.publicwhip/debate/2009-03-02b.608.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.609.0" newgid="uk.org.publicwhip/debate/2009-03-02b.609.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.609.1" newgid="uk.org.publicwhip/debate/2009-03-02b.609.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.609.2" newgid="uk.org.publicwhip/debate/2009-03-02b.609.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.610.0" newgid="uk.org.publicwhip/debate/2009-03-02b.610.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.610.1" newgid="uk.org.publicwhip/debate/2009-03-02b.610.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.610.1" speakerid="uk.org.publicwhip/member/1649" speakername="Jonathan Djanogly" colnum="610"  time="016:45:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0008.htm#0903027000608">
+	<p pid="a.610.1/1">I am thankful to the Minister for putting the record straight. That makes it more important that we request a Division on amendment 121.</p>
+	<p pid="a.610.1/2">Amendment 122 would change the requirement for a declaration under new section 54A(1) to be made</p>
+	<p pid="a.610.1/3" class="indent">&quot;to the best of the individual's knowledge and belief&quot;</p>
+	<p pid="a.610.1/4">by inserting a less oppressive requirement of &quot;reasonable&quot; knowledge. As it stands, the Bill imposes a considerable obligation on the donor by requiring them to apply the highest level of their knowledge and belief in stating whether subsection (2) applies. Subsection (2) applies if another person has provided the donor with money or another benefit in excess of the threshold in subsection (2)(b). It therefore has two layers: the fact of the provision and the value of the provision. In the case of the latter, subsection (2)(b) applies if the &quot;value of the benefit&quot; exceeds the threshold. Satisfying that requirement could be especially difficult. Likewise, it may be equally tough to apply one's best knowledge in deciding whether another person has provided a benefit</p>
+	<p pid="a.610.1/5" class="indent">&quot;in connection with the making of the donation&quot;.</p>
+	<p pid="a.610.1/6">That is emphasised by the lack of an obligation in the Bill for the commission to provide guidance on valuing benefits, so the potential to catch out honest donors is considerable. The provision implies that the person must use all efforts to ascertain whether a vague link or high value of an obscure benefit requires a declaration. When we consider the sanction for failure in this respect, we see that that is a tough standard to satisfy.</p>
+	<p pid="a.610.1/7">In short, the provision can serve only to discourage donations and engagement with the political system. I remind the Minister that he accepted the principle at stake in Committee, where he said:</p>
+	<p pid="a.610.1/8" class="indent">&quot;Of course reasonableness is important. For instance, when someone is required to give an opinion it should be a reasonable one.&quot;<i> &mdash;&mdash;</i>[<i> Official Report, Political Parties and Elections Public Bill Committee, </i><phrase class="date" code="2008-11-20">20 November 2008</phrase>; c. 371.]</p>
+	<p pid="a.610.1/9">That being the case, why not incorporate it clearly in the Bill? This requirement is oppressive and potentially counter-productive in terms of the wider goals of the legislation. Our amendment seeks to temper the Bill and bring it into line with the mutual expectation that reasonableness, rather than best knowledge, is the correct requirement in these circumstances.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.611.0" newgid="uk.org.publicwhip/debate/2009-03-02b.611.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.611.1" newgid="uk.org.publicwhip/debate/2009-03-02b.611.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.611.1" speakerid="uk.org.publicwhip/member/1649" speakername="Jonathan Djanogly" colnum="611"  time="016:45:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0008.htm#0903027000610">
+	<p pid="a.611.1/1">My hon. Friend makes an interesting and valid point that I hope will be taken on board and considered by the Minister as he reviews the clause as a whole.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.611.2" newgid="uk.org.publicwhip/debate/2009-03-02b.611.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.611.3" newgid="uk.org.publicwhip/debate/2009-03-02b.611.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.611.3" speakerid="uk.org.publicwhip/member/1649" speakername="Jonathan Djanogly" colnum="611"  time="016:45:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0008.htm#0903027000612">
+	<p pid="a.611.3/1">The hon. Gentleman may have a point. We presented two defences that need to be reviewed, and perhaps they are not as connected as they should be&mdash;something that we can review. He agreed conceptually with one of the defences that I advanced, and found interest in the other one as well, so we are talking along the same lines to a great extent. I agree that we would want to look at amendment 122 further as we moved on to the later stages, and that will be done in the other place.</p>
+	<p pid="a.611.3/2">Amendment 8 was tabled by <phrase class="honfriend" id="uk.org.publicwhip/member/1671" name="Fabian Hamilton">the hon. Member for Leeds, North-East (Mr. Hamilton)</phrase>. It would require future donation and transaction reports published pursuant to section 62 of PPERA which relate to a relevant donation by an unincorporated association to include the names and addresses of all donors donating &pound;5,000 or more to that unincorporated association, and the names and addresses of all of the members of that association. Essentially, it is a look-through provision in respect of which we agree with the Electoral Commission; it is too widely drawn, such that is onerous and disproportionate. I do not want to spend too long on it because it has been effectively superseded by Government new clause 20, which we will come to in a later grouping.</p>
+	<p pid="a.611.3/3">Finally, I address our amendments 123, 126, 127, 128, 130, 132, 134, 135, 136, 137, 138 and 139, which all provide for indexation of the remaining threshold sums. As I said, we believe that they are important provisions that will ensure that inflation does not leave the thresholds at an excessively low real level, and that the figures will increase in line with inflation. Some have said that they do not like the proposals or that there is no practical need for them for various reasons, including that section 155 of the 2000 Act already allows the Government to increase thresholds to reflect changes in the value of money. That is all very well in theory, but in practice, Parliament will have other things to do than reconsider those figures annually. That is why such provisions should go into the Bill, and why we were happy to hear from the Minister that that point has been conceded by the Government. We look forward to receiving his amendments during further stages in the other place; I also appreciate his point about the need for a rounding figure to keep the figures clear and unconfusing. We will be open-minded on how such a provision is best put into effect.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.612.0" newgid="uk.org.publicwhip/debate/2009-03-02b.612.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.612.1" newgid="uk.org.publicwhip/debate/2009-03-02b.612.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.612.2" newgid="uk.org.publicwhip/debate/2009-03-02b.612.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.613.0" newgid="uk.org.publicwhip/debate/2009-03-02b.613.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.613.1" newgid="uk.org.publicwhip/debate/2009-03-02b.613.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.614.0" newgid="uk.org.publicwhip/debate/2009-03-02b.614.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.614.1" newgid="uk.org.publicwhip/debate/2009-03-02b.614.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.614.2" newgid="uk.org.publicwhip/debate/2009-03-02b.614.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.615.0" newgid="uk.org.publicwhip/debate/2009-03-02b.615.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.615.1" newgid="uk.org.publicwhip/debate/2009-03-02b.615.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.615.2" newgid="uk.org.publicwhip/debate/2009-03-02b.615.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.616.0" newgid="uk.org.publicwhip/debate/2009-03-02b.616.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.616.1" newgid="uk.org.publicwhip/debate/2009-03-02b.616.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.616.2" newgid="uk.org.publicwhip/debate/2009-03-02b.616.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.616.3" newgid="uk.org.publicwhip/debate/2009-03-02b.616.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.616.3" speakerid="uk.org.publicwhip/member/1503" speakername="Mark Field" colnum="616"  time="017:15:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0009.htm#0903027000625">
+	<p pid="a.616.3/1">I am listening with great interest to what the hon. Gentleman has to say. Given his concern in relation to the perception that big money, as he puts it, is buying influence, why set the cap at &pound;50,000? Surely it should be considerably lower, although the great British public at large would think even such a sum one that could influence decision making or give access to politicians.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.617.0" newgid="uk.org.publicwhip/debate/2009-03-02b.617.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.617.1" newgid="uk.org.publicwhip/debate/2009-03-02b.617.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.617.2" newgid="uk.org.publicwhip/debate/2009-03-02b.617.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.617.3" newgid="uk.org.publicwhip/debate/2009-03-02b.617.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.617.4" newgid="uk.org.publicwhip/debate/2009-03-02b.617.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.618.0" newgid="uk.org.publicwhip/debate/2009-03-02b.618.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.618.1" newgid="uk.org.publicwhip/debate/2009-03-02b.618.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.618.2" newgid="uk.org.publicwhip/debate/2009-03-02b.618.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.618.3" newgid="uk.org.publicwhip/debate/2009-03-02b.618.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.618.4" newgid="uk.org.publicwhip/debate/2009-03-02b.618.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.619.0" newgid="uk.org.publicwhip/debate/2009-03-02b.619.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.619.1" newgid="uk.org.publicwhip/debate/2009-03-02b.619.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.619.2" newgid="uk.org.publicwhip/debate/2009-03-02b.619.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.619.3" newgid="uk.org.publicwhip/debate/2009-03-02b.619.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.619.4" newgid="uk.org.publicwhip/debate/2009-03-02b.619.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.619.5" newgid="uk.org.publicwhip/debate/2009-03-02b.619.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.620.0" newgid="uk.org.publicwhip/debate/2009-03-02b.620.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.620.1" newgid="uk.org.publicwhip/debate/2009-03-02b.620.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.621.0" newgid="uk.org.publicwhip/debate/2009-03-02b.621.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.621.1" newgid="uk.org.publicwhip/debate/2009-03-02b.621.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.621.2" newgid="uk.org.publicwhip/debate/2009-03-02b.621.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.622.0" newgid="uk.org.publicwhip/debate/2009-03-02b.622.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.622.1" newgid="uk.org.publicwhip/debate/2009-03-02b.622.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.622.2" newgid="uk.org.publicwhip/debate/2009-03-02b.622.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.622.3" newgid="uk.org.publicwhip/debate/2009-03-02b.622.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.622.4" newgid="uk.org.publicwhip/debate/2009-03-02b.622.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.623.0" newgid="uk.org.publicwhip/debate/2009-03-02b.623.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.623.1" newgid="uk.org.publicwhip/debate/2009-03-02b.623.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.623.2" newgid="uk.org.publicwhip/debate/2009-03-02b.623.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.623.3" newgid="uk.org.publicwhip/debate/2009-03-02b.623.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.623.4" newgid="uk.org.publicwhip/debate/2009-03-02b.623.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.623.5" newgid="uk.org.publicwhip/debate/2009-03-02b.623.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.623.6" newgid="uk.org.publicwhip/debate/2009-03-02b.623.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.624.0" newgid="uk.org.publicwhip/debate/2009-03-02b.624.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.624.1" newgid="uk.org.publicwhip/debate/2009-03-02b.624.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.624.2" newgid="uk.org.publicwhip/debate/2009-03-02b.624.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.624.3" newgid="uk.org.publicwhip/debate/2009-03-02b.624.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.624.4" newgid="uk.org.publicwhip/debate/2009-03-02b.624.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.625.0" newgid="uk.org.publicwhip/debate/2009-03-02b.625.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.625.1" newgid="uk.org.publicwhip/debate/2009-03-02b.625.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.625.1" speakerid="uk.org.publicwhip/member/1423" speakername="Jack Straw" colnum="625"  time="017:45:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0010.htm#09030219000052">
+	<p pid="a.625.1/1">I agree with that, and there is a nice paradox, which I am sure political scientists will exercise themselves in exploring in years to come: the more, quite properly, the public know about our activities, the less they appear to like them, even if they are entirely legitimate and above board. I think that Members will be aware of the very nice passage in Roy Jenkins's biography of Churchill, in which he records all the money Winston Churchill hoovered up from various nefarious sources, and suggests, with good evidence, that Churchill's career would never have got to the starting line had the degree of undue influence to which he was subject, and the extent of the donations that would now be regarded as wholly unacceptable, come out publicly. My right hon. Friend is absolutely right in what she says. There was a logical flaw in what <phrase class="honfriend" id="uk.org.publicwhip/member/1473" name="David Howarth">the hon. Member for Cambridge (David Howarth)</phrase> was arguing: there is a balance to be achieved between transparency and complexity and artificiality, and the more there is the</p>
+	<p pid="a.625.1/2" class="indent">&quot;panoply of rules and bureaucracy&quot;</p>
+	<p pid="a.625.1/3">to which the Neill committee referred, the less likely there is to be true transparency, and the more likely there is simply to be avoidance.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.626.0" newgid="uk.org.publicwhip/debate/2009-03-02b.626.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.626.1" newgid="uk.org.publicwhip/debate/2009-03-02b.626.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.626.2" newgid="uk.org.publicwhip/debate/2009-03-02b.626.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.627.0" newgid="uk.org.publicwhip/debate/2009-03-02b.627.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.627.0" speakerid="uk.org.publicwhip/member/1423" speakername="Jack Straw" colnum="627"  time="018:00:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0010.htm#09030219000056">
+	<p pid="a.627.0/1">As I say, my starting point has always been the position that was taken by Neill and by my party, and by the Conservative party, its Front-Bench spokesman, the shadow Home Secretary and a panoply of Conservative Uncle Tom Cobleys, who all said that they are not so keen on donation limits, for perfectly sound reasons. What we were involved with at the same time as Hayden Phillips&mdash;the hon. Member for Hornchurch will recall that the interim report was published in October 2006&mdash;was seeking a compromise with the other parties. We were not so keen on donation limits, but we were keen on spending limits&mdash;I have always been keen on those&mdash;and other parties were keen on other elements of this, and we came together to agree what I thought was a comprehensive package. Inevitably, in a negotiation, for a greater good, both for oneself and the purpose being served by the negotiation, one gets some things one wants and one has to accept some things one does not want&mdash;there has never been any dubiety about that.</p>
+	<p pid="a.627.0/2">When Hayden Phillips reported on <phrase class="date" code="2007-03-15">15 March 2007</phrase>, he said:</p>
+	<p pid="a.627.0/3" class="indent">&quot;In this chapter&quot;&mdash;</p>
+	<p pid="a.627.0/4">chapter 5&mdash;</p>
+	<p pid="a.627.0/5" class="indent">&quot;I recommend that the time is now right to introduce a higher level of public funding for political parties.&quot;</p>
+	<p pid="a.627.0/6">He set out a number of reasons, all of which the hon. Member for Cambridge appeared to dismiss. Sir Hayden stated:</p>
+	<p pid="a.627.0/7" class="indent">&quot;First, other measures proposed in this report would impose significant restrictions on the parties' freedom to raise their own funds, and new obligations in terms of compliance and reporting. These measures are in the public interest, and it is fair and reasonable to use public funds to help offset their financial impact.</p>
+	<p pid="a.627.0/8" class="indent">Second, our political parties all face long-term financial instability because of the rising costs of their business, and it is this which has prompted them to follow the trend among large non-profit making groups to pursue large donations from wealthy individuals and organisations. Financial instability is the enemy of healthy politics, and an injection of public funds is merited if we are to maintain public confidence in our democracy.</p>
+	<p pid="a.627.0/9" class="indent">Third, there is a widely discussed and lamented decline in democratic engagement in this country, manifested in falling election turnouts and falling party membership rolls. Properly targeted, public funding can make some contribution to reinvigorating the parties' drive to involve and engage more members of the public in political debate.&quot;</p>
+	<p pid="a.627.0/10">As I said to the hon. Member for Hornchurch, everybody accepted that in the spirit of compromise.</p>
+	<p pid="a.627.0/11">Hayden Phillips reflected those principles in his proposals at the end of July. It is simply inaccurate for the hon. Member for Cambridge to assert, as he did in his speech, that Hayden Phillips did not make specific proposals on party funding, because he did so in his report in March and again in the draft all-party agreement. The Liberal Democrats and the Labour party had initialled it but, for reasons that we need not go into at length, the Conservative party was unable to support it.</p>
+	<p pid="a.627.0/12">The agreement contained a great chunk on public funding with two linked schemes, stating:</p>
+	<p pid="a.627.0/13" class="indent">&quot;Two new schemes for public funding of political parties will be introduced&quot;.</p>
+	<p pid="a.627.0/14">It did not say &quot;could&quot; be introduced; it is explicit on the point, which is repeated in the annex to the White Paper on party funding that I published last June as a precursor to this Bill. The truth is that unless one is willing to accept gratuitously a major shortfall in party funding, one cannot<i> &mdash;[Interruption.]</i> The extent to which this would fall on one party as opposed to another depends on where one sets the limit, but it would never have an equal effect on all three parties, or even on the two main parties; at some levels it would hurt the Conservative party more than the Labour party and at other levels the opposite would be the case. I admire the way in which the hon. Member for Cambridge, in a spirit of alleged liberal non-partisanship, says that the Liberal Democrats will not be affected and that the fact that the Conservatives and Labour party will between them lose about &pound;5 million or &pound;6 million is neither here or there, because they would just cut their spending, thank you very much. That is not the way to achieve a consensus.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.628.0" newgid="uk.org.publicwhip/debate/2009-03-02b.628.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.628.1" newgid="uk.org.publicwhip/debate/2009-03-02b.628.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.628.2" newgid="uk.org.publicwhip/debate/2009-03-02b.628.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.629.0" newgid="uk.org.publicwhip/debate/2009-03-02b.629.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.629.1" newgid="uk.org.publicwhip/debate/2009-03-02b.629.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.629.2" newgid="uk.org.publicwhip/debate/2009-03-02b.629.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.629.2" speakerid="uk.org.publicwhip/member/1423" speakername="Jack Straw" colnum="629"  time="018:15:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0011.htm#09030219000062">
+	<p pid="a.629.2/1">First, the hon. Gentleman knows very well that there is not a shred of evidence in those allegations. Secondly, to the extent that the public know about donations, they do so because of legislation that we introduced. Unless there were good reasons for introducing donation caps, they would lead to less transparency, not more. That is not just my argument, or the Conservative party's. It was made, independently, by the Neill committee. Thirdly, if the hon. Gentleman wants donation caps, he will have to explain to Scottish electors why their taxes should be increased to pay for political parties. Finally, it is an insult to donors small and large to all political parties to suggest, imply or insinuate that the overwhelming majority do it to curry favour or to buy advantage. They do not. They do it because&mdash;and this may be a surprise to the SNP, which only has one, negative policy&mdash;they believe in the values of the party.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.630.0" newgid="uk.org.publicwhip/debate/2009-03-02b.630.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.630.1" newgid="uk.org.publicwhip/debate/2009-03-02b.630.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.630.2" newgid="uk.org.publicwhip/debate/2009-03-02b.630.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.631.0" newgid="uk.org.publicwhip/debate/2009-03-02b.631.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.632.0" newgid="uk.org.publicwhip/debate/2009-03-02b.632.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.632.1" newgid="uk.org.publicwhip/debate/2009-03-02b.632.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.633.0" newgid="uk.org.publicwhip/debate/2009-03-02b.633.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.634.0" newgid="uk.org.publicwhip/debate/2009-03-02b.634.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.635.0" newgid="uk.org.publicwhip/debate/2009-03-02b.635.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.635.1" newgid="uk.org.publicwhip/debate/2009-03-02b.635.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.635.1" speakerid="uk.org.publicwhip/member/1498" speakername="Andrew Tyrie" colnum="635"  time="018:30:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0012.htm#09030227000036">
+	<p pid="a.635.1/1">I am happy to support motions to concentrate minds, but I get wary about supporting fundamental new clauses when they are intended to act as itching powder. However, I understand the sentiment behind the hon. Gentleman's intervention, and I hope that we will make some progress on this issue before long.</p>
+	<p pid="a.635.1/2">For the avoidance of doubt, let me conclude my point about Labour and affiliation fees. It should not be in anyone's interests&mdash;indeed, it would not be in the Conservative party's interests&mdash;to bankrupt the Labour party, and I am sure that that is not what the hon. Member for Cambridge would want to achieve. In the long run, however, cash raised locally from local party activism must be allowed to influence outcomes. The idea that there should always be a level playing field with the same amount spent in every area must be wrong. If we are to encourage and revive genuine local party grassroots activism in British politics, it must be right that different parts of the country, and different constituencies, should have widely different levels of spending. That is why, quite apart from the administrative impossibility, local caps on spending are a non-starter. A global cap of some sort is the way forward. I might initially have been prepared to recommend something that would be unfair on Labour if I thought that Labour Members were going to start responding in a positive way, but I see absolutely no sign of that.</p>
+	<p pid="a.635.1/3">We have to be cautious, but in doing so we must keep thinking about what measures are required that will command public confidence. Most of us agree&mdash;I sometimes wondered during the Lord Chancellor's speech, however&mdash;that we do not have that confidence now. The Conservatives set out three principles that should govern how to establish such confidence&mdash;<i> [</i><i> Interruption.</i><i> ]</i> I will not go through them in detail, in response to the comment by my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/1370" name="Richard Shepherd">the Member for Aldridge-Brownhills (Mr. Shepherd)</phrase>, but if he reads page 3 of the proposals, he will see that a cap is an essential element.</p>
+	<p pid="a.635.1/4">When the Conservatives get back into office, we will do absolutely everything to seek consensus on this issue, with the objective of restoring trust. Equally, however, we cannot leave this matter at the mercy of an indefinite veto on any meaningful change by any one party. That is why, while not supporting new clause 1, I am confident that my party in government will look to a donations cap as the way forward. As this debate progresses in the country, and as the degeneration of respect for parties proceeds&mdash;as I predict that it will unless we take action&mdash;the pressure will reach a point whereby even the Labour party will be prepared to come seriously to the negotiating table to discuss a change in the relationship between it and the trade unions with regard to affiliation fees.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.636.0" newgid="uk.org.publicwhip/debate/2009-03-02b.636.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.636.0" speakerid="uk.org.publicwhip/member/1370" speakername="Richard Shepherd" colnum="636"  time="018:30:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0012.htm#09030234000392">
+	<p pid="a.636.0/1">I am only surprised that the proposed cap in the new clause is so large. If I look back over what has happened to politics in my time in this House, certainly over the past 15 years, I see, election by election, a decline in voters' attention to a fundamental necessity in their lives&mdash;the political process. If donations can be allowed to be so large, that makes things unequal because, naturally and understandably, it is an obvious observation that political parties become very interested in the large donor and let go of the little donor. As a consequence of that detachment from political processes over the years, revenues at local level have fallen and political parties are contracting. In many constituencies, parties are shadow organisations with very few members exercising, for instance, choice over who should be the candidate. Big donations have enabled the centralisation of political choices through party headquarters. The parties in London seek to garner all this money, so they run campaigns aggrandising the centre, but the vitality of the political history of this country comes from the grassroots. All the great movements that have swept this country, including the extension of suffrage, were intensely public, popular movements supported by the many, not the few.</p>
+	<p pid="a.636.0/2">If I have a criticism of the proposal, it is not of the intent behind it, but let us stand back from Hayden Phillips, and the new spokesman for the Conservative party&mdash;I thought that they normally sat on the Front Bench&mdash;who expressed views to which I could not sign up. We used to have an expression in this country: &quot;You cut your coat according to your cloth.&quot; Political parties are bypassing that by seeking very large donations that will determine the future of our political processes from the centre, whereas I profoundly believe that constituency parties from each part of this kingdom are the dynamic that should determine what it is we are about.</p>
+	<p pid="a.636.0/3">I support the new clause, although the cap is set much too high. I also dislike the idea of state funding beyond what we have now, which is far too gross. To think that we can only fight an election with &pound;15 million or &pound;20 million, which requires large donations or, as a substitute, the poor, oppressed taxpayer having to reach into their pockets. The process by which we are trying to determine an ideal or a principle has not been gone about in the right way. Parties should run on the small donations that they can raise. Someone mentioned what Barack Obama had succeeded in achieving through new communications&mdash;although those communications are well beyond my pay grade. If one has a cause and stands for something, one can reach the people in this country. I want local constituency parties, and therefore constituencies, to have the opportunity to choose and determine for themselves who their candidate should be, rather than for that person to be selected from the centre, because of money.</p>
+	<p pid="a.636.0/4">For all the havering that I have heard, I shall support the Liberal amendment as a matter of principle: we need any measure that can reduce the interest shown in the multi-millionaire, the billionaire or the individual who can contribute &pound;50,000. That is not representative of the nation as a whole.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.637.0" newgid="uk.org.publicwhip/debate/2009-03-02b.637.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.637.1" newgid="uk.org.publicwhip/debate/2009-03-02b.637.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.638.0" newgid="uk.org.publicwhip/debate/2009-03-02b.638.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.638.1" newgid="uk.org.publicwhip/debate/2009-03-02b.638.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.638.1" nospeaker="true" colnum="638"  time="018:45:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0012.htm#09030234000391">
+	<p pid="a.638.1/1">Question accordingly negatived.</p>
+	<p pid="a.638.1/2" class="italic"> Proceedings interrupted (Programme Order, <phrase class="date" code="2009-02-09">9 February</phrase>).</p>
+	<p pid="a.638.1/3" class="italic"> The Deputy Speaker put forthwith the Questions necessary for the disposal of the business to be concluded at that time (Programme Order, <phrase class="date" code="2009-02-09">9 February</phrase>, and <phrase class="standing-order" code="83E">Standing Order No. 83E</phrase>).</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.641.0" newgid="uk.org.publicwhip/debate/2009-03-02b.641.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.641.1" newgid="uk.org.publicwhip/debate/2009-03-02b.641.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.641.2" newgid="uk.org.publicwhip/debate/2009-03-02b.641.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.641.3" newgid="uk.org.publicwhip/debate/2009-03-02b.641.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.645.0" newgid="uk.org.publicwhip/debate/2009-03-02b.645.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.645.1" newgid="uk.org.publicwhip/debate/2009-03-02b.645.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.646.0" newgid="uk.org.publicwhip/debate/2009-03-02b.646.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.646.1" newgid="uk.org.publicwhip/debate/2009-03-02b.646.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.647.0" newgid="uk.org.publicwhip/debate/2009-03-02b.647.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.647.1" newgid="uk.org.publicwhip/debate/2009-03-02b.647.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.647.2" newgid="uk.org.publicwhip/debate/2009-03-02b.647.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.647.3" newgid="uk.org.publicwhip/debate/2009-03-02b.647.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.647.4" newgid="uk.org.publicwhip/debate/2009-03-02b.647.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.647.5" newgid="uk.org.publicwhip/debate/2009-03-02b.647.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.651.0" newgid="uk.org.publicwhip/debate/2009-03-02b.651.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.651.1" newgid="uk.org.publicwhip/debate/2009-03-02b.651.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.651.2" newgid="uk.org.publicwhip/debate/2009-03-02b.651.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.651.3" newgid="uk.org.publicwhip/debate/2009-03-02b.651.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.652.0" newgid="uk.org.publicwhip/debate/2009-03-02b.652.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.652.1" newgid="uk.org.publicwhip/debate/2009-03-02b.652.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.653.0" newgid="uk.org.publicwhip/debate/2009-03-02b.653.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.653.1" newgid="uk.org.publicwhip/debate/2009-03-02b.653.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.653.2" newgid="uk.org.publicwhip/debate/2009-03-02b.653.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.653.2" speakerid="uk.org.publicwhip/member/1865" speakername="Michael Wills" colnum="653"  time="019:10:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0014.htm#09030242000138">
+	<p pid="a.653.2/1">These new clauses form an important part of our plans to transform electoral administration. It is significant and complex, so I hope the House will bear with me as I set out first the context of the new clauses, which I hope will assist the House in forming a judgment, before turning to deal with the details. In Public Bill Committee, we discussed&mdash;and, it is fair to say, we all agreed&mdash;that democracy is undermined when significant numbers of people are not able to participate in elections because they are not registered to do so. Registration is the source from which democratic participation flows. Those who are not registered are denied that participation, so we must all be concerned that it has been estimated that more than 3 million eligible people are not able to vote in this country because they are not registered.</p>
+	<p pid="a.653.2/2">That is not acceptable&mdash;I hope we can all agree on that&mdash;and I hope we can agree that particular effort needs to be directed at registering voters in those groups who appear to be most at risk of not being registered. I hope that we can also all agree that the steps taken to tackle that problem must be on the basis of a level playing field for all democratic political parties. Anything that undermines that principle is partisan and risks illegitimacy. We must constantly strive to ensure that the register is as comprehensive as is reasonably possible, on the basis of a level playing field. That is one fundamental principle of electoral registration. The other such fundamental principle is that the register must be as accurate as possible.</p>
+	<p pid="a.653.2/3">I am going to assume that if I say anything about these fundamental principles with which Opposition Members disagree, they will intervene to tell me. Otherwise, I shall assume that they agree with the fundamental principles that I am setting out. Indeed, I would be surprised if they did not.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.653.3" newgid="uk.org.publicwhip/debate/2009-03-02b.653.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.653.4" newgid="uk.org.publicwhip/debate/2009-03-02b.653.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.653.5" newgid="uk.org.publicwhip/debate/2009-03-02b.653.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.654.0" newgid="uk.org.publicwhip/debate/2009-03-02b.654.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.654.1" newgid="uk.org.publicwhip/debate/2009-03-02b.654.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.654.2" newgid="uk.org.publicwhip/debate/2009-03-02b.654.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.655.0" newgid="uk.org.publicwhip/debate/2009-03-02b.655.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.655.1" newgid="uk.org.publicwhip/debate/2009-03-02b.655.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.656.0" newgid="uk.org.publicwhip/debate/2009-03-02b.656.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.656.1" newgid="uk.org.publicwhip/debate/2009-03-02b.656.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.656.2" newgid="uk.org.publicwhip/debate/2009-03-02b.656.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.656.3" newgid="uk.org.publicwhip/debate/2009-03-02b.656.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.656.4" newgid="uk.org.publicwhip/debate/2009-03-02b.656.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.656.5" newgid="uk.org.publicwhip/debate/2009-03-02b.656.5" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.656.5" speakerid="uk.org.publicwhip/member/1865" speakername="Michael Wills" colnum="656"  time="019:30:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0015.htm#09030242000152">
+	<p pid="a.656.5/1">That is an important point. There are significant variations throughout the country, and some areas find it much more difficult than others to achieve satisfactory levels of registration. Places such as Cambridge may be relatively advantaged socially and economically, but may have other problems because of the massive churn of the population. Other areas may have difficulties caused by large numbers of people living in houses of multiple occupation. Every area has specific problems. What we cannot accept is that any of those problems constitute excuses for anything other than the utmost effort to ensure that the register is as full as possible.</p>
+	<p pid="a.656.5/2">We have taken important steps and they are beginning to pay dividends, but we can do more. We propose to take three further steps. Electoral registration officers in areas where there is one tier of local government can already gain access to data held by education departments and social services which help them to maintain and enhance their registers, but that is not the case in two-tier areas. We therefore intend to introduce secondary legislation under powers 2006 Act to enable EROs in areas with two tiers of local government to access data held by the higher tier, to help them to target individuals who are not registered and check the accuracy of their registers. That will help them to identify, for example, young people attaining the age at which they can vote and persons in care homes, all of whom have a right to vote but many of whom may not be registered.</p>
+	<p pid="a.656.5/3">We also want to ensure that electoral registration officers are fully aware of all the steps that they can take to improve the register. We intend to make clear in legislation that the section 9 duty imposed by the 2006 Act applies throughout the year, not just during the annual canvass period. We know that some officers conduct mini-canvasses outside the main annual canvass period to increase registration rates in areas where they are low. We want all EROs to undertake similar activities where necessary, and to do so throughout the year. That will challenge them, but it will assist them as well. It will challenge them to do more, but we believe that it will also assist them by clarifying what is expected of them.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.657.0" newgid="uk.org.publicwhip/debate/2009-03-02b.657.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.657.1" newgid="uk.org.publicwhip/debate/2009-03-02b.657.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.658.0" newgid="uk.org.publicwhip/debate/2009-03-02b.658.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.658.1" newgid="uk.org.publicwhip/debate/2009-03-02b.658.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.658.2" newgid="uk.org.publicwhip/debate/2009-03-02b.658.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.658.3" newgid="uk.org.publicwhip/debate/2009-03-02b.658.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.658.4" newgid="uk.org.publicwhip/debate/2009-03-02b.658.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.658.5" newgid="uk.org.publicwhip/debate/2009-03-02b.658.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.659.0" newgid="uk.org.publicwhip/debate/2009-03-02b.659.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.659.1" newgid="uk.org.publicwhip/debate/2009-03-02b.659.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.659.1" speakerid="uk.org.publicwhip/member/1865" speakername="Michael Wills" colnum="659"  time="019:45:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0015.htm#09030242000162">
+	<p pid="a.659.1/1">If the intervention is about data protection principles, perhaps the hon. Gentleman will be a little patient as I shall come to those when I have finished outlining what the scheme is. Everyone will then be a little wiser&mdash;although perhaps only a little.</p>
+	<p pid="a.659.1/2">As I have said, the data-matching schemes will operate on a pilot basis. The local authorities participating will be selected through an open and transparent process involving the Electoral Commission as well as the Ministry of Justice, and there will be a set of criteria for the electoral registration officers who participate. We intend to publish details of the process before the summer recess. I am keen to ensure that Members on both sides of the House have the opportunity to contribute to the design of the process, and I will consult the parties before that point. In doing so, as I hope it is recognised we have tried to do throughout the passage of the Bill, we shall seek consensus.</p>
+	<p pid="a.659.1/3">The clauses require the Electoral Commission to conduct a review of each pilot and publish a report on its findings. We believe that the pilots will help us all to understand what information would be useful to electoral registration officers in maintaining the accuracy and comprehensiveness of their registers. They will also identify which data-matching schemes would help to secure registration rates when we move to a system of individual registration in Great Britain.</p>
+	<p pid="a.659.1/4">We are absolutely clear that any data matching must be carefully controlled and scrutinised. What we are proposing is not new. Both the overall approach and the provisions are closely modelled on provisions that Parliament approved in 2006 for application in Northern Ireland. I shall spell out the safeguards that will apply.</p>
+	<p pid="a.659.1/5">The clauses themselves set out explicitly the purposes for which the data supplied must be used by an electoral registration officer. Only data relevant to electoral registration may be provided by the public authority.</p>
+	<p pid="a.659.1/6">The public authority providing an electoral registration officer with data would be consulted on the release of information, and proper safeguards would be put in place in each order to ensure compliance with the Data Protection Act 1998. Each order putting in place a data-matching scheme would be subject to the affirmative resolution procedure, giving the House the opportunity to determine whether it was acceptable to proceed.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.659.2" newgid="uk.org.publicwhip/debate/2009-03-02b.659.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.660.0" newgid="uk.org.publicwhip/debate/2009-03-02b.660.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.660.1" newgid="uk.org.publicwhip/debate/2009-03-02b.660.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.660.2" newgid="uk.org.publicwhip/debate/2009-03-02b.660.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.660.3" newgid="uk.org.publicwhip/debate/2009-03-02b.660.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.660.4" newgid="uk.org.publicwhip/debate/2009-03-02b.660.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.660.5" newgid="uk.org.publicwhip/debate/2009-03-02b.660.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.660.6" newgid="uk.org.publicwhip/debate/2009-03-02b.660.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.660.7" newgid="uk.org.publicwhip/debate/2009-03-02b.660.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.660.8" newgid="uk.org.publicwhip/debate/2009-03-02b.660.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.661.0" newgid="uk.org.publicwhip/debate/2009-03-02b.661.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.661.1" newgid="uk.org.publicwhip/debate/2009-03-02b.661.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.661.2" newgid="uk.org.publicwhip/debate/2009-03-02b.661.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.661.3" newgid="uk.org.publicwhip/debate/2009-03-02b.661.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.662.0" newgid="uk.org.publicwhip/debate/2009-03-02b.662.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.663.0" newgid="uk.org.publicwhip/debate/2009-03-02b.663.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.663.1" newgid="uk.org.publicwhip/debate/2009-03-02b.663.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.663.2" newgid="uk.org.publicwhip/debate/2009-03-02b.663.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.663.3" newgid="uk.org.publicwhip/debate/2009-03-02b.663.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.663.4" newgid="uk.org.publicwhip/debate/2009-03-02b.663.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.663.5" newgid="uk.org.publicwhip/debate/2009-03-02b.663.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.663.6" newgid="uk.org.publicwhip/debate/2009-03-02b.663.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.664.0" newgid="uk.org.publicwhip/debate/2009-03-02b.664.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.664.0" speakerid="uk.org.publicwhip/member/1574" speakername="Eleanor Laing" colnum="664"  time="020:00:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0016.htm#09030242000185">
+	<p pid="a.664.0/1">On that point, and the point raised by <phrase class="honfriend" id="uk.org.publicwhip/member/1568" name="Andrew Love">the hon. Member for Edmonton (Mr. Love)</phrase> about the timetable, when Mr. Peter Wardle, speaking for the Electoral Commission, gave evidence at the beginning of the Bill's Committee stage, he said that he thought that individual registration could begin with the 2010 renewal canvas, and that from then, it would be a</p>
+	<p pid="a.664.0/2" class="indent">&quot;two to three year gradual process until the register is complete and has a much greater degree of integrity, in that there are personal identifiers for each person registered.&quot;<i> &mdash;&mdash;</i>[<i> Official Report, Political Parties and Elections Public Bill Committee, </i><phrase class="date" code="2008-11-06">6 November 2008</phrase>; c. 60, Q154.]</p>
+	<p pid="a.664.0/3">I took that to mean that it was the view of the Electoral Commission that the whole thing could be put in place by 2013, or possibly 2014.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.664.1" newgid="uk.org.publicwhip/debate/2009-03-02b.664.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.664.2" newgid="uk.org.publicwhip/debate/2009-03-02b.664.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.664.3" newgid="uk.org.publicwhip/debate/2009-03-02b.664.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.665.0" newgid="uk.org.publicwhip/debate/2009-03-02b.665.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.665.0" speakerid="uk.org.publicwhip/member/1473" speakername="David Howarth" colnum="665"  time="020:00:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0016.htm#09030242000189">
+	<p pid="a.665.0/1">My query is about the previous part of the plan, the point at which the provision of identifiers is not yet compulsory. I have a number of concerns about that. What the Minister is announcing is immensely important, and by the time identifiers become compulsory we must have learned as much as possible about what the pitfalls might be. How will the system work during that run-up period? Will different areas do different things? Unless they are, surely we will not be able to learn the possibilities of the scheme. For example, a student library card might be an identifier in a student area, but not in a different area. What will happen so that we get experimental data in that period?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.665.1" newgid="uk.org.publicwhip/debate/2009-03-02b.665.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.666.0" newgid="uk.org.publicwhip/debate/2009-03-02b.666.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.666.1" newgid="uk.org.publicwhip/debate/2009-03-02b.666.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.666.2" newgid="uk.org.publicwhip/debate/2009-03-02b.666.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.666.3" newgid="uk.org.publicwhip/debate/2009-03-02b.666.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.666.4" newgid="uk.org.publicwhip/debate/2009-03-02b.666.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.667.0" newgid="uk.org.publicwhip/debate/2009-03-02b.667.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.667.1" newgid="uk.org.publicwhip/debate/2009-03-02b.667.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.667.2" newgid="uk.org.publicwhip/debate/2009-03-02b.667.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.667.3" newgid="uk.org.publicwhip/debate/2009-03-02b.667.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.667.4" newgid="uk.org.publicwhip/debate/2009-03-02b.667.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.667.5" newgid="uk.org.publicwhip/debate/2009-03-02b.667.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.667.6" newgid="uk.org.publicwhip/debate/2009-03-02b.667.6" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.667.6" speakerid="uk.org.publicwhip/member/1865" speakername="Michael Wills" colnum="667"  time="020:15:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0016.htm#09030242000202">
+	<p pid="a.667.6/1">If the hon. Gentleman will let me finish my remarks, he can make a speech, saying exactly what he thinks of them; but until he has heard them, he might do me the justice of listening to what I have to say, and then he can comment on it. All that I can say is that the amendments will be debated in the other place. They will then, no doubt, come back to the House, and he will have plenty of opportunity to contribute to this process. It is a process; it is not happening now, it is beginning now. There will be plenty of time for this to happen. We are quite clear that this only proceeds fundamentally on the basis of consensus. It must endure. There is no point in going ahead unless there is broad agreement not only on the ends&mdash;I think that there is&mdash;but on the modalities. If it goes wrong, we will all do great damage to democracy.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.668.0" newgid="uk.org.publicwhip/debate/2009-03-02b.668.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.668.1" newgid="uk.org.publicwhip/debate/2009-03-02b.668.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.668.2" newgid="uk.org.publicwhip/debate/2009-03-02b.668.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.668.3" newgid="uk.org.publicwhip/debate/2009-03-02b.668.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.669.0" newgid="uk.org.publicwhip/debate/2009-03-02b.669.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.669.0" speakerid="uk.org.publicwhip/member/1574" speakername="Eleanor Laing" colnum="669"  time="020:15:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0017.htm#09030247000034">
+	<p pid="a.669.0/1">We welcome these new clauses. The Minister has stressed several times during his speech the fundamental principles, and we agree with him on those principles. Indeed, the Opposition said from the very beginning, when the Bill was first introduced, that there was no point in having a Bill about political parties and elections without the sort of provision that the Minister has introduced this evening. Although I understand his explanations about the practical difficulties that he has faced in introducing his proposals tonight, what is sad is that, if the provisions been included at the beginning of our scrutiny of the Bill, by this point in the proceedings&mdash;we are minutes away from the debate on Third Reading&mdash;he would have had the consensus that he asked for. As far as I can tell from long and detailed consideration in Committee, we are all in agreement about what we are trying to achieve. The question is how, and what the balance is between the needs of the individual, of privacy and of preventing fraud and so on, and the integrity of the ballot.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.669.1" newgid="uk.org.publicwhip/debate/2009-03-02b.669.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.669.2" newgid="uk.org.publicwhip/debate/2009-03-02b.669.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.669.3" newgid="uk.org.publicwhip/debate/2009-03-02b.669.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.669.3" speakerid="uk.org.publicwhip/member/1473" speakername="David Howarth" colnum="669"  time="020:15:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0017.htm#09030247000037">
+	<p pid="a.669.3/1">I caution the hon. Lady to distinguish between new clauses 21and 22, which are before us tonight, are about data sharing and have not yet been properly debated, and all the proposals the Minister announced, which sound very good, but are not before us tonight. Those two things are entirely separate, and I ask her not to come to any final conclusions on the new clauses until the debate has finished.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.669.4" newgid="uk.org.publicwhip/debate/2009-03-02b.669.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.670.0" newgid="uk.org.publicwhip/debate/2009-03-02b.670.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.670.1" newgid="uk.org.publicwhip/debate/2009-03-02b.670.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.670.2" newgid="uk.org.publicwhip/debate/2009-03-02b.670.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.670.3" newgid="uk.org.publicwhip/debate/2009-03-02b.670.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.671.0" newgid="uk.org.publicwhip/debate/2009-03-02b.671.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.671.1" newgid="uk.org.publicwhip/debate/2009-03-02b.671.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.671.2" newgid="uk.org.publicwhip/debate/2009-03-02b.671.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.671.3" newgid="uk.org.publicwhip/debate/2009-03-02b.671.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.671.4" newgid="uk.org.publicwhip/debate/2009-03-02b.671.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.671.5" newgid="uk.org.publicwhip/debate/2009-03-02b.671.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.671.6" newgid="uk.org.publicwhip/debate/2009-03-02b.671.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.671.7" newgid="uk.org.publicwhip/debate/2009-03-02b.671.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.671.8" newgid="uk.org.publicwhip/debate/2009-03-02b.671.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.671.9" newgid="uk.org.publicwhip/debate/2009-03-02b.671.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.672.0" newgid="uk.org.publicwhip/debate/2009-03-02b.672.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.672.1" newgid="uk.org.publicwhip/debate/2009-03-02b.672.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.672.2" newgid="uk.org.publicwhip/debate/2009-03-02b.672.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.672.3" newgid="uk.org.publicwhip/debate/2009-03-02b.672.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.673.0" newgid="uk.org.publicwhip/debate/2009-03-02b.673.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.673.1" newgid="uk.org.publicwhip/debate/2009-03-02b.673.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.673.2" newgid="uk.org.publicwhip/debate/2009-03-02b.673.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.673.3" newgid="uk.org.publicwhip/debate/2009-03-02b.673.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.673.4" newgid="uk.org.publicwhip/debate/2009-03-02b.673.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.673.5" newgid="uk.org.publicwhip/debate/2009-03-02b.673.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.673.6" newgid="uk.org.publicwhip/debate/2009-03-02b.673.6" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.673.6" speakerid="uk.org.publicwhip/member/1821" speakername="Douglas Hogg" colnum="673"  time="020:30:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0017.htm#09030251001307">
+	<p pid="a.673.6/1">I did not intend to touch on that. We have been told by the Minister that we will be given proper and appropriate time for consideration. Who will be the judge of that? May I suggest to my hon. Friend that the best thing is to extract an undertaking from the Minister that the time spent in the House on Lords amendments will be agreed by all the parties before the timetable motion is tabled?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.674.0" newgid="uk.org.publicwhip/debate/2009-03-02b.674.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.674.1" newgid="uk.org.publicwhip/debate/2009-03-02b.674.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.674.2" newgid="uk.org.publicwhip/debate/2009-03-02b.674.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.674.3" newgid="uk.org.publicwhip/debate/2009-03-02b.674.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.674.4" newgid="uk.org.publicwhip/debate/2009-03-02b.674.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.674.5" newgid="uk.org.publicwhip/debate/2009-03-02b.674.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.674.6" newgid="uk.org.publicwhip/debate/2009-03-02b.674.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.674.7" newgid="uk.org.publicwhip/debate/2009-03-02b.674.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.674.8" newgid="uk.org.publicwhip/debate/2009-03-02b.674.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.674.9" newgid="uk.org.publicwhip/debate/2009-03-02b.674.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.675.0" newgid="uk.org.publicwhip/debate/2009-03-02b.675.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.675.1" newgid="uk.org.publicwhip/debate/2009-03-02b.675.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.675.2" newgid="uk.org.publicwhip/debate/2009-03-02b.675.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.676.0" newgid="uk.org.publicwhip/debate/2009-03-02b.676.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.676.1" newgid="uk.org.publicwhip/debate/2009-03-02b.676.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.676.2" newgid="uk.org.publicwhip/debate/2009-03-02b.676.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.677.0" newgid="uk.org.publicwhip/debate/2009-03-02b.677.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.677.1" newgid="uk.org.publicwhip/debate/2009-03-02b.677.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.677.2" newgid="uk.org.publicwhip/debate/2009-03-02b.677.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.678.0" newgid="uk.org.publicwhip/debate/2009-03-02b.678.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.678.1" newgid="uk.org.publicwhip/debate/2009-03-02b.678.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.678.2" newgid="uk.org.publicwhip/debate/2009-03-02b.678.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.678.3" newgid="uk.org.publicwhip/debate/2009-03-02b.678.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.679.0" newgid="uk.org.publicwhip/debate/2009-03-02b.679.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.679.0" speakerid="uk.org.publicwhip/member/1824" speakername="David Heath" colnum="679"  time="021:00:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0018.htm#09030251001327">
+	<p pid="a.679.0/1">On a point of order, Madam Deputy Speaker. I wonder whether there is any precedent for taking a Division on a completely undebated new clause, which falls in a later group that we have not yet reached, which is in the hands of Back Benchers from an opposition party and which has not even been moved. Is there a precedent for that?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.679.1" newgid="uk.org.publicwhip/debate/2009-03-02b.679.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.679.2" newgid="uk.org.publicwhip/debate/2009-03-02b.679.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.679.3" newgid="uk.org.publicwhip/debate/2009-03-02b.679.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.679.4" newgid="uk.org.publicwhip/debate/2009-03-02b.679.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.683.0" newgid="uk.org.publicwhip/debate/2009-03-02b.683.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.683.1" newgid="uk.org.publicwhip/debate/2009-03-02b.683.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.683.2" newgid="uk.org.publicwhip/debate/2009-03-02b.683.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.683.3" newgid="uk.org.publicwhip/debate/2009-03-02b.683.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.683.4" newgid="uk.org.publicwhip/debate/2009-03-02b.683.4" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.683.4" nospeaker="true" colnum="683"  time="021:00:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0019.htm#09030251000003">
+	<p pid="a.683.4/1" pwmotiontext="yes"><i> Amendment proposed</i>: 140, in page 44, line 24, at end insert&mdash;</p>
+	<p pid="a.683.4/2" pwmotiontext="yes">' In section 65A (false statements in nomination papers etc), in subsection (1), after paragraph (a) there is inserted&mdash;</p>
+	<p pid="a.683.4/3" pwmotiontext="yes">&quot;(aa) (where the election is a parliamentary election) a statement under rule 6(5)(b) of Schedule 1 to this Act which he knows to be false in any particular; or&quot;.'.&mdash;<i> (Dr. Julian Lewis.)</i></p>
+	<p pid="a.683.4/4" pwmotiontext="yes"><i> Question put, </i>That the amendment be made:&mdash;</p>
+	<p pid="a.683.4/5" pwmotiontext="yes"><i> The House divided:</i> Ayes 223, Noes 158.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.683.5" newgid="uk.org.publicwhip/debate/2009-03-02b.683.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.683.6" newgid="uk.org.publicwhip/debate/2009-03-02b.683.6" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.683.6" nospeaker="true" colnum="683"  time="021:00:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0019.htm#09030251001302">
+	<p pid="a.683.6/1">Question accordingly agreed to.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.686.0" newgid="uk.org.publicwhip/debate/2009-03-02b.686.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.686.1" newgid="uk.org.publicwhip/debate/2009-03-02b.686.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.686.2" newgid="uk.org.publicwhip/debate/2009-03-02b.686.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.686.3" newgid="uk.org.publicwhip/debate/2009-03-02b.686.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.686.4" newgid="uk.org.publicwhip/debate/2009-03-02b.686.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.686.5" newgid="uk.org.publicwhip/debate/2009-03-02b.686.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.686.6" newgid="uk.org.publicwhip/debate/2009-03-02b.686.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.687.0" newgid="uk.org.publicwhip/debate/2009-03-02b.687.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.687.1" newgid="uk.org.publicwhip/debate/2009-03-02b.687.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.687.1" nospeaker="true" colnum="687"  time="021:00:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0019.htm#09030251001303">
+	<p pid="a.687.1/1">Question accordingly agreed to.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.689.0" newgid="uk.org.publicwhip/debate/2009-03-02b.689.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.690.0" newgid="uk.org.publicwhip/debate/2009-03-02b.690.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.690.1" newgid="uk.org.publicwhip/debate/2009-03-02b.690.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.690.2" newgid="uk.org.publicwhip/debate/2009-03-02b.690.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.690.2" speakerid="uk.org.publicwhip/member/2017" speakername="Mr. Deputy Speaker" speakeroffice="Mr. Deputy Speaker"  colnum="690"  time="021:00:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0020.htm#09030251002512">
+	<p pid="a.690.2/1">Order. I cannot add a great deal to the ruling that has already been given from the Chair. We are operating under a programme motion, and the Chair determines which amendments can be taken. Rulings have been made, to which I shall add by saying that I am unable to accept for Division the new clause tabled by <phrase class="honfriend" id="uk.org.publicwhip/member/2009" name="Pete Wishart">the hon. Member for Perth and North Perthshire (Pete Wishart)</phrase>.</p>
+	<p pid="a.690.2/2"><i> Amendment made: </i>142, in page 44, line 24 [Schedule 4], at end insert&mdash;</p>
+	<p pid="a.690.2/3">' (1) Schedule 1 (parliamentary elections rules) is amended as follows.</p>
+	<p pid="a.690.2/4">(2) In rule 6 (nomination of candidates), in paragraph (2)(a) after &quot;names,&quot; there is inserted &quot;and&quot;.</p>
+	<p pid="a.690.2/5">(3) In rule 14A (correction of minor errors)&mdash;</p>
+	<p pid="a.690.2/6">(a) in paragraph (1), after &quot;nomination paper&quot; there is inserted &quot;or home address form&quot;;</p>
+	<p pid="a.690.2/7">(b) in paragraph (2), after sub-paragraph (b) there is inserted&mdash;</p>
+	<p pid="a.690.2/8">&quot;(c) in the home address form, errors as to the information mentioned in rule 6(5)(b).&quot;</p>
+	<p pid="a.690.2/9">(4) In the Appendix of forms, in the Form of nomination paper, in the first table following the words &quot;candidate at the said election&quot;, the final column (home address) is omitted.&quot;'.&mdash;<i> (Dr. Julian Lewis.)</i></p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.690.3" newgid="uk.org.publicwhip/debate/2009-03-02b.690.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.690.4" newgid="uk.org.publicwhip/debate/2009-03-02b.690.4" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.690.4" nospeaker="true" colnum="690"  time="021:00:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0020.htm#09030251000004">
+	<p pid="a.690.4/1"><i> Amendment made: </i>143, in page 47, line 14 [Schedule 5], at end insert&mdash;</p>
+	<table>
+		<tbody>
+			<tr pid="a.690.4/4"> <td></td> <td>'In Schedule 1&mdash;.</td> </tr>
+			<tr pid="a.690.4/5"> <td></td> <td>(a) in rule 6, sub-paragraph (b) of paragraph (2);</td> </tr>
+			<tr pid="a.690.4/6"> <td></td> <td>(b) in the Appendix of forms, in the Form of nomination paper, in the first table following the words &quot;candidate at the said election&quot;, the final column.'.&mdash;<i> (Dr. Julian Lewis)</i></td> </tr>
+		</tbody>
+	</table>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.690.5" newgid="uk.org.publicwhip/debate/2009-03-02b.690.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.690.6" newgid="uk.org.publicwhip/debate/2009-03-02b.690.6" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.690.6" nospeaker="true" colnum="690"  time="021:00:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0020.htm#09030251000005">
+	<p pid="a.690.6/1"><i> Amendments made: </i>120, in page 14, line 31 [Clause 23], leave out subsection (3).</p>
+	<p pid="a.690.6/2">Amendment 39, in page 14, line 39 [Clause 23], leave out paragraph (c) and insert&mdash;</p>
+	<p pid="a.690.6/3">'(c) section 12,'.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.691.0" newgid="uk.org.publicwhip/debate/2009-03-02b.691.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.691.1" newgid="uk.org.publicwhip/debate/2009-03-02b.691.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.691.1" nospeaker="true" colnum="691"  time="021:00:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0020.htm#09030251000006">
+	<p pid="a.691.1/1"><i> Amendments made: </i>Amendment 40, in page 44, line 24 [Schedule 4], at end insert&mdash;</p>
+	<p pid="a.691.1/2">'3A In section 76A (power to vary provisions about election expenses), after paragraph (d) of subsection (2) there is inserted&mdash;</p>
+	<p pid="a.691.1/3">&quot;(e) section 76ZA(2) above.&quot;'.&mdash;</p>
+	<p pid="a.691.1/4">Amendment 41, in page 44, line 24 [Schedule 4], at end insert&mdash;</p>
+	<p pid="a.691.1/5">'3B In section 90ZA (meaning of &quot;election expenses&quot;), for subsection (5) there is substituted&mdash;</p>
+	<p pid="a.691.1/6">&quot;(5) A reference in this Part of this Act to a candidate at an election, in relation to election expenses, includes (where the context allows) a reference to a person who becomes a candidate at the election after the expenses are incurred.&quot;'.</p>
+	<p pid="a.691.1/7">Amendment 29, in page 45, line 39 [Schedule 4], at end insert&mdash;</p>
+	<p pid="a.691.1/8">' In section 149 (inspection of Commission's registers etc), in subsection (1), after paragraph (d) there is inserted&mdash;</p>
+	<p pid="a.691.1/9">&quot;(e) paragraph 19 of Schedule 7&quot;.'.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.691.2" newgid="uk.org.publicwhip/debate/2009-03-02b.691.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.691.3" newgid="uk.org.publicwhip/debate/2009-03-02b.691.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.691.3" nospeaker="true" colnum="691"  time="021:00:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0020.htm#09030251000007">
+	<p pid="a.691.3/1">Amendment 42, in page 47, line 12 [Schedule 5], at end insert&mdash;</p>
+	<table>
+		<tbody>
+			<tr pid="a.691.3/4"> <td></td> <td>'In section 76A(2), the word &quot;or&quot; at the end of paragraph (c).'.</td> </tr>
+		</tbody>
+	</table>
+	<p pid="a.691.3/7">Amendment 43, in page 47 [Schedule 5], leave out lines 13 and 14.</p>
+	<p pid="a.691.3/8">Amendment 30, in page 47, line 18 [Schedule 5], at end insert&mdash;</p>
+	<table>
+		<tbody>
+			<tr pid="a.691.3/11"> <td></td> <td>'In section 149(1), the word &quot;or&quot; at the end of paragraph (c).'.&mdash;<i> (Mr. Wills.)</i></td> </tr>
+		</tbody>
+	</table>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.691.4" newgid="uk.org.publicwhip/debate/2009-03-02b.691.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.691.5" newgid="uk.org.publicwhip/debate/2009-03-02b.691.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.691.6" newgid="uk.org.publicwhip/debate/2009-03-02b.691.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.691.7" newgid="uk.org.publicwhip/debate/2009-03-02b.691.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.692.0" newgid="uk.org.publicwhip/debate/2009-03-02b.691.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.692.1" newgid="uk.org.publicwhip/debate/2009-03-02b.692.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.692.2" newgid="uk.org.publicwhip/debate/2009-03-02b.692.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.692.3" newgid="uk.org.publicwhip/debate/2009-03-02b.692.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.692.4" newgid="uk.org.publicwhip/debate/2009-03-02b.692.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.692.5" newgid="uk.org.publicwhip/debate/2009-03-02b.692.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.693.0" newgid="uk.org.publicwhip/debate/2009-03-02b.693.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.693.1" newgid="uk.org.publicwhip/debate/2009-03-02b.693.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.693.2" newgid="uk.org.publicwhip/debate/2009-03-02b.693.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.693.3" newgid="uk.org.publicwhip/debate/2009-03-02b.693.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.693.4" newgid="uk.org.publicwhip/debate/2009-03-02b.693.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.694.0" newgid="uk.org.publicwhip/debate/2009-03-02b.693.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.694.1" newgid="uk.org.publicwhip/debate/2009-03-02b.694.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.694.2" newgid="uk.org.publicwhip/debate/2009-03-02b.694.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.694.2" speakerid="uk.org.publicwhip/member/1423" speakername="Jack Straw" colnum="694"  time="021:51:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0020.htm#0903031000453">
+	<p pid="a.694.2/1">That was not an intervention in respect of Third Reading; it was merely a rant, and we shall leave it at that.</p>
+	<p pid="a.694.2/2">On electoral registration, I repeat the point made by the Minister of State, Ministry of Justice, my right hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/1865" name="Michael Wills">the Member for North Swindon (Mr. Wills)</phrase>. I appreciate the concern that there will not have been a chance to discuss the new clauses on registration in this place. I shall therefore make two commitments. First, we shall use our best endeavours to have them discussed informally in draft with the parties before they go to the other place and, secondly, we shall use our best endeavours with the usual channels to ensure that there is adequate time to discuss them when they return. With that, I commend that the Bill be read the Third time.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.695.0" newgid="uk.org.publicwhip/debate/2009-03-02b.695.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.695.1" newgid="uk.org.publicwhip/debate/2009-03-02b.695.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.695.2" newgid="uk.org.publicwhip/debate/2009-03-02b.695.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.695.3" newgid="uk.org.publicwhip/debate/2009-03-02b.695.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.696.0" newgid="uk.org.publicwhip/debate/2009-03-02b.696.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.696.1" newgid="uk.org.publicwhip/debate/2009-03-02b.696.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.698.0" newgid="uk.org.publicwhip/debate/2009-03-02b.698.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.698.1" newgid="uk.org.publicwhip/debate/2009-03-02b.698.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.699.0" newgid="uk.org.publicwhip/debate/2009-03-02b.699.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.699.1" newgid="uk.org.publicwhip/debate/2009-03-02b.699.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.699.2" newgid="uk.org.publicwhip/debate/2009-03-02b.699.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.699.3" newgid="uk.org.publicwhip/debate/2009-03-02b.699.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.699.4" newgid="uk.org.publicwhip/debate/2009-03-02b.699.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.699.5" newgid="uk.org.publicwhip/debate/2009-03-02b.699.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.699.6" newgid="uk.org.publicwhip/debate/2009-03-02b.699.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.699.7" newgid="uk.org.publicwhip/debate/2009-03-02b.699.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.699.8" newgid="uk.org.publicwhip/debate/2009-03-02b.699.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.699.9" newgid="uk.org.publicwhip/debate/2009-03-02b.699.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.699.10" newgid="uk.org.publicwhip/debate/2009-03-02b.699.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.699.11" newgid="uk.org.publicwhip/debate/2009-03-02b.699.11" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.699.12" newgid="uk.org.publicwhip/debate/2009-03-02b.699.12" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.700.0" newgid="uk.org.publicwhip/debate/2009-03-02b.700.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.700.1" newgid="uk.org.publicwhip/debate/2009-03-02b.700.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.700.2" newgid="uk.org.publicwhip/debate/2009-03-02b.700.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.700.3" newgid="uk.org.publicwhip/debate/2009-03-02b.700.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.700.4" newgid="uk.org.publicwhip/debate/2009-03-02b.700.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.701.0" newgid="uk.org.publicwhip/debate/2009-03-02b.701.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.701.1" newgid="uk.org.publicwhip/debate/2009-03-02b.701.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.701.2" newgid="uk.org.publicwhip/debate/2009-03-02b.701.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2009-03-02a.701.2" speakerid="uk.org.publicwhip/member/1852" speakername="John Gummer" colnum="701"  time="022:15:00" url="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm090302/debtext/90302-0022.htm#0903031000805">
+	<p pid="a.701.2/1">One of the great privileges of being a Member of Parliament is that, in this the most important debating chamber in the world, one can raise issues that really matter to one's constituents. I have rarely been as angry about a matter as I am about this case.</p>
+	<p pid="a.701.2/2">Two of my constituents, Mr. and Mrs. Ellis, have suffered the awful indignity of Mr. Ellis having had three strokes. He is therefore unable easily to look after himself and has to be looked after day and night. They decided that it would be a good thing if they had a mobile home that was easy for them to deal with. They went to a country park in my constituency, Carlton Meres, which was run extremely well by a charming couple, and they bought a mobile home at a cost of &pound;28,280, on condition that there would be a proper path to the home and a proper ramp for Mr. Ellis's wheelchair to be pushed along so that he could use the home. Without those, there was no possibility of its being used. I have here the sales purchase agreement that was made, at the bottom of which it says: &quot;Ramp to be provided&quot;. The ramp was not provided.</p>
+	<p pid="a.701.2/3">A couple of months later, the couple were told that the ownership of the park had changed. The ramp had still not been provided. By the time it came to October&mdash;they having bought the home in March and hardly having been able to enter it, let alone use it&mdash;they decided that they would sell it. Under their original agreement, it was said that they would certainly be able to sell it at a proper price. Indeed, late in October, the salesman told them that the selling price should be more or less what they paid for it because it was new and had not been used. In the event, they were provided with a sum so derisory that it is almost impossible to repeat it&mdash;having paid &pound;28,280, a few months later they were given &pound;8,000. When the couple complained, the solicitor for the company, one Mr. Johar of Leicester, said that the reason for that reduced sum was that the ownership of the company had changed and they did not have an agreement with the new owners. When they wrote to me with the document, an eagle-eyed assistant of mine noticed that the name of the company from which they had purchased in the first place was the same as that of those owners. True, the directors had changed, but the company was the same company, so under the law it was responsible for everything that the previous company had agreed to.</p>
+	<p pid="a.701.2/4">I got in touch with the company and said this seemed to me an entirely unacceptable proposition. It did not answer any letters&mdash;that, of course, is the convenient way in which these people behave&mdash;so I looked it up and discovered that it already had a history of taking over perfectly well-run sites and then behaving in this appalling manner. I shall give one example: the Riverview and Silver Sands caravan sites in Scotland, about which the list of complaints continues. The owner appears to be a Mr. Barney, who appears on all occasions calling himself Tony and, of course, never giving his full name. It turned out that he told all the owners of the static holiday caravans that they would be required to remove them at the end of the season because he would be replacing them with residential homes. He was told by park residents and the holiday caravan owners that the site license did not allow for that, but he made light of that, saying that it would not be a problem. He was very upset when they identified him because he is known in the business. If one looks up his directorships, one finds a whole list of caravan sites where that kind of activity continues.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.702.0" newgid="uk.org.publicwhip/debate/2009-03-02b.702.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.702.1" newgid="uk.org.publicwhip/debate/2009-03-02b.702.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.702.2" newgid="uk.org.publicwhip/debate/2009-03-02b.702.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.702.3" newgid="uk.org.publicwhip/debate/2009-03-02b.702.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.704.0" newgid="uk.org.publicwhip/debate/2009-03-02b.704.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.705.0" newgid="uk.org.publicwhip/debate/2009-03-02b.705.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.705.1" newgid="uk.org.publicwhip/debate/2009-03-02b.705.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.706.0" newgid="uk.org.publicwhip/debate/2009-03-02b.706.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.706.1" newgid="uk.org.publicwhip/debate/2009-03-02b.706.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.706.2" newgid="uk.org.publicwhip/debate/2009-03-02b.706.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2009-03-02a.706.3" newgid="uk.org.publicwhip/debate/2009-03-02b.706.3" matchtype="perfectmatch"/>
+</publicwhip>
+

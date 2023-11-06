@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="a" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.135.0" newgid="uk.org.publicwhip/debate/2014-03-25b.135.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.135.1" newgid="uk.org.publicwhip/debate/2014-03-25b.135.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.135.2" newgid="uk.org.publicwhip/debate/2014-03-25b.135.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.135.3" newgid="uk.org.publicwhip/debate/2014-03-25b.135.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.135.4" newgid="uk.org.publicwhip/debate/2014-03-25b.135.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.135.5" newgid="uk.org.publicwhip/debate/2014-03-25b.135.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.135.6" newgid="uk.org.publicwhip/debate/2014-03-25b.135.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.135.7" newgid="uk.org.publicwhip/debate/2014-03-25b.135.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.135.8" newgid="uk.org.publicwhip/debate/2014-03-25b.135.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.135.9" newgid="uk.org.publicwhip/debate/2014-03-25b.135.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.135.10" newgid="uk.org.publicwhip/debate/2014-03-25b.135.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.135.11" newgid="uk.org.publicwhip/debate/2014-03-25b.135.11" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.135.12" newgid="uk.org.publicwhip/debate/2014-03-25b.135.12" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.135.13" newgid="uk.org.publicwhip/debate/2014-03-25b.135.13" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.136.0" newgid="uk.org.publicwhip/debate/2014-03-25b.136.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.136.1" newgid="uk.org.publicwhip/debate/2014-03-25b.136.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.136.2" newgid="uk.org.publicwhip/debate/2014-03-25b.136.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.136.3" newgid="uk.org.publicwhip/debate/2014-03-25b.136.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.136.4" newgid="uk.org.publicwhip/debate/2014-03-25b.136.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.136.5" newgid="uk.org.publicwhip/debate/2014-03-25b.136.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.136.6" newgid="uk.org.publicwhip/debate/2014-03-25b.136.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.136.7" newgid="uk.org.publicwhip/debate/2014-03-25b.136.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.136.8" newgid="uk.org.publicwhip/debate/2014-03-25b.136.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.137.0" newgid="uk.org.publicwhip/debate/2014-03-25b.137.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.137.1" newgid="uk.org.publicwhip/debate/2014-03-25b.137.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.137.2" newgid="uk.org.publicwhip/debate/2014-03-25b.137.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.137.3" newgid="uk.org.publicwhip/debate/2014-03-25b.137.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.137.4" newgid="uk.org.publicwhip/debate/2014-03-25b.137.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.137.5" newgid="uk.org.publicwhip/debate/2014-03-25b.137.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.137.6" newgid="uk.org.publicwhip/debate/2014-03-25b.137.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.137.7" newgid="uk.org.publicwhip/debate/2014-03-25b.137.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.138.0" newgid="uk.org.publicwhip/debate/2014-03-25b.138.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.138.1" newgid="uk.org.publicwhip/debate/2014-03-25b.138.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.138.2" newgid="uk.org.publicwhip/debate/2014-03-25b.138.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.138.3" newgid="uk.org.publicwhip/debate/2014-03-25b.138.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.138.4" newgid="uk.org.publicwhip/debate/2014-03-25b.138.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.138.5" newgid="uk.org.publicwhip/debate/2014-03-25b.138.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.139.0" newgid="uk.org.publicwhip/debate/2014-03-25b.139.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.139.1" newgid="uk.org.publicwhip/debate/2014-03-25b.139.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.139.2" newgid="uk.org.publicwhip/debate/2014-03-25b.139.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.139.3" newgid="uk.org.publicwhip/debate/2014-03-25b.139.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.139.4" newgid="uk.org.publicwhip/debate/2014-03-25b.139.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.139.5" newgid="uk.org.publicwhip/debate/2014-03-25b.139.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.139.6" newgid="uk.org.publicwhip/debate/2014-03-25b.139.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.139.7" newgid="uk.org.publicwhip/debate/2014-03-25b.139.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.140.0" newgid="uk.org.publicwhip/debate/2014-03-25b.140.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.140.1" newgid="uk.org.publicwhip/debate/2014-03-25b.140.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.140.2" newgid="uk.org.publicwhip/debate/2014-03-25b.140.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.140.3" newgid="uk.org.publicwhip/debate/2014-03-25b.140.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.140.4" newgid="uk.org.publicwhip/debate/2014-03-25b.140.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.140.5" newgid="uk.org.publicwhip/debate/2014-03-25b.140.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.140.6" newgid="uk.org.publicwhip/debate/2014-03-25b.140.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.140.7" newgid="uk.org.publicwhip/debate/2014-03-25b.140.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.140.8" newgid="uk.org.publicwhip/debate/2014-03-25b.140.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.140.9" newgid="uk.org.publicwhip/debate/2014-03-25b.140.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.141.0" newgid="uk.org.publicwhip/debate/2014-03-25b.141.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.141.1" newgid="uk.org.publicwhip/debate/2014-03-25b.141.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.141.2" newgid="uk.org.publicwhip/debate/2014-03-25b.141.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.141.3" newgid="uk.org.publicwhip/debate/2014-03-25b.141.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.141.4" newgid="uk.org.publicwhip/debate/2014-03-25b.141.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.141.5" newgid="uk.org.publicwhip/debate/2014-03-25b.141.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.141.6" newgid="uk.org.publicwhip/debate/2014-03-25b.141.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.141.7" newgid="uk.org.publicwhip/debate/2014-03-25b.141.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.141.8" newgid="uk.org.publicwhip/debate/2014-03-25b.141.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.141.9" newgid="uk.org.publicwhip/debate/2014-03-25b.141.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.142.0" newgid="uk.org.publicwhip/debate/2014-03-25b.142.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.142.1" newgid="uk.org.publicwhip/debate/2014-03-25b.142.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.142.2" newgid="uk.org.publicwhip/debate/2014-03-25b.142.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.142.3" newgid="uk.org.publicwhip/debate/2014-03-25b.142.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.142.4" newgid="uk.org.publicwhip/debate/2014-03-25b.142.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.142.5" newgid="uk.org.publicwhip/debate/2014-03-25b.142.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.143.0" newgid="uk.org.publicwhip/debate/2014-03-25b.143.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.143.1" newgid="uk.org.publicwhip/debate/2014-03-25b.143.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.143.2" newgid="uk.org.publicwhip/debate/2014-03-25b.143.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.143.3" newgid="uk.org.publicwhip/debate/2014-03-25b.143.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.143.4" newgid="uk.org.publicwhip/debate/2014-03-25b.143.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.143.5" newgid="uk.org.publicwhip/debate/2014-03-25b.143.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.144.0" newgid="uk.org.publicwhip/debate/2014-03-25b.144.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.144.1" newgid="uk.org.publicwhip/debate/2014-03-25b.144.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.144.2" newgid="uk.org.publicwhip/debate/2014-03-25b.144.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.144.3" newgid="uk.org.publicwhip/debate/2014-03-25b.144.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.144.4" newgid="uk.org.publicwhip/debate/2014-03-25b.144.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.144.5" newgid="uk.org.publicwhip/debate/2014-03-25b.144.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.144.6" newgid="uk.org.publicwhip/debate/2014-03-25b.144.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.145.0" newgid="uk.org.publicwhip/debate/2014-03-25b.145.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.145.1" newgid="uk.org.publicwhip/debate/2014-03-25b.145.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.145.2" newgid="uk.org.publicwhip/debate/2014-03-25b.145.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.145.3" newgid="uk.org.publicwhip/debate/2014-03-25b.145.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.145.4" newgid="uk.org.publicwhip/debate/2014-03-25b.145.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.145.5" newgid="uk.org.publicwhip/debate/2014-03-25b.145.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.145.6" newgid="uk.org.publicwhip/debate/2014-03-25b.145.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.146.0" newgid="uk.org.publicwhip/debate/2014-03-25b.146.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.146.1" newgid="uk.org.publicwhip/debate/2014-03-25b.146.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.146.2" newgid="uk.org.publicwhip/debate/2014-03-25b.146.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.146.3" newgid="uk.org.publicwhip/debate/2014-03-25b.146.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.146.4" newgid="uk.org.publicwhip/debate/2014-03-25b.146.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.146.5" newgid="uk.org.publicwhip/debate/2014-03-25b.146.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.147.0" newgid="uk.org.publicwhip/debate/2014-03-25b.147.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.147.1" newgid="uk.org.publicwhip/debate/2014-03-25b.147.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.147.2" newgid="uk.org.publicwhip/debate/2014-03-25b.147.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.147.3" newgid="uk.org.publicwhip/debate/2014-03-25b.147.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.147.4" newgid="uk.org.publicwhip/debate/2014-03-25b.147.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.147.5" newgid="uk.org.publicwhip/debate/2014-03-25b.147.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.148.0" newgid="uk.org.publicwhip/debate/2014-03-25b.148.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.148.1" newgid="uk.org.publicwhip/debate/2014-03-25b.148.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.148.2" newgid="uk.org.publicwhip/debate/2014-03-25b.148.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.148.3" newgid="uk.org.publicwhip/debate/2014-03-25b.148.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.148.4" newgid="uk.org.publicwhip/debate/2014-03-25b.148.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.148.5" newgid="uk.org.publicwhip/debate/2014-03-25b.148.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.148.6" newgid="uk.org.publicwhip/debate/2014-03-25b.148.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.148.7" newgid="uk.org.publicwhip/debate/2014-03-25b.148.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.148.8" newgid="uk.org.publicwhip/debate/2014-03-25b.148.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.149.0" newgid="uk.org.publicwhip/debate/2014-03-25b.149.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.149.1" newgid="uk.org.publicwhip/debate/2014-03-25b.149.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.149.2" newgid="uk.org.publicwhip/debate/2014-03-25b.149.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.149.3" newgid="uk.org.publicwhip/debate/2014-03-25b.149.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.149.4" newgid="uk.org.publicwhip/debate/2014-03-25b.149.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.149.5" newgid="uk.org.publicwhip/debate/2014-03-25b.149.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.149.6" newgid="uk.org.publicwhip/debate/2014-03-25b.149.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.149.7" newgid="uk.org.publicwhip/debate/2014-03-25b.149.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.149.8" newgid="uk.org.publicwhip/debate/2014-03-25b.149.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.150.0" newgid="uk.org.publicwhip/debate/2014-03-25b.150.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.150.1" newgid="uk.org.publicwhip/debate/2014-03-25b.150.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.150.2" newgid="uk.org.publicwhip/debate/2014-03-25b.150.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.150.3" newgid="uk.org.publicwhip/debate/2014-03-25b.150.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.150.4" newgid="uk.org.publicwhip/debate/2014-03-25b.150.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.150.5" newgid="uk.org.publicwhip/debate/2014-03-25b.150.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.150.6" newgid="uk.org.publicwhip/debate/2014-03-25b.150.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.151.0" newgid="uk.org.publicwhip/debate/2014-03-25b.151.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.151.1" newgid="uk.org.publicwhip/debate/2014-03-25b.151.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.151.2" newgid="uk.org.publicwhip/debate/2014-03-25b.151.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.151.3" newgid="uk.org.publicwhip/debate/2014-03-25b.151.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.151.4" newgid="uk.org.publicwhip/debate/2014-03-25b.151.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.151.5" newgid="uk.org.publicwhip/debate/2014-03-25b.151.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.151.6" newgid="uk.org.publicwhip/debate/2014-03-25b.151.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.151.7" newgid="uk.org.publicwhip/debate/2014-03-25b.151.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.151.8" newgid="uk.org.publicwhip/debate/2014-03-25b.151.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.151.9" newgid="uk.org.publicwhip/debate/2014-03-25b.151.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.151.10" newgid="uk.org.publicwhip/debate/2014-03-25b.151.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.152.0" newgid="uk.org.publicwhip/debate/2014-03-25b.152.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.152.1" newgid="uk.org.publicwhip/debate/2014-03-25b.152.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.152.2" newgid="uk.org.publicwhip/debate/2014-03-25b.152.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.152.3" newgid="uk.org.publicwhip/debate/2014-03-25b.152.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.152.4" newgid="uk.org.publicwhip/debate/2014-03-25b.152.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.152.5" newgid="uk.org.publicwhip/debate/2014-03-25b.152.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.152.6" newgid="uk.org.publicwhip/debate/2014-03-25b.152.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.152.7" newgid="uk.org.publicwhip/debate/2014-03-25b.152.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.152.8" newgid="uk.org.publicwhip/debate/2014-03-25b.152.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.153.0" newgid="uk.org.publicwhip/debate/2014-03-25b.153.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.153.1" newgid="uk.org.publicwhip/debate/2014-03-25b.153.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.153.2" newgid="uk.org.publicwhip/debate/2014-03-25b.153.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.153.3" newgid="uk.org.publicwhip/debate/2014-03-25b.153.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.153.4" newgid="uk.org.publicwhip/debate/2014-03-25b.153.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.153.5" newgid="uk.org.publicwhip/debate/2014-03-25b.153.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.153.6" newgid="uk.org.publicwhip/debate/2014-03-25b.153.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.153.7" newgid="uk.org.publicwhip/debate/2014-03-25b.153.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.153.8" newgid="uk.org.publicwhip/debate/2014-03-25b.153.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.154.0" newgid="uk.org.publicwhip/debate/2014-03-25b.154.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.154.1" newgid="uk.org.publicwhip/debate/2014-03-25b.154.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.154.2" newgid="uk.org.publicwhip/debate/2014-03-25b.154.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.154.3" newgid="uk.org.publicwhip/debate/2014-03-25b.154.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.154.4" newgid="uk.org.publicwhip/debate/2014-03-25b.154.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.154.5" newgid="uk.org.publicwhip/debate/2014-03-25b.154.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.154.6" newgid="uk.org.publicwhip/debate/2014-03-25b.154.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.155.0" newgid="uk.org.publicwhip/debate/2014-03-25b.155.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.155.1" newgid="uk.org.publicwhip/debate/2014-03-25b.155.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.155.2" newgid="uk.org.publicwhip/debate/2014-03-25b.155.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.155.3" newgid="uk.org.publicwhip/debate/2014-03-25b.155.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.155.4" newgid="uk.org.publicwhip/debate/2014-03-25b.155.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.156.0" newgid="uk.org.publicwhip/debate/2014-03-25b.156.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.156.1" newgid="uk.org.publicwhip/debate/2014-03-25b.156.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.156.2" newgid="uk.org.publicwhip/debate/2014-03-25b.156.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.158.0" newgid="uk.org.publicwhip/debate/2014-03-25b.158.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.158.1" newgid="uk.org.publicwhip/debate/2014-03-25b.158.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.159.0" newgid="uk.org.publicwhip/debate/2014-03-25b.159.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.159.1" newgid="uk.org.publicwhip/debate/2014-03-25b.159.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.162.0" newgid="uk.org.publicwhip/debate/2014-03-25b.162.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.162.1" newgid="uk.org.publicwhip/debate/2014-03-25b.162.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.162.2" newgid="uk.org.publicwhip/debate/2014-03-25b.162.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.162.3" newgid="uk.org.publicwhip/debate/2014-03-25b.162.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.162.4" newgid="uk.org.publicwhip/debate/2014-03-25b.162.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.162.5" newgid="uk.org.publicwhip/debate/2014-03-25b.162.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.162.6" newgid="uk.org.publicwhip/debate/2014-03-25b.162.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.163.0" newgid="uk.org.publicwhip/debate/2014-03-25b.163.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.164.0" newgid="uk.org.publicwhip/debate/2014-03-25b.164.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.164.1" newgid="uk.org.publicwhip/debate/2014-03-25b.164.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.164.2" newgid="uk.org.publicwhip/debate/2014-03-25b.164.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.164.3" newgid="uk.org.publicwhip/debate/2014-03-25b.164.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.164.4" newgid="uk.org.publicwhip/debate/2014-03-25b.164.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.164.5" newgid="uk.org.publicwhip/debate/2014-03-25b.164.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.164.6" newgid="uk.org.publicwhip/debate/2014-03-25b.164.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.165.0" newgid="uk.org.publicwhip/debate/2014-03-25b.165.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.166.0" newgid="uk.org.publicwhip/debate/2014-03-25b.166.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.166.1" newgid="uk.org.publicwhip/debate/2014-03-25b.166.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.166.2" newgid="uk.org.publicwhip/debate/2014-03-25b.166.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.167.0" newgid="uk.org.publicwhip/debate/2014-03-25b.167.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.167.1" newgid="uk.org.publicwhip/debate/2014-03-25b.167.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.168.0" newgid="uk.org.publicwhip/debate/2014-03-25b.168.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.168.1" newgid="uk.org.publicwhip/debate/2014-03-25b.168.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.168.2" newgid="uk.org.publicwhip/debate/2014-03-25b.168.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.168.3" newgid="uk.org.publicwhip/debate/2014-03-25b.168.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.169.0" newgid="uk.org.publicwhip/debate/2014-03-25b.169.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.170.0" newgid="uk.org.publicwhip/debate/2014-03-25b.170.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.170.1" newgid="uk.org.publicwhip/debate/2014-03-25b.170.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.171.0" newgid="uk.org.publicwhip/debate/2014-03-25b.171.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.171.1" newgid="uk.org.publicwhip/debate/2014-03-25b.171.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.171.2" newgid="uk.org.publicwhip/debate/2014-03-25b.171.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.171.3" newgid="uk.org.publicwhip/debate/2014-03-25b.171.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.172.0" newgid="uk.org.publicwhip/debate/2014-03-25b.172.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.172.1" newgid="uk.org.publicwhip/debate/2014-03-25b.172.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.172.2" newgid="uk.org.publicwhip/debate/2014-03-25b.172.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.173.0" newgid="uk.org.publicwhip/debate/2014-03-25b.173.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.173.1" newgid="uk.org.publicwhip/debate/2014-03-25b.173.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.173.2" newgid="uk.org.publicwhip/debate/2014-03-25b.173.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.173.3" newgid="uk.org.publicwhip/debate/2014-03-25b.173.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.173.4" newgid="uk.org.publicwhip/debate/2014-03-25b.173.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.173.5" newgid="uk.org.publicwhip/debate/2014-03-25b.173.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.173.6" newgid="uk.org.publicwhip/debate/2014-03-25b.173.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.174.0" newgid="uk.org.publicwhip/debate/2014-03-25b.174.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.174.1" newgid="uk.org.publicwhip/debate/2014-03-25b.174.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.174.2" newgid="uk.org.publicwhip/debate/2014-03-25b.174.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.174.3" newgid="uk.org.publicwhip/debate/2014-03-25b.174.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.174.4" newgid="uk.org.publicwhip/debate/2014-03-25b.174.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.174.5" newgid="uk.org.publicwhip/debate/2014-03-25b.174.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.175.0" newgid="uk.org.publicwhip/debate/2014-03-25b.175.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.175.1" newgid="uk.org.publicwhip/debate/2014-03-25b.175.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.175.2" newgid="uk.org.publicwhip/debate/2014-03-25b.175.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.175.3" newgid="uk.org.publicwhip/debate/2014-03-25b.175.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.176.0" newgid="uk.org.publicwhip/debate/2014-03-25b.176.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.176.1" newgid="uk.org.publicwhip/debate/2014-03-25b.176.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.178.0" newgid="uk.org.publicwhip/debate/2014-03-25b.178.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.178.1" newgid="uk.org.publicwhip/debate/2014-03-25b.178.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.178.2" newgid="uk.org.publicwhip/debate/2014-03-25b.178.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.178.3" newgid="uk.org.publicwhip/debate/2014-03-25b.178.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.178.4" newgid="uk.org.publicwhip/debate/2014-03-25b.178.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.179.0" newgid="uk.org.publicwhip/debate/2014-03-25b.179.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.179.1" newgid="uk.org.publicwhip/debate/2014-03-25b.179.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.180.0" newgid="uk.org.publicwhip/debate/2014-03-25b.180.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.180.1" newgid="uk.org.publicwhip/debate/2014-03-25b.180.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.180.2" newgid="uk.org.publicwhip/debate/2014-03-25b.180.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.180.3" newgid="uk.org.publicwhip/debate/2014-03-25b.180.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.180.4" newgid="uk.org.publicwhip/debate/2014-03-25b.180.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.182.0" newgid="uk.org.publicwhip/debate/2014-03-25b.182.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.182.1" newgid="uk.org.publicwhip/debate/2014-03-25b.182.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.183.0" newgid="uk.org.publicwhip/debate/2014-03-25b.183.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.183.1" newgid="uk.org.publicwhip/debate/2014-03-25b.183.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.183.2" newgid="uk.org.publicwhip/debate/2014-03-25b.183.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.184.0" newgid="uk.org.publicwhip/debate/2014-03-25b.184.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.184.1" newgid="uk.org.publicwhip/debate/2014-03-25b.184.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.185.0" newgid="uk.org.publicwhip/debate/2014-03-25b.185.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.185.1" newgid="uk.org.publicwhip/debate/2014-03-25b.185.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.186.0" newgid="uk.org.publicwhip/debate/2014-03-25b.186.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.187.0" newgid="uk.org.publicwhip/debate/2014-03-25b.187.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.187.1" newgid="uk.org.publicwhip/debate/2014-03-25b.187.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.188.0" newgid="uk.org.publicwhip/debate/2014-03-25b.188.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.189.0" newgid="uk.org.publicwhip/debate/2014-03-25b.189.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.189.1" newgid="uk.org.publicwhip/debate/2014-03-25b.189.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.189.2" newgid="uk.org.publicwhip/debate/2014-03-25b.189.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.190.0" newgid="uk.org.publicwhip/debate/2014-03-25b.190.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.190.1" newgid="uk.org.publicwhip/debate/2014-03-25b.190.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.191.0" newgid="uk.org.publicwhip/debate/2014-03-25b.191.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.191.1" newgid="uk.org.publicwhip/debate/2014-03-25b.191.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.192.0" newgid="uk.org.publicwhip/debate/2014-03-25b.192.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.194.0" newgid="uk.org.publicwhip/debate/2014-03-25b.194.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.194.1" newgid="uk.org.publicwhip/debate/2014-03-25b.194.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.194.2" newgid="uk.org.publicwhip/debate/2014-03-25b.194.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.194.3" newgid="uk.org.publicwhip/debate/2014-03-25b.194.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.195.0" newgid="uk.org.publicwhip/debate/2014-03-25b.195.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.195.1" newgid="uk.org.publicwhip/debate/2014-03-25b.195.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.195.2" newgid="uk.org.publicwhip/debate/2014-03-25b.195.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.196.0" newgid="uk.org.publicwhip/debate/2014-03-25b.196.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.196.1" newgid="uk.org.publicwhip/debate/2014-03-25b.196.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.196.2" newgid="uk.org.publicwhip/debate/2014-03-25b.196.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.198.0" newgid="uk.org.publicwhip/debate/2014-03-25b.198.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.198.1" newgid="uk.org.publicwhip/debate/2014-03-25b.198.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.198.2" newgid="uk.org.publicwhip/debate/2014-03-25b.198.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.200.0" newgid="uk.org.publicwhip/debate/2014-03-25b.200.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.202.0" newgid="uk.org.publicwhip/debate/2014-03-25b.202.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.203.0" newgid="uk.org.publicwhip/debate/2014-03-25b.203.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.204.0" newgid="uk.org.publicwhip/debate/2014-03-25b.204.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.204.1" newgid="uk.org.publicwhip/debate/2014-03-25b.204.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.204.2" newgid="uk.org.publicwhip/debate/2014-03-25b.204.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.204.3" newgid="uk.org.publicwhip/debate/2014-03-25b.204.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.204.4" newgid="uk.org.publicwhip/debate/2014-03-25b.204.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.206.0" newgid="uk.org.publicwhip/debate/2014-03-25b.206.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.207.0" newgid="uk.org.publicwhip/debate/2014-03-25b.207.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.207.1" newgid="uk.org.publicwhip/debate/2014-03-25b.207.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.209.0" newgid="uk.org.publicwhip/debate/2014-03-25b.209.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.210.0" newgid="uk.org.publicwhip/debate/2014-03-25b.210.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.211.0" newgid="uk.org.publicwhip/debate/2014-03-25b.211.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.213.0" newgid="uk.org.publicwhip/debate/2014-03-25b.213.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.215.0" newgid="uk.org.publicwhip/debate/2014-03-25b.215.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.215.1" newgid="uk.org.publicwhip/debate/2014-03-25b.215.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.216.0" newgid="uk.org.publicwhip/debate/2014-03-25b.216.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.216.1" newgid="uk.org.publicwhip/debate/2014-03-25b.216.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.216.2" newgid="uk.org.publicwhip/debate/2014-03-25b.216.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.216.3" newgid="uk.org.publicwhip/debate/2014-03-25b.216.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.216.4" newgid="uk.org.publicwhip/debate/2014-03-25b.216.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.216.5" newgid="uk.org.publicwhip/debate/2014-03-25b.216.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.218.0" newgid="uk.org.publicwhip/debate/2014-03-25b.218.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.219.0" newgid="uk.org.publicwhip/debate/2014-03-25b.219.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.220.0" newgid="uk.org.publicwhip/debate/2014-03-25b.220.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.220.1" newgid="uk.org.publicwhip/debate/2014-03-25b.220.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.221.0" newgid="uk.org.publicwhip/debate/2014-03-25b.221.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.223.0" newgid="uk.org.publicwhip/debate/2014-03-25b.223.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.223.1" newgid="uk.org.publicwhip/debate/2014-03-25b.223.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.223.2" newgid="uk.org.publicwhip/debate/2014-03-25b.223.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.223.3" newgid="uk.org.publicwhip/debate/2014-03-25b.223.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.223.4" newgid="uk.org.publicwhip/debate/2014-03-25b.223.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.224.0" newgid="uk.org.publicwhip/debate/2014-03-25b.224.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.224.1" newgid="uk.org.publicwhip/debate/2014-03-25b.224.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.225.0" newgid="uk.org.publicwhip/debate/2014-03-25b.225.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.227.0" newgid="uk.org.publicwhip/debate/2014-03-25b.227.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.229.0" newgid="uk.org.publicwhip/debate/2014-03-25b.229.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.231.0" newgid="uk.org.publicwhip/debate/2014-03-25b.231.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.232.0" newgid="uk.org.publicwhip/debate/2014-03-25b.232.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.232.1" newgid="uk.org.publicwhip/debate/2014-03-25b.232.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.232.2" newgid="uk.org.publicwhip/debate/2014-03-25b.232.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.232.3" newgid="uk.org.publicwhip/debate/2014-03-25b.232.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.233.0" newgid="uk.org.publicwhip/debate/2014-03-25b.233.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.234.0" newgid="uk.org.publicwhip/debate/2014-03-25b.234.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.236.0" newgid="uk.org.publicwhip/debate/2014-03-25b.236.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.238.0" newgid="uk.org.publicwhip/debate/2014-03-25b.238.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.239.0" newgid="uk.org.publicwhip/debate/2014-03-25b.239.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.241.0" newgid="uk.org.publicwhip/debate/2014-03-25b.241.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.242.0" newgid="uk.org.publicwhip/debate/2014-03-25b.242.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.242.1" newgid="uk.org.publicwhip/debate/2014-03-25b.242.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.244.0" newgid="uk.org.publicwhip/debate/2014-03-25b.244.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.246.0" newgid="uk.org.publicwhip/debate/2014-03-25b.246.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.246.1" newgid="uk.org.publicwhip/debate/2014-03-25b.246.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.246.2" newgid="uk.org.publicwhip/debate/2014-03-25b.246.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.247.0" newgid="uk.org.publicwhip/debate/2014-03-25b.247.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.247.1" newgid="uk.org.publicwhip/debate/2014-03-25b.247.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.247.2" newgid="uk.org.publicwhip/debate/2014-03-25b.247.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.248.0" newgid="uk.org.publicwhip/debate/2014-03-25b.248.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.248.1" newgid="uk.org.publicwhip/debate/2014-03-25b.248.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.248.2" newgid="uk.org.publicwhip/debate/2014-03-25b.248.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.249.0" newgid="uk.org.publicwhip/debate/2014-03-25b.249.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.250.0" newgid="uk.org.publicwhip/debate/2014-03-25b.250.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.251.0" newgid="uk.org.publicwhip/debate/2014-03-25b.251.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.254.0" newgid="uk.org.publicwhip/debate/2014-03-25b.254.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.256.0" newgid="uk.org.publicwhip/debate/2014-03-25b.256.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.256.1" newgid="uk.org.publicwhip/debate/2014-03-25b.256.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.256.2" newgid="uk.org.publicwhip/debate/2014-03-25b.256.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.256.3" newgid="uk.org.publicwhip/debate/2014-03-25b.256.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.256.4" newgid="uk.org.publicwhip/debate/2014-03-25b.256.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.256.5" newgid="uk.org.publicwhip/debate/2014-03-25b.256.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.256.6" newgid="uk.org.publicwhip/debate/2014-03-25b.256.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.256.7" newgid="uk.org.publicwhip/debate/2014-03-25b.256.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.257.0" newgid="uk.org.publicwhip/debate/2014-03-25b.257.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.257.1" newgid="uk.org.publicwhip/debate/2014-03-25b.257.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.257.2" newgid="uk.org.publicwhip/debate/2014-03-25b.257.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.257.3" newgid="uk.org.publicwhip/debate/2014-03-25b.257.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.257.4" newgid="uk.org.publicwhip/debate/2014-03-25b.257.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.262.0" newgid="uk.org.publicwhip/debate/2014-03-25b.262.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.262.1" newgid="uk.org.publicwhip/debate/2014-03-25b.262.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.262.2" newgid="uk.org.publicwhip/debate/2014-03-25b.262.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.262.3" newgid="uk.org.publicwhip/debate/2014-03-25b.262.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.262.4" newgid="uk.org.publicwhip/debate/2014-03-25b.262.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.262.5" newgid="uk.org.publicwhip/debate/2014-03-25b.262.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.266.0" newgid="uk.org.publicwhip/debate/2014-03-25b.266.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.266.1" newgid="uk.org.publicwhip/debate/2014-03-25b.266.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.266.2" newgid="uk.org.publicwhip/debate/2014-03-25b.266.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.266.3" newgid="uk.org.publicwhip/debate/2014-03-25b.266.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.266.4" newgid="uk.org.publicwhip/debate/2014-03-25b.266.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.266.5" newgid="uk.org.publicwhip/debate/2014-03-25b.266.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.267.0" newgid="uk.org.publicwhip/debate/2014-03-25b.267.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.267.1" newgid="uk.org.publicwhip/debate/2014-03-25b.267.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.267.2" newgid="uk.org.publicwhip/debate/2014-03-25b.267.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.267.3" newgid="uk.org.publicwhip/debate/2014-03-25b.267.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.267.4" newgid="uk.org.publicwhip/debate/2014-03-25b.267.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.267.5" newgid="uk.org.publicwhip/debate/2014-03-25b.267.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.267.6" newgid="uk.org.publicwhip/debate/2014-03-25b.267.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.267.7" newgid="uk.org.publicwhip/debate/2014-03-25b.267.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.267.8" newgid="uk.org.publicwhip/debate/2014-03-25b.267.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.267.9" newgid="uk.org.publicwhip/debate/2014-03-25b.267.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.269.0" newgid="uk.org.publicwhip/debate/2014-03-25b.269.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.269.1" newgid="uk.org.publicwhip/debate/2014-03-25b.269.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.269.2" newgid="uk.org.publicwhip/debate/2014-03-25b.269.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.269.3" newgid="uk.org.publicwhip/debate/2014-03-25b.269.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.269.4" newgid="uk.org.publicwhip/debate/2014-03-25b.269.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.269.5" newgid="uk.org.publicwhip/debate/2014-03-25b.269.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.270.0" newgid="uk.org.publicwhip/debate/2014-03-25b.270.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.270.1" newgid="uk.org.publicwhip/debate/2014-03-25b.270.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.272.0" newgid="uk.org.publicwhip/debate/2014-03-25b.272.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.272.1" newgid="uk.org.publicwhip/debate/2014-03-25b.272.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.272.2" newgid="uk.org.publicwhip/debate/2014-03-25b.272.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.272.3" newgid="uk.org.publicwhip/debate/2014-03-25b.272.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.272.4" newgid="uk.org.publicwhip/debate/2014-03-25b.272.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.272.5" newgid="uk.org.publicwhip/debate/2014-03-25b.272.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.273.0" newgid="uk.org.publicwhip/debate/2014-03-25b.273.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.273.1" newgid="uk.org.publicwhip/debate/2014-03-25b.273.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.273.2" newgid="uk.org.publicwhip/debate/2014-03-25b.273.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.273.3" newgid="uk.org.publicwhip/debate/2014-03-25b.273.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.273.4" newgid="uk.org.publicwhip/debate/2014-03-25b.273.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.273.5" newgid="uk.org.publicwhip/debate/2014-03-25b.273.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.273.6" newgid="uk.org.publicwhip/debate/2014-03-25b.273.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.273.7" newgid="uk.org.publicwhip/debate/2014-03-25b.273.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.273.8" newgid="uk.org.publicwhip/debate/2014-03-25b.273.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.273.9" newgid="uk.org.publicwhip/debate/2014-03-25b.273.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.273.10" newgid="uk.org.publicwhip/debate/2014-03-25b.273.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.273.11" newgid="uk.org.publicwhip/debate/2014-03-25b.273.11" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.273.12" newgid="uk.org.publicwhip/debate/2014-03-25b.273.12" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.273.13" newgid="uk.org.publicwhip/debate/2014-03-25b.273.13" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.273.14" newgid="uk.org.publicwhip/debate/2014-03-25b.273.14" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.273.15" newgid="uk.org.publicwhip/debate/2014-03-25b.273.15" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.275.0" newgid="uk.org.publicwhip/debate/2014-03-25b.275.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.275.1" newgid="uk.org.publicwhip/debate/2014-03-25b.275.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2014-03-25a.275.1" nospeaker="true" colnum="275"  time="018:47:00" url="http://www.publications.parliament.uk/pa/cm201314/cmhansrd/cm140325/debtext/140325-0004.htm#140325-0004.htm_amdt109">
+	<p pid="a.275.1/1" class="italic">Resolved,</p>
+	<p pid="a.275.1/2">That&#8212;</p>
+	<p pid="a.275.1/3" class="indent">(1) Schedule 34 to the Finance Act 2004 (application of certain charges to non-UK pension schemes) is amended as follows.(2) In paragraph 10 (pension input amount for cash balance and defined benefits arrangements), for sub-paragraph (2) substitute&#8212;</p>
+	<p pid="a.275.1/4">&#8220;(2) The appropriate fraction is&#8212;</p>
+	<p pid="a.275.1/5">where&#8212;</p>
+	<p pid="a.275.1/6">EI is the total amount of employment income of the individual from any relevant employment or employments for the tax year, excluding any such income which is exempt income (within the meaning of section 8 of ITEPA 2003),</p>
+	<p pid="a.275.1/7">TE is so much of EI as constitutes taxable earnings from any such employment (within the meaning of section 10(2) of that Act), and</p>
+	<p pid="a.275.1/8">TSI is so much of EI as constitutes taxable specific income from any such employment (within the meaning of section 10(3) to (5) of that Act).&#8221;</p>
+	<p pid="a.275.1/9">(3) In paragraph 11 (pension input amount for other money purchase arrangements), for subparagraph (2) substitute&#8212;</p>
+	<p pid="a.275.1/10">&#8220;(2) The appropriate fraction is&#8212;</p>
+	<p pid="a.275.1/11">where&#8212;</p>
+	<p pid="a.275.1/12">EI is the total amount of employment income of the individual from any employment or employments with the employer for the tax year, excluding any such income which is exempt income (within the meaning of section 8 of ITEPA 2003),</p>
+	<p pid="a.275.1/13">TE is so much of EI as constitutes taxable earnings from any such employment (within the meaning of section 10(2) of that Act), and</p>
+	<p pid="a.275.1/14">TSI is so much of EI as constitutes taxable specific income from any such employment (within the meaning of section 10(3) to (5) of that Act).&#8221;</p>
+	<p pid="a.275.1/15">(4) The amendments made by this Resolution have effect for the tax year 2014-2015 and subsequent tax years.</p>
+	<p pid="a.275.1/16">And it is declared that it is expedient in the public interest that this Resolution should have statutory effect under the provisions of the Provisional Collection of Taxes Act 1968.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.275.2" newgid="uk.org.publicwhip/debate/2014-03-25b.275.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.275.3" newgid="uk.org.publicwhip/debate/2014-03-25b.275.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.275.4" newgid="uk.org.publicwhip/debate/2014-03-25b.275.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.275.5" newgid="uk.org.publicwhip/debate/2014-03-25b.275.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.279.0" newgid="uk.org.publicwhip/debate/2014-03-25b.279.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.279.1" newgid="uk.org.publicwhip/debate/2014-03-25b.279.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.280.0" newgid="uk.org.publicwhip/debate/2014-03-25b.280.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.280.1" newgid="uk.org.publicwhip/debate/2014-03-25b.280.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.280.2" newgid="uk.org.publicwhip/debate/2014-03-25b.280.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.280.3" newgid="uk.org.publicwhip/debate/2014-03-25b.280.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.281.0" newgid="uk.org.publicwhip/debate/2014-03-25b.281.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.281.1" newgid="uk.org.publicwhip/debate/2014-03-25b.281.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.281.2" newgid="uk.org.publicwhip/debate/2014-03-25b.281.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.281.3" newgid="uk.org.publicwhip/debate/2014-03-25b.281.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.281.4" newgid="uk.org.publicwhip/debate/2014-03-25b.281.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.281.5" newgid="uk.org.publicwhip/debate/2014-03-25b.281.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.281.6" newgid="uk.org.publicwhip/debate/2014-03-25b.281.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.281.7" newgid="uk.org.publicwhip/debate/2014-03-25b.281.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.281.8" newgid="uk.org.publicwhip/debate/2014-03-25b.281.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.281.9" newgid="uk.org.publicwhip/debate/2014-03-25b.281.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.281.10" newgid="uk.org.publicwhip/debate/2014-03-25b.281.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.281.11" newgid="uk.org.publicwhip/debate/2014-03-25b.281.11" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.281.12" newgid="uk.org.publicwhip/debate/2014-03-25b.281.12" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.281.13" newgid="uk.org.publicwhip/debate/2014-03-25b.281.13" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.281.14" newgid="uk.org.publicwhip/debate/2014-03-25b.281.14" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.281.15" newgid="uk.org.publicwhip/debate/2014-03-25b.281.15" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.282.0" newgid="uk.org.publicwhip/debate/2014-03-25b.282.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.282.1" newgid="uk.org.publicwhip/debate/2014-03-25b.282.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.282.2" newgid="uk.org.publicwhip/debate/2014-03-25b.282.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.282.3" newgid="uk.org.publicwhip/debate/2014-03-25b.282.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.282.4" newgid="uk.org.publicwhip/debate/2014-03-25b.282.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.282.5" newgid="uk.org.publicwhip/debate/2014-03-25b.282.5" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2014-03-25a.282.5" nospeaker="true" colnum="282"  time="018:47:00" url="http://www.publications.parliament.uk/pa/cm201314/cmhansrd/cm140325/debtext/140325-0004.htm#140325-0004.htm_para48">
+	<p pid="a.282.5/1" class="italic">Resolved,</p>
+	<p pid="a.282.5/2">That&#8212;</p>
+	<p pid="a.282.5/3" class="indent">(1) In Part 9 of the Income Tax (Trading and Other Income) Act 2005 (partnerships) after section 863 (limited liability partnerships) insert&#8212;</p>
+	<p pid="a.282.5/4" class="italic">&#8220;863A Limited liability partnerships: salaried members</p>
+	<p pid="a.282.5/5">(1) Subsection (2) applies at any time when conditions A to C in sections 863B to863D are met in the case of an individual (&#8220;M&#8221;) who is a member of a limited liability partnership in relation to which section 863(1) applies.</p>
+	<p pid="a.282.5/6">(2) For the purposes of the Income Tax Acts&#8212;</p>
+	<p pid="a.282.5/7">(a) M is to be treated as being employed by the limited liability partnership under a contract of service instead of being a member of the partnership, and</p>
+	<p pid="a.282.5/8">(b) accordingly, M&#8217;s rights and duties as a member of the limited liability partnership are to be treated as rights and duties under that contract of service.</p>
+	<p pid="a.282.5/9">(3) This section needs to be read with section 863G (anti-avoidance).</p>
+	<p pid="a.282.5/10" class="italic">863B Condition A</p>
+	<p pid="a.282.5/11">(1) The question of whether condition A is met is to be determined at the following times&#8212;</p>
+	<p pid="a.282.5/12">(a) if relevant arrangements are in place&#8212;</p>
+	<p pid="a.282.5/13">(i) at the beginning of the tax year 2014-15, or</p>
+	<p pid="a.282.5/14">(ii) if later, when M becomes a member of the limited liability partnership,</p>
+	<p pid="a.282.5/15">at the time mentioned in sub-paragraph (i) or (ii) (as the case may be);</p>
+	<p pid="a.282.5/16">(b) at any subsequent time when relevant arrangements are put in place or modified;</p>
+	<p pid="a.282.5/17">(c) where&#8212;</p>
+	<p pid="a.282.5/18">(i) the question has previously been determined, and</p>
+	<p pid="a.282.5/19">(ii) the relevant arrangements which were in place at the time of the previous determination do not end, and are not modified, by the end of the period which was the relevant period for the purposes of the previous determination (see step 1 in subsection (3)), immediately after the end of that period.</p>
+	<p pid="a.282.5/20">(2) &#8220;Relevant arrangements&#8221; means arrangements under which amounts are to be, or may be, payable by the limited liability partnership in respect of M&#8217;s performance of services for the partnership in M&#8217;s capacity as a member of the partnership.</p>
+	<p pid="a.282.5/21">(3) Take the following steps to determine whether condition A is met at a time (&#8220;the relevant time&#8221;).</p>
+	<p pid="a.282.5/22">Step 1</p>
+	<p pid="a.282.5/23">Identify the relevant period by reference to the relevant arrangements which are in place at the relevant time.</p>
+	<p pid="a.282.5/24">&#8220;The relevant period&#8221; means the period&#8212;</p>
+	<p pid="a.282.5/25">(a) beginning with the relevant time, and</p>
+	<p pid="a.282.5/26">(b) ending at the time when, as at the relevant time, it is reasonable to expect that the relevant arrangements will end or be modified.</p>
+	<p pid="a.282.5/27">Step 2</p>
+	<p pid="a.282.5/28">Condition A is met if, at the relevant time, it is reasonable to expect that at least 80% of the total amount payable by the limited liability partnership in respect of M&#8217;s performance during the relevant period of services for the partnership in M&#8217;s capacity as a member of the partnership will be disguised salary.</p>
+	<p pid="a.282.5/29">An amount within the total amount is &#8220;disguised salary&#8221; if it&#8212;</p>
+	<p pid="a.282.5/30">(a) is fixed,</p>
+	<p pid="a.282.5/31">(b) is variable, but is varied without reference to the overall amount of the profits or losses of the limited liability partnership, or</p>
+	<p pid="a.282.5/32">(c) is not, in practice, affected by the overall amount of those profits or losses.</p>
+	<p pid="a.282.5/33">(4) If condition A is determined to be met, or not to be met, at a time, the condition is to be treated as met, or as not met, at all subsequent times until the question is required to be re-determined under subsection (1)(b) or (c).</p>
+	<p pid="a.282.5/34">(5) In this section &#8220;arrangements&#8221; includes any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable).</p>
+	<p pid="a.282.5/35" class="italic">863C Condition B</p>
+	<p pid="a.282.5/36">Condition B is that the mutual rights and duties of the members of the limited liability partnership, and of the partnership and its members, do not give M significant influence over the affairs of the partnership.</p>
+	<p pid="a.282.5/37" class="italic">863D Condition C</p>
+	<p pid="a.282.5/38">(1) Condition C is that, at the time at which it is being determined whether the condition is met (&#8220;the relevant time&#8221;), M&#8217;s contribution to the limited liability partnership (see sections 863E and 863F) is less than 25% of the amount given by subsection (2) (subject to subsection (7)).</p>
+	<p pid="a.282.5/39">(2) That amount is the total amount of the disguised salary which, at the relevant time, it is reasonable to expect will be payable by the limited liability partnership in respect of M&#8217;s performance during the relevant tax year of services for the partnership in M&#8217;s capacity as a member of the partnership.</p>
+	<p pid="a.282.5/40">In this section &#8220;the relevant tax year&#8221; means the tax year in which the relevant time falls and an amount is &#8220;disguised salary&#8221; if it falls within any of paragraphs (a) to (c) at step 2 in section 863B(3).</p>
+	<p pid="a.282.5/41">(3) The question of whether condition C is met is to be determined&#8212;</p>
+	<p pid="a.282.5/42">(a) at the beginning of the tax year 2014-15 or, if later, the time at which M becomes a member of the limited liability partnership;</p>
+	<p pid="a.282.5/43">(b) after that, at the beginning of each tax year.</p>
+	<p pid="a.282.5/44">(4) If in a tax year&#8212;</p>
+	<p pid="a.282.5/45">(a) there is a change in M&#8217;s contribution to the limited liability partnership, or</p>
+	<p pid="a.282.5/46">(b) there is otherwise a change of circumstances which might affect the question of whether condition C is met,</p>
+	<p pid="a.282.5/47">the question of whether the condition is met is to be re-determined at the time of the change.</p>
+	<p pid="a.282.5/48">This subsection is subject to section 863F(3).</p>
+	<p pid="a.282.5/49">(5) If condition C is determined to be met (including by virtue of subsection (7)), or not to be met, at the relevant time, the condition is to be treated as met, or as not met, at all subsequent times until the question is required to be re-determined under subsection (3)(b) or (4).</p>
+	<p pid="a.282.5/50">(6) Subsection (7) applies if&#8212;</p>
+	<p pid="a.282.5/51">(a) the relevant time coincides with an increase in M&#8217;s contribution to the limited liability partnership, and</p>
+	<p pid="a.282.5/52">(b) apart from subsection (7), that increase would cause condition C not to be met at the relevant time.</p>
+	<p pid="a.282.5/53">(7) Condition C is to be treated as met at the relevant time unless, at that time, it is reasonable to expect that condition C will not be met for the remainder of the relevant tax year (ignoring this subsection).</p>
+	<p pid="a.282.5/54">(8) If there are any excluded days in the relevant tax year (see subsections (9) to (11)), in subsection (1) the reference to M&#8217;s contribution to the limited liability partnership is to be read as a reference to that contribution multiplied by the following fraction&#8212;</p>
+	<p pid="a.282.5/55">where&#8212;</p>
+	<p pid="a.282.5/56">D is the number of days in the relevant tax year, and</p>
+	<p pid="a.282.5/57">E is the number of excluded days in the relevant tax year.</p>
+	<p pid="a.282.5/58">(9) Any day in the relevant tax year&#8212;</p>
+	<p pid="a.282.5/59">(a) which is before the day on which the relevant time falls, and</p>
+	<p pid="a.282.5/60">(b) on which M is not a member of the limited liability partnership, is an &#8220;excluded&#8221; day for the purposes of subsection (8).</p>
+	<p pid="a.282.5/61">(10) If, at the relevant time, it is reasonable to expect that M will not be a member of the limited liability partnership for the remainder of the relevant tax year, any day in the relevant tax year&#8212;</p>
+	<p pid="a.282.5/62">(a) which is after the day on which the relevant time falls, and</p>
+	<p pid="a.282.5/63">(b) on which it is reasonable to expect that M will not be a member of the limited liability partnership,</p>
+	<p pid="a.282.5/64">is an &#8220;excluded&#8221; day for the purposes of subsection (8).</p>
+	<p pid="a.282.5/65">(11) If the relevant time coincides with an increase in M&#8217;s contribution to the limited liability partnership, any day in the relevant tax year&#8212;</p>
+	<p pid="a.282.5/66">(a) which is before the day on which the relevant time falls, and</p>
+	<p pid="a.282.5/67">(b) on which condition C is met, is an &#8220;excluded&#8221; day for the purposes of subsection (8).</p>
+	<p pid="a.282.5/68">(12) In subsections (6) and (11) references to an increase in M&#8217;s contribution to the limited liability partnership include (in particular)&#8212;</p>
+	<p pid="a.282.5/69">(a) the making of M&#8217;s first contribution to the capital of the limited liability partnership, and</p>
+	<p pid="a.282.5/70">(b) M being treated as having made a contribution by section 863F(2).</p>
+	<p pid="a.282.5/71" class="italic">863E M&#8217;s contribution to the limited liability partnership: the basic calculation</p>
+	<p pid="a.282.5/72">(1) For the purposes of condition C in section 863D M&#8217;s contribution to the limited liability partnership at a time is amount A.</p>
+	<p pid="a.282.5/73">(2) Amount A is the total amount which M has contributed to the limited liability partnership as capital less so much of that amount (if any) as is within subsection (6).</p>
+	<p pid="a.282.5/74">(3) In particular, M&#8217;s share of any profits of the limited liability partnership is to be included in the amount which M has contributed to the partnership as capital so far as that share has been added to the partnership&#8217;s capital.</p>
+	<p pid="a.282.5/75">(4) In subsection (3) the reference to profits is to profits calculated in accordance with generally accepted accounting practice (before any adjustment required or authorised by law in calculating profits for income tax purposes).</p>
+	<p pid="a.282.5/76">(5) Subsection (3) applies as well for the purpose of construing references to contributions to the capital of the limited liability partnership in sections 863D(12)(a) and 863F.</p>
+	<p pid="a.282.5/77">(6) An amount of capital is within this subsection if it is an amount which&#8212;</p>
+	<p pid="a.282.5/78">(a) M has previously drawn out or received back,</p>
+	<p pid="a.282.5/79">(b) M is or may be entitled to draw out or receive back at any time when M is a member of the limited liability partnership, or</p>
+	<p pid="a.282.5/80">(c) M is or may be entitled to require another person to reimburse to M.</p>
+	<p pid="a.282.5/81">(7) In subsection (6) any reference to drawing out or receiving back an amount is to doing so directly or indirectly.</p>
+	<p pid="a.282.5/82" class="italic">863F M&#8217;s contribution to the limited liability partnership: deemed contributions</p>
+	<p pid="a.282.5/83">(1) This section applies if&#8212;</p>
+	<p pid="a.282.5/84">(a) by the time mentioned in section 863D(3)(a), M has given an undertaking (whether or not legally enforceable) to make a contribution to the capital of the limited liability partnership but has not made the contribution,</p>
+	<p pid="a.282.5/85">(b) the undertaking requires M to make the contribution by the end of&#8212;</p>
+	<p pid="a.282.5/86">(i) the period of 3 months ending with <phrase class="date" code="2014-07-05">5 July 2014</phrase>, or</p>
+	<p pid="a.282.5/87">(ii) if it ends after that date, the period of 2 months beginning with the date on which M becomes a member of the limited liability partnership, and</p>
+	<p pid="a.282.5/88">(c) when it is made, the contribution will be included in amount A under section 863E.</p>
+	<p pid="a.282.5/89">In the following subsections &#8220;the relevant period&#8221; means the period mentioned in paragraph (b)(i) or (ii) (as the case may be).</p>
+	<p pid="a.282.5/90">(2) For the purpose of determining whether condition C in section 863D is met&#8212;</p>
+	<p pid="a.282.5/91">(a) at the time mentioned in section 863D(3)(a), or</p>
+	<p pid="a.282.5/92">(b) at any subsequent time during the relevant period,</p>
+	<p pid="a.282.5/93">M is to be treated as having made the contribution at the time mentioned in section 863D(3)(a) (so far as M has not (actually) made the contribution at the time at which it is being determined whether condition C is met).</p>
+	<p pid="a.282.5/94">(3) If M (actually) makes the contribution (in whole or in part) during the relevant period, the question of whether condition C is met is not to be re-determined under section 863D(4) just because of the making of the contribution (in whole or in part).</p>
+	<p pid="a.282.5/95">(4) If M does not (actually) make the contribution (in whole or in part) by the end of the relevant period, any determination in relation to which subsection (2) applied is to be made again (as at the time at which it was originally made).</p>
+	<p pid="a.282.5/96">(5) In making a determination again&#8212;</p>
+	<p pid="a.282.5/97">(a) if it is the whole of the contribution which M does not make by the end of the relevant period, subsection (2) is to be ignored;</p>
+	<p pid="a.282.5/98">(b) if M makes part of the contribution by the end of the relevant period, in subsection (2) references to the contribution are to be read as references to that part of it.</p>
+	<p pid="a.282.5/99" class="italic">863G Anti-avoidance</p>
+	<p pid="a.282.5/100">(1) In determining whether section 863A(2) applies in the case of an individual who is a member of a limited liability partnership, no regard is to be had to any arrangements the main purpose, or one of the main purposes, of which is to secure that section 863A(2) does not apply in the case of&#8212;</p>
+	<p pid="a.282.5/101">(a) the individual, or</p>
+	<p pid="a.282.5/102">(b) the individual and one or more other individuals.</p>
+	<p pid="a.282.5/103">(2) Subsection (4) applies if&#8212;</p>
+	<p pid="a.282.5/104">(a) an individual (&#8220;X&#8221;) personally performs services for a limited liability partnership at a time when X is not a member of the partnership,</p>
+	<p pid="a.282.5/105">(b) X performs the services under arrangements involving a member of the limited liability partnership (&#8220;Y&#8221;) who is not an individual,</p>
+	<p pid="a.282.5/106">(c) the main purpose, or one of the main purposes, of those arrangements is to secure that section 863A(2) does not apply in the case of X or in the case of X and one or more other individuals, and</p>
+	<p pid="a.282.5/107">(d) in relation to X&#8217;s performance of the services, an amount falling within subsection (3) arises to Y in respect of Y&#8217;s membership of the limited liability partnership.</p>
+	<p pid="a.282.5/108">(3) An amount falls within this subsection if&#8212;</p>
+	<p pid="a.282.5/109">(a) were X performing the services under a contract of service by which X were employed by the limited liability partnership, and</p>
+	<p pid="a.282.5/110">(b) were the amount to arise to X directly from the limited liability partnership,</p>
+	<p pid="a.282.5/111">the amount would be employment income of X in respect of the employment.</p>
+	<p pid="a.282.5/112">(4) If this subsection applies, in relation to X&#8217;s performance of the services, X is to be treated on the following basis&#8212;</p>
+	<p pid="a.282.5/113">(a) X is a member of the limited liability partnership in whose case section 863A(2) applies,</p>
+	<p pid="a.282.5/114">(b) the amount arising to Y arises instead to X directly from the limited liability partnership,</p>
+	<p pid="a.282.5/115">(c) that amount is employment income of X in respect of the employment under section 863A(2) accordingly, and</p>
+	<p pid="a.282.5/116">(d) neither that amount, nor any amount representing that amount, is to be income of X for income tax purposes on any other basis.</p>
+	<p pid="a.282.5/117">(5) In this section &#8220;arrangements&#8221; includes any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable).&#8221;</p>
+	<p pid="a.282.5/118">(2) In Part 17 of the Corporation Tax Act 2009 (partnerships) after section 1273 (limited liability partnerships) insert&#8212;</p>
+	<p pid="a.282.5/119" class="italic">&#8220;1273A Limited liability partnerships: salaried members</p>
+	<p pid="a.282.5/120">(1) Subsection (2) applies at any time when section 863A(2) of ITTOIA 2005 (limited liability partnerships: salaried members) applies in the case of an individual (&#8220;M&#8221;) who is a member of a limited liability partnership in relation to which section 1273(1) applies.</p>
+	<p pid="a.282.5/121">(2) In relation to the charge to corporation tax on income, for the purposes of the Corporation Tax Acts&#8212;</p>
+	<p pid="a.282.5/122">(a) M is to be treated as being employed by the limited liability partnership under a contract of service instead of being a member of the partnership, and</p>
+	<p pid="a.282.5/123">(b) accordingly, M&#8217;s rights and duties as a member of the limited liability partnership are to be treated as rights and duties under that contract of service.&#8221;</p>
+	<p pid="a.282.5/124">(3) The Income Tax (Trading and Other Income) Act 2005 is amended as follows.(4) At the end of Chapter 5 of Part 2 (trade profits: rules allowing deductions) insert&#8212;</p>
+	<p pid="a.282.5/125" class="italic">&#8220;Limited liability partnerships: salaried members</p>
+	<p pid="a.282.5/126" class="italic">94AA Deductions in relation to salaried members</p>
+	<p pid="a.282.5/127">(1) This section applies in relation to a limited liability partnership if section 863A(2) (limited liability partnerships: salaried members) applies in the case of a member of the partnership (&#8220;M&#8221;).</p>
+	<p pid="a.282.5/128">(2) In calculating for a period of account under section 849 (calculation of firm&#8217;s profits and losses) the profits of a trade carried on by the limited liability partnership, a deduction is allowed for expenses paid by the partnership in respect of M&#8217;s employment under section 863A(2) if no deduction would otherwise be allowed for the payment.</p>
+	<p pid="a.282.5/129">(3) This section is subject to section 33 (capital expenditure), section 34 (expenses not wholly and exclusively for trade etc), section 45 (business entertainment and gifts) and section 53 (social security contributions).&#8221;</p>
+	<p pid="a.282.5/130">(5) In Chapter 3 of Part 3 (profits of property businesses: basic rules), in the table in section 272(2) (application of trading income rules), after the entry for section 94A insert&#8212;</p>
+	<table>
+		<tbody>
+			<tr pid="a.282.5/133"> <td colspan="1" rowspan="1">&#8220;Section 94AA</td> <td colspan="1" rowspan="1">Deductions in relation to salaried of limited liability partnerships&#8221;</td> </tr>
+		</tbody>
+	</table>
+	<p pid="a.282.5/136">(6) The Corporation Tax Act 2009 is amended as follows.(7) At the end of Chapter 5 of Part 3 (trade profits: rules allowing deductions) insert&#8212;</p>
+	<p pid="a.282.5/137" class="italic">&#8220;Limited liability partnerships: salaried members</p>
+	<p pid="a.282.5/138" class="italic">92A Deductions in relation to salaried members</p>
+	<p pid="a.282.5/139">(1) This section applies in relation to a limited liability partnership if section 1273A(2) (limited liability partnerships: salaried members) applies in the case of a member of the partnership (&#8220;M&#8221;).</p>
+	<p pid="a.282.5/140">(2) In calculating for an accounting period under section 1259 (calculation of firm&#8217;s profits and losses) the profits of a trade carried on by the limited liability partnership, a deduction is allowed for expenses paid by the partnership in respect of M&#8217;s employment under section 1273A(2) if no</p>
+	<p pid="a.282.5/141">deduction would otherwise be allowed for the payment.</p>
+	<p pid="a.282.5/142">(3) This section is subject to&#8212;</p>
+	<p pid="a.282.5/143">(a) section 53 (capital expenditure),</p>
+	<p pid="a.282.5/144">(b) section 54 (expenses not wholly and exclusively for trade etc),</p>
+	<p pid="a.282.5/145">(c) section 1298 (business entertainment and gifts), and</p>
+	<p pid="a.282.5/146">(d) section 1302 (social security contributions).&#8221;</p>
+	<p pid="a.282.5/147">(8) In Chapter 3 of Part 4 (profits of property businesses: basic rules), in the table in section 210(2) (application of trading income rules), after the entry for section 92 insert&#8212;</p>
+	<table>
+		<tbody>
+			<tr pid="a.282.5/150"> <td colspan="1" rowspan="1">&#8220;Section 92A</td> <td colspan="1" rowspan="1">Deductions in relation to salaried members of limited liability partnerships&#8221;</td> </tr>
+		</tbody>
+	</table>
+	<p pid="a.282.5/153">(9) In Chapter 2 of Part 16 (companies with investment business: management expenses)&#8212;</p>
+	<p pid="a.282.5/154">(a) in section 1224(1) (accounting period to which expenses are referable) for &#8220;1227&#8221; substitute &#8220;1227A&#8221;, and</p>
+	<p pid="a.282.5/155">(b) after section 1227 insert&#8212;</p>
+	<p pid="a.282.5/156" class="italic">&#8220;1227A Management expenses in relation to salaried members of limited liability partnerships</p>
+	<p pid="a.282.5/157">(1) This section applies in relation to a company if&#8212;</p>
+	<p pid="a.282.5/158">(a) as a member of a limited liability partnership, the company is a company with investment business,</p>
+	<p pid="a.282.5/159">(b) section 1273A(2) (limited liability partnerships: salaried members) applies in the case of a member of the partnership (&#8220;M&#8221;), and</p>
+	<p pid="a.282.5/160">(c) expenses of management of the company&#8217;s investment business are paid in respect of M&#8217;s employment under section 1273A(2) but are not referable to any accounting period under sections 1225 to 1227.</p>
+	<p pid="a.282.5/161">(2) The expenses are to be treated as referable to the accounting period in which they are paid.&#8221;</p>
+	<p pid="a.282.5/162">(10) In Chapter 8 of Part 2 of the Income Tax (Earnings and Pensions) Act 2003 (application of provisions to workers under arrangements made by intermediaries) in section 54 (deemed employment payment) after subsection (1) insert&#8212;</p>
+	<p pid="a.282.5/163">&#8220;(1A) For the purposes of step 1 of subsection (1), any payment or benefit which is employment income of the worker by virtue of section 863G(4) of ITTOIA 2005 (salaried members of limited liability partnerships: anti-avoidance) is to be ignored.&#8221;</p>
+	<p pid="a.282.5/164">(11) The amendments made by this Resolution come into force on <phrase class="date" code="2014-04-06">6 April 2014</phrase>.</p>
+	<p pid="a.282.5/165">And it is declared that it is expedient in the public interest that this Resolution should have statutory effect under the provisions of the Provisional Collection of Taxes Act 1968.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.288.0" newgid="uk.org.publicwhip/debate/2014-03-25b.288.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.288.1" newgid="uk.org.publicwhip/debate/2014-03-25b.288.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.288.2" newgid="uk.org.publicwhip/debate/2014-03-25b.288.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.288.3" newgid="uk.org.publicwhip/debate/2014-03-25b.288.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.288.4" newgid="uk.org.publicwhip/debate/2014-03-25b.288.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.288.5" newgid="uk.org.publicwhip/debate/2014-03-25b.288.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.289.0" newgid="uk.org.publicwhip/debate/2014-03-25b.289.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.289.1" newgid="uk.org.publicwhip/debate/2014-03-25b.289.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.289.2" newgid="uk.org.publicwhip/debate/2014-03-25b.289.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.289.3" newgid="uk.org.publicwhip/debate/2014-03-25b.289.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.291.0" newgid="uk.org.publicwhip/debate/2014-03-25b.291.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.291.1" newgid="uk.org.publicwhip/debate/2014-03-25b.291.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.291.2" newgid="uk.org.publicwhip/debate/2014-03-25b.291.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.291.3" newgid="uk.org.publicwhip/debate/2014-03-25b.291.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.293.0" newgid="uk.org.publicwhip/debate/2014-03-25b.293.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.293.1" newgid="uk.org.publicwhip/debate/2014-03-25b.293.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.296.0" newgid="uk.org.publicwhip/debate/2014-03-25b.296.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.296.1" newgid="uk.org.publicwhip/debate/2014-03-25b.296.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.297.0" newgid="uk.org.publicwhip/debate/2014-03-25b.297.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.297.1" newgid="uk.org.publicwhip/debate/2014-03-25b.297.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.297.2" newgid="uk.org.publicwhip/debate/2014-03-25b.297.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.297.3" newgid="uk.org.publicwhip/debate/2014-03-25b.297.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.298.0" newgid="uk.org.publicwhip/debate/2014-03-25b.298.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.298.1" newgid="uk.org.publicwhip/debate/2014-03-25b.298.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.299.0" newgid="uk.org.publicwhip/debate/2014-03-25b.299.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.299.1" newgid="uk.org.publicwhip/debate/2014-03-25b.299.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.299.2" newgid="uk.org.publicwhip/debate/2014-03-25b.299.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.299.3" newgid="uk.org.publicwhip/debate/2014-03-25b.299.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.299.4" newgid="uk.org.publicwhip/debate/2014-03-25b.299.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.299.5" newgid="uk.org.publicwhip/debate/2014-03-25b.299.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.299.6" newgid="uk.org.publicwhip/debate/2014-03-25b.299.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.299.7" newgid="uk.org.publicwhip/debate/2014-03-25b.299.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.300.0" newgid="uk.org.publicwhip/debate/2014-03-25b.300.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.300.1" newgid="uk.org.publicwhip/debate/2014-03-25b.300.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.301.0" newgid="uk.org.publicwhip/debate/2014-03-25b.301.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.301.1" newgid="uk.org.publicwhip/debate/2014-03-25b.301.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.302.0" newgid="uk.org.publicwhip/debate/2014-03-25b.302.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.302.1" newgid="uk.org.publicwhip/debate/2014-03-25b.302.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.302.2" newgid="uk.org.publicwhip/debate/2014-03-25b.302.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.302.3" newgid="uk.org.publicwhip/debate/2014-03-25b.302.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.303.0" newgid="uk.org.publicwhip/debate/2014-03-25b.303.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.303.1" newgid="uk.org.publicwhip/debate/2014-03-25b.303.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.304.0" newgid="uk.org.publicwhip/debate/2014-03-25b.304.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.304.1" newgid="uk.org.publicwhip/debate/2014-03-25b.304.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.305.0" newgid="uk.org.publicwhip/debate/2014-03-25b.305.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.305.1" newgid="uk.org.publicwhip/debate/2014-03-25b.305.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.305.2" newgid="uk.org.publicwhip/debate/2014-03-25b.305.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.305.3" newgid="uk.org.publicwhip/debate/2014-03-25b.305.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.305.4" newgid="uk.org.publicwhip/debate/2014-03-25b.305.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.305.5" newgid="uk.org.publicwhip/debate/2014-03-25b.305.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.305.6" newgid="uk.org.publicwhip/debate/2014-03-25b.305.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.305.7" newgid="uk.org.publicwhip/debate/2014-03-25b.305.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.305.8" newgid="uk.org.publicwhip/debate/2014-03-25b.305.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.305.9" newgid="uk.org.publicwhip/debate/2014-03-25b.305.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.305.10" newgid="uk.org.publicwhip/debate/2014-03-25b.305.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.305.11" newgid="uk.org.publicwhip/debate/2014-03-25b.305.11" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.306.0" newgid="uk.org.publicwhip/debate/2014-03-25b.306.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.306.1" newgid="uk.org.publicwhip/debate/2014-03-25b.306.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.306.2" newgid="uk.org.publicwhip/debate/2014-03-25b.306.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.306.3" newgid="uk.org.publicwhip/debate/2014-03-25b.306.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.306.4" newgid="uk.org.publicwhip/debate/2014-03-25b.306.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.306.5" newgid="uk.org.publicwhip/debate/2014-03-25b.306.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.306.6" newgid="uk.org.publicwhip/debate/2014-03-25b.306.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.306.7" newgid="uk.org.publicwhip/debate/2014-03-25b.306.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.307.0" newgid="uk.org.publicwhip/debate/2014-03-25b.307.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.307.1" newgid="uk.org.publicwhip/debate/2014-03-25b.307.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.307.2" newgid="uk.org.publicwhip/debate/2014-03-25b.307.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.307.3" newgid="uk.org.publicwhip/debate/2014-03-25b.307.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2014-03-25a.307.3" nospeaker="true" colnum="307"  time="018:47:00" url="http://www.publications.parliament.uk/pa/cm201314/cmhansrd/cm140325/debtext/140325-0005.htm#140325-0005.htm_amdt128">
+	<p pid="a.307.3/1" class="italic">Resolved,</p>
+	<p pid="a.307.3/2">That&#8212;</p>
+	<p pid="a.307.3/3" class="indent">(1) Part 4 of the Finance Act 1986 (stamp duty reserve tax) is amended as follows.(2) In section 99 (interpretation), after subsection (4A) insert&#8212;</p>
+	<p pid="a.307.3/4">&#8220;(4B) &#8220;Chargeable securities&#8221; does not include securities falling within paragraph (a), (b) or (c) of subsection (3) which are admitted to trading on a recognised growth market but not listed on that or any other market.</p>
+	<p pid="a.307.3/5">(4C) In subsection (4B), &#8220;listed&#8221; and &#8220;recognised growth market&#8221; are to be construed in accordance with section 99A.&#8221;</p>
+	<p pid="a.307.3/6">(3) After that section insert&#8212;</p>
+	<p pid="a.307.3/7" class="italic">&#8220;99A Section 99(4B): &#8220;listed&#8221; and &#8220;recognised growth market&#8221;</p>
+	<p pid="a.307.3/8">(1) This section applies for the purposes of section 99(4B).</p>
+	<p pid="a.307.3/9">(2) Section 1005(3) to (5) of the Income Tax Act 2007 (meaning of &#8220;listed&#8221; etc) applies as it applies in relation to the Income Tax Acts.</p>
+	<p pid="a.307.3/10">(3) &#8220;Recognised growth market&#8221; means a market recognised as a growth market by the Commissioners for Her Majesty&#8217;s Revenue and Customs.</p>
+	<p pid="a.307.3/11">(4) On an application made by a market, the market is to be recognised by the Commissioners as a growth market if, and only if, the Commissioners are satisfied, on the basis of evidence provided by the market, that the market qualifies for recognition.</p>
+	<p pid="a.307.3/12">(5) A market qualifies for recognition at any time (&#8220;the relevant time&#8221;) if it is a recognised stock exchange which meets one or both of the following conditions&#8212;</p>
+	<p pid="a.307.3/13">(a) a majority of the companies whose stock or marketable securities are admitted to trading on the market are companies with market capitalisations of less than &#163;170 million;</p>
+	<p pid="a.307.3/14">(b) the Commissioners are satisfied that the admission requirements of the market include provision requiring companies to demonstrate compounded annual growth in gross revenue or employment of at least 20% over the last three periods of account preceding admission (&#8220;the pre-admission periods&#8221;).</p>
+	<p pid="a.307.3/15">(6) In subsection (5)&#8212;</p>
+	<p pid="a.307.3/16">&#8220;period of account&#8221; of a company means a period for which the company draws up accounts;</p>
+	<p pid="a.307.3/17">&#8220;recognised stock exchange&#8221; has the meaning given by section 1005(1) of the Income Tax Act 2007.</p>
+	<p pid="a.307.3/18">(7) For the purposes of subsection (5)(a) a company&#8217;s market capitalisation at the relevant time is the average of the closing market capitalisations of the company on the last trading day of each calendar month (or part of a calendar month) in the qualifying period.(8) &#8220;The qualifying period&#8221; means whichever is the shorter of&#8212;</p>
+	<p pid="a.307.3/19">(a) the last three calendar years preceding the relevant time, or</p>
+	<p pid="a.307.3/20">(b) the period beginning with the day on which the company is admitted to trading on the market and ending at the end of the last calendar year preceding the relevant time.</p>
+	<p pid="a.307.3/21">(9) For the purposes of subsection (5)(a), a company is to be disregarded if it is admitted to trading on the market in the calendar year in which the relevant time falls.(10) In the case of a company with a market capitalisation in a currency other than sterling, the closing market capitalisation for the last trading day of any calendar month is to be taken, for the purposes of subsection (7), to be the sterling equivalent of that capitalisation (calculated by reference to the spot rate of exchange for that last trading day).(11) For the purposes of subsection (5)(b), the percentage of the compounded annual growth in gross revenue over the pre-admission periods is calculated by applying the formula&#8212;</p>
+	<p pid="a.307.3/22">where&#8212;</p>
+	<p pid="a.307.3/23">&#8220;EV&#8221; is the company&#8217;s gross revenue for the last of the pre-admission periods,</p>
+	<p pid="a.307.3/24">&#8220;BV&#8221; is the company&#8217;s gross revenue for the period of account immediately preceding the pre-admission periods.</p>
+	<p pid="a.307.3/25">(12) For those purposes, the percentage of the compounded annual growth in employment over the pre-admission periods is calculated by applying the formula&#8212;</p>
+	<p pid="a.307.3/26">where&#8212;</p>
+	<p pid="a.307.3/27">&#8220;EV&#8221; is the number of employees of the company at the end of the last of the pre-admission periods,</p>
+	<p pid="a.307.3/28">&#8220;BV&#8221; is the number of employees of the company at the end of the period of account immediately preceding the pre-admission periods.</p>
+	<p pid="a.307.3/29">(13) The Treasury may by regulations make provision for the revocation by the Commissioners of a recognition under this section and about the consequences of a revocation.</p>
+	<p pid="a.307.3/30">(14) Regulations under this section may contain incidental, supplemental, consequential and transitional provision and savings.</p>
+	<p pid="a.307.3/31">(15) The power to make regulations under this section is exercisable by statutory instrument, and any statutory instrument containing such regulations is subject to annulment in pursuance of a resolution of the House of Commons.</p>
+	<p pid="a.307.3/32">(16) This section is to be construed as one with the Stamp Act 1891.&#8221;</p>
+	<p pid="a.307.3/33">(4) The amendment made by paragraph (2) has effect in relation to any agreement to transfer securities&#8212;</p>
+	<p pid="a.307.3/34">(c) where the agreement is conditional, if the condition is satisfied on or after <phrase class="date" code="2014-04-28">28 April 2014</phrase>, and</p>
+	<p pid="a.307.3/35">(d) in any other case, if the agreement is made on or after that date.</p>
+	<p pid="a.307.3/36">(5) The amendment made by paragraph (3) comes into force on <phrase class="date" code="2014-04-28">28 April 2014</phrase>. (6) Where, having been satisfied as mentioned in subsection (4) of section 99A of the Finance Act 1986, the Commissioners for Her Majesty&#8217;s Revenue and Customs have recognised a market as a growth market in anticipation of the coming into force of the amendment made by paragraph (3), that recognition has effect on and after <phrase class="date" code="2014-04-28">28 April 2014</phrase> as if it were a recognition under that section.</p>
+	<p pid="a.307.3/37">And it is declared that it is expedient in the public interest that this Resolution should have statutory effect under the provisions of the Provisional Collection of Taxes Act 1968.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.309.0" newgid="uk.org.publicwhip/debate/2014-03-25b.309.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.309.1" newgid="uk.org.publicwhip/debate/2014-03-25b.309.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.309.2" newgid="uk.org.publicwhip/debate/2014-03-25b.309.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.309.3" newgid="uk.org.publicwhip/debate/2014-03-25b.309.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.309.4" newgid="uk.org.publicwhip/debate/2014-03-25b.309.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.309.5" newgid="uk.org.publicwhip/debate/2014-03-25b.309.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.309.6" newgid="uk.org.publicwhip/debate/2014-03-25b.309.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.309.7" newgid="uk.org.publicwhip/debate/2014-03-25b.309.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.313.0" newgid="uk.org.publicwhip/debate/2014-03-25b.313.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.313.1" newgid="uk.org.publicwhip/debate/2014-03-25b.313.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.313.2" newgid="uk.org.publicwhip/debate/2014-03-25b.313.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.313.3" newgid="uk.org.publicwhip/debate/2014-03-25b.313.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.313.4" newgid="uk.org.publicwhip/debate/2014-03-25b.313.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.313.5" newgid="uk.org.publicwhip/debate/2014-03-25b.313.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.314.0" newgid="uk.org.publicwhip/debate/2014-03-25b.314.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.314.1" newgid="uk.org.publicwhip/debate/2014-03-25b.314.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.314.2" newgid="uk.org.publicwhip/debate/2014-03-25b.314.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.314.3" newgid="uk.org.publicwhip/debate/2014-03-25b.314.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.314.4" newgid="uk.org.publicwhip/debate/2014-03-25b.314.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.314.5" newgid="uk.org.publicwhip/debate/2014-03-25b.314.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.314.6" newgid="uk.org.publicwhip/debate/2014-03-25b.314.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.314.7" newgid="uk.org.publicwhip/debate/2014-03-25b.314.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.314.8" newgid="uk.org.publicwhip/debate/2014-03-25b.314.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.314.9" newgid="uk.org.publicwhip/debate/2014-03-25b.314.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.314.10" newgid="uk.org.publicwhip/debate/2014-03-25b.314.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.314.11" newgid="uk.org.publicwhip/debate/2014-03-25b.314.11" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.314.12" newgid="uk.org.publicwhip/debate/2014-03-25b.314.12" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.314.13" newgid="uk.org.publicwhip/debate/2014-03-25b.314.13" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.314.14" newgid="uk.org.publicwhip/debate/2014-03-25b.314.14" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.314.15" newgid="uk.org.publicwhip/debate/2014-03-25b.314.15" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.315.0" newgid="uk.org.publicwhip/debate/2014-03-25b.315.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.315.1" newgid="uk.org.publicwhip/debate/2014-03-25b.315.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.315.2" newgid="uk.org.publicwhip/debate/2014-03-25b.315.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.315.3" newgid="uk.org.publicwhip/debate/2014-03-25b.315.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.315.4" newgid="uk.org.publicwhip/debate/2014-03-25b.315.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.315.5" newgid="uk.org.publicwhip/debate/2014-03-25b.315.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.316.0" newgid="uk.org.publicwhip/debate/2014-03-25b.316.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.316.1" newgid="uk.org.publicwhip/debate/2014-03-25b.316.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.316.2" newgid="uk.org.publicwhip/debate/2014-03-25b.316.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.316.3" newgid="uk.org.publicwhip/debate/2014-03-25b.316.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.316.4" newgid="uk.org.publicwhip/debate/2014-03-25b.316.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.316.5" newgid="uk.org.publicwhip/debate/2014-03-25b.316.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.316.6" newgid="uk.org.publicwhip/debate/2014-03-25b.316.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.316.7" newgid="uk.org.publicwhip/debate/2014-03-25b.316.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.316.8" newgid="uk.org.publicwhip/debate/2014-03-25b.316.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.316.9" newgid="uk.org.publicwhip/debate/2014-03-25b.316.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.0" newgid="uk.org.publicwhip/debate/2014-03-25b.317.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.1" newgid="uk.org.publicwhip/debate/2014-03-25b.317.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.2" newgid="uk.org.publicwhip/debate/2014-03-25b.317.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.3" newgid="uk.org.publicwhip/debate/2014-03-25b.317.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.4" newgid="uk.org.publicwhip/debate/2014-03-25b.317.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.5" newgid="uk.org.publicwhip/debate/2014-03-25b.317.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.6" newgid="uk.org.publicwhip/debate/2014-03-25b.317.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.7" newgid="uk.org.publicwhip/debate/2014-03-25b.317.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.8" newgid="uk.org.publicwhip/debate/2014-03-25b.317.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.9" newgid="uk.org.publicwhip/debate/2014-03-25b.317.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.10" newgid="uk.org.publicwhip/debate/2014-03-25b.317.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.11" newgid="uk.org.publicwhip/debate/2014-03-25b.317.11" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.12" newgid="uk.org.publicwhip/debate/2014-03-25b.317.12" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.13" newgid="uk.org.publicwhip/debate/2014-03-25b.317.13" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.14" newgid="uk.org.publicwhip/debate/2014-03-25b.317.14" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.15" newgid="uk.org.publicwhip/debate/2014-03-25b.317.15" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.16" newgid="uk.org.publicwhip/debate/2014-03-25b.317.16" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.17" newgid="uk.org.publicwhip/debate/2014-03-25b.317.17" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.18" newgid="uk.org.publicwhip/debate/2014-03-25b.317.18" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.19" newgid="uk.org.publicwhip/debate/2014-03-25b.317.19" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.20" newgid="uk.org.publicwhip/debate/2014-03-25b.317.20" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.21" newgid="uk.org.publicwhip/debate/2014-03-25b.317.21" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.22" newgid="uk.org.publicwhip/debate/2014-03-25b.317.22" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.23" newgid="uk.org.publicwhip/debate/2014-03-25b.317.23" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.24" newgid="uk.org.publicwhip/debate/2014-03-25b.317.24" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.25" newgid="uk.org.publicwhip/debate/2014-03-25b.317.25" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.26" newgid="uk.org.publicwhip/debate/2014-03-25b.317.26" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.317.27" newgid="uk.org.publicwhip/debate/2014-03-25b.317.27" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.318.0" newgid="uk.org.publicwhip/debate/2014-03-25b.318.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.318.1" newgid="uk.org.publicwhip/debate/2014-03-25b.318.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.318.2" newgid="uk.org.publicwhip/debate/2014-03-25b.318.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.318.3" newgid="uk.org.publicwhip/debate/2014-03-25b.318.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.318.4" newgid="uk.org.publicwhip/debate/2014-03-25b.318.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.318.5" newgid="uk.org.publicwhip/debate/2014-03-25b.318.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.318.6" newgid="uk.org.publicwhip/debate/2014-03-25b.318.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.318.7" newgid="uk.org.publicwhip/debate/2014-03-25b.318.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.318.8" newgid="uk.org.publicwhip/debate/2014-03-25b.318.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.318.9" newgid="uk.org.publicwhip/debate/2014-03-25b.318.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.318.10" newgid="uk.org.publicwhip/debate/2014-03-25b.318.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.318.11" newgid="uk.org.publicwhip/debate/2014-03-25b.318.11" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.318.12" newgid="uk.org.publicwhip/debate/2014-03-25b.318.12" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.318.13" newgid="uk.org.publicwhip/debate/2014-03-25b.318.13" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.318.14" newgid="uk.org.publicwhip/debate/2014-03-25b.318.14" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.318.15" newgid="uk.org.publicwhip/debate/2014-03-25b.318.15" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.320.0" newgid="uk.org.publicwhip/debate/2014-03-25b.320.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.320.1" newgid="uk.org.publicwhip/debate/2014-03-25b.320.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.320.2" newgid="uk.org.publicwhip/debate/2014-03-25b.320.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.322.0" newgid="uk.org.publicwhip/debate/2014-03-25b.322.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.323.0" newgid="uk.org.publicwhip/debate/2014-03-25b.323.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.325.0" newgid="uk.org.publicwhip/debate/2014-03-25b.325.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.325.1" newgid="uk.org.publicwhip/debate/2014-03-25b.325.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.326.0" newgid="uk.org.publicwhip/debate/2014-03-25b.326.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.326.1" newgid="uk.org.publicwhip/debate/2014-03-25b.326.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.326.2" newgid="uk.org.publicwhip/debate/2014-03-25b.326.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2014-03-25a.326.3" newgid="uk.org.publicwhip/debate/2014-03-25b.326.3" matchtype="perfectmatch"/>
+</publicwhip>
+

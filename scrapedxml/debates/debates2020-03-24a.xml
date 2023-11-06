@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/debates/debates2020-03-24a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.187.0" newgid="uk.org.publicwhip/debate/2020-03-24b.187.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.187.1" newgid="uk.org.publicwhip/debate/2020-03-24b.187.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.187.2" newgid="uk.org.publicwhip/debate/2020-03-24b.187.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.187.3" newgid="uk.org.publicwhip/debate/2020-03-24b.187.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.187.4" newgid="uk.org.publicwhip/debate/2020-03-24b.187.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.187.5" newgid="uk.org.publicwhip/debate/2020-03-24b.187.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.187.6" newgid="uk.org.publicwhip/debate/2020-03-24b.187.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.187.7" newgid="uk.org.publicwhip/debate/2020-03-24b.187.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.187.8" newgid="uk.org.publicwhip/debate/2020-03-24b.187.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.188.0" newgid="uk.org.publicwhip/debate/2020-03-24b.188.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.188.1" newgid="uk.org.publicwhip/debate/2020-03-24b.188.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.188.2" newgid="uk.org.publicwhip/debate/2020-03-24b.188.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.188.3" newgid="uk.org.publicwhip/debate/2020-03-24b.188.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.188.4" newgid="uk.org.publicwhip/debate/2020-03-24b.188.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.188.5" newgid="uk.org.publicwhip/debate/2020-03-24b.188.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.188.6" newgid="uk.org.publicwhip/debate/2020-03-24b.188.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.188.7" newgid="uk.org.publicwhip/debate/2020-03-24b.188.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.188.8" newgid="uk.org.publicwhip/debate/2020-03-24b.188.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.188.9" newgid="uk.org.publicwhip/debate/2020-03-24b.188.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.189.0" newgid="uk.org.publicwhip/debate/2020-03-24b.189.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.189.1" newgid="uk.org.publicwhip/debate/2020-03-24b.189.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.189.2" newgid="uk.org.publicwhip/debate/2020-03-24b.189.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.189.3" newgid="uk.org.publicwhip/debate/2020-03-24b.189.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.189.4" newgid="uk.org.publicwhip/debate/2020-03-24b.189.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.189.5" newgid="uk.org.publicwhip/debate/2020-03-24b.189.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.189.6" newgid="uk.org.publicwhip/debate/2020-03-24b.189.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.189.7" newgid="uk.org.publicwhip/debate/2020-03-24b.189.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.190.0" newgid="uk.org.publicwhip/debate/2020-03-24b.190.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.190.1" newgid="uk.org.publicwhip/debate/2020-03-24b.190.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.190.2" newgid="uk.org.publicwhip/debate/2020-03-24b.190.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.190.3" newgid="uk.org.publicwhip/debate/2020-03-24b.190.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.190.4" newgid="uk.org.publicwhip/debate/2020-03-24b.190.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.191.0" newgid="uk.org.publicwhip/debate/2020-03-24b.191.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.191.1" newgid="uk.org.publicwhip/debate/2020-03-24b.191.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.191.2" newgid="uk.org.publicwhip/debate/2020-03-24b.191.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.191.3" newgid="uk.org.publicwhip/debate/2020-03-24b.191.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.191.4" newgid="uk.org.publicwhip/debate/2020-03-24b.191.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.192.0" newgid="uk.org.publicwhip/debate/2020-03-24b.192.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.192.1" newgid="uk.org.publicwhip/debate/2020-03-24b.192.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.192.2" newgid="uk.org.publicwhip/debate/2020-03-24b.192.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.192.3" newgid="uk.org.publicwhip/debate/2020-03-24b.192.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.192.4" newgid="uk.org.publicwhip/debate/2020-03-24b.192.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.192.5" newgid="uk.org.publicwhip/debate/2020-03-24b.192.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.193.0" newgid="uk.org.publicwhip/debate/2020-03-24b.193.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.193.1" newgid="uk.org.publicwhip/debate/2020-03-24b.193.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.193.2" newgid="uk.org.publicwhip/debate/2020-03-24b.193.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.193.3" newgid="uk.org.publicwhip/debate/2020-03-24b.193.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.193.4" newgid="uk.org.publicwhip/debate/2020-03-24b.193.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.193.5" newgid="uk.org.publicwhip/debate/2020-03-24b.193.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.193.6" newgid="uk.org.publicwhip/debate/2020-03-24b.193.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.193.7" newgid="uk.org.publicwhip/debate/2020-03-24b.193.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.194.0" newgid="uk.org.publicwhip/debate/2020-03-24b.194.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.194.1" newgid="uk.org.publicwhip/debate/2020-03-24b.194.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.194.2" newgid="uk.org.publicwhip/debate/2020-03-24b.194.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.194.3" newgid="uk.org.publicwhip/debate/2020-03-24b.194.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.194.4" newgid="uk.org.publicwhip/debate/2020-03-24b.194.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.194.5" newgid="uk.org.publicwhip/debate/2020-03-24b.194.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.194.6" newgid="uk.org.publicwhip/debate/2020-03-24b.194.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.194.7" newgid="uk.org.publicwhip/debate/2020-03-24b.194.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.194.8" newgid="uk.org.publicwhip/debate/2020-03-24b.194.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.195.0" newgid="uk.org.publicwhip/debate/2020-03-24b.195.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.195.1" newgid="uk.org.publicwhip/debate/2020-03-24b.195.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.195.2" newgid="uk.org.publicwhip/debate/2020-03-24b.195.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.195.3" newgid="uk.org.publicwhip/debate/2020-03-24b.195.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.195.4" newgid="uk.org.publicwhip/debate/2020-03-24b.195.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.195.5" newgid="uk.org.publicwhip/debate/2020-03-24b.195.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.195.6" newgid="uk.org.publicwhip/debate/2020-03-24b.195.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.195.7" newgid="uk.org.publicwhip/debate/2020-03-24b.195.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.196.0" newgid="uk.org.publicwhip/debate/2020-03-24b.196.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.196.1" newgid="uk.org.publicwhip/debate/2020-03-24b.196.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.196.2" newgid="uk.org.publicwhip/debate/2020-03-24b.196.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.196.3" newgid="uk.org.publicwhip/debate/2020-03-24b.196.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.196.4" newgid="uk.org.publicwhip/debate/2020-03-24b.196.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.196.5" newgid="uk.org.publicwhip/debate/2020-03-24b.196.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.196.6" newgid="uk.org.publicwhip/debate/2020-03-24b.196.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.196.7" newgid="uk.org.publicwhip/debate/2020-03-24b.196.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.196.8" newgid="uk.org.publicwhip/debate/2020-03-24b.196.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.196.9" newgid="uk.org.publicwhip/debate/2020-03-24b.196.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.197.0" newgid="uk.org.publicwhip/debate/2020-03-24b.197.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.197.1" newgid="uk.org.publicwhip/debate/2020-03-24b.197.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.197.2" newgid="uk.org.publicwhip/debate/2020-03-24b.197.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.197.3" newgid="uk.org.publicwhip/debate/2020-03-24b.197.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.197.4" newgid="uk.org.publicwhip/debate/2020-03-24b.197.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.197.5" newgid="uk.org.publicwhip/debate/2020-03-24b.197.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.197.6" newgid="uk.org.publicwhip/debate/2020-03-24b.197.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.197.7" newgid="uk.org.publicwhip/debate/2020-03-24b.197.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.198.0" newgid="uk.org.publicwhip/debate/2020-03-24b.198.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.198.1" newgid="uk.org.publicwhip/debate/2020-03-24b.198.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.198.2" newgid="uk.org.publicwhip/debate/2020-03-24b.198.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.198.3" newgid="uk.org.publicwhip/debate/2020-03-24b.198.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.198.4" newgid="uk.org.publicwhip/debate/2020-03-24b.198.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.198.5" newgid="uk.org.publicwhip/debate/2020-03-24b.198.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.199.0" newgid="uk.org.publicwhip/debate/2020-03-24b.199.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.199.1" newgid="uk.org.publicwhip/debate/2020-03-24b.199.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.199.2" newgid="uk.org.publicwhip/debate/2020-03-24b.199.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.199.3" newgid="uk.org.publicwhip/debate/2020-03-24b.199.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.199.4" newgid="uk.org.publicwhip/debate/2020-03-24b.199.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.199.5" newgid="uk.org.publicwhip/debate/2020-03-24b.199.5" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2020-03-24a.199.5" speakername="Rishi Sunak" person_id="uk.org.publicwhip/person/25428" colnum="199" time="" url="">
+    <p pid="a199.5/1">My hon. Friend is a champion for entrepreneurship in her constituency, and rightly so. The start-up loan programme is an excellent programme, providing grants of £25,000 for budding entrepreneurs. It has been operational for some years now and has provided almost 70,000 loans, putting to work more than half a billion pounds. It is absolutely right that, as we think about our future coming through the coronavirus, it will be the entrepreneurs of tomorrow who will help to create new jobs and drive the prosperity that we will all want to see.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.199.6" newgid="uk.org.publicwhip/debate/2020-03-24b.199.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.200.0" newgid="uk.org.publicwhip/debate/2020-03-24b.200.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.200.1" newgid="uk.org.publicwhip/debate/2020-03-24b.200.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.200.2" newgid="uk.org.publicwhip/debate/2020-03-24b.200.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.200.3" newgid="uk.org.publicwhip/debate/2020-03-24b.200.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.200.4" newgid="uk.org.publicwhip/debate/2020-03-24b.200.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.200.5" newgid="uk.org.publicwhip/debate/2020-03-24b.200.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.201.0" newgid="uk.org.publicwhip/debate/2020-03-24b.201.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.201.1" newgid="uk.org.publicwhip/debate/2020-03-24b.201.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.201.2" newgid="uk.org.publicwhip/debate/2020-03-24b.201.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.201.3" newgid="uk.org.publicwhip/debate/2020-03-24b.201.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.201.4" newgid="uk.org.publicwhip/debate/2020-03-24b.201.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.201.5" newgid="uk.org.publicwhip/debate/2020-03-24b.201.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.202.0" newgid="uk.org.publicwhip/debate/2020-03-24b.202.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.202.1" newgid="uk.org.publicwhip/debate/2020-03-24b.202.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.202.2" newgid="uk.org.publicwhip/debate/2020-03-24b.202.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.202.3" newgid="uk.org.publicwhip/debate/2020-03-24b.202.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.202.4" newgid="uk.org.publicwhip/debate/2020-03-24b.202.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.202.5" newgid="uk.org.publicwhip/debate/2020-03-24b.202.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.202.6" newgid="uk.org.publicwhip/debate/2020-03-24b.202.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.202.7" newgid="uk.org.publicwhip/debate/2020-03-24b.202.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.203.0" newgid="uk.org.publicwhip/debate/2020-03-24b.203.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.203.1" newgid="uk.org.publicwhip/debate/2020-03-24b.203.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.203.2" newgid="uk.org.publicwhip/debate/2020-03-24b.203.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.203.3" newgid="uk.org.publicwhip/debate/2020-03-24b.203.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.203.4" newgid="uk.org.publicwhip/debate/2020-03-24b.203.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.203.5" newgid="uk.org.publicwhip/debate/2020-03-24b.203.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.204.0" newgid="uk.org.publicwhip/debate/2020-03-24b.204.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.204.1" newgid="uk.org.publicwhip/debate/2020-03-24b.204.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.204.2" newgid="uk.org.publicwhip/debate/2020-03-24b.204.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.204.3" newgid="uk.org.publicwhip/debate/2020-03-24b.204.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.204.4" newgid="uk.org.publicwhip/debate/2020-03-24b.204.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.204.5" newgid="uk.org.publicwhip/debate/2020-03-24b.204.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.205.0" newgid="uk.org.publicwhip/debate/2020-03-24b.205.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.205.1" newgid="uk.org.publicwhip/debate/2020-03-24b.205.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.205.2" newgid="uk.org.publicwhip/debate/2020-03-24b.205.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.205.3" newgid="uk.org.publicwhip/debate/2020-03-24b.205.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.205.4" newgid="uk.org.publicwhip/debate/2020-03-24b.205.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.206.0" newgid="uk.org.publicwhip/debate/2020-03-24b.206.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.206.1" newgid="uk.org.publicwhip/debate/2020-03-24b.206.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.206.2" newgid="uk.org.publicwhip/debate/2020-03-24b.206.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.206.3" newgid="uk.org.publicwhip/debate/2020-03-24b.206.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.206.4" newgid="uk.org.publicwhip/debate/2020-03-24b.206.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.207.0" newgid="uk.org.publicwhip/debate/2020-03-24b.207.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.207.1" newgid="uk.org.publicwhip/debate/2020-03-24b.207.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.207.2" newgid="uk.org.publicwhip/debate/2020-03-24b.207.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.207.3" newgid="uk.org.publicwhip/debate/2020-03-24b.207.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.207.4" newgid="uk.org.publicwhip/debate/2020-03-24b.207.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.208.0" newgid="uk.org.publicwhip/debate/2020-03-24b.208.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.209.0" newgid="uk.org.publicwhip/debate/2020-03-24b.209.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.209.1" newgid="uk.org.publicwhip/debate/2020-03-24b.209.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.209.2" newgid="uk.org.publicwhip/debate/2020-03-24b.209.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.209.3" newgid="uk.org.publicwhip/debate/2020-03-24b.209.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.210.0" newgid="uk.org.publicwhip/debate/2020-03-24b.210.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.210.1" newgid="uk.org.publicwhip/debate/2020-03-24b.210.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.210.2" newgid="uk.org.publicwhip/debate/2020-03-24b.210.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.211.0" newgid="uk.org.publicwhip/debate/2020-03-24b.211.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.211.1" newgid="uk.org.publicwhip/debate/2020-03-24b.211.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.211.2" newgid="uk.org.publicwhip/debate/2020-03-24b.211.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.212.0" newgid="uk.org.publicwhip/debate/2020-03-24b.212.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.212.1" newgid="uk.org.publicwhip/debate/2020-03-24b.212.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.213.0" newgid="uk.org.publicwhip/debate/2020-03-24b.213.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.213.1" newgid="uk.org.publicwhip/debate/2020-03-24b.213.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.213.2" newgid="uk.org.publicwhip/debate/2020-03-24b.213.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.213.3" newgid="uk.org.publicwhip/debate/2020-03-24b.213.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.213.4" newgid="uk.org.publicwhip/debate/2020-03-24b.213.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.213.5" newgid="uk.org.publicwhip/debate/2020-03-24b.213.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.213.6" newgid="uk.org.publicwhip/debate/2020-03-24b.213.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.213.7" newgid="uk.org.publicwhip/debate/2020-03-24b.213.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.214.0" newgid="uk.org.publicwhip/debate/2020-03-24b.214.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.214.1" newgid="uk.org.publicwhip/debate/2020-03-24b.214.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.214.2" newgid="uk.org.publicwhip/debate/2020-03-24b.214.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.214.3" newgid="uk.org.publicwhip/debate/2020-03-24b.214.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.214.4" newgid="uk.org.publicwhip/debate/2020-03-24b.214.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.215.0" newgid="uk.org.publicwhip/debate/2020-03-24b.215.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.215.1" newgid="uk.org.publicwhip/debate/2020-03-24b.215.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.215.2" newgid="uk.org.publicwhip/debate/2020-03-24b.215.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.215.3" newgid="uk.org.publicwhip/debate/2020-03-24b.215.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.215.4" newgid="uk.org.publicwhip/debate/2020-03-24b.215.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.216.0" newgid="uk.org.publicwhip/debate/2020-03-24b.216.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.216.1" newgid="uk.org.publicwhip/debate/2020-03-24b.216.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.216.2" newgid="uk.org.publicwhip/debate/2020-03-24b.216.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.216.3" newgid="uk.org.publicwhip/debate/2020-03-24b.216.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.216.4" newgid="uk.org.publicwhip/debate/2020-03-24b.216.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.216.5" newgid="uk.org.publicwhip/debate/2020-03-24b.216.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.217.0" newgid="uk.org.publicwhip/debate/2020-03-24b.217.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.217.1" newgid="uk.org.publicwhip/debate/2020-03-24b.217.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.217.2" newgid="uk.org.publicwhip/debate/2020-03-24b.217.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.217.3" newgid="uk.org.publicwhip/debate/2020-03-24b.217.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.217.4" newgid="uk.org.publicwhip/debate/2020-03-24b.217.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.217.5" newgid="uk.org.publicwhip/debate/2020-03-24b.217.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.218.0" newgid="uk.org.publicwhip/debate/2020-03-24b.218.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.218.1" newgid="uk.org.publicwhip/debate/2020-03-24b.218.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.218.2" newgid="uk.org.publicwhip/debate/2020-03-24b.218.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.218.3" newgid="uk.org.publicwhip/debate/2020-03-24b.218.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.218.4" newgid="uk.org.publicwhip/debate/2020-03-24b.218.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.218.5" newgid="uk.org.publicwhip/debate/2020-03-24b.218.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.219.0" newgid="uk.org.publicwhip/debate/2020-03-24b.219.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.219.1" newgid="uk.org.publicwhip/debate/2020-03-24b.219.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.219.2" newgid="uk.org.publicwhip/debate/2020-03-24b.219.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.219.3" newgid="uk.org.publicwhip/debate/2020-03-24b.219.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.219.4" newgid="uk.org.publicwhip/debate/2020-03-24b.219.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.219.5" newgid="uk.org.publicwhip/debate/2020-03-24b.219.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.220.0" newgid="uk.org.publicwhip/debate/2020-03-24b.220.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.220.1" newgid="uk.org.publicwhip/debate/2020-03-24b.220.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.220.2" newgid="uk.org.publicwhip/debate/2020-03-24b.220.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.220.3" newgid="uk.org.publicwhip/debate/2020-03-24b.220.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.220.4" newgid="uk.org.publicwhip/debate/2020-03-24b.220.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.220.5" newgid="uk.org.publicwhip/debate/2020-03-24b.220.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.221.0" newgid="uk.org.publicwhip/debate/2020-03-24b.221.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.221.1" newgid="uk.org.publicwhip/debate/2020-03-24b.221.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.221.2" newgid="uk.org.publicwhip/debate/2020-03-24b.221.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.221.3" newgid="uk.org.publicwhip/debate/2020-03-24b.221.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.221.4" newgid="uk.org.publicwhip/debate/2020-03-24b.221.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.221.5" newgid="uk.org.publicwhip/debate/2020-03-24b.221.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.221.6" newgid="uk.org.publicwhip/debate/2020-03-24b.221.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.222.0" newgid="uk.org.publicwhip/debate/2020-03-24b.222.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.222.1" newgid="uk.org.publicwhip/debate/2020-03-24b.222.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.222.2" newgid="uk.org.publicwhip/debate/2020-03-24b.222.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.223.0" newgid="uk.org.publicwhip/debate/2020-03-24b.223.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.224.0" newgid="uk.org.publicwhip/debate/2020-03-24b.224.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.224.1" newgid="uk.org.publicwhip/debate/2020-03-24b.224.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.225.0" newgid="uk.org.publicwhip/debate/2020-03-24b.225.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.226.0" newgid="uk.org.publicwhip/debate/2020-03-24b.226.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.226.1" newgid="uk.org.publicwhip/debate/2020-03-24b.226.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.226.2" newgid="uk.org.publicwhip/debate/2020-03-24b.226.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.226.3" newgid="uk.org.publicwhip/debate/2020-03-24b.226.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.226.4" newgid="uk.org.publicwhip/debate/2020-03-24b.226.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.227.0" newgid="uk.org.publicwhip/debate/2020-03-24b.227.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.227.1" newgid="uk.org.publicwhip/debate/2020-03-24b.227.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.228.0" newgid="uk.org.publicwhip/debate/2020-03-24b.228.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.228.1" newgid="uk.org.publicwhip/debate/2020-03-24b.228.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.228.2" newgid="uk.org.publicwhip/debate/2020-03-24b.228.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.229.0" newgid="uk.org.publicwhip/debate/2020-03-24b.229.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.229.1" newgid="uk.org.publicwhip/debate/2020-03-24b.229.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.229.2" newgid="uk.org.publicwhip/debate/2020-03-24b.229.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.229.3" newgid="uk.org.publicwhip/debate/2020-03-24b.229.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.230.0" newgid="uk.org.publicwhip/debate/2020-03-24b.230.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.230.1" newgid="uk.org.publicwhip/debate/2020-03-24b.230.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.230.2" newgid="uk.org.publicwhip/debate/2020-03-24b.230.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.230.3" newgid="uk.org.publicwhip/debate/2020-03-24b.230.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.231.0" newgid="uk.org.publicwhip/debate/2020-03-24b.231.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.231.1" newgid="uk.org.publicwhip/debate/2020-03-24b.231.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.231.2" newgid="uk.org.publicwhip/debate/2020-03-24b.231.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.231.3" newgid="uk.org.publicwhip/debate/2020-03-24b.231.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.232.0" newgid="uk.org.publicwhip/debate/2020-03-24b.232.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.232.1" newgid="uk.org.publicwhip/debate/2020-03-24b.232.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.232.2" newgid="uk.org.publicwhip/debate/2020-03-24b.232.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.232.3" newgid="uk.org.publicwhip/debate/2020-03-24b.232.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.232.4" newgid="uk.org.publicwhip/debate/2020-03-24b.232.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.233.0" newgid="uk.org.publicwhip/debate/2020-03-24b.233.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.233.1" newgid="uk.org.publicwhip/debate/2020-03-24b.233.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.233.2" newgid="uk.org.publicwhip/debate/2020-03-24b.233.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.233.3" newgid="uk.org.publicwhip/debate/2020-03-24b.233.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.233.4" newgid="uk.org.publicwhip/debate/2020-03-24b.233.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.233.5" newgid="uk.org.publicwhip/debate/2020-03-24b.233.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.234.0" newgid="uk.org.publicwhip/debate/2020-03-24b.234.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.234.1" newgid="uk.org.publicwhip/debate/2020-03-24b.234.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.234.2" newgid="uk.org.publicwhip/debate/2020-03-24b.234.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.234.3" newgid="uk.org.publicwhip/debate/2020-03-24b.234.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.235.0" newgid="uk.org.publicwhip/debate/2020-03-24b.235.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.235.1" newgid="uk.org.publicwhip/debate/2020-03-24b.235.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.235.2" newgid="uk.org.publicwhip/debate/2020-03-24b.235.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.235.3" newgid="uk.org.publicwhip/debate/2020-03-24b.235.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.235.4" newgid="uk.org.publicwhip/debate/2020-03-24b.235.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.235.5" newgid="uk.org.publicwhip/debate/2020-03-24b.235.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.236.0" newgid="uk.org.publicwhip/debate/2020-03-24b.236.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.236.1" newgid="uk.org.publicwhip/debate/2020-03-24b.236.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.236.2" newgid="uk.org.publicwhip/debate/2020-03-24b.236.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.236.3" newgid="uk.org.publicwhip/debate/2020-03-24b.236.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.236.4" newgid="uk.org.publicwhip/debate/2020-03-24b.236.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.236.5" newgid="uk.org.publicwhip/debate/2020-03-24b.236.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.237.0" newgid="uk.org.publicwhip/debate/2020-03-24b.237.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.237.1" newgid="uk.org.publicwhip/debate/2020-03-24b.237.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.237.2" newgid="uk.org.publicwhip/debate/2020-03-24b.237.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.237.3" newgid="uk.org.publicwhip/debate/2020-03-24b.237.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.237.4" newgid="uk.org.publicwhip/debate/2020-03-24b.237.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.237.5" newgid="uk.org.publicwhip/debate/2020-03-24b.237.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.237.6" newgid="uk.org.publicwhip/debate/2020-03-24b.237.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.238.0" newgid="uk.org.publicwhip/debate/2020-03-24b.238.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.238.1" newgid="uk.org.publicwhip/debate/2020-03-24b.238.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.238.2" newgid="uk.org.publicwhip/debate/2020-03-24b.238.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.238.3" newgid="uk.org.publicwhip/debate/2020-03-24b.238.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.238.4" newgid="uk.org.publicwhip/debate/2020-03-24b.238.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.238.5" newgid="uk.org.publicwhip/debate/2020-03-24b.238.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.238.6" newgid="uk.org.publicwhip/debate/2020-03-24b.238.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.239.0" newgid="uk.org.publicwhip/debate/2020-03-24b.239.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.239.1" newgid="uk.org.publicwhip/debate/2020-03-24b.239.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.239.2" newgid="uk.org.publicwhip/debate/2020-03-24b.239.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.239.3" newgid="uk.org.publicwhip/debate/2020-03-24b.239.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.239.4" newgid="uk.org.publicwhip/debate/2020-03-24b.239.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.239.5" newgid="uk.org.publicwhip/debate/2020-03-24b.239.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.240.0" newgid="uk.org.publicwhip/debate/2020-03-24b.240.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.240.1" newgid="uk.org.publicwhip/debate/2020-03-24b.240.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.240.2" newgid="uk.org.publicwhip/debate/2020-03-24b.240.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.241.0" newgid="uk.org.publicwhip/debate/2020-03-24b.241.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.241.1" newgid="uk.org.publicwhip/debate/2020-03-24b.241.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.241.2" newgid="uk.org.publicwhip/debate/2020-03-24b.241.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.243.0" newgid="uk.org.publicwhip/debate/2020-03-24b.243.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.244.0" newgid="uk.org.publicwhip/debate/2020-03-24b.244.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.244.1" newgid="uk.org.publicwhip/debate/2020-03-24b.244.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.245.0" newgid="uk.org.publicwhip/debate/2020-03-24b.245.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.245.1" newgid="uk.org.publicwhip/debate/2020-03-24b.245.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.246.0" newgid="uk.org.publicwhip/debate/2020-03-24b.246.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.246.1" newgid="uk.org.publicwhip/debate/2020-03-24b.246.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.246.2" newgid="uk.org.publicwhip/debate/2020-03-24b.246.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.247.0" newgid="uk.org.publicwhip/debate/2020-03-24b.247.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.247.1" newgid="uk.org.publicwhip/debate/2020-03-24b.247.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.247.2" newgid="uk.org.publicwhip/debate/2020-03-24b.247.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.247.3" newgid="uk.org.publicwhip/debate/2020-03-24b.247.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.247.4" newgid="uk.org.publicwhip/debate/2020-03-24b.247.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.247.5" newgid="uk.org.publicwhip/debate/2020-03-24b.247.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.247.6" newgid="uk.org.publicwhip/debate/2020-03-24b.247.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.247.7" newgid="uk.org.publicwhip/debate/2020-03-24b.247.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.247.8" newgid="uk.org.publicwhip/debate/2020-03-24b.247.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.248.0" newgid="uk.org.publicwhip/debate/2020-03-24b.248.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.248.1" newgid="uk.org.publicwhip/debate/2020-03-24b.248.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.248.2" newgid="uk.org.publicwhip/debate/2020-03-24b.248.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.248.3" newgid="uk.org.publicwhip/debate/2020-03-24b.248.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.248.4" newgid="uk.org.publicwhip/debate/2020-03-24b.248.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.248.5" newgid="uk.org.publicwhip/debate/2020-03-24b.248.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.248.6" newgid="uk.org.publicwhip/debate/2020-03-24b.248.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.248.7" newgid="uk.org.publicwhip/debate/2020-03-24b.248.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.249.0" newgid="uk.org.publicwhip/debate/2020-03-24b.249.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.249.1" newgid="uk.org.publicwhip/debate/2020-03-24b.249.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.249.2" newgid="uk.org.publicwhip/debate/2020-03-24b.249.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.249.3" newgid="uk.org.publicwhip/debate/2020-03-24b.249.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.249.4" newgid="uk.org.publicwhip/debate/2020-03-24b.249.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.249.5" newgid="uk.org.publicwhip/debate/2020-03-24b.249.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.249.6" newgid="uk.org.publicwhip/debate/2020-03-24b.249.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.250.0" newgid="uk.org.publicwhip/debate/2020-03-24b.250.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.250.1" newgid="uk.org.publicwhip/debate/2020-03-24b.250.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.250.2" newgid="uk.org.publicwhip/debate/2020-03-24b.250.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.250.3" newgid="uk.org.publicwhip/debate/2020-03-24b.250.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.250.4" newgid="uk.org.publicwhip/debate/2020-03-24b.250.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.250.5" newgid="uk.org.publicwhip/debate/2020-03-24b.250.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.250.6" newgid="uk.org.publicwhip/debate/2020-03-24b.250.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.250.7" newgid="uk.org.publicwhip/debate/2020-03-24b.250.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.251.0" newgid="uk.org.publicwhip/debate/2020-03-24b.251.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.251.1" newgid="uk.org.publicwhip/debate/2020-03-24b.251.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.251.2" newgid="uk.org.publicwhip/debate/2020-03-24b.251.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.251.3" newgid="uk.org.publicwhip/debate/2020-03-24b.251.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.251.4" newgid="uk.org.publicwhip/debate/2020-03-24b.251.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.251.5" newgid="uk.org.publicwhip/debate/2020-03-24b.251.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.251.6" newgid="uk.org.publicwhip/debate/2020-03-24b.251.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.251.7" newgid="uk.org.publicwhip/debate/2020-03-24b.251.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.252.0" newgid="uk.org.publicwhip/debate/2020-03-24b.252.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.252.1" newgid="uk.org.publicwhip/debate/2020-03-24b.252.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.252.2" newgid="uk.org.publicwhip/debate/2020-03-24b.252.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.252.3" newgid="uk.org.publicwhip/debate/2020-03-24b.252.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.252.4" newgid="uk.org.publicwhip/debate/2020-03-24b.252.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.252.5" newgid="uk.org.publicwhip/debate/2020-03-24b.252.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.252.6" newgid="uk.org.publicwhip/debate/2020-03-24b.252.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.253.0" newgid="uk.org.publicwhip/debate/2020-03-24b.253.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.253.1" newgid="uk.org.publicwhip/debate/2020-03-24b.253.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.253.2" newgid="uk.org.publicwhip/debate/2020-03-24b.253.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.253.3" newgid="uk.org.publicwhip/debate/2020-03-24b.253.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.253.4" newgid="uk.org.publicwhip/debate/2020-03-24b.253.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.253.5" newgid="uk.org.publicwhip/debate/2020-03-24b.253.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.253.6" newgid="uk.org.publicwhip/debate/2020-03-24b.253.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.254.0" newgid="uk.org.publicwhip/debate/2020-03-24b.254.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.254.1" newgid="uk.org.publicwhip/debate/2020-03-24b.254.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.254.2" newgid="uk.org.publicwhip/debate/2020-03-24b.254.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.254.3" newgid="uk.org.publicwhip/debate/2020-03-24b.254.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.254.4" newgid="uk.org.publicwhip/debate/2020-03-24b.254.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.254.5" newgid="uk.org.publicwhip/debate/2020-03-24b.254.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.255.0" newgid="uk.org.publicwhip/debate/2020-03-24b.255.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.255.1" newgid="uk.org.publicwhip/debate/2020-03-24b.255.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.255.2" newgid="uk.org.publicwhip/debate/2020-03-24b.255.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.258.0" newgid="uk.org.publicwhip/debate/2020-03-24b.258.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.258.1" newgid="uk.org.publicwhip/debate/2020-03-24b.258.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.258.2" newgid="uk.org.publicwhip/debate/2020-03-24b.258.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.259.0" newgid="uk.org.publicwhip/debate/2020-03-24b.259.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.259.1" newgid="uk.org.publicwhip/debate/2020-03-24b.259.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.261.0" newgid="uk.org.publicwhip/debate/2020-03-24b.261.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.261.1" newgid="uk.org.publicwhip/debate/2020-03-24b.261.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.261.2" newgid="uk.org.publicwhip/debate/2020-03-24b.261.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.261.3" newgid="uk.org.publicwhip/debate/2020-03-24b.261.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.261.4" newgid="uk.org.publicwhip/debate/2020-03-24b.261.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.261.5" newgid="uk.org.publicwhip/debate/2020-03-24b.261.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.262.0" newgid="uk.org.publicwhip/debate/2020-03-24b.262.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.262.1" newgid="uk.org.publicwhip/debate/2020-03-24b.262.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.263.0" newgid="uk.org.publicwhip/debate/2020-03-24b.263.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.266.0" newgid="uk.org.publicwhip/debate/2020-03-24b.266.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.267.0" newgid="uk.org.publicwhip/debate/2020-03-24b.267.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.270.0" newgid="uk.org.publicwhip/debate/2020-03-24b.270.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.271.0" newgid="uk.org.publicwhip/debate/2020-03-24b.271.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.271.1" newgid="uk.org.publicwhip/debate/2020-03-24b.271.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.272.0" newgid="uk.org.publicwhip/debate/2020-03-24b.272.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.273.0" newgid="uk.org.publicwhip/debate/2020-03-24b.273.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.273.1" newgid="uk.org.publicwhip/debate/2020-03-24b.273.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.274.0" newgid="uk.org.publicwhip/debate/2020-03-24b.274.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.274.1" newgid="uk.org.publicwhip/debate/2020-03-24b.274.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.275.0" newgid="uk.org.publicwhip/debate/2020-03-24b.275.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2020-03-24a.275.0" speakername="Kevin Hollinrake" person_id="uk.org.publicwhip/person/25415" colnum="275" time="16:12:00" url="">
+    <p pid="a275.0/1">I am delighted to speak in this debate and to follow <phrase class="honfriend" person_id="uk.org.publicwhip/person/25919" name="Richard Gordon Thomson">the hon. Member for Gordon (Richard Thomson)</phrase>, who made some salient points. I endorse his tribute to the NHS and to all our public sector workers. I do not know if anybody has seen the news recently, but a terrible tragedy has happened in Spain, where elderly people in care homes were abandoned and left to die in their care homes by the staff. I cannot believe that would ever happen in the UK, and I think it shows how brave many of the people working in our public sector are when faced with these terrible crises.</p>
+    <p pid="a275.0/2">I should first draw the House’s attention to my entry in the Register of Members’ Financial Interests, as I always do on these occasions. As well as being a Member of Parliament trying to stand up for the interests of my constituents—many businesses have contacted me over the last few days and weeks—I look at these matters from a business perspective. I have been involved in that business for 30 years, and when we had a board meeting on Friday, the first conversation we had—I guess like many businesses—was not about cuts to the number of people we employ, but about how much we could cut our salaries as board directors by. I think most board directors have an appropriately sensible approach to this. We all know this is going to be a very difficult crisis for many businesses. I pay tribute to the Treasury, the Chancellor and the Financial Secretary for putting together a package of support that is unheralded—not just in its size, but in its comprehensive nature and the speed with which it has been delivered.</p>
+    <p pid="a275.0/3">The job retention scheme in particular was a massive relief to many business people. Back in 2008, we were faced with taking our workforce down from 200 people to 65 within 12 months, as the bottom fell out of our business and out of the market. The most destructive aspect of that—aside from the terrible human cost of sitting down with people with whom one had worked in some cases for decades and telling them that the business could no longer afford to employ them—was that it cost a huge amount of money to make them redundant. That puts the business in a critical condition, which means that more people have to be made redundant. I do not begrudge anybody the redundancy payments that were due, but for a private business that is a very difficult thing to have to do.</p>
+    <p pid="a275.0/4">The job retention scheme insulates many businesses from that, because instead of having to lay people off or make them redundant, the business can say to them, “You can stay at home at the moment. You’ll continue to be paid a fair amount to get you through this short-term crisis, then we’ll bring you back into the fold.” That eases the financial pressure on the business in an important way. It is a really excellent scheme. There are of course some missing details, which I know we will get in good time, in particular whether earnings will include things such as commission and whether the Government payment will include things such as national insurance. Many businesses have questions that I am sure will be answered in good time.</p>
+    <p pid="a275.0/5">The other element of the package is the business rate grant scheme, which many businesses have welcomed. Of course, many self-employed people, including sole traders and freelancers, are outside the scheme—a point that I will touch on in a second.</p>
+    <p pid="a275.0/6">I want to raise one or two points about the business interruption loan scheme. Obviously we want as many businesses as possible to take advantage of the scheme, but one big concern is about security. The scheme is based on the enterprise finance guarantee scheme, which included personal guarantees. I understand that the new scheme will not include them—I have been told that from the Dispatch Box today on an urgent question—but it would be helpful if the British Business Bank website said clearly that that is the case. It does not say that at the moment, which could deter some people from applying in the first place. All it says is that security can be taken</p>
+    <p pid="a275.0/7" class="indent" pwmotiontext="yes">“At the discretion of the lender”.</p>
+    <p pid="a275.0/8">I have had personal guarantees for most of my business life, and I think most people would expect a business person to have some skin in the game, but this is a different situation. It is very difficult to quantify the impact of this crisis on a business. The Government have rightly stated that there will be no personal guarantees, which I assume means that people’s family homes should not be put up for security either. That being the case, it would be helpful to clarify that point, because that would increase demand.</p>
+    <p pid="a275.0/9">The other point is that at the moment the banks eligible for that scheme number about 40, but there are many outside it. Those not eligible for the previous British Business Bank scheme, the EFG, will not qualify for access to the current scheme. Therefore, customers of OakNorth, Aldermore or one of the many alternative providers in the marketplace today cannot access the scheme. The normal process for applying for that scheme is somewhere between six and 18 months, which is clearly far too long. I think that the Treasury has committed to try to accelerate that process—or the British Business Bank has—but it will still take a matter of weeks, and businesses cannot wait weeks for this money. They need it in a matter of days.</p>
+    <p pid="a275.0/10">It is absolutely essential that we get that support to businesses now, so I politely ask the Minister whether he will look at that and perhaps get the Bank of England to set up a new scheme directly with some of those lenders, many of which are very bona fide lenders. Of course, the right checks and balances have to be in place, but these are authorised, regulated banks, so it would be good to ensure that all lenders can get finance to all customers.</p>
+    <p pid="a275.0/11">The other thing about how business will view this crisis is how long it is likely to last. Businesses are much more likely to take a loan, from anywhere, if they think they can get through this and quantify the losses or how long their revenue will be affected. I worry about the current situation, because we are telling people that they can go to work as long as they cannot work from home and as long as they socially distance themselves when they get there. I think that was one reason for the confusion and why Filey in my constituency and many other beautiful market towns were packed out with visitors, who felt they could go to those beautiful places and socially distance themselves while they were there, which clearly they cannot if there are too many people  there. It is the same in a workplace environment. I can see that, because of the uncertainty about who can actually go to work—we have not restricted it to key workers or essential workers, to my understanding—lots of people are building houses on construction sites and whatever else they are doing. They are going to work because they cannot work from home and they feel they can socially distance.</p>
+    <p pid="a275.0/12">From a business point of view, I would personally prefer to have a complete lockdown for 30 days. We know that, in China, after a full lockdown for 14 days, cases peaked, and after 30 days, cases stopped, and all the coffee shops, Starbucks, Apple and the car dealerships opened again. That gives us hope that we can tackle and defeat this virus within 30 days, if we do the right thing. If we are equivocal about it and it is confusing, people will continue to go to work and continue to spread the virus.</p>
+    <p pid="a275.0/13">From my business perspective, a short, sharp shock is much more appealing. I would know that, if I applied for a business loan from the new scheme, I could quantify how much I would need, if I had the confidence that the timescale would be limited in that way.</p>
+    <p pid="a275.0/14">I have a couple of other points that I think would be useful. Ideally, the Government should not have to step in to support businesses at any point in time. The markets should deliver that themselves, with finance coming from banks or investors through to businesses. Venture capital trusts have limits on how much they can put into businesses—up to £5 million on an annual basis and £12 million as a lifetime limit into a particular business. Because of the unprecedented nature of this crisis, it would be useful to double those limits so that venture capital trusts, which invest in many good businesses, can see those businesses through a tough time. Otherwise they will not be able to get the extra money into those businesses that they need. It could be a temporary change, and it would potentially save many businesses.</p>
+    <p pid="a275.0/15">On the self-employed, we have understandably heard lots of calls for more help for the sole trader. Many different people in my constituency have contacted me. They desperately need some help, and I do understand that. Within that cohort are some very vulnerable people, including mortgage prisoners. I have corresponded with many mortgage prisoners, as have other hon. Members, and many are self-employed. They are in a particular situation in that their earnings are being very badly damaged now, and they have been paying huge mortgage rates for too long. Many of the mortgage prisoners’ loans have been sold to non-UK lenders—inactive lenders—and the regulatory oversight of those lenders is much reduced compared with UK lenders. In my view, it is an absolute disgrace that we allow UK mortgage customers’ loans to be sold to a foreign entity, over which we do not have the same oversight, so we cannot properly control the activities of those lenders. We need to bring all those lenders within the same regulatory scope. Some of those mortgage prisoners are on very high standard variable rates of around 5%, and even up to 6%. It is simply unfair . A year or two ago, we brought in a standard variable rate cap in the energy sector. I wonder whether the Minister could look to do the same thing in this sector to ensure that those people are treated fairly.</p>
+    <p pid="a275.0/16">I do a lot of work with the all-party group on fair business banking. Most bankers do the right thing—the vast majority of banks and bankers I meet and have banked with over more than 30 years in business have looked after my business fairly. Clearly, that does not always happen, given the 2008 scandal in small business banking. It is time now for the banks to do the right thing and to work with the Government on the business interruption scheme.</p>
+    <p pid="a275.0/17">Another issue is that the rates that banks charge on personal loans and overdrafts are not coming down, despite the reduction in base rate—in fact, quite the opposite. The Financial Conduct Authority, in its wisdom, decided that everyone who had an overdraft should pay the same whether it was an authorised overdraft or an unauthorised overdraft. It told the banks that they could not penalise people for unauthorised overdrafts, so everyone has to pay the same. The rate for authorised overdrafts used to be somewhere between 3% and 15%, and unauthorised overdrafts used to have a fixed daily charge and a much higher rate. So the banks made them all the same, and here are the rates being charged today for authorised and unauthorised loans: First Direct, 39.9%; HSBC, 39.9%; Lloyds Banking Group, 39.9%; Nationwide, 39.9%; and NatWest, 39.5%. It is simply disgraceful. Everybody is paying the higher rate. It smacks of a cartel, as well as profiteering and overcharging.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.278.0" newgid="uk.org.publicwhip/debate/2020-03-24b.278.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.278.1" newgid="uk.org.publicwhip/debate/2020-03-24b.278.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.278.2" newgid="uk.org.publicwhip/debate/2020-03-24b.278.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.278.3" newgid="uk.org.publicwhip/debate/2020-03-24b.278.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.279.0" newgid="uk.org.publicwhip/debate/2020-03-24b.279.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.280.0" newgid="uk.org.publicwhip/debate/2020-03-24b.280.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.280.1" newgid="uk.org.publicwhip/debate/2020-03-24b.280.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.281.0" newgid="uk.org.publicwhip/debate/2020-03-24b.281.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.281.1" newgid="uk.org.publicwhip/debate/2020-03-24b.281.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.283.0" newgid="uk.org.publicwhip/debate/2020-03-24b.283.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.283.1" newgid="uk.org.publicwhip/debate/2020-03-24b.283.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.283.2" newgid="uk.org.publicwhip/debate/2020-03-24b.283.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.283.3" newgid="uk.org.publicwhip/debate/2020-03-24b.283.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.284.0" newgid="uk.org.publicwhip/debate/2020-03-24b.284.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.284.1" newgid="uk.org.publicwhip/debate/2020-03-24b.284.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.284.2" newgid="uk.org.publicwhip/debate/2020-03-24b.284.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.285.0" newgid="uk.org.publicwhip/debate/2020-03-24b.285.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.286.0" newgid="uk.org.publicwhip/debate/2020-03-24b.286.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.287.0" newgid="uk.org.publicwhip/debate/2020-03-24b.287.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.287.1" newgid="uk.org.publicwhip/debate/2020-03-24b.287.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.288.0" newgid="uk.org.publicwhip/debate/2020-03-24b.288.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.288.1" newgid="uk.org.publicwhip/debate/2020-03-24b.288.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.288.2" newgid="uk.org.publicwhip/debate/2020-03-24b.288.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.290.0" newgid="uk.org.publicwhip/debate/2020-03-24b.290.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.290.1" newgid="uk.org.publicwhip/debate/2020-03-24b.290.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.290.2" newgid="uk.org.publicwhip/debate/2020-03-24b.290.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.290.3" newgid="uk.org.publicwhip/debate/2020-03-24b.290.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.291.0" newgid="uk.org.publicwhip/debate/2020-03-24b.291.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2020-03-24a.291.0" speakername="Anneliese Dodds" person_id="uk.org.publicwhip/person/25618" colnum="291" time="17:17:00" url="">
+    <p pid="a291.0/1">This has been a very wide-ranging debate on a Bill that, though very short, is of course critically important, so it  is important that we talk about its different elements. As my right hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/10383" name="John Martin McDonnell">the Member for Hayes and Harlington (John McDonnell)</phrase> set out, the official Opposition support the Bill, but it elicits substantial questions. The first is about the different aspects of the expenditure; the second is about the process for delivering it; the third is about the process for overseeing it; and the fourth is about the Bill’s role in relation to the rest of the financial decision making cycle. I will try to touch on those aspects briefly.</p>
+    <p pid="a291.0/2">First, we have had a wide-ranging debate on the measures. I will be very brief, so I will not be able to pick up on every issue that was covered. There has been discussion of NHS and social care spending. We still require more transparency about the additions to that spending, particularly around the targeting of PPE  and testing. As <phrase class="honfriend" person_id="uk.org.publicwhip/person/25919" name="Richard Gordon Thomson">the hon. Member for Gordon (Richard Thomson)</phrase> said, there are still many issues on social security. For example, we have no clarity about exactly what the hardship funds provided by local authorities will be spent on. Will it be just council tax relief, or  will it be more? We really feel the lack of the social fund here.</p>
+    <p pid="a291.0/3">Of course, the problems for renters continue, as was rightly pointed out by my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25411" name="Chris Matheson">the Member for City of Chester (Christian Matheson)</phrase>. As my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25623" name="Liz Twist">the Member for Blaydon (Liz Twist)</phrase> said, many issues faced by charities are not dealt with by the sources of support that have been announced recently. I hope that the Minister listened to her recommendations and will take them up.</p>
+    <p pid="a291.0/4">We have had a lot of debate about self-employment. We need those measures put in place as soon as possible. There was discussion about the scope of the measures, and the idea of not funding those self-employed people who already have resources. We seem to have one approach for the goose and another for the gander. For example, the system of loans is not conditional, whereas in some other countries it has been conditional on certain activities undertaken by the firms. We need to be fair.</p>
+    <p pid="a291.0/5">On salary support, as <phrase class="honfriend" person_id="uk.org.publicwhip/person/25415" name="Kevin Hollinrake">the hon. Member for Thirsk and Malton (Kevin Hollinrake)</phrase> said, it is essential that we keep as many people in work as possible. My party strongly agrees with him and has pushed for this measure. It is terrible for people if they lose their job, and terrible for the company because of all the associated costs and disruption. We need responsible behaviour from companies. We do not want to be talking about the villains after they have committed their villainy; we need the Government to call them out and to act. The Health Secretary did so eventually in relation to Sports Direct, but we need action much more quickly.</p>
+    <p pid="a291.0/6">We need more clarity about vulnerable workers. We still have pregnant women and people with severe asthma being told they have to go to work, they do not have any choice. Clear guidance is needed on that and on insurance.</p>
+    <p pid="a291.0/7">We need clarity on support for specific industries, as <phrase class="honfriend" person_id="uk.org.publicwhip/person/25440" name="Derek Thomas">the hon. Member for St Ives (Derek Thomas)</phrase> said, talking about transport and the travel industry in the Scilly Isles. He is right that that is a critical problem. As my right hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/10292" name="George Howarth">the Member for Knowsley (Sir George Howarth)</phrase> said, talking about the construction industry, we need more pressure from Government on the critical issue of safety at work. What we are seeing all around us is immensely disturbing.</p>
+    <p pid="a291.0/8">Again, we need more clarity on the business interruption loan scheme. Are personal guarantees required or not? If they are, when are they required? We have to ensure that a clear message comes through on that and on the British Business Bank and how quickly new banks are being brought into a relationship with it. Before, I heard days, not weeks. Which is it? We need this to be sorted out as quickly as possible. <phrase class="honfriend" person_id="uk.org.publicwhip/person/10155" name="Edward Davey">The right hon. Member for Kingston and Surbiton (Sir Edward Davey)</phrase> asked a number of pertinent questions about the banking system that we need to look at here.</p>
+    <p pid="a291.0/9">There are big questions not just about elements of the spending but about its delivery. As my hon. Friends have said, many organisations that were already fragile are having to spend resources without knowing exactly how those resources will be backfilled. Such organisations include local authorities, NHS trusts, schools or groups of schools, multi-academy trusts, transport providers and charities. I am very concerned that we have seen organisations stepping into the breach to deal with areas where there is not appropriate central Government support—or was not initially—and not being appropriately recompensed. For example, district councils have stepped into the breach and tried to co-ordinate volunteering, support food banks and so on. Will they receive the support they need to backfill those costs? It is not clear, and it should be.</p>
+    <p pid="a291.0/10">Regarding the process for this Bill, I want to make it clear that the official Opposition will continue to offer to work with Government on these measures, but it vital that we have continued accountability. <phrase class="honfriend" person_id="uk.org.publicwhip/person/25661" name="Bim Afolami">The hon. Member for Hitchin and Harpenden (Bim Afolami)</phrase> talked about the pause in accountability that could occur after Parliament rises. I believe we need to ensure that accountability is continuous. We have some good cross-party working and cross-party discussions; issues have been placed on the agenda not just across parties, but by different Members within the Conservative party. It is important that continues, so I hope that there will be mechanisms to ensure that.</p>
+    <p pid="a291.0/11">We will need further revisions to the package, at the very least by July. There will be lasting costs as a result of the crisis that are not provided for in the Bill, such as the costs of all the medical procedures that are postponed, the reduced tax revenue for local authorities, and of course the human cost, which is enormous. What will be the impact on children’s education? We must take an earlier look at those matters than necessarily what would occur during the normal financial cycle. These medium-term costs have to be dealt with.</p>
+    <p pid="a291.0/12">Above all, in future Budgets we need to focus on building resilience. Currently our response to the crisis is more expensive because of the lack of resilience in our society and our economy. Take all the debate about people who are self-employed: a big part of that arises because our social security system is so unfit for purpose that it simply cannot support people’s incomes, not just in terms of its parameters, some of which to do with housing costs have been changed while many have not, but because of the infrastructure—the enormous waits for universal credit and the fact that so many families and individuals in our country, after a long period of income stagnation, simply do not have the resilience to cover any last-minute costs. The salary support system is taking so long to deliver at least in part because of  HMRC’s lack of capacity. We really need to get a grip on many of the developments in the labour market over recent years that are making the response more difficult—not least the growth in bogus self-employment.</p>
+    <p pid="a291.0/13">Many people are sacrificing an enormous amount to try to deal with this crisis and ensure that its impact is lessened as much as possible. It has been an unequal sacrifice. We need to ensure that we are never in this situation again, and that means a longer-term approach to our public finances than we have had over recent years.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.294.0" newgid="uk.org.publicwhip/debate/2020-03-24b.294.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.295.0" newgid="uk.org.publicwhip/debate/2020-03-24b.295.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.295.1" newgid="uk.org.publicwhip/debate/2020-03-24b.295.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.295.2" newgid="uk.org.publicwhip/debate/2020-03-24b.295.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.295.3" newgid="uk.org.publicwhip/debate/2020-03-24b.295.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/debate/2020-03-24a.295.3" speakername="Jesse Norman" person_id="uk.org.publicwhip/person/24827" colnum="295" time="17:25:00" url="">
+    <p pid="a295.3/1">I thank the hon. Member for that point, and he is absolutely right. One role that every Member of this House can have is to spread the word among constituents to make sure that this is widely understood.</p>
+    <p pid="a295.3/2">The right hon. Member for Hayes and Harlington talked about the importance of consulting the trade unions. He will know that there have been consultations   with Frances O’Grady and other trade union leaders, as well as with the Mayor of London, to try to build public understanding and a shared view of these issues.</p>
+    <p pid="a295.3/3">A final point I would make about what the right hon. Gentleman described is that we have had statements on the Government’s response, two urgent questions, an Opposition day—we have one tomorrow—and two pieces of legislation in the last two days alone, so there has been every opportunity for parties across the House to question and interrogate us. As colleagues have been kind enough to point out, the Government have been working at tremendous pace, with every hour of the day being exploited for the purposes of trying to get the right outcome, and where we have imperfection, as it were, we will try to make this as good as we can over the next days and weeks.</p>
+    <p pid="a295.3/4">Let me, if I may, move on to my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25661" name="Bim Afolami">the Member for Hitchin and Harpenden (Bim Afolami)</phrase>. He asked what extra the Treasury will be borrowing as a result of this, and the answer is that this is a cash item, as he will recall. The debt management remit will follow, and we will set out the Government’s borrowing plans. He raised an interesting question about whether money spent in response to this crisis could be itemised differently in the national accounts. That is an interesting idea, and I thank him for it. He highlighted the impact of tech start-ups, and he is absolutely right.</p>
+    <p pid="a295.3/5">I thank <phrase class="honfriend" person_id="uk.org.publicwhip/person/25919" name="Richard Gordon Thomson">the hon. Member for Gordon (Richard Thomson)</phrase> for supporting the Bill. I think he is absolutely right to talk about the need for business recovery. We do not share his excitement about a universal basic income, in part because it does not actually hug the need across the population as well as a well-functioning benefit system, and that is what we have tried to do. It is a live argument on both sides. Of course, there are parts of the spectrum, notably those on the state pension, where we have something close to a universal income already in place, although not necessarily at the level that people would have expected.</p>
+    <p pid="a295.3/6">My hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25415" name="Kevin Hollinrake">the Member for Thirsk and Malton (Kevin Hollinrake)</phrase> persuasively and interestingly illustrated the choices faced by Government and businesses through his own business, and I thank him for that. My understanding of the personal guarantee issue touched on by many is that the circumstances for the business loans are to be agreed between the lender and the individual. There might be some element of personal guarantee, but not as relates to the primary residence. The desire is to build the flexibility and potential availability that comes with that, but without compromising people’s ultimate wellbeing.</p>
+    <p pid="a295.3/7">I thank my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25440" name="Derek Thomas">the Member for St Ives (Derek Thomas)</phrase> for his comments. Through his speech today and in his remarks in Treasury questions, he has registered his intense concern on this issue, and I thank him very much for that.</p>
+    <p pid="a295.3/8">Let me wind up by saying that this is a proportionate legislative response to the crisis and that it seeks to close an important gap in cash flow in the estimates process. I commend the Bill to the House.</p>
+    <p pid="a295.3/9">Question put and agreed to.</p>
+    <p pid="a295.3/10">Bill accordingly read a Second time; to stand committed to a Committee of the whole House (Order, this day).</p>
+    <p pid="a295.3/11">Further proceedings on the Bill stood postponed (Order, this day).</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.297.0" newgid="uk.org.publicwhip/debate/2020-03-24b.297.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.297.1" newgid="uk.org.publicwhip/debate/2020-03-24b.297.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.298.0" newgid="uk.org.publicwhip/debate/2020-03-24b.298.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.298.1" newgid="uk.org.publicwhip/debate/2020-03-24b.298.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.299.0" newgid="uk.org.publicwhip/debate/2020-03-24b.299.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.299.1" newgid="uk.org.publicwhip/debate/2020-03-24b.299.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.299.2" newgid="uk.org.publicwhip/debate/2020-03-24b.299.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.299.3" newgid="uk.org.publicwhip/debate/2020-03-24b.299.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.299.4" newgid="uk.org.publicwhip/debate/2020-03-24b.299.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.299.5" newgid="uk.org.publicwhip/debate/2020-03-24b.299.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.299.6" newgid="uk.org.publicwhip/debate/2020-03-24b.299.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.301.0" newgid="uk.org.publicwhip/debate/2020-03-24b.301.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.304.0" newgid="uk.org.publicwhip/debate/2020-03-24b.304.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.306.0" newgid="uk.org.publicwhip/debate/2020-03-24b.306.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.306.1" newgid="uk.org.publicwhip/debate/2020-03-24b.306.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.307.0" newgid="uk.org.publicwhip/debate/2020-03-24b.307.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.308.0" newgid="uk.org.publicwhip/debate/2020-03-24b.308.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.308.1" newgid="uk.org.publicwhip/debate/2020-03-24b.308.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.309.0" newgid="uk.org.publicwhip/debate/2020-03-24b.309.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.310.0" newgid="uk.org.publicwhip/debate/2020-03-24b.310.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.310.1" newgid="uk.org.publicwhip/debate/2020-03-24b.310.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.310.2" newgid="uk.org.publicwhip/debate/2020-03-24b.310.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.311.0" newgid="uk.org.publicwhip/debate/2020-03-24b.311.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.311.1" newgid="uk.org.publicwhip/debate/2020-03-24b.311.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.311.2" newgid="uk.org.publicwhip/debate/2020-03-24b.311.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.313.0" newgid="uk.org.publicwhip/debate/2020-03-24b.313.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.313.1" newgid="uk.org.publicwhip/debate/2020-03-24b.313.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.314.0" newgid="uk.org.publicwhip/debate/2020-03-24b.314.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.315.0" newgid="uk.org.publicwhip/debate/2020-03-24b.315.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.315.1" newgid="uk.org.publicwhip/debate/2020-03-24b.315.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.315.2" newgid="uk.org.publicwhip/debate/2020-03-24b.315.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.315.3" newgid="uk.org.publicwhip/debate/2020-03-24b.315.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.316.0" newgid="uk.org.publicwhip/debate/2020-03-24b.316.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.316.1" newgid="uk.org.publicwhip/debate/2020-03-24b.316.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.317.0" newgid="uk.org.publicwhip/debate/2020-03-24b.317.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.317.1" newgid="uk.org.publicwhip/debate/2020-03-24b.317.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.317.2" newgid="uk.org.publicwhip/debate/2020-03-24b.317.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.317.3" newgid="uk.org.publicwhip/debate/2020-03-24b.317.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.318.0" newgid="uk.org.publicwhip/debate/2020-03-24b.318.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.318.1" newgid="uk.org.publicwhip/debate/2020-03-24b.318.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.318.2" newgid="uk.org.publicwhip/debate/2020-03-24b.318.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.318.3" newgid="uk.org.publicwhip/debate/2020-03-24b.318.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.318.4" newgid="uk.org.publicwhip/debate/2020-03-24b.318.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.318.5" newgid="uk.org.publicwhip/debate/2020-03-24b.318.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.318.6" newgid="uk.org.publicwhip/debate/2020-03-24b.318.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.318.7" newgid="uk.org.publicwhip/debate/2020-03-24b.318.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.318.8" newgid="uk.org.publicwhip/debate/2020-03-24b.318.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.318.9" newgid="uk.org.publicwhip/debate/2020-03-24b.318.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.318.10" newgid="uk.org.publicwhip/debate/2020-03-24b.318.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.318.11" newgid="uk.org.publicwhip/debate/2020-03-24b.318.11" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.318.12" newgid="uk.org.publicwhip/debate/2020-03-24b.318.12" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.318.13" newgid="uk.org.publicwhip/debate/2020-03-24b.318.13" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.319.0" newgid="uk.org.publicwhip/debate/2020-03-24b.319.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.319.1" newgid="uk.org.publicwhip/debate/2020-03-24b.319.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.320.0" newgid="uk.org.publicwhip/debate/2020-03-24b.320.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/debate/2020-03-24a.320.1" newgid="uk.org.publicwhip/debate/2020-03-24b.320.1" matchtype="perfectmatch"/>
+</publicwhip>
+
