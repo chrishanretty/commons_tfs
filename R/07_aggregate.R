@@ -15,13 +15,13 @@ parse_file <- function(i) {
     retval <- read_parquet(i) |>
         mutate(date = the_date) |>
         mutate(speaker = as.character(speaker),
-               person = as.character(person)) |>
-        dplyr::select(-docid, -newtext) |>
+               person = as.character(person),
+               nchars = nchar(newtext)) |>
         group_by(speaker, person, date,
                  heading, oral_heading) |>
-        summarize(Present = mean(Present, na.rm = TRUE),
-                  Past = mean(Past, na.rm = TRUE),
-                  Future = mean(Future, na.rm = TRUE),
+        summarize(Present = weighted.mean(Present, nchars, na.rm = TRUE),
+                  Past = weighted.mean(Past, nchars, na.rm = TRUE),
+                  Future = weighted.mean(Future, nchars, na.rm = TRUE),
                   .groups = "drop") |>
         as.data.frame()
     return(retval)
@@ -39,5 +39,9 @@ dat <- foreach(i=infiles,.combine = 'bind_rows') %dopar% {
 Sys.time()
 
 stopCluster(cl)
+
+dat$speaker <- factor(dat$speaker)
+dat$person <- factor(dat$person)
+dat <- as.data.frame(dat)
 
 saveRDS(dat, file = here::here("outputs", "daily_speaker_by_heading.rds"))
