@@ -22,6 +22,7 @@ parse_file <- function(i) {
         summarize(Present = weighted.mean(Present, nchars, na.rm = TRUE),
                   Past = weighted.mean(Past, nchars, na.rm = TRUE),
                   Future = weighted.mean(Future, nchars, na.rm = TRUE),
+                  nchars = sum(nchars, na.rm = TRUE),
                   .groups = "drop") |>
         as.data.frame()
     return(retval)
