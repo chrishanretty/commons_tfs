@@ -47,6 +47,7 @@ def parse_file(file):
     out = pd.concat([df, res], axis = 1)
     out = out.reset_index(drop = True)
     outfile = file.replace("ducked", "distilled")
+    outfile = outfile.replace(".rds", ".parquet")
     out.to_parquet(outfile)
 
 
