@@ -59,7 +59,7 @@ parse_json <- function(json) {
                pattern = texts))
 }
 
-difftime_to_text <- function(x, level = 2) {
+difftime_to_text <- function(x, level = 1) {
     ## level 1 = year
     ## level 2 = year and month
     ## print(class(x))
@@ -146,13 +146,18 @@ for (f in infiles) {
                                            heading, oral_heading,
                                            speech_id, docid))
 
-            the_date <- unique(main$date)[1]
+            the_date <- sub(".*debates", "", f)
+            the_date <- gsub("[^0-9]", "", the_date)
+            the_date <- as.Date(the_date, format = "%Y%m%d")
+            
 ### Map over the text and the df
             main <- main |>
                 mutate(newtext = map2_chr(.x = sents,
                                           .y = listcol,
                                           .f = replace_multiple,
-                                          date = the_date)) |>
+                                          date = the_date))
+            
+            main <- main |>
                 dplyr::select(speaker, person, date,
                               heading, oral_heading,
                               speech_id, docid, newtext) |>
@@ -162,5 +167,5 @@ for (f in infiles) {
 ### Save the output
 
         saveRDS(main, outfile)
-    }    
+    }
 }
