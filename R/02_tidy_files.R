@@ -164,7 +164,7 @@ infiles <- unlist(unique(infiles))
 length(infiles)
 
 ### Shuffle the files
-infiles <- sample(infiles, length(infiles), replace = TRUE)
+infiles <- sample(infiles, length(infiles), replace = FALSE)
 
             
 ## ## # Initiate cluster
